@@ -1,0 +1,56 @@
+---
+title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+date: 2022-07-06
+img: <img src="images/image1.webp"/>
+tags: [Athens]
+category: Athens
+author: Tammy
+description: ""
+---
+
+**Flight and first night in Athens - June 2-3, 2022**
+
+Our flight was at 10 am. There was a high chance of rain predicted for our flight day, and it did rain while we were still in bed but stopped for take off. This is also the only rain that we got in the DFW area in June and so far in July -- okay, unrelated. In fact, I noted the cement at DFW drying as we waited patiently for the plane to take off to Atlanta. We got up early, at 6 am. The kids had been out of school since May 27th, but we get up at 6:30 am normally for work. We got ready, breakfast, and wrapped up the last of the packing and house stuff. The airport is about 20-30 minutes from our house, so we left at about 8 am. Travis pre-booked and bought DFW express north parking, which is covered. They have a shuttle that the person at the front organizes based on what terminal you are going to. Since we were on Delta, we were out of terminal E. We checked in online and had boarding passes for both legs printed, but they printed us new ones when we checked one bigger bag. The new ones showed that they had validated our passports for our international flight already. We had 1 big bag, 2 roll-a-boards, and 4 backpacks. We were wearing our masks, though not all the gate agents were and not required, but we had more covid tests to pass for our cruise. We each took self-tests at home the night before our flight to be sure before taking the long flight. Got through security, filled our empty water bottles, and waited.
+
+In ATL, it was lunchtime the kids shared a Panda Express two meat plate, and we all tries their cream cheese rangoos, which were good. Travis and I got Nathan's hot dogs. Then we wait with Travis taking a couple of airport walks. During this time, he got a vmail from our police dept that there was a red car in our driveway that I had not noted in the police vacation house watch. I called the dept, and noted that I think it is next door instead since it has been there, and our neighbor let us know it would be. She contacted the officer and got back to me that it was next door. Next while walking, he got notification that we got our stateroom upgrade and texted me! We booked an obstructed oceanview on deck 8, mid-ship'ish, near O'Sheehan's 24-hour, the complimentary eatery that the kids and I like. We have been in this area before and liked it. NCL has a bid for an upgrade system. At first, I decided that we did not want to bid because if we had to quarantine, then we would have to move anyway. Also, the travel insurance could go up in price if we had a higher room. We have never bought travel insurance, though I know it is noted as very important. With covid and being out of the USA, this is the first time that I got it. Later, I decided let's do the upgrade bid, while on our Death Valley trip. NCL allows you to bid two room types up (so with our oceanview, we could bid on balcony and a mini-suite). They show lowest bid and a recommended "good" bid. So, Travis placed the bid on his phone from our hotel. However, we were shown many opportunities to bid again where Travis got additional emails and then on myncl.com. If won, the bid was just charged for the first two people in the room, not all four, which was nice. We just bid on the balcony, the lowest amount; I later thought the extra space with the kids would be good and that it would be a surprise for the kids, if we got. Since we had not heard/been charged, we were planning for our deck 8 obstructed oceanview.
+
+When he texted that we got it, I went to myncl.com on airport wifi to get the room number and then a google search for the deck plan. Perfect -- not too far back or forward and between two decks also with rooms to not get loud noise from pool deck above or above a nightclub. But, haha, we moved from Starboard to Port and Fwd to Aft; this was a lot of scribbling of our currently made up luggage tags, which I did the second night in the Athen's hotel. I use the plastic sleeves with a metal screw loop, which was sold as the perfect cruise luggage tag. Then the cruise lines (NCL and Carnival, at least) changed their luggage tags to be short and wider instead of long and skinny. So, I have to cut the down each time. But, for the upgrade, I just had to take them out of the sleeve and did not have them taped over like I used to do. Luckily, our color gray did not change, which was good to begin with since our home printer is black and white. I'm not sure it would have been the same. Our new room was 10632.
+
+For the international boarding, Atlanta did a facial recognition instead of looking at passports. For our flight to Athens, we had a middle section of four seats, so no window, but our own section was good. None of us were able to sleep, but tried. Food was better than we were used to on flightss. On both flights, I got air sick feeling, which I never had before, and luckily had no problem coming home. I passed on a soda for breakfast when they came by our side, but then after our oldest got a ginger ale, I decided that I needed one for my air sickness and had him request me one from his side. It helped; I had been using my ginger candy (brought for sea sickness) but the fizziness and drinking it faster helped. I was not a ginger ale fan when I first had it on a cruise -- our waiter nicely brought it complimentary when I was feeling bad at breakfast -- but it was good this time: Seagrams. Not sure what NCL has, but they have Pepsi products now. Who makes Seagram?
+
+In Athens, passport and immigration was quick, and our luggage came quickly. We stopped by the Athens' Museum in the airport--3rd floor near exit 3 until we realized that we only had about 10 minutes before the next Metro, which only left from the airport every 30 minutes and used the ATM doing 40 Euros to avoid getting a 50 that no one wants to take. Then we went off to find the Metro. There were signs out of the terminal and then left up an escalator to the Metro station. They had ticket machines and people selling tickets. We went to a person and got a half off discount on the kids (under 18). The ticket into Athens was good for 1.5 hours. We rode into Athens and then switched lines at Syntagma (ΣΥΝΤΑΓΜΑ), change to M2 (in the direction of ΑΝΘΟΥΠΟΛΗ) to get off the Metaxourgeio (Μεταξουργείο), and then walked to our hotel: Athens Comfort.
+
+The hotel was good. Everyone at the front desk was friendly (we asked about a pharmacy for a cruise covid test and got two recommendations). Our flight arrived at 11:30 am and about an hour ride into to Athen, so the 2pm check in was perfect. They had the sleeper sofa open and ready for kids. Though we had to add our top sheets, they were folded into boats when we arrived. Maybe not everyone uses them. We were on the top floor, and it was quiet. We had two balconies that we could see the Acropolis in the distance. 
+
+[<img src="images/image1.webp"/>]({% image "content/blog/images/image2.webp" %})
+
+  
+
+
+It looked like hotels in the area noted having added sound reduction for noisy city streets. We were in more of a residential area, but we liked it. We stopped at a more resident-geared grocery store several times for room snacks, breakfast, ice cream, and water (20p for a liter versus in the US where bottled water is the same price as soda). After getting sick from different stuff in the water in Italy, I'm big on not drinking the local water in foreign countries. We also had a big gyro plate to share at a sit down restaurant near the hotel. It came with 4+ pitas, chicken and pork, french fries (they are eaten in the gyros in Greece), tzatziki, another more mayo sauce, tomatoes, onions, and lettuce. The hotel also had a very interesting elevator; the door that you had to swing open with doorknob. It was very small, but good for moving luggage up and down, which I rode up with it.
+
+Before dinner, we went for the covid test. Getting it was efficient -- pay at the register, then go around outside, and she came quickly. Though she did have to document our passport numbers and names. Then said to come back in 15 minutes. We walked around and had a few snacks: a chocolate mouse, chocolate croissant, and a cheese pie. We went back for the test results where it become much less efficient. They said come back in 5 minutes because they had to finish entering data. It took longer, and then we were correcting the incorrectly entered data. We wanted it to match the passport, so the port agents and cruise line would accept it and let us cruise. I checked it against my copy from the cruise line website about what info was required and in English. It did come with Greek for the questions and English for the answers, which worked out at the port.   
+
+
+  * Your name, which should match the name on your travel documents
+  * Your date of birth
+  * The result of the test
+  * The date the test sample was collected
+  * The name of the test provider
+  * Confirmation of the type of test provided
+
+
+
+They essentially had to complete the Greek passenger locator forms (PLFs), that became optional to enter Greece recently, for each of us. Maybe it would have been faster if we had done them, though they never asked if we had them. Finally complete and all negative, then it was funny because they were printed on A4 paper since, instead of letter size that we use in the US, so they did not fit into my travel folder.
+
+Then dinner, unpacked clothes for tomorrow, and before bed Travis pre-bought our Acropolis tickets online for tomorrow/Saturday, June 4th. Then sleep after none the night before on the plane.
+
+[Next up Acropolis and walking Athens...](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl_88.html)
+
+  
+
+
+  
+
+
+[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
