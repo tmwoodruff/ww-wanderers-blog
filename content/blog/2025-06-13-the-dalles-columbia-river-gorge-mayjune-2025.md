@@ -16,109 +16,49 @@ The trail was called Mosier Plateau Trail. It had some uphill and switchbacks wi
 
 {% image "images/IMG_2325.webp" %}
 
-  
-
-
 {% image "images/IMG_2327.webp" %}
-
-  
-
 
 {% image "images/IMG_2330.webp" %}
 
-  
-
-
 {% image "images/IMG_2334.webp" %}
 
-  
-
-
 {% image "images/IMG_2338.webp" %}
-
-  
-
 
 {% image "images/IMG_2339.webp" %}
 
 Since I did not have a camera pocket this day, Travis had the camera, so I will include a picture of me being way behind everyone else on the hike, sigh. 
 
-  
-
-
 {% image "images/IMG_2345.webp" %}
-
-  
-
 
 {% image "images/IMG_2348.webp" %}
 
-  
-
-
 {% image "images/IMG_2349.webp" %}
-
-  
-
 
 {% image "images/IMG_2350.webp" %}
 
 {% image "images/IMG_2362.webp" %}
 
-  
-
-
 {% image "images/IMG_2365.webp" %}
 
 Some of the Oregon side cliffs. 
 
-  
-
-
 {% image "images/IMG_2368.webp" %}
-
-  
-
 
 {% image "images/IMG_2370.webp" %}
 
-  
-
-
 {% image "images/IMG_2373.webp" %}
-
-  
-
 
 {% image "images/IMG_2375.webp" %}
 
-  
-
-
 {% image "images/IMG_2379.webp" %}
-
-  
-
 
 {% image "images/IMG_2380.webp" %}
 
-  
-
-
 {% image "images/IMG_2382.webp" %}
-
-  
-
 
 {% image "images/IMG_2387.webp" %}
 
-  
-
-
 {% image "images/IMG_2390.webp" %}
-
-  
-
 
 {% image "images/IMG_2394.webp" %}
 
@@ -126,67 +66,31 @@ We then headed east to Rowen Crest Viewpoint. We now noticed that was very windy
 
 {% image "images/IMG_2403.webp" %}
 
-  
-
-
 {% image "images/IMG_2404.webp" %}
-
-  
-
 
 {% image "images/IMG_2409.webp" %}
 
-  
-
-
 {% image "images/IMG_2411.webp" %}
-
-  
-
 
 {% image "images/IMG_2412.webp" %}
 
-  
-
-
 {% image "images/IMG_2413.webp" %}
-
-  
-
 
 {% image "images/IMG_2415.webp" %}
 
-  
-
-
 {% image "images/IMG_2423.webp" %}
 
-  
-
-
 Arriving in town, we had Sahara Pizza for lunch. We shared a 14" Lion's Feast, which was a meat pizza. It was plenty for the four of us and very good. They had a restroom for customers. We were the only ones there, though we came in for a bit of an early lunch, maybe close to 11am, but were also there a while. 
-
-  
-
 
 Moving more east, we went to The Dalles Dam. The Ranger played the movie about the dam project for us, and we looked at the displays. I set the camera down to get a national park stamp and found it after looking at the displays, oops. We asked her if there were any hiking trails or powerhouse tours. Their powerhouse is not open to the public, and she noted a short trail to closer to the dam and to the rose garden. Good views of Mt. Adams on the Washington side. A group arrived and was setting up a birthday party of the porch of the visitor center. They may have planned the picnic tables near the rose garden first but with the wind moved to a more sheltered area. 
 
 {% image "images/IMG_2428.webp" %}
 
-  
-
-
 {% image "images/IMG_2429.webp" %}
 
 Part of the powerhouse. 
 
-  
-
-
 {% image "images/IMG_2432.webp" %}
-
-  
-
 
 {% image "images/IMG_2438.webp" %}
 
@@ -202,36 +106,21 @@ We stopped at McDonald's for ice cream right after crossing the 197 bridge back 
 
 {% image "images/IMG_2446.webp" %}
 
-  
-
-
 {% image "images/IMG_2450.webp" %}
 
 {% image "images/IMG_2456.webp" %}
-
-  
-
 
 {% image "images/IMG_2459.webp" %} {% image "images/IMG_2455.webp" %}
 
 We then found the real Fort Dalles. This town had very tight uphill roads, at the top part of town, at least. I told Travis that it was like Hollywood Hills; he agreed. Owen had a friend come up for a pet and then followed him around the rest of the time that we were there. 
 
-  
-
-
 {% image "images/IMG_2464.webp" %}
-
-  
-
 
 {% image "images/IMG_2467.webp" %}
 
 Our last stop in The Dalles today was to hike around the Columbia Gorge Discovery Center & Museum. A guy was watching at a pond. I thought that looked interested and joined and then the family came too. He pointed out a bass trying to eat a frog that was much bigger than the bass. We could see the frog making attempted leaps out of the water. The frog did get away. Owen trying to be a fish whisperer and bring them to his hand. 
 
 {% image "images/IMG_2470.webp" %}
-
-  
-
 
 {% image "images/IMG_2472.webp" %}
 

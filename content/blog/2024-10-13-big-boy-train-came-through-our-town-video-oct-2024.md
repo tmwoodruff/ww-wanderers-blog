@@ -12,10 +12,4 @@ description: ""
 
 {% image "images/IMG_20241013_094038630_HDR~2.webp" %}
 
-  
-
-
-  
-
-
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

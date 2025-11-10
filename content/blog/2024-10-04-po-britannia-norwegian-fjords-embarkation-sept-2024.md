@@ -18,105 +18,42 @@ A Lego Titanic, driving the Titanic game, example cabin, and I loved this deck m
 
 {% image "images/IMG_8730.webp" %}
 
-  
-
-
 {% image "images/IMG_8734.webp" %}
-
-  
-
 
 {% image "images/IMG_8735.webp" %}
 
-  
-
-
 {% image "images/IMG_8736.webp" %}
-
-  
-
 
 The museum was 22 GBP for two, and the ticket is good for one year. I thought, "Well, geez, we will not likely be back within a year, so we will not get our moneys worth." The museums in Winchester were the same. The museum displayed different jobs on the Titanic and their salary, had a wall with the number of different items loaded onto the Titanic for the maiden voyage, a game to tell you how well you fed the coal furnaces, and survivors talking about what they were and were not told after the iceberg hit and events of the attempted evacuation. Outside of the museum display area, they also had historic carnival games, where we also needed 20p coins (with a machine that would make change). We did not play any, but would have if we had had the 20p coins. They were very interesting games being less electronic and video game-like like today's. They also had a mis-mash display in a special section, but included in the price. The attendant said that they had some stuff in the basement that no one was getting to enjoy, so they pulled some out to share. 
 
-  
-
-
 We stayed at the museum until it was time to walk back to the cruise for our assigned 2:45 pm embarkation time. Also, to note we got to walk and explore with no British liquid sunshine, so that was good. We made better time walking than Google maps expected and arrived about 2:30 pm. They did have lines by time slot that we saw when we were there earlier. After arriving, without looking at our boarding passes' time, we were ushered into a line outside. A big coach that just arrived (probably a cruise line transfer) was ushered into a different line. They then let one line inside for check-in at a time; I did not follow the system there. Our line was chosen fairly quickly. The check-in line was LONG and slow. Check-in looked at our boarding passes, and photographed our passport page and then entered one data correction from what was scanned. There was a gathering line for those that completed check-in that was then seated in the waiting area by rows. By row, they directed people to security. We did not have too sit long. Security was a little slower, but faster than check-in. We then scanned our boarding passes on the ship (keycards were at the room doors) and waited in a line (with a non-moving backup with just slow people, I guess) to be directed to our muster station for muster check-in. Travis estimated onboard by 4pm since I did not think to note. 
-
-  
-
 
 After muster, we headed to our room. We were on 14, near'ish to mid-ship, though we learned that there were no mid-ship stairs on the higher passenger room decks, so coming from 5 was a lot of stairs. Travis's luggage had arrived, but mine did not -- we dropped them off together. It arrived later without an issue; I forgot that I could check the Tile to confirm that it was on the ship. We had a European SIM card and still had regular cell phone data pre-sailaway. Since just Travis's case, we did not do much unpacking yet, but unpacked his formal night suit to get it hanging. We found our assigned dinner time on a card in the room. Before the cruise, on the web site, it looked like we had Freedom (anytime) dining, but now had an assigned 8:30pm dining. Freedom dining had a join the queue on the app (website) and then have it updated when your table was ready. I had heard to go see the maî·tre d at the MDR about changing it. Travis insisted that it would be closed. Before we left to do that, our room steward, Palesa, stopped by telling us to watch the safety info on the TV as part of the muster, asked if we had any special requests, and gave us a notepad to ask for anything during the cruise. She was awesome!
 
-  
-
-
 The dining room was indeed closed. The P&O; Britannia had three MDRs. I had brought the paper and read it better -- we needed to go to a particular specialty dining restaurant with inquires. They moved us to a 6:30 pm assigned seating at a table for 8, gave us a new card to take to the MDR the first day to be shown to the table, and saying how many people had Freedom dining, and that they could not accommodate more. Interesting. 8:30 pm is definitely too late for us, and though we have never had assigned seating with others, 6:30pm was much better. 
-
-  
-
 
 We were also having trouble with the app (website) -- we had the pre-cruise URL, not the onboard one -- so stopped by to the helpdesk to ask for help. It looked like a short line, but the two people in front of us were slow! We were answered and rushed away very quickly before we could confirm it that it worked now. That working, we went up to the buffet for a small snack since it would be dinner time soon. We requested and sat with a father and grown son. I forgot to get some water so had to excuse myself. The four spout drink dispensers only had water during the day (no lemonade, raspberry lemonade, or cold tea -- that makes sense -- like other cruise lines have). We were able to always find a buffet seat, other times, not sharing, unlike on Carnival Panorama or NCL Star recently. Our tablemates now were friendly and talkative, just so hard to hear in the buffet. 
 
-  
-
-
 We went back to the room (only 2 floors down/very close to the buffet) to see if our other case arrived. It had, so we unpacked. We had a P&O; assigned inside, but we were very happy with the room and the location. They, like Carnival, have free, on demand (with stop and resume since one has other things to do on a cruise too). This was awesome. We watched one, over two days: Asteroid City. I also watched the Speechless and How I Met Your Mother available episodes, about 5 each, while getting ready for dinner. Travis had on news some, which is true British style, were the same few news stories over and over again (my memory from my first trip to London in 1996). On the TV though, I read about the possibly of an all black channel that is silent; unless the captain announces an aurora borealis sighting -- it existed 2 years ago, but did not know if it still did. I did not find it, so called guest services, they said oh, that is the webcam channel. But, it is not silent/plays music interrupted by frequent cruise upsell ads and light from the webcam picture. I really wanted to see the aurora. Travis did not want me to leave the TV on all night, so I only got to the first night. We muted and wore our eye masks (we do anyway on trips) and just peeked for the aurora on the webcam when we awoke -- annoyingly the TV also went into screensaver mode. We did not see it, and the webcam was pretty grainy in the dark and only faced one way. Disappointing, but I guess too much to expect. 
-
-  
-
 
 Back to the room, we did not have plugs by the bed, but used our universal adapter with 4 USB slots and one US plug slot in a British outlet. We also had one US plug and another British plug on the desk for the kettle. I later found two other British plugs close to the floor; Travis guessed one for vacuuming. Travis enjoyed the kettle and tea service in the room, including biscuits. He only had real sugar at first, so noted to grab some sweet n low from the buffet for the room, thinking the room steward would not have that on her cart, but later she saw it brought it and begin stocking it -- that is good service! The closet was big, and in front of the bathroom, which helped to block the bathroom light when someone went in the middle of the night. Good design. The bathroom and shower were plenty roomy. I did not like the bathroom trashcan though; it was a small, step on the button to open. However, since it was small and lightweight, I feared stepping on the button would tip it, so I had to open it each time with my hand. Just more work when trying to hold the trash in the same hand. The mirror to do makeup and fix hair in the room had a lamp on the wall but was still a dark corner. I loved that we both had two big drawers in our nightstand (and had two nightstands -- since I was missing mine on MSC, which drove me crazy). Here are some pictures of the room; we were in B516 on deck 14, which was quiet, no noise issues. The bathroom across from the closet, and the main room -- I loved the art over the bed. The bathroom had The White Company products that people raved about on YouTube, and I saw a store at the airport later, but the smell was not to my liking. They had kleenex in the bathroom vs. MSC who covered over the dispenser. The side cabinet in the closet had the safe and shelves. I do not have a desk/vanity picture, but it was all the way across the other side of the closet wall with a fridge and large TV mounted above it. 
 
-  
-
-
 {% image "images/IMG_8738.webp" %}{% image "images/IMG_8737.webp" %}
-
-  
-
 
 {% image "images/IMG_8739.webp" %}
 
-  
-
-
 {% image "images/IMG_8740.webp" %}
-
-  
-
 
 At 6:30 pm, we went to dinner in the MDR. We had to arrive before 15 minutes after the starting time. Only two of our tablemates were there the first night. They were lovely; okay, all the British on the cruise were so polite and lovely. We saw some other passports at check-in; I think definitely Australian passports; they were maroon. Just googled it, and Australian passports are mostly navy like ours and British, only their diplomatic passports are maroon. Let me know if you know who has maroon. We did not run into any other Americans on the ship. Back to our dinner, they were a lady, with just grown children, and her mother from Coventry. The waiters first came around to hand out the menu (physical menu, no QR codes), put butter on the table, and offer bread, as soon as you arrived, so those at the same table may get them at different times. Then take orders for all three courses. At the end, they offered tea and coffee; everyone else at the table accepted each night. Travis noted that he could not have caffeine that late. I took food pictures, and our wait team gave us a gift of the menus for each night except for the last menu, on the last night. It was sweet and a nice memory. I'll put all the food and menus together in one post. 
 
-  
-
-
 We were scheduled to leave at 6pm, but the Captain or someone on the Bridge team (It was interesting the Captain's noon or later, if we were in port, announcement was not always done by the Captain himself but by anyone on the Bridge team. I have not seen that done before.) announced that we would be delayed until 6:45 pm due to a Royal Navy ship that had priority to leave first. We did not get to see it -- that would have been interesting; some noted seeing it in the morning before boarding. We were at Ocean Terminal, which was really close to our Airbnb.
-
-  
-
 
 Off to bed for our Sea Day tomorrow. Goodnight sun; hello wake. 
 
-  
-
-
 {% image "images/IMG_8750.webp" %}
-
-  
-
 
 {% image "images/IMG_8754.webp" %}
 
-  
-
-
 Next up...[Sea day, formal night, and Stavanger](https://ww-wanderers.blogspot.com/2024/10/p-britannia-sea-day-formal-night-and.html). 
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

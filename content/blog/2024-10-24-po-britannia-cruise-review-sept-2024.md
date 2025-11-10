@@ -12,13 +12,7 @@ description: ""
 
 {% image "images/IMG_20240913_093117517.webp" %}
 
-  
-
-
 {% image "images/IMG_20240913_105659816_HDR.webp" %}
-
-  
-
 
 {% image "images/IMG_20240913_170217014_HDR.webp" %}
 
@@ -57,11 +51,5 @@ There is not a Cruise Director on P&O;, but an Entertainment Manager. She made s
 Disembarkation was fast. We did self-walk off. It was supposed to start at 7am; however, they did not announce it, which was odd. After breakfast, we went back to the room for our stuff and were down about 7:15am. In the terminal, no passport control and customs only if one had something to declare. 
 
 [P&O; UK Cruise - Prep](https://ww-wanderers.blogspot.com/2024/09/first-p-uk-cruise-prep.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

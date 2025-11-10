@@ -137,8 +137,6 @@ description: ""
   4. [Valley Forge](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_20.html)
   5. [Benjamin Franklin Bridge, Fed, Mint](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_21.html)
 
-
-
 **Yellowstone and Glacier National Parks -- July 2022**
 
   1. [Planning](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks.html)
@@ -151,8 +149,6 @@ description: ""
   8. [Going-to-the-Sun Road](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_27.html)
   9. [Many Glacier](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_30.html)
   10. [Heading back to Bozeman and flight home](https://ww-wanderers.blogspot.com/2022/10/yellowstone-and-glacier-national-parks.html)
-
-
 
 **Greece and Turkey – Family Cruise on the NCL Jade – June 2022**
 
@@ -169,22 +165,15 @@ description: ""
   11. [Santorini](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_14.html)
   12. [NCL Jade Review](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_20.html)
 
-
-
 **Death Valley and around Vegas****–****March 2022**
 
   1. [Death Valley](https://ww-wanderers.blogspot.com/2022/11/death-valley-march-2022.html)
   2. [Mt. Charleston, Red Rock Canyon, and Las Vegas](https://ww-wanderers.blogspot.com/2022/11/after-death-valley-march-2022.html)
 
-
-
 [Welcome and intro](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl.html)  
 [World Scratch and U.S. National Park Pin Maps](https://ww-wanderers.blogspot.com/2023/03/world-scratch-and-us-national-park-pin.html)  
 [Interesting or Amusing Travel Stories](https://ww-wanderers.blogspot.com/2023/09/interesting-or-amusing-travel-stories.html)  
 [My 19 year old self, first blog, and first international trip: London -- March 1996](https://ww-wanderers.blogspot.com/2024/04/my-19-year-old-self-first-blog-and.html)
-
-  
-
 
 **Previous cruise reviews:**
 

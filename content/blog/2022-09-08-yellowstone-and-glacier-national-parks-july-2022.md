@@ -16,173 +16,68 @@ On our first morning, we explored Upper Geyser Basin. From Madison Campground, O
 
 {% image "images/IMG_5066.webp" %}
 
-  
-
-
 The Old Faithful viewing seats. We were there before the Visitor Center was open, so we could not see the first eruption prediction. The two squirrels and raven are waiting patiently too. The piece that I forgot is that the geysers still steamed, without water, when not erupting. Old Faithful steaming here and below with the kids. 
-
-  
-
 
 {% image "images/IMG_5067.webp" %}
 
-  
-
-
 {% image "images/P1110248.webp" %}
-
-  
-
 
 We missed the first eruption, seemed to have been a little early; we hiked up Observation Point Trail. It was a good view of Upper Geyser Basin, the Visitor Center, and Yellowstone Lodge. We talked to someone at the top who had the first eruption time. We found the second eruption time at the now open Visitor Center -- prediction 9:40 am + or -10 minutes. It was late, did a few small spurters at first, and finally erupted. But, sorry Old Faithful, there are much more awesome geysers in Yellowstone. 
 
-  
-
-
 {% image "images/IMG_5098.webp" %}
-
-  
-
 
 Checking out some other great features in Upper Geyser Basin. 
 
-  
-
-
 {% image "images/IMG_5111.webp" %}
-
-  
-
 
 See the colorful minerals from a hot spring or a geyser running off into the river on the right of the bridge. 
 
-  
-
-
 {% image "images/IMG_5114.webp" %}
-
-  
-
 
 {% image "images/IMG_5124.webp" %}
 
-  
-
-
 {% image "images/IMG_5127.webp" %}
-
-  
-
 
 {% image "images/P1110252.webp" %}
 
-  
-
-
 {% image "images/P1110261.webp" %}
-
-  
-
 
 Observation Point Trail and view
 
-  
-
-
 {% image "images/P1110270.webp" %}
-
-  
-
 
 {% image "images/P1110273.webp" %}
 
-  
-
-
 Solitary geyser was supposed to go off every 5-7 minutes; we waited longer but never saw it go off. 
-
-  
-
 
 {% image "images/P1110274.webp" %}
 
-  
-
-
 I like the hot spring pools that you see deep into. They had a sign that talked about the different bacteria that could live a different temperatures out from the hottest part of a spring. 
-
-  
-
 
 {% image "images/P1110282.webp" %}
 
-  
-
-
 He is trying to make a depression face for the Depression Geyser. 
-
-  
-
 
 {% image "images/P1110284.webp" %}
 
-  
-
-
 {% image "images/P1110291.webp" %}
-
-  
-
 
 Castle geyser; we did not see it erupt
 
-  
-
-
 {% image "images/P1110293.webp" %}
-
-  
-
 
 {% image "images/P1110295.webp" %}
 
-  
-
-
 {% image "images/P1110302.webp" %}
-
-  
-
 
 We hiked Upper Geyser Hill Trail and Upper Geyser Basin Trail to Morning Glory Pool
 
-  
-
-
 {% image "images/P1110305.webp" %}
-
-  
-
 
 {% image "images/P1110309.webp" %}
 
-  
-
-
 {% image "images/P1110320.webp" %}
 
-  
-
-
-  
-
-
 Next up [Mammoth Hot Spring Terraces](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_10.html)...
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

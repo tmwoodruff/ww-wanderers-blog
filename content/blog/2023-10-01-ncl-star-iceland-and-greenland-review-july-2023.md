@@ -12,9 +12,6 @@ description: ""
 
 {% image "images/P1130037.webp" %}
 
-  
-
-
 {% image "images/IMG_6441.webp" %}
 
 Iceland, Greenland, and all the icebergs were beautiful to see and great to experience. With a full ship, the additional sea days did make us ready to get off. I also felt bad for the crew that did not get as many breaks from us. 
@@ -28,7 +25,7 @@ Iceland, Greenland, and all the icebergs were beautiful to see and great to expe
 **Ship** : WEIRD - Okay, that is harsh, but the layout, particularly on the Lido deck, was strange. I like the Jewel layout, and the promenade deck is very similar to the other Jewel ship layout. However, the top was very different. There was no nice observation lounge. The gym was in the back and had no aft windows, just a wall of mirrors. There were a few windows on the sides that one could see out of from a few machines. I like nice sail aways from with the gym in front with windows. By the pool, there was stadium seating that looked odd and too cold to use. The top decks in the front had good views, but a maze of decks and different levels. We did discover and use this hidden hot tub on a top deck. The Great Outdoors was replaced by the Spice H2O, adult only area. Both would have been hard to use on our cruise since it was cold. But, the Great Outdoors spreads out some of the buffet traffic and crowds, so I think it would have still been better. Though we also did not have a heavily-kids cruise. 
 
 **Food** : GOOD - Not everything was a winner with our personal tastes.   
-  
+
 Some stand outs:   
 1) Ice cream (not just soft serve, what do call that hard serve :) ), which I prefer over soft serve. It was by the pool the first day and inside in the buffet other days. It was on this cruise, missing on our last on the NCL Jade. Stracciatella favor is my favorite; it is also served with the lava cake in the MDR, another one of my favorites.   
 2) Lamb chop and lamb shank at Le Bistro  
@@ -52,9 +49,6 @@ We also walked around the city -- trying Bæjarins Beztu Pylsur hotdogs, seeing 
 **Isafordur** \- GREAT - Also a beautiful fjord. We pre-booked an Artic Shorex excursion to Dynjandi waterfall. This was the big waterfall at the top of a series waterfalls; very pretty! Then we went to Jon Sigurdsson Museum with a traditional sod grass roof house setup as it would have been. There was also a museum of the history in the area, and an old church and cemetery, and we saw whales in the bay. We had a good Icelandic cake in the sod house. We had another stop on the bay, which had a waterfall, a bird trying to attack people. It must have had a nest near. Our last stop was a view of the ship and near ski lifts. To and back, we experienced the two 5 km tunnels that connected Isafordur to the south portion of the island. 
 
 **Nanortalik -** GREAT - This was our only Greenland stop. Nuuk and Paamiut, as well as Djupivogur, Iceland, were cancelled ports. Greenland due to so many icebergs, which were cool to see, and Djupivogur due to too rough to tender. Here we hiked up Mt. Quassik for bay and iceberg views. We experience a neighborhood with colorful houses and then stopped at a Dutch grocery store. The crew was so sweet and giving the local kids some of the hot chocolate at the tender port. This was bad though -- the tender line took an hour, in the rain! They only had one dock, so slow to offload everyone and then reload. The tender boats piled up, waiting their turn to offload. 
-
-  
-
 
 Next up...[Grand Canyon and other canyons](https://ww-wanderers.blogspot.com/2023/11/canyons-adventure-september-2023.html)
 

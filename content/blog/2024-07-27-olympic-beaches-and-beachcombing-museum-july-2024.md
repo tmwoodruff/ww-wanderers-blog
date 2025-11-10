@@ -18,87 +18,39 @@ There was a pretty island/peninsula that came out from the fog a little. It was 
 
 {% image "images/IMG_8288.webp" %}
 
-  
-
-
 {% image "images/IMG_8286.webp" %}
-
-  
-
 
 {% image "images/P1140351.webp" %}
 
-  
-
-
 {% image "images/P1140356.webp" %}
-
-  
-
 
 {% image "images/P1140359.webp" %}
 
-  
-
-
 {% image "images/P1140360.webp" %}
 
-  
-
-
 {% image "images/P1140361.webp" %}
-
-  
-
 
 {% image "images/P1140362.webp" %}
 
 After the beach, we went to Forks, now known for the vampire movies. We saw two venues with vampire movie displays with people waiting outside. We went to John's Beachcomber Museum; Travis's Mom came across it in an article before we left for WA. It is $10 pp and said only cash and also Venmo now, open 11am-5pm. John very friendly, took questions, and shared info. He was telling another group that he has beachcombed for 40 years and goes about once a week now. The bottom floor was for items found off the coast of WA and upstairs from another beachcomber and from Galveston, TX. His wife has gone some too and also made art from some items. He has some amazing finds -- from a tsunami in Japan, WWII, containers spills/lost from the barge, mammoth tooth, etc. There was finds everywhere; I think, though we tried, that we probably only saw/noticed 40-50%. 
 
-  
-
-
 {% image "images/IMG_20240713_142230871_HDR.webp" %}
 
 {% image "images/IMG_8293.webp" %}{% image "images/IMG_8292.webp" %}
 
-  
-
-
 {% image "images/P1140369.webp" %}
-
-  
-
 
 {% image "images/IMG_8291.webp" %}
 
-  
-
-
 {% image "images/IMG_8290.webp" %}
-
-  
-
 
 The story of the volleyball (below) from a Japan tsunami is on Amazon Prime; John worked with them to make the film.
 
-  
-
-
 {% image "images/IMG_8289.webp" %}
-
-  
-
 
 {% image "images/P1140370.webp" %}
 
-  
-
-
 {% image "images/P1140373.webp" %}
-
-  
-
 
 {% image "images/P1140375.webp" %}
 
@@ -109,8 +61,5 @@ Our location was nice, backing up to a forest. However, this was the loudest cam
 {% image "images/IMG_20240714_065306714_HDR.webp" %}
 
 Next up...[North side of Olympic National Park](https://ww-wanderers.blogspot.com/2024/07/north-olympic-np-exploration-july-2024.html)
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

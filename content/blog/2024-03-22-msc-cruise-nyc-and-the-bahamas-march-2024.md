@@ -18,7 +18,6 @@ Our cabin was 10001 at the very front of the ship on deck 10 with a front facing
 
 {% image "images/image4.webp" %}
 
-  
 We were 4 decks down to the MDR and theater and 5 decks up to the buffet. There was decks 4-19, without 17 since bad luck in Italy.
 
 This was our kids' Spring Break, and they get two extra days (which are teacher work days) the week after. For affordable flights for 4, we booked a late Thursday night, 7th, flight into NYC and return on Tuesday the 19th into and out of Newark (EWR). They went back to school on the 20th. The late night flight was not great, but affordable. I booked a hotel close to Newark; it offered a shuttle but not that late. We confirmed that an Uber was affordable and quick since close to EWR. I called the hotel to note a late arrival as Orbitz seemed to stress that this was important, even though I carefully chose a hotel with a 24/7 reception desk. 
@@ -32,8 +31,6 @@ With the delayed departure, we arrived late. We found the bus #62 from the termi
 We first checked into our hotel to leave luggage and then went back out for a dinner. We picked up and shared two Greek plates with lamb and pork, rice, pitas, and a salad with a dill cream sauce and hot sauce on the side back at our hotel from Blazin Chicken & Gyro. It was really good. Travis and Joel tried to go to the hotel gym, but they did not have any weights that Joel wanted and the bike was occupied that Travis wanted. They settled for a walk through the Bronx instead and found a raccoon. 
 
 {% image "images/IMG_20240308_212237413.webp" %}{% image "images/IMG_20240308_212450683.webp" %}  
-  
-
 
 We cleaned up and went to bed, planning the American Museum of National History and Central Park for Saturday.
 
@@ -42,7 +39,6 @@ So, back to the cruise...our itinerary:
 
 {% image "images/image5.webp" %}
 
-  
 Next up...[Natural History Museum and Central Park](https://ww-wanderers.blogspot.com/2024/03/nyc-natural-history-museum-and-central.html)
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

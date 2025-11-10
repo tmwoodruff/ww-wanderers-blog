@@ -21,7 +21,7 @@ Once getting in, we found out that the long wait was for security. We forgot to 
 After completing security, getting on board was quick. We found a Latitude status line with the purchased quick boarding. We could not tell if it was supposed to be two lines or one. The person checking us in had trouble getting the iPad to read the barcode on both our passports. That and boarding passes needed; no covid tests or vaccine cards required. After check in, we received our keycards and walked right on. Onboard, we were directed to muster station to check in. We watched the lifejacket video before boarding. 
 
 With that complete, we went to lunch at O'Sheehans. My favorite but not Travis's. It was super crowded, almost full; I have never seen it that crowded on embarkation day. However, it was super fast; everything must have already been pre-made. I had loaded nachos and a burger with bacon, BBQ sauce, and said cheddar, but looked like American. I asked specifically for cheddar later. Though when we were in the grocery store in Reykjavik, we saw what was called cheddar that looked like American; they must have a different definition of cheddar in Iceland. Travis had Cobb salad and then India food from the buffet. The buffet had hard/real ice cream, and not just soft serve, yay! Travis at O'Sheehans.   
-  
+
 {% image "images/IMG_6461.webp" %}
 
 After the buffet, we toured the ship/started learning our way around. It seemed very different than we were used to, and we initially were not a big fan. The bottom decks were similar, but the top decks were different. The spa and gym were in the back, and the gym had no windows to enjoy the view while working out. There were a few windows on the sides, but only visible from a few machines. The buffet was frequently very crowded. We could not get food; unless, we found a table to eat it at. Travis's rule. We could have asked to share with people; a lot of people asked us. One person asked to sit with us when the table next to us was empty. I do not mind normally, but that was weird. Then his wife sat at the empty table, so he moved to be with her. It was too cold outside and the outdoor buffet was rarely open. Though also outdoors, I missed the Great Outdoors. There was no drink stations outside; there would have been with the Great Outdoors. It was an adult only area, which would have been nice too, if were not so cold. Also, no observation lounge that; normally NCL has an awesome observation lounge high and forward. The full walk around promenade was nice. Some maintenance did closed a section during part of our cruise, but the front was always open to walk all the way around. 
@@ -32,33 +32,15 @@ At 3:30 pm, we went the room and have a few pictures without our stuff everywher
 
 {% image "images/IMG_6462.webp" %}
 
-  
-
-
 {% image "images/IMG_6463.webp" %}
-
-  
-
 
 {% image "images/IMG_6464.webp" %}
 
-  
-
-
 {% image "images/IMG_6494.webp" %}
-
-  
-
 
 Some luggage was here but not ours. Luggage was randomly in the hall. Travis went to look for any of ours, so we could start unpacking. He found one. After we unpacked it, I decided that I would go. I attracted attention; a room steward took me to where it was being brought in. I was not sure if he wanted me to look or just believe him. I believed him that they would come. I quietly went back to our room; I was trying to make less, not more, work. Later, our room steward came by to meet us and brought it. He asked if we needed anything; we asked for ice, an extra bath towel (hair towel), and bar soap (they did not have this). We had ice most days, and I always had my extra towel. Since NCL does not do towel animals any more (sad), that cannot be an emergency back up. Overall, he was awesome and friendly each time we saw him. 
 
-  
-
-
 We had dinner in the aft, more formal dining room. It was slower than I expected, but it did not really feel like it at the time. Unlike in Greece, where others ate late and the dining room was not crowded, it was busy with other early eaters. Aft windows with the wake. 
-
-  
-
 
 {% image "images/IMG_6468.webp" %}{% image "images/IMG_6469.webp" %}
 
@@ -66,38 +48,16 @@ I had crab and cream cheese wontons; they were just okay -- too fishy of a taste
 
 {% image "images/IMG_20230713_Aqua2.webp" %}{% image "images/IMG_20230713_Aqua1.webp" %}
 
-  
-
-
 {% image "images/IMG_6470.webp" %}
-
-  
-
 
 {% image "images/IMG_6472.webp" %}
 
-  
-
-
 {% image "images/IMG_6473.webp" %}
-
-  
-
 
 {% image "images/IMG_6474.webp" %}
 
-  
-
-
 And that is wrap for our first cruise day. 
 
-  
 Next up...[Djupivogur and Akureyri, Iceland](https://ww-wanderers.blogspot.com/2023/08/iceland-djupivogur-and-akureyri.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

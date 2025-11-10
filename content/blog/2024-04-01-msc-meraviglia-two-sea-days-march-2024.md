@@ -14,171 +14,72 @@ We followed along the coast, and it was still rough on the way south. This time 
 
 {% image "images/IMG_7924.webp" %}
 
-  
-
-
 {% image "images/IMG_7925.webp" %}
-
-  
-
 
 We wore our dressy clothes to dinner again, me while it was still warm and Travis dressed to match me. 
 
-  
-
-
 {% image "images/IMG_7927.webp" %}
-
-  
-
 
 Owen's beef and barley soup without much beef. Travis's marinated octopus and watermelon and feta. Joel got the vegetable spring roll that he said was good but small. 
 
-  
-
-
 {% image "images/IMG_7928.webp" %}
-
-  
-
 
 {% image "images/IMG_7929.webp" %}
 
-  
-
-
 {% image "images/IMG_7931.webp" %}
-
-  
-
 
 {% image "images/IMG_7930.webp" %}
 
-  
-
-
 For mains, Owen and I got the lamb; it was very good. Travis's wild barramundi filet. Joel got the penne all'amatriciana, which was not good. We shared some lamb with him. 
-
-  
-
 
 {% image "images/IMG_7932.webp" %}
 
-  
-
-
 {% image "images/IMG_7933.webp" %}
-
-  
-
 
 {% image "images/IMG_7934.webp" %}
 
-  
-
-
 Grandma's cake, chocolate duo cake, and coconut cake. 
-
-  
-
 
 {% image "images/IMG_7936.webp" %}
 
-  
-
-
 {% image "images/IMG_7937.webp" %}
-
-  
-
 
 {% image "images/IMG_7938.webp" %}
 
-  
-
-
 We caught a few dome shows: famous ceilings, Jurassic, and another that I'm forgetting now. This dome picture was cool. They made the globe in clouds; later we could see the clouds drifting out of the shape of the continents. 
-
-  
-
 
 {% image "images/IMG_7944.webp" %}
 
-  
-
-
 {% image "images/IMG_7945.webp" %}
-
-  
-
 
 We had breakfast at the MDR because Joel wanted to try the hot chocolate, so we had to get up in time. 
 
-  
-
-
 Each deck had a place name with nice pictures from that place and a metal statue like this. We stayed on 10 - Hagia Sophia, so I got a picture of it. Today we played a chilly trivia by the pool, and the kids each won an MSC baseball cap. 
-
-  
-
 
 {% image "images/IMG_7946.webp" %}
 
-  
-
-
 {% image "images/IMG_7947.webp" %}
-
-  
-
 
 Tonight was Italian night. Owen and I got the Sicilian-style arancini that were very good. Joel and Travis the caprese salad. Joel and I got the bistecca, which was not good. Owen the chicken parmesan that I'm not sure that he was very impressed with, but I thought was good. Lastly, Travis's voodles vegetarian dish that was good, as far as vegetable go :). 
 
-  
-
-
 {% image "images/IMG_7949.webp" %}
-
-  
-
 
 {% image "images/IMG_7950.webp" %}
 
-  
-
-
 {% image "images/IMG_7951.webp" %}
-
-  
-
 
 {% image "images/IMG_7952.webp" %}
 
-  
-
-
 {% image "images/IMG_7953.webp" %}
-
-  
-
 
 Travis and Joel had to get the tiramisu on Italian night. Owen got Grandma's cake after seeing me get it multiple times and trying it once. I got the chocolate chip ice cream (ice cream of the day). 
 
-  
-
-
 {% image "images/IMG_7959.webp" %}
-
-  
-
 
 {% image "images/IMG_7960.webp" %}
 
 The next morning, up super early to get off and today was the saddest day of a cruise when we had to pack. 
 
 Next up...[Disembarkation and NYC](https://ww-wanderers.blogspot.com/2024/04/msc-meraviglia-disembarkation-and-back.html)
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

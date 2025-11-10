@@ -42,80 +42,32 @@ After getting settled, we went out to explore Long Beach. We walked to the beach
 
 {% image "images/IMG_5876.webp" %}
 
-  
-
-
 Long beach and Travis demonstrating the playground surfboard. 
-
-  
-
 
 {% image "images/IMG_5877.webp" %}
 
-  
-
-
 {% image "images/IMG_5882.webp" %}
-
-  
-
 
 Then we found Queen Mary! The City of Long Beach owns and has been fixing her up. Before covid, she served as a hotel, restaurant, and tours. With the restoration and covid, they have been closed. I kept watching for the tours to open. Then during the holidays apparently they did, and I got behind checking with the holidays. They tours showed full. Maybe they were filled very quickly, but I was super annoyed and disappointed! 
 
-  
-
-
 {% image "images/IMG_5887.webp" %}
-
-  
-
 
 The sailboat was nice with the sun setting. Queen Mary with the terminal dome, Radiance, Travis, and port cranes. 
 
-  
-
-
 {% image "images/IMG_5890.webp" %}
-
-  
-
 
 {% image "images/IMG_5897.webp" %}
 
-  
-
-
 {% image "images/IMG_5904.webp" %}
-
-  
-
 
 {% image "images/IMG_5906.webp" %}
 
-  
-
-
 Terrace Plaza foundations. They were choreographed and danced to Jump by Van Halen, which was awesome. 
-
-  
-
 
 {% image "images/IMG_5918.webp" %}
 
-  
-
-
 Long Beach was a nice walking tour. We returned to the hotel for our cruise tomorrow!
 
-  
-
-
 [Next up...Embarkation](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_11.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

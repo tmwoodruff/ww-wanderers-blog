@@ -24,13 +24,9 @@ The hotel was good. Everyone at the front desk was friendly (we asked about a ph
 
 {% image "images/image2.webp" %}
 
-  
-
-
 It looked like hotels in the area noted having added sound reduction for noisy city streets. We were in more of a residential area, but we liked it. We stopped at a more resident-geared grocery store several times for room snacks, breakfast, ice cream, and water (20p for a liter versus in the US where bottled water is the same price as soda). After getting sick from different stuff in the water in Italy, I'm big on not drinking the local water in foreign countries. We also had a big gyro plate to share at a sit down restaurant near the hotel. It came with 4+ pitas, chicken and pork, french fries (they are eaten in the gyros in Greece), tzatziki, another more mayo sauce, tomatoes, onions, and lettuce. The hotel also had a very interesting elevator; the door that you had to swing open with doorknob. It was very small, but good for moving luggage up and down, which I rode up with it.
 
 Before dinner, we went for the covid test. Getting it was efficient -- pay at the register, then go around outside, and she came quickly. Though she did have to document our passport numbers and names. Then said to come back in 15 minutes. We walked around and had a few snacks: a chocolate mouse, chocolate croissant, and a cheese pie. We went back for the test results where it become much less efficient. They said come back in 5 minutes because they had to finish entering data. It took longer, and then we were correcting the incorrectly entered data. We wanted it to match the passport, so the port agents and cruise line would accept it and let us cruise. I checked it against my copy from the cruise line website about what info was required and in English. It did come with Greek for the questions and English for the answers, which worked out at the port.   
-
 
   * Your name, which should match the name on your travel documents
   * Your date of birth
@@ -39,18 +35,10 @@ Before dinner, we went for the covid test. Getting it was efficient -- pay at th
   * The name of the test provider
   * Confirmation of the type of test provided
 
-
-
 They essentially had to complete the Greek passenger locator forms (PLFs), that became optional to enter Greece recently, for each of us. Maybe it would have been faster if we had done them, though they never asked if we had them. Finally complete and all negative, then it was funny because they were printed on A4 paper since, instead of letter size that we use in the US, so they did not fit into my travel folder.
 
 Then dinner, unpacked clothes for tomorrow, and before bed Travis pre-bought our Acropolis tickets online for tomorrow/Saturday, June 4th. Then sleep after none the night before on the plane.
 
 [Next up Acropolis and walking Athens...](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl_88.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

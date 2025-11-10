@@ -16,142 +16,60 @@ The Captain got us docked, and then with the harbor master determined it was too
 
 {% image "images/IMG_9073.webp" %}
 
-  
-
-
 {% image "images/IMG_9077.webp" %}
-
-  
-
 
 {% image "images/IMG_9080.webp" %}
 
 {% image "images/IMG_9081.webp" %}
 
-  
-
-
 The fjord is already looking very pretty. 
-
-  
-
 
 {% image "images/IMG_9065.webp" %}
 
-  
-
-
 {% image "images/IMG_9068.webp" %}
-
-  
-
 
 {% image "images/IMG_9069.webp" %}
 
-  
-
-
 For our cruising, we went in and out of Nordfjord and Innvikfjorden. We turned around to back track out about 1pm. The cancelled port happened while we were at breakfast in the buffet. After breakfast, we looked out from the aft, behind the buffet and more forward and then went back to our room to get entertainment and put out our make up the room sign. They were not allowed to go into the room without the sign out. We went and hung out in the Crow's Nest for the great forward view of the fjords and read until it was time for trivia.   
-
 
 {% image "images/IMG_9082.webp" %} {% image "images/IMG_9095.webp" %}
 
-  
-
-
 {% image "images/IMG_9084.webp" %}
-
-  
-
 
 {% image "images/IMG_9087.webp" %}
 
-  
-
-
 {% image "images/IMG_9089.webp" %}
-
-  
-
 
 {% image "images/IMG_9091.webp" %}
 
-  
-
-
 We found a glacier. 
-
-  
-
 
 {% image "images/IMG_9093.webp" %}
 
-  
-
-
 {% image "images/IMG_9094.webp" %}
-
-  
-  
-  
-
 
 {% image "images/IMG_9101.webp" %}
 
-  
-
-
 {% image "images/IMG_9103.webp" %}
-
-  
-
 
 {% image "images/IMG_9104.webp" %}
 
-  
-
-
 {% image "images/IMG_9107.webp" %}
-
-  
-
 
 {% image "images/IMG_9109.webp" %}
 
-  
-
-
 {% image "images/IMG_9110.webp" %}
-
-  
-
 
 {% image "images/IMG_9112.webp" %}
 
-  
-
-
 {% image "images/IMG_9115.webp" %}
-
-  
-
 
 {% image "images/IMG_9116.webp" %}
 
-  
-
-
 {% image "images/IMG_9121.webp" %}
 
-  
 Not too much more to add to the pretty scenery.   
-  
+
 Next up...[Haugesund, Norway](https://ww-wanderers.blogspot.com/2024/10/haugesund-norway-sept-2024.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

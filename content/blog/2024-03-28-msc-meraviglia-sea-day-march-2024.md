@@ -18,58 +18,25 @@ We were still following the Anthem of the Seas, as seen from our forward facing 
 
 {% image "images/IMG_7654.webp" %}
 
-  
-
-
 {% image "images/IMG_7655.webp" %}
-
-  
-
 
 We also had lunch in the MDR. The menu sounded good, but I was a little disappointed. This is the spinach dip that two of us got. It was good but did not come with enough tortilla chips to eat all of it. The hamburger, I was most disappointed with; it sounded so good with grilled onion, cheddar cheese, and bacon. The cheddar cheese, I believe, was American. I saw on one menu calling it: "American Cheddar" -- that's an oxymoron. American is processed cheese, and cheddar is made the right way. The good stuff was also really only in the middle of the burger, so I think I had all the bacon in one bite. Travis had couscous and Owen the meatball sub that were good. Owen's chocolate NY cheesecake had more chocolate than the dinner NY cheesecake, so that was good. I tried a Boston cream pie because I had not had it and wanted to try something new. I decided that I did not really like Boston cream pie, but Travis said that it was good. 
 
-  
-
-
 {% image "images/IMG_7658.webp" %}
-
-  
-
 
 {% image "images/IMG_7659.webp" %}
 
-  
-
-
 {% image "images/IMG_7661.webp" %}
-
-  
-
 
 {% image "images/IMG_7662.webp" %}
 
-  
-
-
 {% image "images/IMG_7663.webp" %}
-
-  
-
 
 {% image "images/IMG_7664.webp" %}
 
-  
-
-
 We were a big ship, so had a wide wake. 
 
-  
-
-
 {% image "images/IMG_7665.webp" %}
-
-  
-
 
 This was Gala or Formal night, so we had extra special food awaiting us. This is in this order:
 
@@ -81,38 +48,17 @@ This was Gala or Formal night, so we had extra special food awaiting us. This is
 
 4\. Owen's French onion soup -- he liked the soup, but noted that the croton and cheese was hard to eat. 
 
-  
-
-
 {% image "images/IMG_7666.webp" %}
-
-  
-
 
 {% image "images/IMG_7667.webp" %}
 
-  
-
-
 {% image "images/IMG_7668.webp" %}
-
-  
-
 
 {% image "images/IMG_7669.webp" %}
 
-  
-
-
 {% image "images/IMG_7671.webp" %}
 
-  
-
-
 {% image "images/IMG_7673.webp" %}
-
-  
-
 
 On to the mains: 
 
@@ -120,33 +66,15 @@ On to the mains:
 
 2\. The kids and I got the filet mignon -- my favorite cut. It was not as good as the paid steakhouses, but good for included. Joel and Owen both ordered theirs rarer, but only Owen's was rarer. 
 
-  
-
-
 {% image "images/IMG_7674.webp" %}
-
-  
-
 
 {% image "images/IMG_7676.webp" %}
 
-  
-
-
 {% image "images/IMG_7675.webp" %}
-
-  
-
 
 The desserts were wonderful. We got two of each among us -- the Royal Cake and Baked Alaska -- so good!
 
-  
-
-
 {% image "images/IMG_7678.webp" %}
-
-  
-
 
 {% image "images/IMG_7679.webp" %}
 

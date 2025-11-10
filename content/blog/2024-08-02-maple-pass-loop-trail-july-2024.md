@@ -24,172 +24,72 @@ Columbine flowers and Lake Ann from above. There was also some snow that looked 
 
 {% image "images/IMG_8458.webp" %}
 
-  
-
-
 {% image "images/IMG_8478.webp" %}
-
-  
-
 
 {% image "images/IMG_8488.webp" %}
 
-  
-
-
 {% image "images/IMG_8555.webp" %}
-
-  
-
 
 {% image "images/IMG_8490.webp" %}
 
-  
-
-
 {% image "images/IMG_8491.webp" %}
-
-  
-
 
 {% image "images/IMG_8493.webp" %}
 
-  
-
-
 {% image "images/IMG_8498.webp" %}
-
-  
-
 
 {% image "images/IMG_8520.webp" %}
 
-  
-
-
 {% image "images/IMG_8527.webp" %}
-
-  
-
 
 {% image "images/IMG_8534.webp" %}
 
-  
-
-
 {% image "images/IMG_8544.webp" %}
-
-  
-
 
 Then we found the second lake, could see Rainy Lake from Maple Pass Loop, with snow up to it. You also see the trail back down. Some of the Rainy Lake trail was part of our trail down; it was paved. However, we did not do the trail. Now that I realize that this is Rainy Lake, we should have. On the hike, Travis's bird app identified a sooty grouse. We heard it going up and down at the lower elevations. Travis saw two weasels that I just saw/heard some movement but never found them. I did see a pika with a green stem in his mouth. 
 
-  
-
-
 {% image "images/IMG_8545.webp" %}
-
-  
-
 
 {% image "images/IMG_8551.webp" %}
 
-  
-
-
 {% image "images/IMG_8557.webp" %}
-
-  
-
 
 {% image "images/IMG_8570.webp" %}
 
-  
-
-
 {% image "images/IMG_8585.webp" %}
-
-  
-
 
 After Maple Loop, we went further east to Washington Pass and then on to Winthrop (a cut Old West Town) where we got some gas and ice cream. None of the parks had gas for sale (though Olympic does not have many roads through it where you will be inside the park for a long distance). The gas pumps were right on the main street with spinning dials/no credit card slot, so we had to go in to pay and get ice cream. In the picture is the big downhill road toward Winthrop and more on the haziness later. 
 
-  
-
-
 {% image "images/IMG_8591.webp" %}
-
-  
-
 
 {% image "images/IMG_8586.webp" %}
 
-  
-
-
 {% image "images/IMG_8589.webp" %}
-
-  
-
 
 After finishing in Winthrop, we went down Old Diablo Rd (at MP 127, not MP 128 like the park brochure said). This went over Diablo Dam as what looked like one lane at a time, though I saw two cars manage to pass. Others looked ahead and waited to keep it to one at a time. 
 
-  
-
-
 {% image "images/IMG_8593.webp" %}
-
-  
-
 
 {% image "images/IMG_8597.webp" %}
 
-  
-
-
 {% image "images/IMG_8598.webp" %}
-
-  
-
 
 {% image "images/IMG_8603.webp" %}
 
-  
-
-
 {% image "images/IMG_8605.webp" %}
-
-  
-
 
 {% image "images/IMG_8608.webp" %}
 
-  
-
-
 I don't know what this did, but there was a train-like track for it to move the full length of the Diablo Dam (road on top). 
-
-  
-
 
 {% image "images/IMG_8610.webp" %}
 
-  
-
-
 Lastly, we went to the Ranger talk in Colonial Creek South Campground that I mentioned the walk earlier. He covered a range of topics. At first, he had about 5 little girls in bicycle helmets and walkie talkies to parents sitting in the front. They were very participatory. Then all just got up to leave in the middle. I guess they were called back to camp. He reacted as there goes his important audience :). He took questions at the end. During our Maple Loop hike, we overheard someone mention already seeing smoke from the fire. I guess it was hazy, but we really did not have any point of comparison. So, I mentioned this and asked if there was a fire and where. The fire was northeast of Stehekin (in the south portion of North Cascades); he said that area communities were at a level 1, not required to evacuate now. After the talk, we walked along the beach back to our campsite. Found some Canada geese with a juvenile and then all in a row. 
 
-  
-
-
 {% image "images/IMG_8611.webp" %}
-
-  
-
 
 {% image "images/IMG_8614.webp" %}
 
 Next Up...[Last day in North Cascades and Seattle](https://ww-wanderers.blogspot.com/2024/08/north-cascades-and-seattle-july-2024.html)
 
-  
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

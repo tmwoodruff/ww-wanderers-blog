@@ -22,110 +22,44 @@ Stopped for our obligatory sign picture. After, we stopped at the visitor center
 
 {% image "images/IMG_6979.webp" %}
 
-  
-
-
 {% image "images/P1130174.webp" %}
-
-  
-
 
 {% image "images/P1130178.webp" %}
 
-  
-
-
 {% image "images/P1130179.webp" %}
-
-  
-
 
 {% image "images/P1130184.webp" %}
 
-  
-
-
 First, we hiked the Blue Mesa Trail across I-40 on the south side. This was a 1 mile loop with elevation drop at the beginning and increase at the end. It was a very nice hike; the colored hills looked like Death Valley National Park in California. We saw some petrified wood. Dog were allowed, and we saw some on the trail. Then, we hiked the Crystal Forest, seeing lots of petrified wood some with crystal formations. The broken full tree petrified logs were cool. 
-
-  
-
 
 {% image "images/P1130194.webp" %}
 
-  
-
-
 {% image "images/P1130235.webp" %}
-
-  
-
-
-  
-
 
 {% image "images/IMG_6993.webp" %}
 
-  
-
-
 {% image "images/IMG_6999.webp" %}
-
-  
-
 
 {% image "images/IMG_7006.webp" %}
 
-  
-
-
 {% image "images/IMG_7011.webp" %}
-
-  
-
 
 {% image "images/P1130271.webp" %}
 
-  
-
-
 {% image "images/P1130273.webp" %}
-
-  
-
 
 {% image "images/P1130286.webp" %}
 
-  
-
-
 Lastly, we visited the Rainbow Forest Museum and hiked Giant Logs behind it. On there trail, there is an available trail guide to borrow with the points of interest numbered. The is Giant Log, which was named Old Faithful. I don't know why; sadly, I don't remember from the trail guide and just found it on the NPS website later. 
-
-  
-
 
 {% image "images/P1130306.webp" %}
 
-  
-
-
 {% image "images/IMG_7020.webp" %}
-
-  
-
 
 Before leaving, we had our picnic lunch in a picnic area in front of the visitor center. Since this tree was probably getting more than its fair share of water, a raven came for a drink. We were warned that we would see a lot at the Grand Canyon and needed to keep our food from them. Here we were warned of bees, which we also avoided. There was a bottle filling station, so we refilled before hitting the road again. 
 
-  
-
-
 {% image "images/IMG_7025.webp" %}
 
-  
-
-
 Next up...[Grand Canyon](https://ww-wanderers.blogspot.com/2023/11/grand-canyon-september-2023.html)
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

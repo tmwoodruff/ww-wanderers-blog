@@ -41,7 +41,4 @@ We also reserved a hotel, okay motel, for our last night to get everyone showere
 
 Next up [Flight and Arriving in Bozeman and Yellowstone](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_5.html)...
 
-  
-
-
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

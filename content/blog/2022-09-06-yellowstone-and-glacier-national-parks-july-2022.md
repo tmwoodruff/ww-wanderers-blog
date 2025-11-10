@@ -14,9 +14,6 @@ description: ""
 
 Grand Prismatic Spring in Yellowstone from the overlook trail. 
 
-  
-
-
 Our flight was at 11:30 am, so we left for the airport a little after 9 am. Travis reserved DFW Express North parking, which for the first time gave us a row that had no spots. The next row had the first one available, though not as well protected from the sun with the covered parking offering. There were a lot of people getting on the bus in the same area. Also, first time that I had ever noticed, the rows were labeled by terminals, though our assigned row did not align with our terminal. 
 
 We had an uneventful flight (the best kind), space for each of our luggage, and in seat entertainment. We waited a little on the ground for a gate to become available after landing. We landed about 1:30 pm. We did not need to wait for luggage. The airport had nice nature decorations and not too large. Car rental pick up was quick. 
@@ -40,8 +37,5 @@ There was also no water or electricity at each campsite. They had restrooms and 
 When putting the tent, Travis suggested it would be cooler without the rain fly on the tents. I insisted that we have ours, but the kids did not. It was cold trying to sleep; I froze all night and worrying about the kids being even colder. In the morning, Joel asked when we would save him from the "neverending winter". This is one night after we left the days of straight 100+s in Texas. The rain fly was added. We went to bed early and got up early, thinking it okay to stay on Central time and to visit the sights earlier and before the crowds. Though the kids stayed up later, because they did not want to go to bed early, playing Uno, cards, or reading. It was loud at the campground until quiet time 10pm to 6am. 
 
 Next up [Old Faithful and Upper Geyser Basin](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_7.html)...
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

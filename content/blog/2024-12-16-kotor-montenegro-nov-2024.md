@@ -18,306 +18,126 @@ Upon arriving, we took a goodbye from Montenegro picture instead of the welcome 
 
 {% image "images/IMG_0523.webp" %}
 
-  
-
-
 I believe that the walk went up that mountain; we could see hikers. I wondered what time they got started, especially since tendering took some time. We found some free walls to walk on that stayed closer to town, which are called Kotor City Walls. There was a nice old town area, enter through Sea Gate, with a view of the church in the hills and a model of the town and mountain. 
-
-  
-
 
 {% image "images/IMG_0524.webp" %}
 
-  
-
-
 {% image "images/IMG_0526.webp" %}
-
-  
-
 
 {% image "images/IMG_0527.webp" %}
 
-  
-
-
 {% image "images/IMG_0531.webp" %}
-
-  
-
 
 {% image "images/IMG_0534.webp" %}
 
-  
-
-
 {% image "images/IMG_0535.webp" %}
-
-  
-
 
 We next went up on the walls for a view down. 
 
-  
-
-
 {% image "images/IMG_0538.webp" %}
-
-  
-
 
 {% image "images/IMG_0539.webp" %}
 
-  
-
-
 {% image "images/IMG_0541.webp" %}
-
-  
-
 
 {% image "images/IMG_0542.webp" %}
 
-  
-
-
 {% image "images/IMG_0543.webp" %}
-
-  
-
 
 {% image "images/IMG_0544.webp" %}
 
-  
-
-
 {% image "images/IMG_0545.webp" %}
-
-  
-
 
 {% image "images/IMG_0546.webp" %}
 
-  
-
-
 {% image "images/IMG_0548.webp" %}
-
-  
-
 
 We arrived at the Scurda river beside the old town walls; there were a ton of seagulls chillin in the water. 
 
-  
-
-
 {% image "images/IMG_0549.webp" %}
-
-  
-
 
 {% image "images/IMG_0551.webp" %}
 
-  
-
-
 {% image "images/IMG_0569.webp" %}
-
-  
-
 
 {% image "images/IMG_0574.webp" %}
 
-  
-
-
 This led to two churches; one active and one in ruins and not used now but still very pretty with nature growing on and in it. 
-
-  
-
 
 {% image "images/IMG_0553.webp" %}
 
-  
-
-
 {% image "images/IMG_0554.webp" %}
-
-  
-
 
 {% image "images/IMG_0555.webp" %}
 
-  
-
-
 {% image "images/IMG_0559.webp" %}
-
-  
-
 
 {% image "images/IMG_0561.webp" %}
 
-  
-
-
 {% image "images/IMG_0562.webp" %}
-
-  
-
 
 Next, we found a cat park. I loved the little baby kittens. There was a sign saying that a lady took care of them. So, there were houses set up for them, and she put out food. Also, awesome, like nothing I have seen before, there was a plastic water bottle recycling, and if you recycled two bottles, you were dispensed cat food to feed the cats. Unfortunately, we did not have two water bottles that we could give up with us. This was in a public square that also had a water fountain (below). 
 
-  
-
-
 {% image "images/IMG_0565.webp" %}
-
-  
-
 
 {% image "images/IMG_0566.webp" %}
 
-  
 We stopped by a grocery store and then reentered the old town to see more. In a guidebook, there was a war museum, from the Yugoslavia breakup wars, mentioned that I wanted to go to. However, it looked no longer in existence; we could only find the Maritime Museum. I should have planned this better because we were also in Croatia. The old town water fountain, Old Fountain Karampana.   
-  
-
 
 {% image "images/IMG_0576.webp" %}{% image "images/IMG_0578.webp" %}
 
-  
-
-
 {% image "images/IMG_0579.webp" %}
-
-  
-
 
 {% image "images/IMG_0583.webp" %}{% image "images/IMG_0584.webp" %}
 
-  
-
-
 Fjord views and Holland America
-
-  
-
 
 {% image "images/IMG_0586.webp" %}
 
-  
-
-
 {% image "images/IMG_0588.webp" %}
-
-  
-
 
 {% image "images/IMG_0589.webp" %}
 
-  
-
-
 {% image "images/IMG_0590.webp" %}
-
-  
-
 
 {% image "images/IMG_0591.webp" %}
 
-  
-
-
 {% image "images/IMG_0593.webp" %}
-
-  
-
 
 {% image "images/IMG_0594.webp" %}
 
-  
-
-
 {% image "images/IMG_0596.webp" %}
-
-  
-
 
 {% image "images/IMG_0598.webp" %}
 
-  
-
-
 Tonight we had the Italian restaurant specialty dining with our status meal credit. It was dark, so dark pictures. 
-
-  
-
 
 {% image "images/IMG_0600.webp" %}
 
-  
-
-
 {% image "images/IMG_0601.webp" %}
-
-  
-
 
 Travis had Caprese salad, and I had calami. It came with a whole baby squid or octopus; this one was the best part. 
 
-  
-
-
 {% image "images/IMG_0603.webp" %}
-
-  
-
 
 {% image "images/IMG_0604.webp" %}
 
-  
-
-
 For a main, I had the salmon. I was disappointed in it though; it was not very good. I had a very good one in the MDR on P&O;, so I was hopeful for this one. Travis had the shrimp skewer. Then I had the cannoli, for a second night in a row, that came with chocolate, pistachio, and tutti fruity. Travis had the classic -- tiramisu. Pizza could be ordered instead of an entree, not also, like at one point. 
-
-  
-
 
 {% image "images/IMG_0605.webp" %}
 
-  
-
-
 {% image "images/IMG_0606.webp" %}
-
-  
-
 
 {% image "images/IMG_0607.webp" %}
 
-  
-
-
 {% image "images/IMG_0609.webp" %}
-
-  
-
 
 Some shots of the towns near by and a lit up bridge sailing away. 
 
-  
-
-
 {% image "images/IMG_0611.webp" %}
-
-  
-
 
 {% image "images/IMG_0614.webp" %}
 
 Next up...[Corfu, Greece](https://ww-wanderers.blogspot.com/2024/12/corfu-greece-nov-2024.html)
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

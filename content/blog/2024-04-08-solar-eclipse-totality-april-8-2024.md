@@ -12,37 +12,16 @@ We are luckily enough to live in a totality band for the April 8, 2024 solar ecl
 
 {% image "images/P1140035.webp" %}
 
-  
-
-
 {% image "images/image8.webp" %}
-
-  
-
 
 {% image "images/P1140062.webp" %}
 
-  
-
-
 {% image "images/P1140066.webp" %}
-
-  
-
 
 {% image "images/P1140070.webp" %}
 
-  
-
-
 {% image "images/P1140071.webp" %}
 
-  
-
-
 {% image "images/P1140075.webp" %}
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

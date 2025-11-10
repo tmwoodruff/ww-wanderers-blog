@@ -27,7 +27,7 @@ The first night at the main dining room (MDR) we had an awesome waiter, Yasin Na
 I was surprised that the main dining did not have baguettes anymore; they had similar rolls but not the same. The buffet still had the traditional NCL baguettes. 
 
 Travis and I had Moderno/Brazilian Steakhouse and had to request the Brazilian rolls; they did not bring them by default. So, be sure to request them.   
-  
+
 Food pictures at the bottom. 
 
 **Covid protocols:**
@@ -74,138 +74,54 @@ We were booked on what seems like an early flight by the cruise line -- 10:30 am
 
 {% image "images/IMG_4562.webp" %}
 
-  
-
-
 Jasmine -- Asian restaurant
-
-  
-
 
 {% image "images/IMG_4688.webp" %}
 
-  
-
-
 {% image "images/IMG_4689.webp" %}
-
-  
-
 
 Le Bistro, French restaurant, desserts
 
-  
-
-
 {% image "images/IMG_4867.webp" %}
-
-  
-
 
 {% image "images/IMG_4870.webp" %}
 
-  
-
-
 {% image "images/IMG_4975.webp" %}
-
-  
-
 
 {% image "images/IMG_4977.webp" %}
 
-  
-
-
 {% image "images/IMG_4978.webp" %}
-
-  
-
 
 Breakfast at O'Sheehan's 
 
-  
-
-
 {% image "images/IMG_20220609_083724899_HDR.webp" %}
-
-  
-
 
 Moderno, Brazilian steakhouse, desserts
 
-  
-
-
 {% image "images/IMG_20220609_191027788.webp" %}
-
-  
-
 
 {% image "images/IMG_20220609_191039727.webp" %}
 
-  
-
-
-  
-
-
 {% image "images/IMG_20220611_175115024.webp" %}
-
-  
-
 
 Goat cheese and onion flatbread 
 
-  
-
-
 {% image "images/IMG_20220611_175119367_HDR.webp" %}
-
-  
-
 
 {% image "images/IMG_20220611_180645038.webp" %}
 
-  
-
-
 Prime rib
-
-  
-
 
 {% image "images/IMG_20220611_180657772.webp" %}
 
-  
-
-
 Some menu shots; sorry that they are not better
-
-  
-
 
 {% image "images/IMG_20220610_145724253.webp" %}
 
-  
-
-
 {% image "images/IMG_20220611_172229118.webp" %}
-
-  
-
 
 {% image "images/Menu.webp" %}
 
-  
-
-
 Next up [Yellowstone and Glacier National Parks.](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks.html)..
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

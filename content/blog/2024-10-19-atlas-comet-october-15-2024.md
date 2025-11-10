@@ -12,7 +12,4 @@ We found the comet; very cool! We found it first with a Night Vision camera mode
 
 {% image "images/1140679~2.webp" %}
 
-  
-
-
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

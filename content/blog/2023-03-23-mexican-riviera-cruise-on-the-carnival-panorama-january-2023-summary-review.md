@@ -44,7 +44,4 @@ The Captain arrived earlier than the published 9am time, so we were able to get 
 
 Good, fun, and relaxing cruise!
 
-  
-
-
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

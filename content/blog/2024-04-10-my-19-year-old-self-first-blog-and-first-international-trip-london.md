@@ -12,9 +12,6 @@ description: ""
 
 My aunt took me to London for my first international trip and only my second flight. I was a sophomore in jr. college and had to finish all my assignments and tests before leaving. Then, woohoo, we were off. My 19 year old self blogging in a travel journal that I have now typed. My aunt worked at the jr. college, and the trip was organized by a teacher there with flights, hotel, transfers, Tube/Underground pass, and one group dinner. Other than that, we were free to explore as we wished. He was the Speech and Theater teacher, so he took a group to get a trip where he spent most of his time in the 1/2 ticket line or at a theater show. He was willing to look for and get 1/2 tickets for others. So, we are off into the past and across the pond...
 
-  
-
-
 {% image "images/1996-03_4.webp" %}
 
 **March 14-15, 1996**
@@ -126,8 +123,5 @@ On the flight, we watched “The American President” and “Get Shorty”. The
 On our panoramic tour, the tour guide told us the story about a little Japanese man with his luggage on wheels. The man was walking through the subway (in England, this is just a walkway underground, no train). She, our tour guide, had passed him, and there he turned around and she passed him again. So, she asked if he was lost, and he replied that he could not find the trains. She told him he wanted “The Undergound” and that he had taken too many vocabulary lessons from the Americans. The subways were handy when we went to the Science Museum since it was rainy. I had just been sick, so it got me out of the rain and wind. The subways had little clear square blocks to let the light from the street through, so if you were up on the street and saw those squares, you knew something was under there. At some place, we were in a subway and there were signs with exit numbers, and if you wanted to to a certain place, you exit at its exit number. Some subways ran into the Tube, others passed under a heavy traffic area. In some tube stations, they would have gift shops set up. One station came out in a mall.
 
 The weather, while we were in London, was really very nice for London in March. When it rained in London, it never really poured. It was foggy hence the brand London Fog. When the sun shined, it was not intense. It was kind of ironic because they sold souvenirs with the sun in the first “O” of London, as if London is really that sunny. We did a lot of souvenir shopping. 
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -40,9 +40,6 @@ Escargot and filet at Le Bistro.
 
 {% image "images/IMG_0772.webp" %}
 
-  
-
-
 {% image "images/IMG_0776.webp" %}
 
 **Ship**
@@ -67,13 +64,7 @@ Also, for Latitudes status, NCL, without telling us, cut the laundry perk from a
 
 {% image "images/IMG_9587.webp" %}
 
-  
-
-
 {% image "images/IMG_9588.webp" %}
-
-  
-
 
 {% image "images/IMG_9589.webp" %}{% image "images/IMG_9590.webp" %}
 
@@ -86,11 +77,5 @@ Latitudes status perk: Wines Around the World wine tasting was nice. They gave u
 **Disembarkation**
 
 The disembarkation documentation did not mention anything about self-walk off with your own luggage, or what time it might be, just said to go get luggage tags. I did not want to give up my luggage -- too hard to organize packing and remembering to keep out everything you need. We looked for the luggage tags on the last day; there were no more out, weird. Self-walk off was announced at 7am though. There was nothing to do at the Civitavecchia for passport or customs, so we exited quickly. There did not look like a way to walk out of the port, and we did not find the free shuttle. So, we bought a pricy shuttle out of the port and to the train station (right next the port) -- 12 EUR for a 6 minute ride and 30 minute wait for the bus to fill to no standing room left. For that price, I don't know why they do not run a second shuttle. It did mean that we did not make the first train and had to wait. Travis booked the train to Rome online while we waited on the bus not knowing the availability of the train with a full bus arriving. The train was 9 EURs for both of us, less than the 6 minute shuttle ride. MSC Europa, a new, big ship, was also in port this day. 
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

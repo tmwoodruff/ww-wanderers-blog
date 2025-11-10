@@ -48,147 +48,60 @@ Then, we got to start touring. Starting our drive to the Historic Columbia 30 hi
 
 The guys with the gorge and river. Vista House. 
 
-  
-
-
 {% image "images/IMG_2034.webp" %}
-
-  
-
 
 {% image "images/IMG_2036.webp" %}
 
-  
-
-
 {% image "images/IMG_2043.webp" %}
-
-  
-
 
 {% image "images/IMG_2044.webp" %}
 
-  
-
-
 Then we went to Latourell Falls in the Guy W. Talbot State Park. After, we went to Bridal Veil Falls. Both are free to park and no admission fee. Both were pretty close to the parking; no long hike required. Latourell had vault toilets, so we waited for Bridal Veil with flush toilets and handwashing available. I saw this on a youtube video before arrival. 
-
-  
-
 
 {% image "images/IMG_2045.webp" %}
 
-  
-
-
 {% image "images/IMG_20250528_142821425_HDR.webp" %}{% image "images/IMG_2050.webp" %}
-
-  
-
 
 Owen found a big rock to climb. We were able to go down to the waterfall pool. All the water that I touched was very cold; too early to swim in waterfall pools.
 
-  
-
-
 {% image "images/IMG_2057.webp" %}{% image "images/IMG_2059.webp" %}
-
-  
-
 
 {% image "images/IMG_2060.webp" %}{% image "images/IMG_2061.webp" %}
 
-  
-
-
 {% image "images/IMG_2062.webp" %}{% image "images/IMG_2063.webp" %}
-
-  
-
 
 A Historic Columbia Highway bridge from the hiking trail.
 
-  
-
-
 {% image "images/IMG_2068.webp" %}
-
-  
-
 
 Then we arrived at Bridal Veil Falls. Travis and Owen climbed to the bottom. 
 
-  
-
-
 {% image "images/IMG_2077.webp" %}{% image "images/IMG_2088.webp" %}
-
-  
-
 
 {% image "images/IMG_2085.webp" %}
 
-  
 Joel decided to cross the river on a fallen tree.   
-  
-
 
 {% image "images/IMG_2089.webp" %}
 
-  
-
-
 We stopped at one more view point before going to our campsite at Ainsworth State Park. 
-
-  
-
 
 {% image "images/IMG_2095.webp" %}
 
-  
-
-
 {% image "images/IMG_2097.webp" %}
-
-  
-
 
 {% image "images/IMG_2098.webp" %}
 
-  
-
-
 {% image "images/IMG_2099.webp" %}
-
-  
-
 
 Both campsites were near the river, so also near the the train and interstate highway 84. This one was a hike-in campsite, which we have not done before, but they were charging out of state residents an extra fee for RV hook up available sites or pull into sites. When we arrived, I pointed to the "Enter" sign that we followed and completely missed the hike-in/Loop C parking. We found the camp host and saw him to ask. For check-in, he pointed us to the Park Ranger. Some check-in was online -- number of tents, any pets, and car info. Since ours was a rental, I could not complete this park. She, the Park Ranger, complete it, gave us a rearview mirror hanger with check-out date, and pointed us in the right direction. The parking did have the promised water spigot. 
 
-  
-
-
 Hike-in was not too long of a walk, but having to hike up and not being near our stuff was annoying. It was even further to the restrooms. Restrooms were nice -- warm, lights, shelves for toiletries while getting ready, hot and cold water, soap, and paper towels. We found a lot of paper towels in Oregon and not those annoying hand driers. We did finally find some hand driers, but still many with good paper towels. I did not try the showers here, but they were available and included. Travis noted that his was a fine mist, but Joel picked another and had no issue. The shower stalls were nice too with a dry area inside the stall before the shower/wet area. The dry area had a stool and hook for stuff to keep dry. The shower are had a soap shelf. 
-
-  
-
 
 Though our campsite was not ideal/the best choice. Our tents were on two different levels. Our tent was on the top level with a drop off pretty close to the tent. The rainfly stake was a tripping hazard by the picnic table. The kids' tent was on the lower level, going more downhill where their air mattress was pushing on the side of the tent and bending it badly. It is pretty though. The Milky Way was supposed to be very visible on our nights in Oregon, but there quite a few trees blocking the sky view. Travis did see it though. I just saw many stars. 
 
-  
-
-
 {% image "images/IMG_2105.webp" %}
 
-  
-
-
 Next up...[Multnomah Falls](https://ww-wanderers.blogspot.com/2025/06/multnomah-falls-columbia-river-gorge.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

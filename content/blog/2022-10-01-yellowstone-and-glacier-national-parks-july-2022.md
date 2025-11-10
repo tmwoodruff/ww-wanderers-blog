@@ -14,72 +14,30 @@ The kids got these in the Wendy's kids meals, and I made them build them. This w
 
 {% image "images/IMG_5555.webp" %}
 
-  
-
-
 We stopped at the 1913 Ranger Station on the way out of the park, right by the entrance. 
-
-  
-
 
 {% image "images/IMG_5557.webp" %}
 
-  
-
-
 We also went out the East side and quickly hit the construction again. This time, on a weekday, it was manned/person'ed; she gave us good information on what to expect.  
-  
+
 This was a display outside the park. 
-
-  
-
 
 {% image "images/IMG_5561.webp" %}
 
-  
-
-
 We stopped in Helena again and went to Panda Express for lunch. Then we had to drive by the capitol building. On a 2018 roadtrip from Texas to Georgia, we tried to stop at several capitol buildings so now a tradition. 
-
-  
-
 
 {% image "images/P1120060.webp" %}
 
-  
-
-
 We arrived at our Three Folks motel, Travelodge. It was not the best hotel in the world, but it was nicer than camping :). It cooled off after we realized that I turned on both the A/C and heater (one a window unit and the other looking like a thermostat on the wall across the room). They were out of soap (I asked when I went hunting for the ice machine, and they pointed me in the right direction), but luckily we had a couple bars that we did not get to use camping. We debated who showered first, but after we all had a turn, we felt so good. 
-
-  
-
 
 The motel was a little West of town. We went into town for some pie and ice cream. They shared two slices of pie, and I got a lot of ice cream so shared too. We walked around Three Folks a little. This was interesting art there, appropriate to the area. We stopped at Three Folks Market and got a few snacks for the plane.
 
-  
-
-
 {% image "images/IMG_5577.webp" %}
-
-  
-
 
 The next morning we did not do anything. There looked like some cool stuff to do in Bozeman like planetarium and dinosaur museum and Museum of the Rockies, but with our flight time and museums not opening until 10am, we would not have had much time to spend. So, we watched movies at the hotel and then off to the flight. Car return was easy and a quick walk to the terminal. 
 
-  
-
-
 It was a great trip, seeing so much beauty, and some animals. We do not have any more upcoming trips planned with the kids included because I have been told that we have to let our now almost 17 year old get a job next summer, which will be good. Maybe a Univ. of Texas and Texas A&M; college touring for Joel (and Owen) over Spring Break, but that is not really a trip. We have a Mexican Riviera January and an Iceland/Greenland July cruises booked just for the adults in 2023. Then I was thinking maybe the Grand Canyon to the bottom and back in a one day hike (no big packs) in Sept or Oct; Travis wants to try this. 
 
-  
-
-
-  
-
-
 Next up Philadelphia...
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

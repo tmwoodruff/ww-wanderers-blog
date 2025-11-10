@@ -7,5 +7,3 @@ category: Bryce Canyon
 author: Tammy
 description: ""
 ---
-
- 

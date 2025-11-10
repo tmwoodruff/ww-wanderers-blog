@@ -16,71 +16,31 @@ We then took the Metro to the natural history museum, properly called the Americ
 
 {% image "images/IMG_20240309_093718314_HDR.webp" %}{% image "images/IMG_20240309_093822655_HDR.webp" %}
 
-  
 You can pre-purchase tickets to the museum and **have to pre-book a timed entry ticket/reservation for a particular day and time**. We had 10am on Saturday, so the line was long with some rain and cold. It did move quickly though. I overhead a security guard noting to someone that since it was rainy and Saturday, it is busy. Joel is planning to major in Chemistry and has always enjoyed Science so wanted this stop. Inside we got tickets and picked our extra activities: Great Blue Whale (45 min show, be there about 10 mins early), Elephants (special walk through exhibit), and Butterflies (area with live butterflies to walk through). 
-
-  
-
 
 {% image "images/IMG_20240309_101948090.webp" %}{% image "images/IMG_20240309_154126080.webp" %}
 
-  
-
-
 This atrium area was not here when Travis and I came in 2016. It reminds me of Park Güell in Barcelona that I liked so much. 
-
-  
-
 
 {% image "images/IMG_7543.webp" %}{% image "images/IMG_7544.webp" %}
 
-  
-
-
 {% image "images/IMG_7545.webp" %}
-
-  
-
 
 The butterfly area was very cool; though I still don't like butterflies because they are like moths with stuff that comes off their wings. An employee asked us if we had any questions. So, we asked some, and he shared good info. 
 
-  
-
-
 {% image "images/IMG_7551.webp" %}
-
-  
-
 
 {% image "images/IMG_7555.webp" %}
 
-  
-
-
 The Pupae Incubator; one here made it out. How did it fit in there? 
-
-  
-
 
 {% image "images/IMG_7560.webp" %}
 
-  
-
-
 {% image "images/IMG_7563.webp" %}
-
-  
-
 
 {% image "images/IMG_7574.webp" %}
 
-  
-
-
 The meteor
-
-  
-
 
 {% image "images/IMG_7582.webp" %}
 

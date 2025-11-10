@@ -16,708 +16,286 @@ We met the group in the parking lot outside the cruise terminal and were the las
 
 {% image "images/IMG_0863.webp" %}
 
-  
-
-
 Aged tomatoes to make the best pasta dishes. 
-
-  
-
 
 {% image "images/IMG_0869.webp" %}
 
-  
-
-
 {% image "images/IMG_0872.webp" %}
 
-  
-
-
 Our first stop was an overlook to Positano. The Amalfi Coast was beautiful.   
-  
-
 
 {% image "images/IMG_0884.webp" %}
 
-  
-
-
 {% image "images/IMG_0885.webp" %}
-
-  
-
 
 {% image "images/IMG_0887.webp" %}
 
-  
-
-
 {% image "images/IMG_0888.webp" %}
-
-  
-
 
 {% image "images/IMG_0890.webp" %}
 
-  
-
-
 {% image "images/IMG_0891.webp" %}
-
-  
-
 
 Amalfi Coast pictures from the bus and then a stop to see Sorrento from above. 
 
-  
-
-
 {% image "images/IMG_0898.webp" %}
-
-  
-
 
 {% image "images/IMG_0900.webp" %}
 
-  
-
-
 {% image "images/IMG_0901.webp" %}
-
-  
-
 
 {% image "images/IMG_0903.webp" %}
 
-  
-
-
 {% image "images/IMG_0906.webp" %}
-
-  
-
 
 {% image "images/IMG_0907.webp" %}
 
-  
-
-
 {% image "images/IMG_0908.webp" %}
-
-  
-
 
 {% image "images/IMG_0913.webp" %}
 
-  
-
-
 {% image "images/IMG_0914.webp" %}
-
-  
-
 
 {% image "images/IMG_0916.webp" %}
 
-  
-
-
 {% image "images/IMG_0918.webp" %}
-
-  
-
 
 {% image "images/IMG_0920.webp" %}
 
-  
-
-
 {% image "images/IMG_0925.webp" %}
-
-  
-
 
 {% image "images/IMG_0926.webp" %}
 
-  
-
-
 A crazy road in Sorrento. The Limoncello store was fun that our tour guide lead us to. They had free samples of the drink, cookies, lemon covered chocolate, and truffles. We bought some lemon, coconut truffles, but they were better in the store. Just seemed more dried out. We found a lemon tree.
-
-  
-
 
 {% image "images/IMG_0930.webp" %}
 
-  
-
-
 {% image "images/IMG_0931.webp" %}
-
-  
-
 
 {% image "images/IMG_0932.webp" %}
 
-  
-
-
 {% image "images/IMG_0933.webp" %}
-
-  
-
 
 {% image "images/IMG_0934.webp" %}
 
-  
-
-
 {% image "images/IMG_0935.webp" %}
-
-  
-
 
 {% image "images/IMG_0936.webp" %}
 
-  
-
-
 We were supposed to eat lunch while we were in Sorrento, but it was 10am and not much open. The restaurant that our guide recommended did not open until 11am, though he said to eat early, and we needed to leave at 12pm. The first place that we found open was Good Pizza. We shared a slice, an arancini, and a fried mozzarella. Again the arancini was not as good as we have had in the US or as the one in Trieste. The fried mozzarella and pizza was good. 
-
-  
-
 
 {% image "images/IMG_0937.webp" %}
 
-  
-
-
 {% image "images/IMG_0938.webp" %}
-
-  
-
 
 We finished walking around, stopped for a gelato, and then went back to our bus meeting spot. We also paid for a restroom here; I think they cheating me on the change and were not very friendly, but oh well. Back with our guide, we paid our 18 EUR each for Pompeii entry, that I had been working to collect the correct change for during the trip. I planned for 19 EUR, so we had an extra 2 EUR for that restroom. 
 
-  
-
-
 We arrived at Pompeii and had a few minutes for a paid restroom break or to buy some water. We then got our speaker system with earbuds to hear our guide. Inside she allowed us a stop at the free restrooms that we used. Travis marked where we walked on the tour. However, you can see in the full map just how much in total there is to see! Then info on the different buildings. 
-
-  
-
 
 {% image "images/image36.webp" %}
 
-  
-
-
 {% image "images/image37.webp" %}
-
-  
-
 
 {% image "images/image38.webp" %}
 
-  
-
-
 {% image "images/image39.webp" %}
-
-  
-
 
 {% image "images/image40.webp" %}
 
-  
-
-
 {% image "images/image41.webp" %}
-
-  
-
 
 {% image "images/IMG_0939.webp" %}
 
-  
-
-
 {% image "images/IMG_0940.webp" %}
-
-  
-
 
 {% image "images/IMG_0942.webp" %}
 
-  
-
-
 {% image "images/IMG_0945.webp" %}
-
-  
-
 
 {% image "images/IMG_0946.webp" %}
 
-  
-
-
 Our guide was great
-
-  
-
 
 {% image "images/IMG_0948.webp" %}
 
-  
-
-
 {% image "images/IMG_0949.webp" %}
-
-  
-
 
 {% image "images/IMG_0950.webp" %}
 
-  
-
-
 Theater
-
-  
-
 
 {% image "images/IMG_0951.webp" %}
 
-  
-
-
 {% image "images/IMG_0955.webp" %}
-
-  
-
 
 {% image "images/IMG_0958.webp" %}
 
-  
-
-
 {% image "images/IMG_0962.webp" %}
-
-  
-
 
 {% image "images/IMG_0963.webp" %}
 
-  
-
-
 {% image "images/IMG_0964.webp" %}
-
-  
-
 
 She called this fast food that citizens grabbed dinner on the way home from work. From the brochure above, I believe that it is called Thermopolia. 
 
-  
-
-
 {% image "images/IMG_0967.webp" %}
-
-  
-
 
 Original pavement
 
-  
-
-
 {% image "images/IMG_0972.webp" %}
-
-  
-
 
 The fancy house that still has some of the original paint. Pompeii was very colorful before the eruption.
 
-  
-
-
 {% image "images/IMG_0976.webp" %}
-
-  
-
 
 {% image "images/IMG_0979.webp" %}
 
-  
-
-
 {% image "images/IMG_0980.webp" %}
-
-  
-
 
 {% image "images/IMG_0982.webp" %}
 
-  
-
-
 {% image "images/IMG_0984.webp" %}
-
-  
-
 
 {% image "images/IMG_0986.webp" %}
 
-  
-
-
 {% image "images/IMG_0988.webp" %}
-
-  
-
 
 {% image "images/IMG_0991.webp" %}
 
-  
-
-
 {% image "images/IMG_0993.webp" %}
-
-  
-
 
 {% image "images/IMG_0994.webp" %}
 
-  
-
-
 Original pictures drawn on the wall in the fancy house
-
-  
-
 
 {% image "images/IMG_0997.webp" %}
 
-  
-
-
 {% image "images/IMG_0998.webp" %}
-
-  
-
 
 {% image "images/IMG_0999.webp" %}
 
-  
-
-
 Back outside, public fountains
-
-  
-
 
 {% image "images/IMG_1016.webp" %}
 
-  
-
-
 {% image "images/IMG_1053.webp" %}
-
-  
-
 
 {% image "images/IMG_1054.webp" %}
 
-  
-
-
 {% image "images/IMG_1055.webp" %}
-
-  
-
 
 Original pipes made of lead and bronze
 
-  
-
-
 {% image "images/IMG_1025.webp" %}
-
-  
-
 
 These are blocks that the horse and buggies went over (bottom picture; the top is covered over to make it safer to walk today); all the buggies had to have a standard wheel base and height. 
 
-  
-
-
 {% image "images/IMG_1018.webp" %}
-
-  
-
 
 {% image "images/IMG_1019.webp" %}
 
-  
-
-
 {% image "images/IMG_1022.webp" %}
-
-  
-
 
 The Stabian baths; they were very interesting. Workers poured in hot water. 
 
-  
-
-
 {% image "images/IMG_1026.webp" %}
-
-  
-
 
 {% image "images/IMG_1028.webp" %}
 
-  
-
-
 {% image "images/IMG_1031.webp" %}
-
-  
-
 
 {% image "images/IMG_1032.webp" %}
 
-  
-
-
 {% image "images/IMG_1033.webp" %}
-
-  
-
 
 {% image "images/IMG_1037.webp" %}
 
-  
-
-
 {% image "images/IMG_1038.webp" %}
-
-  
-
 
 {% image "images/IMG_1039.webp" %}
 
-  
-
-
 {% image "images/IMG_1041.webp" %}
-
-  
-
 
 {% image "images/IMG_1042.webp" %}
 
-  
-
-
 {% image "images/IMG_1043.webp" %}
-
-  
-
 
 {% image "images/IMG_1046.webp" %}
 
-  
-
-
-  
-
-
 {% image "images/IMG_1056.webp" %}
-
-  
-
 
 The Forum had so much to see, and Mount Vesuvius was looming in the background. Mt. Vesuvius erupted in 79 AD. 
 
-  
-
-
 {% image "images/IMG_1061.webp" %}
-
-  
-
 
 {% image "images/IMG_1063.webp" %}
 
 {% image "images/IMG_1064.webp" %}
 
-  
-
-
 {% image "images/IMG_1065.webp" %}
-
-  
-
 
 {% image "images/IMG_1067.webp" %}
 
-  
-
-
 {% image "images/IMG_1068.webp" %}
-
-  
-
 
 {% image "images/IMG_1071.webp" %}
 
-  
-
-
 {% image "images/IMG_1077.webp" %}
-
-  
-
 
 {% image "images/IMG_1081.webp" %}
 
-  
-
-
 {% image "images/IMG_1083.webp" %}
-
-  
-
 
 Cavities filled with plaster to show where people were buried by ash and their facial expression. 
 
-  
-
-
 {% image "images/IMG_1084.webp" %}
-
-  
-
 
 {% image "images/IMG_1085.webp" %}
 
-  
-
-
 {% image "images/IMG_1086.webp" %}
-
-  
-
 
 {% image "images/IMG_1087.webp" %}
 
-  
-
-
 {% image "images/IMG_1088.webp" %}
-
-  
-
 
 {% image "images/IMG_1089.webp" %}
 
-  
-
-
 {% image "images/IMG_1092.webp" %}
-
-  
-
 
 {% image "images/IMG_1094.webp" %}
 
-  
-
-
 {% image "images/IMG_1095.webp" %}
-
-  
-
 
 {% image "images/IMG_1096.webp" %}
 
-  
-
-
 {% image "images/IMG_1097.webp" %}
-
-  
-
 
 {% image "images/IMG_1098.webp" %}
 
-  
-
-
 {% image "images/IMG_1104.webp" %}
-
-  
-
 
 {% image "images/IMG_1105.webp" %}
 
-  
-
-
 {% image "images/IMG_1106.webp" %}
-
-  
-
 
 {% image "images/IMG_1114.webp" %}
 
-  
-
-
 {% image "images/IMG_1117.webp" %}
-
-  
-
 
 More umbrella trees leaving Pompeii and then back at the port in Naples. 
 
-  
-
-
 {% image "images/IMG_1118.webp" %}
-
-  
-
 
 {% image "images/IMG_1126.webp" %}
 
-  
-
-
 {% image "images/IMG_1128.webp" %}
 
-  
-
-
 I was not excited with the MDR menu (below), so we went to the buffet for dinner. I did have some good Asian beef and a S'mores brownie. 
-
-  
-
 
 {% image "images/image42.webp" %}
 
 {% image "images/image43.webp" %}
 
 Next up...[staying on board for Livorno and disembarkation](https://ww-wanderers.blogspot.com/2025/01/staying-on-board-for-livorno-and.html)
-
-  
-
-
-  
-
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
