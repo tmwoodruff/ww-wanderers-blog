@@ -12,32 +12,32 @@ description: ""
 
 For our last day in Mt. Rainier, we hiked Carter Falls trail. Trail of Shadows trail was connected to our campground; we planned to hike it but never made. For the last day, Carter Falls sounded more exciting. Here we also got to hike beside both the clear Paradise River and the cloudy (glacial flour) Nisqually River. 
 
-[<img width="320" src="images/IMG_8268.webp"/>]({% image "content/blog/images/IMG_8268.webp" %})
+{% image "images/IMG_8268.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8275.webp"/>]({% image "content/blog/images/IMG_8275.webp" %})
+{% image "images/IMG_8275.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140296.webp"/>]({% image "content/blog/images/P1140296.webp" %})
+{% image "images/P1140296.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140301.webp"/>]({% image "content/blog/images/P1140301.webp" %})
+{% image "images/P1140301.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140302.webp"/>]({% image "content/blog/images/P1140302.webp" %})
+{% image "images/P1140302.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140306.webp"/>]({% image "content/blog/images/P1140306.webp" %})
+{% image "images/P1140306.webp" %}
 
   
 
@@ -57,17 +57,17 @@ We could now go on to Staircase. We did stop at Lake Cushman Lookout on the way.
   
 
 
-[<img width="320" src="images/P1140311.webp"/>]({% image "content/blog/images/P1140311.webp" %})
+{% image "images/P1140311.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140312.webp"/>]({% image "content/blog/images/P1140312.webp" %})
+{% image "images/P1140312.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140315.webp"/>]({% image "content/blog/images/P1140315.webp" %})
+{% image "images/P1140315.webp" %}
 
   
 
@@ -77,7 +77,7 @@ Continuing along the lake and lake goers driving and parking, this was a dirt ro
   
 
 
-[<img width="320" src="images/P1140345.webp"/>]({% image "content/blog/images/P1140345.webp" %})
+{% image "images/P1140345.webp" %}
 
   
 
@@ -86,57 +86,57 @@ After setting of the campsite, we hiked the Staircase Rapids Loop trail; the tra
   
 
 
-[<img width="320" src="images/P1140317.webp"/>]({% image "content/blog/images/P1140317.webp" %})
+{% image "images/P1140317.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8278.webp"/>]({% image "content/blog/images/IMG_8278.webp" %})
+{% image "images/IMG_8278.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8280.webp"/>]({% image "content/blog/images/IMG_8280.webp" %})
+{% image "images/IMG_8280.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140322.webp"/>]({% image "content/blog/images/P1140322.webp" %})
+{% image "images/P1140322.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140324.webp"/>]({% image "content/blog/images/P1140324.webp" %})
+{% image "images/P1140324.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140327.webp"/>]({% image "content/blog/images/P1140327.webp" %})
+{% image "images/P1140327.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140328.webp"/>]({% image "content/blog/images/P1140328.webp" %})
+{% image "images/P1140328.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140329.webp"/>]({% image "content/blog/images/P1140329.webp" %})
+{% image "images/P1140329.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140334.webp"/>]({% image "content/blog/images/P1140334.webp" %})
+{% image "images/P1140334.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140335.webp"/>]({% image "content/blog/images/P1140335.webp" %})
+{% image "images/P1140335.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140336.webp"/>]({% image "content/blog/images/P1140336.webp" %})
+{% image "images/P1140336.webp" %}
 
   
 
@@ -146,12 +146,12 @@ The bridge to cross to the other side of the river to keep the hike to 2 miles.
   
 
 
-[<img width="320" src="images/P1140339.webp"/>]({% image "content/blog/images/P1140339.webp" %})
+{% image "images/P1140339.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140343.webp"/>]({% image "content/blog/images/P1140343.webp" %})
+{% image "images/P1140343.webp" %}
 
   
 Back at the campsite, we hung out a little by the river and then slept. 

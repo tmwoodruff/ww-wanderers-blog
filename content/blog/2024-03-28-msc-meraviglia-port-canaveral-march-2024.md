@@ -16,27 +16,27 @@ We started the morning at the buffet since we were not blown away by the MDR for
 
 After breakfast, Travis, Owen, and I tried the rope course. We did not know about needing the waiver or where to go in, so got snapped at by the crew. They were nicer after we did it right. You have to go to the aqua park to sign the waiver and get a bracelet. Enter the long hall, past the water park heading forward, on the starboard side. He kindly gave me another, looser bracelet after I did not like the first so tight. I generally don't like rope courses that much, so only went around once. Travis and Owen went around multiple times; Travis trying with no hands -- no thank you :)! 
 
-[<img width="320" src="images/IMG_7681.webp"/>]({% image "content/blog/images/IMG_7681.webp" %})
+{% image "images/IMG_7681.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7683.webp"/>]({% image "content/blog/images/IMG_7683.webp" %})
+{% image "images/IMG_7683.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7686.webp"/>]({% image "content/blog/images/IMG_7686.webp" %})
+{% image "images/IMG_7686.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7695.webp"/>]({% image "content/blog/images/IMG_7695.webp" %})
+{% image "images/IMG_7695.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7700.webp"/>]({% image "content/blog/images/IMG_7700.webp" %})
+{% image "images/IMG_7700.webp" %}
 
   
 
@@ -56,77 +56,77 @@ We saw tons of alligators and birds that our guide stopped and pointed out, and 
   
 
 
-[<img width="320" src="images/IMG_7702.webp"/>]({% image "content/blog/images/IMG_7702.webp" %})
+{% image "images/IMG_7702.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7704.webp"/>]({% image "content/blog/images/IMG_7704.webp" %})
+{% image "images/IMG_7704.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7705.webp"/>]({% image "content/blog/images/IMG_7705.webp" %})
+{% image "images/IMG_7705.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7714.webp"/>]({% image "content/blog/images/IMG_7714.webp" %})
+{% image "images/IMG_7714.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7715.webp"/>]({% image "content/blog/images/IMG_7715.webp" %})
+{% image "images/IMG_7715.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7719.webp"/>]({% image "content/blog/images/IMG_7719.webp" %})
+{% image "images/IMG_7719.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7722.webp"/>]({% image "content/blog/images/IMG_7722.webp" %})
+{% image "images/IMG_7722.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7734.webp"/>]({% image "content/blog/images/IMG_7734.webp" %})
+{% image "images/IMG_7734.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7735.webp"/>]({% image "content/blog/images/IMG_7735.webp" %})
+{% image "images/IMG_7735.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7749.webp"/>]({% image "content/blog/images/IMG_7749.webp" %})
+{% image "images/IMG_7749.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7752.webp"/>]({% image "content/blog/images/IMG_7752.webp" %})
+{% image "images/IMG_7752.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7759.webp"/>]({% image "content/blog/images/IMG_7759.webp" %})
+{% image "images/IMG_7759.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7765.webp"/>]({% image "content/blog/images/IMG_7765.webp" %})
+{% image "images/IMG_7765.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7768.webp"/>]({% image "content/blog/images/IMG_7768.webp" %})
+{% image "images/IMG_7768.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7781.webp"/>]({% image "content/blog/images/IMG_7781.webp" %})
+{% image "images/IMG_7781.webp" %}
 
   
 
@@ -136,32 +136,32 @@ We originally wanted to visit the Air Force museum, near the port (since Joel ha
   
 
 
-[<img width="320" src="images/IMG_7782.webp"/>]({% image "content/blog/images/IMG_7782.webp" %})
+{% image "images/IMG_7782.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7783.webp"/>]({% image "content/blog/images/IMG_7783.webp" %})
+{% image "images/IMG_7783.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7786.webp"/>]({% image "content/blog/images/IMG_7786.webp" %})
+{% image "images/IMG_7786.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7787.webp"/>]({% image "content/blog/images/IMG_7787.webp" %})
+{% image "images/IMG_7787.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7793.webp"/>]({% image "content/blog/images/IMG_7793.webp" %})
+{% image "images/IMG_7793.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7795.webp"/>]({% image "content/blog/images/IMG_7795.webp" %})
+{% image "images/IMG_7795.webp" %}
 
   
 
@@ -171,17 +171,17 @@ From the park, hello, Meraviglia!
   
 
 
-[<img width="320" src="images/IMG_7796.webp"/>]({% image "content/blog/images/IMG_7796.webp" %})
+{% image "images/IMG_7796.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7797.webp"/>]({% image "content/blog/images/IMG_7797.webp" %})
+{% image "images/IMG_7797.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7799.webp"/>]({% image "content/blog/images/IMG_7799.webp" %})
+{% image "images/IMG_7799.webp" %}
 
   
 
@@ -191,7 +191,7 @@ We stopped for gas to fill up the car and went back, making it just a few minute
   
 
 
-[<img width="320" src="images/IMG_7800.webp"/>]({% image "content/blog/images/IMG_7800.webp" %})
+{% image "images/IMG_7800.webp" %}
 
   
 
@@ -206,17 +206,17 @@ Travis's crab cake, my Caesar salad, and Joel's cheddar broccoli soup:
   
 
 
-[<img width="320" src="images/IMG_7801.webp"/>]({% image "content/blog/images/IMG_7801.webp" %})
+{% image "images/IMG_7801.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7802.webp"/>]({% image "content/blog/images/IMG_7802.webp" %})
+{% image "images/IMG_7802.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7803.webp"/>]({% image "content/blog/images/IMG_7803.webp" %})
+{% image "images/IMG_7803.webp" %}
 
   
 
@@ -226,17 +226,17 @@ Travis ordered clam and linguini, but Ramon noted the pasta being too soft that 
   
 
 
-[<img width="320" src="images/IMG_7804.webp"/>]({% image "content/blog/images/IMG_7804.webp" %})
+{% image "images/IMG_7804.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7805.webp"/>]({% image "content/blog/images/IMG_7805.webp" %})
+{% image "images/IMG_7805.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7806.webp"/>]({% image "content/blog/images/IMG_7806.webp" %})
+{% image "images/IMG_7806.webp" %}
 
   
 
@@ -246,12 +246,12 @@ Desserts were Dulce de Leche cake and NY cheesecake with chocolate for me and Ow
   
 
 
-[<img width="320" src="images/IMG_7807.webp"/>]({% image "content/blog/images/IMG_7807.webp" %})
+{% image "images/IMG_7807.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7808.webp"/>]({% image "content/blog/images/IMG_7808.webp" %})
+{% image "images/IMG_7808.webp" %}
 
   
 
@@ -261,7 +261,7 @@ The sunsetting in Florida.
   
 
 
-[<img width="320" src="images/IMG_7809.webp"/>]({% image "content/blog/images/IMG_7809.webp" %})
+{% image "images/IMG_7809.webp" %}
 
 Travis, Owen, and I went to Encore, the Broadway show that included songs and sections from many Broadway musicals. It was very good. Joel went to the gym instead. 
 

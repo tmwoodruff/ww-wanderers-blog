@@ -10,12 +10,12 @@ description: ""
 
 **NCL Star - Review**
 
-[<img width="320" src="images/P1130037.webp"/>]({% image "content/blog/images/P1130037.webp" %})
+{% image "images/P1130037.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6441.webp"/>]({% image "content/blog/images/IMG_6441.webp" %})
+{% image "images/IMG_6441.webp" %}
 
 Iceland, Greenland, and all the icebergs were beautiful to see and great to experience. With a full ship, the additional sea days did make us ready to get off. I also felt bad for the crew that did not get as many breaks from us. 
 

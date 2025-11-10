@@ -16,12 +16,12 @@ Travis and I tried the trivia. It was beside the pool using the pool TV, which c
 
 We were still following the Anthem of the Seas, as seen from our forward facing window. 
 
-[<img width="320" src="images/IMG_7654.webp"/>]({% image "content/blog/images/IMG_7654.webp" %})
+{% image "images/IMG_7654.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7655.webp"/>]({% image "content/blog/images/IMG_7655.webp" %})
+{% image "images/IMG_7655.webp" %}
 
   
 
@@ -31,32 +31,32 @@ We also had lunch in the MDR. The menu sounded good, but I was a little disappoi
   
 
 
-[<img width="320" src="images/IMG_7658.webp"/>]({% image "content/blog/images/IMG_7658.webp" %})
+{% image "images/IMG_7658.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7659.webp"/>]({% image "content/blog/images/IMG_7659.webp" %})
+{% image "images/IMG_7659.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7661.webp"/>]({% image "content/blog/images/IMG_7661.webp" %})
+{% image "images/IMG_7661.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7662.webp"/>]({% image "content/blog/images/IMG_7662.webp" %})
+{% image "images/IMG_7662.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7663.webp"/>]({% image "content/blog/images/IMG_7663.webp" %})
+{% image "images/IMG_7663.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7664.webp"/>]({% image "content/blog/images/IMG_7664.webp" %})
+{% image "images/IMG_7664.webp" %}
 
   
 
@@ -66,7 +66,7 @@ We were a big ship, so had a wide wake.
   
 
 
-[<img width="320" src="images/IMG_7665.webp"/>]({% image "content/blog/images/IMG_7665.webp" %})
+{% image "images/IMG_7665.webp" %}
 
   
 
@@ -84,32 +84,32 @@ This was Gala or Formal night, so we had extra special food awaiting us. This is
   
 
 
-[<img width="320" src="images/IMG_7666.webp"/>]({% image "content/blog/images/IMG_7666.webp" %})
+{% image "images/IMG_7666.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7667.webp"/>]({% image "content/blog/images/IMG_7667.webp" %})
+{% image "images/IMG_7667.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7668.webp"/>]({% image "content/blog/images/IMG_7668.webp" %})
+{% image "images/IMG_7668.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7669.webp"/>]({% image "content/blog/images/IMG_7669.webp" %})
+{% image "images/IMG_7669.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7671.webp"/>]({% image "content/blog/images/IMG_7671.webp" %})
+{% image "images/IMG_7671.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7673.webp"/>]({% image "content/blog/images/IMG_7673.webp" %})
+{% image "images/IMG_7673.webp" %}
 
   
 
@@ -123,17 +123,17 @@ On to the mains:
   
 
 
-[<img width="320" src="images/IMG_7674.webp"/>]({% image "content/blog/images/IMG_7674.webp" %})
+{% image "images/IMG_7674.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7676.webp"/>]({% image "content/blog/images/IMG_7676.webp" %})
+{% image "images/IMG_7676.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7675.webp"/>]({% image "content/blog/images/IMG_7675.webp" %})
+{% image "images/IMG_7675.webp" %}
 
   
 
@@ -143,12 +143,12 @@ The desserts were wonderful. We got two of each among us -- the Royal Cake and B
   
 
 
-[<img width="320" src="images/IMG_7678.webp"/>]({% image "content/blog/images/IMG_7678.webp" %})
+{% image "images/IMG_7678.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7679.webp"/>]({% image "content/blog/images/IMG_7679.webp" %})
+{% image "images/IMG_7679.webp" %}
 
 We went to the 8:30 show. It was now the magicians, switched with the Broadway-style show, now on the next night, since the seas were a bit rough. There were multiple, different magicians that were good and entertaining. One was pretty funny with audience kids pulled on stage.
 

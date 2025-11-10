@@ -10,12 +10,12 @@ description: ""
 
 Beatty, NV has resident donkeys. Someone had put out some food for them. When we were checking out of the hotel, I believe that we had the car loaded, but Travis was trying to get in the car and I heading to the office to check out and then went back to the room for something. I was worried for both us. 
 
-[<img width="320" src="images/IMG_4222.webp"/>]({% image "content/blog/images/IMG_4222.webp" %})
+{% image "images/IMG_4222.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4331.webp"/>]({% image "content/blog/images/IMG_4331.webp" %})
+{% image "images/IMG_4331.webp" %}
 
   
 
@@ -25,12 +25,12 @@ On the way out, we headed south past Amargosa Opera House; the tall part on the 
   
 
 
-[<img width="320" src="images/IMG_4327.webp"/>]({% image "content/blog/images/IMG_4327.webp" %})
+{% image "images/IMG_4327.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4330.webp"/>]({% image "content/blog/images/IMG_4330.webp" %})
+{% image "images/IMG_4330.webp" %}
 
   
 
@@ -40,7 +40,7 @@ Then we went on to Mt. Charleston. A co-worker recommended this park. It was ver
   
 
 
-[<img width="320" src="images/IMG_4362.webp"/>]({% image "content/blog/images/IMG_4362.webp" %})
+{% image "images/IMG_4362.webp" %}
 
   
 
@@ -50,12 +50,12 @@ This area had a few small trails that we walked around.
   
 
 
-[<img width="320" src="images/IMG_4353.webp"/>]({% image "content/blog/images/IMG_4353.webp" %})
+{% image "images/IMG_4353.webp" %}
 
   
 
 
-[<img width="320" src="images/277003936_10220240748718728_3280867263020167195.webp"/>]({% image "content/blog/images/277003936_10220240748718728_3280867263020167195.webp" %})
+{% image "images/277003936_10220240748718728_3280867263020167195.webp" %}
 
   
 
@@ -65,12 +65,12 @@ Then we went to the visitor center to ask about a hike that I had read about and
   
 
 
-[<img width="320" src="images/IMG_4372.webp"/>]({% image "content/blog/images/IMG_4372.webp" %})
+{% image "images/IMG_4372.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4371.webp"/>]({% image "content/blog/images/IMG_4371.webp" %})
+{% image "images/IMG_4371.webp" %}
 
   
 
@@ -78,7 +78,7 @@ Then we went to the visitor center to ask about a hike that I had read about and
 In Vegas, we visited Pinball Hall of Fame. It was close to the airport. I brought a lot of quarters from home to use up some collected change. The older pinball machines were a quarter or two, but newer games were up to $1.50. They were fun to see the many different designs and technologies.   
 
 
-[<img width="320" src="images/276321854_10220240749118738_3544250766187931668.webp"/>]({% image "content/blog/images/276321854_10220240749118738_3544250766187931668.webp" %})
+{% image "images/276321854_10220240749118738_3544250766187931668.webp" %}
 
   
 
@@ -88,7 +88,7 @@ We stayed at The Orleans. It had free parking in a garage. We walked around the 
   
 
 
-[<img width="320" src="images/277253054_10220240754278867_3595846454769543141.webp"/>]({% image "content/blog/images/277253054_10220240754278867_3595846454769543141.webp" %})
+{% image "images/277253054_10220240754278867_3595846454769543141.webp" %}
 
   
 
@@ -98,12 +98,12 @@ The next day, we went to Red Rock Canyon. Someone that we talked to mentioned th
   
 
 
-[<img width="320" src="images/277310383_10220240752358819_4398241950400244809.webp"/>]({% image "content/blog/images/277310383_10220240752358819_4398241950400244809.webp" %})
+{% image "images/277310383_10220240752358819_4398241950400244809.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4421.webp"/>]({% image "content/blog/images/IMG_4421.webp" %})
+{% image "images/IMG_4421.webp" %}
 
   
 
@@ -113,52 +113,52 @@ This hike required a lot of rock scrambling, which we were warned on the sign. A
   
 
 
-[<img width="320" src="images/P1100486.webp"/>]({% image "content/blog/images/P1100486.webp" %})
+{% image "images/P1100486.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100489.webp"/>]({% image "content/blog/images/P1100489.webp" %})
+{% image "images/P1100489.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100491.webp"/>]({% image "content/blog/images/P1100491.webp" %})
+{% image "images/P1100491.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100514.webp"/>]({% image "content/blog/images/P1100514.webp" %})
+{% image "images/P1100514.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100515.webp"/>]({% image "content/blog/images/P1100515.webp" %})
+{% image "images/P1100515.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100518.webp"/>]({% image "content/blog/images/P1100518.webp" %})
+{% image "images/P1100518.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100519.webp"/>]({% image "content/blog/images/P1100519.webp" %})
+{% image "images/P1100519.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100531.webp"/>]({% image "content/blog/images/P1100531.webp" %})
+{% image "images/P1100531.webp" %}
 
   
 
 
-[<img width="320" src="images/277000966_10220240761399045_3003506520277470049.webp"/>]({% image "content/blog/images/277000966_10220240761399045_3003506520277470049.webp" %})
+{% image "images/277000966_10220240761399045_3003506520277470049.webp" %}
 
   
 
 
-[<img width="320" src="images/277302173_10220240739918508_3620477550347686453.webp"/>]({% image "content/blog/images/277302173_10220240739918508_3620477550347686453.webp" %})
+{% image "images/277302173_10220240739918508_3620477550347686453.webp" %}
 
   
 
@@ -168,7 +168,7 @@ In the evening, we had a reservation for Din Tai Fung in Aria. We parked free at
   
 
 
-[<img width="320" src="images/IMG-20220321-WA0004.webp"/>]({% image "content/blog/images/IMG-20220321-WA0004.webp" %}) [<img width="320" src="images/IMG-20220321-WA0006.webp"/>]({% image "content/blog/images/IMG-20220321-WA0006.webp" %})
+{% image "images/IMG-20220321-WA0004.webp" %} {% image "images/IMG-20220321-WA0006.webp" %}
 
   
 

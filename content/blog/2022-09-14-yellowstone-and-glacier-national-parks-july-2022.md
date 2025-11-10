@@ -12,7 +12,7 @@ description: ""
 
 We drove to the Grand Canyon of Yellowstone, the right way, which was 14 miles North to Norris and then 12 miles East to Canyon Village. We parked at Uncle Tom's Cabin lot. It was early in the morning, so there was plenty of parking left. We first stopped at Upper Falls Viewpoint with also a view of the bridge in the background. 
 
-[<img width="320" src="images/IMG_5242.webp"/>]({% image "content/blog/images/IMG_5242.webp" %})
+{% image "images/IMG_5242.webp" %}
 
   
 
@@ -27,37 +27,37 @@ We arrived at Artist Point. It was so picturesque.
   
 
 
-[<img width="320" src="images/P1110461.webp"/>]({% image "content/blog/images/P1110461.webp" %})
+{% image "images/P1110461.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110497.webp"/>]({% image "content/blog/images/P1110497.webp" %})
+{% image "images/P1110497.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5247.webp"/>]({% image "content/blog/images/IMG_5247.webp" %})
+{% image "images/IMG_5247.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5251.webp"/>]({% image "content/blog/images/IMG_5251.webp" %})
+{% image "images/IMG_5251.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5252.webp"/>]({% image "content/blog/images/IMG_5252.webp" %})
+{% image "images/IMG_5252.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5256.webp"/>]({% image "content/blog/images/IMG_5256.webp" %})
+{% image "images/IMG_5256.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5258.webp"/>]({% image "content/blog/images/IMG_5258.webp" %})
+{% image "images/IMG_5258.webp" %}
 
   
 
@@ -67,7 +67,7 @@ Find the steam vent/volcanic activity in the canyon.
   
 
 
-[<img width="320" src="images/IMG_5263.webp"/>]({% image "content/blog/images/IMG_5263.webp" %})
+{% image "images/IMG_5263.webp" %}
 
   
 
@@ -77,7 +77,7 @@ Then we drove to the North Rim and found a spot on the one-way road. From here, 
   
 
 
-[<img width="320" src="images/IMG_5272.webp"/>]({% image "content/blog/images/IMG_5272.webp" %})
+{% image "images/IMG_5272.webp" %}
 
   
 
@@ -87,12 +87,12 @@ The Brink of the Lower Falls
   
 
 
-[<img width="320" src="images/P1110516.webp"/>]({% image "content/blog/images/P1110516.webp" %})
+{% image "images/P1110516.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110520.webp"/>]({% image "content/blog/images/P1110520.webp" %})
+{% image "images/P1110520.webp" %}
 
   
 
@@ -102,22 +102,22 @@ On the hike, we found this guy. Owen decided that he wanted a pet Marmot. Back h
   
 
 
-[<img width="320" src="images/IMG_5277.webp"/>]({% image "content/blog/images/IMG_5277.webp" %})
+{% image "images/IMG_5277.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110542.webp"/>]({% image "content/blog/images/P1110542.webp" %})
+{% image "images/P1110542.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110545.webp"/>]({% image "content/blog/images/P1110545.webp" %})
+{% image "images/P1110545.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110572.webp"/>]({% image "content/blog/images/P1110572.webp" %})
+{% image "images/P1110572.webp" %}
 
   
 
@@ -127,7 +127,7 @@ In the afternoon, we hiked up to Grand Prismatic Spring overlook, starting at th
   
 
 
-[<img width="320" src="images/P1110583.webp"/>]({% image "content/blog/images/P1110583.webp" %})
+{% image "images/P1110583.webp" %}
 
   
 
@@ -142,7 +142,7 @@ Back at the campsite for our last night, I had to get a picture of the bear box.
   
 
 
-[<img width="320" src="images/IMG_5288.webp"/>]({% image "content/blog/images/IMG_5288.webp" %})
+{% image "images/IMG_5288.webp" %}
 
   
 
@@ -152,7 +152,7 @@ Instead of the normal National Park map, they gave us this.
   
 
 
-[<img width="320" src="images/IMG_20220913_184927122.webp"/>]({% image "content/blog/images/IMG_20220913_184927122.webp" %})
+{% image "images/IMG_20220913_184927122.webp" %}
 
   
 
@@ -162,7 +162,7 @@ With the flood, they also gave us this.
   
 
 
-[<img width="320" src="images/IMG_20220913_185043995.webp"/>]({% image "content/blog/images/IMG_20220913_185043995.webp" %})
+{% image "images/IMG_20220913_185043995.webp" %}
 
   
 

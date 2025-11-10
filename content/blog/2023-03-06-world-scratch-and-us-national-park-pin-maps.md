@@ -1,7 +1,7 @@
 ---
 title: "World Scratch and U.S. National Park Pin Maps"
 date: 2023-03-06
-img: images/Screen%20Shot%202023-03-05%20at%206.37.47%20PM.webp
+img: images/Screen Shot 2023-03-05 at 6.37.47 PM.webp
 tags: [scratch map]
 category: scratch map
 author: Tammy
@@ -17,7 +17,7 @@ World scratch and U.S. National Park pin maps history; both from my sister. We h
   
 
 
-[<img src="images/Screen%20Shot%202023-03-05%20at%206.37.47%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-05%20at%206.37.47%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-05 at 6.37.47 PM.webp" %}
 
   
 
@@ -27,7 +27,7 @@ World scratch and U.S. National Park pin maps history; both from my sister. We h
 **  
 **
 
-[<img src="images/Screen%20Shot%202023-03-05%20at%208.32.42%20PM.webp"/>]({% image "content/blog/images/Screen Shot 2023-03-05 at 8.32.42 PM.webp" %})
+{% image "images/Screen Shot 2023-03-05 at 8.32.42 PM.webp" %}
 
   
 
@@ -37,7 +37,7 @@ World scratch and U.S. National Park pin maps history; both from my sister. We h
   
 
 
-[<img width="320" src="images/Screen%20Shot%202023-03-05%20at%208.32.04%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-05%20at%208.32.04%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-05 at 8.32.04 PM.webp" %}
 
   
 

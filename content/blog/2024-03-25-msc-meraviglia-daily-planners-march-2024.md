@@ -10,7 +10,7 @@ description: ""
 
 Embarkation Day
 
-[![](<img width="320" src="images/image7.webp"/>)]({% image "content/blog/images/image7.webp" %})
+{% image "images/image7.webp" %}
 
   
 
@@ -20,7 +20,7 @@ Day 2 - Sea Day
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175209.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175209.webp" %})
+{% image "images/Screenshot 2024-03-25 175209.webp" %}
 
   
 
@@ -30,7 +30,7 @@ Day 3 - Port Canaveral
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175457.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175457.webp" %})
+{% image "images/Screenshot 2024-03-25 175457.webp" %}
 
   
 
@@ -40,17 +40,17 @@ Day 4 - Ocean Cay
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175627.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175627.webp" %})
+{% image "images/Screenshot 2024-03-25 175627.webp" %}
 
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175700.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175700.webp" %})
+{% image "images/Screenshot 2024-03-25 175700.webp" %}
 
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175715.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175715.webp" %})
+{% image "images/Screenshot 2024-03-25 175715.webp" %}
 
   
 
@@ -60,7 +60,7 @@ Day 5 - Nassau, the Bahamas
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175907.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175907.webp" %})
+{% image "images/Screenshot 2024-03-25 175907.webp" %}
 
   
 
@@ -70,7 +70,7 @@ Day 6 - Sea Day
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175929.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175929.webp" %})
+{% image "images/Screenshot 2024-03-25 175929.webp" %}
 
   
 
@@ -80,7 +80,7 @@ Day 7 - Sea Day
   
 
 
-[<img src="images/Screenshot%202024-03-25%20175950.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20175950.webp" %})
+{% image "images/Screenshot 2024-03-25 175950.webp" %}
 
   
 
@@ -90,7 +90,7 @@ This was useful because the app just had the hours when clicking into each venue
   
 
 
-[<img src="images/Screenshot%202024-03-25%20180033.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20180033.webp" %})
+{% image "images/Screenshot 2024-03-25 180033.webp" %}
 
   
 
@@ -100,7 +100,7 @@ Kid's activities; I only did one day for an example since our kids are too big. 
   
 
 
-[<img src="images/Screenshot%202024-03-25%20180513.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20180513.webp" %})
+{% image "images/Screenshot 2024-03-25 180513.webp" %}
 
   
 
@@ -108,7 +108,7 @@ Kid's activities; I only did one day for an example since our kids are too big. 
   
 
 
-[<img src="images/Screenshot%202024-03-25%20180053.webp"/>]({% image "content/blog/images/Screenshot%202024-03-25%20180053.webp" %})
+{% image "images/Screenshot 2024-03-25 180053.webp" %}
 
   
   

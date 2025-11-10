@@ -10,7 +10,7 @@ description: ""
 
 **Hola, Mexico City - February 4, 2025**
 
-[<img src="images/IMG_1623.webp"/>]({% image "content/blog/images/IMG_1623.webp" %})
+{% image "images/IMG_1623.webp" %}
 
 **Overview**
 
@@ -46,7 +46,7 @@ The drive was crazy (but less crazy than in Rome). At the hotel, we were too ear
 
 We got off near Biblioteca Vasconcelos (library) and Walmart. We went to the library first; this was a very cool looking library that we found pictures of online. It was very cool to see; we did not go into the book section since we had our snacks and water bottles in our backpacks. There was security at each book entrance. We found that security guard was a very common job in Mexico City. See; isn't it awesome?! As part of the library, but outside, they had tables that we planned to have a snack realizing that we had not had lunch yet. All the tables were taken, so we went out of the library. They had bag check when you exited to be sure that you had not taken any books. Outside there was not really any good places to sit for a snack. The potential seating space was really fountains that were not on. We had a quick snack and headed to Walmart. 
 
-[<img src="images/IMG_20250204_133119666_HDR.webp"/>]({% image "content/blog/images/IMG_20250204_133119666_HDR.webp" %})
+{% image "images/IMG_20250204_133119666_HDR.webp" %}
 
   
 
@@ -66,17 +66,17 @@ Walking back to the hotel, this was cool with stained glass and another cool cir
   
 
 
-[<img width="320" src="images/IMG_20250204_165648618_HDR~2.webp"/>]({% image "content/blog/images/IMG_20250204_165648618_HDR~2.webp" %})
+{% image "images/IMG_20250204_165648618_HDR~2.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250204_165733041_HDR.webp"/>]({% image "content/blog/images/IMG_20250204_165733041_HDR.webp" %})
+{% image "images/IMG_20250204_165733041_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250204_165612139_HDR.webp"/>]({% image "content/blog/images/IMG_20250204_165612139_HDR.webp" %})
+{% image "images/IMG_20250204_165612139_HDR.webp" %}
 
   
 
@@ -86,32 +86,32 @@ Back at the hotel, we collected our luggage and finished our check-in. They did 
   
 
 
-[<img width="320" src="images/IMG_1510.webp"/>]({% image "content/blog/images/IMG_1510.webp" %})
+{% image "images/IMG_1510.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1511.webp"/>]({% image "content/blog/images/IMG_1511.webp" %})
+{% image "images/IMG_1511.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1512.webp"/>]({% image "content/blog/images/IMG_1512.webp" %})
+{% image "images/IMG_1512.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1513.webp"/>]({% image "content/blog/images/IMG_1513.webp" %})[<img width="320" src="images/IMG_1514.webp"/>]({% image "content/blog/images/IMG_1514.webp" %})
+{% image "images/IMG_1513.webp" %}{% image "images/IMG_1514.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1515.webp"/>]({% image "content/blog/images/IMG_1515.webp" %})[<img width="320" src="images/IMG_1516.webp"/>]({% image "content/blog/images/IMG_1516.webp" %})
+{% image "images/IMG_1515.webp" %}{% image "images/IMG_1516.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1517.webp"/>]({% image "content/blog/images/IMG_1517.webp" %})
+{% image "images/IMG_1517.webp" %}
 
   
 

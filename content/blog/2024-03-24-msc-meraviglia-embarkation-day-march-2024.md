@@ -20,22 +20,22 @@ Upon arrival, we found (through lots of traffic and walkers) the luggage drop of
 
 New York views from the ship. Anthem of the Seas was on the New Jersey side. 
 
-[<img width="320" src="images/IMG_7585.webp"/>]({% image "content/blog/images/IMG_7585.webp" %})
+{% image "images/IMG_7585.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7587.webp"/>]({% image "content/blog/images/IMG_7587.webp" %})[<img width="320" src="images/IMG_7621.webp"/>]({% image "content/blog/images/IMG_7621.webp" %})
+{% image "images/IMG_7587.webp" %}{% image "images/IMG_7621.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7589.webp"/>]({% image "content/blog/images/IMG_7589.webp" %})
+{% image "images/IMG_7589.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7591.webp"/>]({% image "content/blog/images/IMG_7591.webp" %})
+{% image "images/IMG_7591.webp" %}
 
   
 
@@ -46,7 +46,7 @@ Joel boarding
   
 
 
-[<img width="320" src="images/IMG_7583.webp"/>]({% image "content/blog/images/IMG_7583.webp" %})
+{% image "images/IMG_7583.webp" %}
 
   
 
@@ -71,27 +71,27 @@ Sail away...and we are off. Views from our front facing window (deep window) of 
   
 
 
-[<img width="320" src="images/IMG_7637.webp"/>]({% image "content/blog/images/IMG_7637.webp" %})
+{% image "images/IMG_7637.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7626.webp"/>]({% image "content/blog/images/IMG_7626.webp" %})
+{% image "images/IMG_7626.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7627.webp"/>]({% image "content/blog/images/IMG_7627.webp" %})
+{% image "images/IMG_7627.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7632.webp"/>]({% image "content/blog/images/IMG_7632.webp" %})
+{% image "images/IMG_7632.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7633.webp"/>]({% image "content/blog/images/IMG_7633.webp" %})
+{% image "images/IMG_7633.webp" %}
 
   
 
@@ -106,7 +106,7 @@ Close passage under the bridge.
   
 
 
-[<img width="320" src="images/IMG_7636.webp"/>]({% image "content/blog/images/IMG_7636.webp" %})
+{% image "images/IMG_7636.webp" %}
 
   
 
@@ -116,12 +116,12 @@ We dressed for dinner. Your assigned dining room, time, and table number is on y
   
 
 
-[<img width="320" src="images/IMG_7641.webp"/>]({% image "content/blog/images/IMG_7641.webp" %})
+{% image "images/IMG_7641.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7643.webp"/>]({% image "content/blog/images/IMG_7643.webp" %})
+{% image "images/IMG_7643.webp" %}
 
   
 
@@ -131,12 +131,12 @@ My chicken croquettes -- they were very good; followed by Travis's bay scallop c
   
 
 
-[<img width="320" src="images/IMG_7644.webp"/>]({% image "content/blog/images/IMG_7644.webp" %})
+{% image "images/IMG_7644.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7645.webp"/>]({% image "content/blog/images/IMG_7645.webp" %})
+{% image "images/IMG_7645.webp" %}
 
   
 
@@ -146,17 +146,17 @@ I did get dessert pictures. Both kids got the warm apple crumble and enjoyed it 
   
 
 
-[<img width="320" src="images/IMG_7647.webp"/>]({% image "content/blog/images/IMG_7647.webp" %})
+{% image "images/IMG_7647.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7648.webp"/>]({% image "content/blog/images/IMG_7648.webp" %})
+{% image "images/IMG_7648.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7649.webp"/>]({% image "content/blog/images/IMG_7649.webp" %})
+{% image "images/IMG_7649.webp" %}
 
   
 
@@ -166,22 +166,22 @@ After dinner, we checked out the chocolate store. They were starting an owl; he 
   
 
 
-[<img width="320" src="images/IMG_7651.webp"/>]({% image "content/blog/images/IMG_7651.webp" %})
+{% image "images/IMG_7651.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7940.webp"/>]({% image "content/blog/images/IMG_7940.webp" %})
+{% image "images/IMG_7940.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7941.webp"/>]({% image "content/blog/images/IMG_7941.webp" %})
+{% image "images/IMG_7941.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7942.webp"/>]({% image "content/blog/images/IMG_7942.webp" %})[<img width="320" src="images/IMG_7943.webp"/>]({% image "content/blog/images/IMG_7943.webp" %})
+{% image "images/IMG_7942.webp" %}{% image "images/IMG_7943.webp" %}
 
   
 

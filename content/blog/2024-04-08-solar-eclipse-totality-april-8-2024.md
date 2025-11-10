@@ -10,37 +10,37 @@ description: ""
 
 We are luckily enough to live in a totality band for the April 8, 2024 solar eclipse. We had just over a minute of totality in our location. It did get dark, like dusk, and the crickets started chirping. It was SO AWESOME! I'm ready for the next. I looked up when it will be...not too soon. We loved this one!
 
-[<img width="320" src="images/P1140035.webp"/>]({% image "content/blog/images/P1140035.webp" %})
+{% image "images/P1140035.webp" %}
 
   
 
 
-[![]((<img width="320" src="images/image8.webp"/>)]({% image "content/blog/images/image8.webp" %})
+{% image "images/image8.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140062.webp"/>]({% image "content/blog/images/P1140062.webp" %})
+{% image "images/P1140062.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140066.webp"/>]({% image "content/blog/images/P1140066.webp" %})
+{% image "images/P1140066.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140070.webp"/>]({% image "content/blog/images/P1140070.webp" %})
+{% image "images/P1140070.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140071.webp"/>]({% image "content/blog/images/P1140071.webp" %})
+{% image "images/P1140071.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140075.webp"/>]({% image "content/blog/images/P1140075.webp" %})
+{% image "images/P1140075.webp" %}
 
   
 

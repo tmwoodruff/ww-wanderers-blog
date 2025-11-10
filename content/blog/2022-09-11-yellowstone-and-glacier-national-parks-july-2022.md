@@ -14,12 +14,12 @@ We got up early for our second day of exploring and ate breakfast in the car. We
 
 At Lower Geyser Basin, we lucked into Fountain Geyser off and the full time that we were there/we watched for a while. Travis with Fountain Geyser from a distance. 
 
-[<img width="320" src="images/IMG_5167.webp"/>]({% image "content/blog/images/IMG_5167.webp" %})
+{% image "images/IMG_5167.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110384.webp"/>]({% image "content/blog/images/P1110384.webp" %})
+{% image "images/P1110384.webp" %}
 
   
 
@@ -29,7 +29,7 @@ A pool on the same trail, which had additional geysers and pools.
   
 
 
-[<img width="320" src="images/P1110372.webp"/>]({% image "content/blog/images/P1110372.webp" %})
+{% image "images/P1110372.webp" %}
 
   
 
@@ -39,7 +39,7 @@ Midway with Grand Prismatic Spring. This trail was pretty and had some other att
   
 
 
-[<img width="320" src="images/IMG_5178.webp"/>]({% image "content/blog/images/IMG_5178.webp" %})
+{% image "images/IMG_5178.webp" %}
 
   
 
@@ -49,7 +49,7 @@ Opal Pool was very pretty in the morning.
   
 
 
-[<img width="320" src="images/P1110392.webp"/>]({% image "content/blog/images/P1110392.webp" %})
+{% image "images/P1110392.webp" %}
 
   
 
@@ -59,7 +59,7 @@ At this point, I went the wrong way to the Grand Canyon of Yellowstone, continui
   
 
 
-[<img width="320" src="images/IMG_5181.webp"/>]({% image "content/blog/images/IMG_5181.webp" %})
+{% image "images/IMG_5181.webp" %}
 
   
 
@@ -74,7 +74,7 @@ West Thumb was right behind the visitor center. We took a quick look; the lake w
   
 
 
-[<img width="320" src="images/IMG_5185.webp"/>]({% image "content/blog/images/IMG_5185.webp" %})
+{% image "images/IMG_5185.webp" %}
 
   
 
@@ -84,12 +84,12 @@ We drove to and hiked West Thumb Geyser Basin Trail that Travis found on his NPS
   
 
 
-[<img width="320" src="images/IMG_5172.webp"/>]({% image "content/blog/images/IMG_5172.webp" %})
+{% image "images/IMG_5172.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5168.webp"/>]({% image "content/blog/images/IMG_5168.webp" %})
+{% image "images/IMG_5168.webp" %}
 
   
 
@@ -97,7 +97,7 @@ We drove to and hiked West Thumb Geyser Basin Trail that Travis found on his NPS
   
 
 
-[<img width="320" src="images/P1110403.webp"/>]({% image "content/blog/images/P1110403.webp" %})
+{% image "images/P1110403.webp" %}
 
   
 
@@ -107,24 +107,24 @@ One with the lake and pool
   
 
 
-[<img width="320" src="images/P1110405.webp"/>]({% image "content/blog/images/P1110405.webp" %})
+{% image "images/P1110405.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110406.webp"/>]({% image "content/blog/images/P1110406.webp" %})
+{% image "images/P1110406.webp" %}
 
   
 
 
 Bison and elk in Hayden Valley. Hayden Valley did not have the volume of bison with bison jams like when we visited before. We just saw one animal at a time mostly; Joel was very good at spotting the animals. Now if we could just have gotten him to watch fewer shows and movies on his phone and looked more. Travis wondered if the Park Rangers were trying to keep most of them in Lamar Valley, which was closed to cars and people due to the flood, due to some animal/people incidents this year. 
 
-[<img width="320" src="images/IMG_5241.webp"/>]({% image "content/blog/images/IMG_5241.webp" %})
+{% image "images/IMG_5241.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5239.webp"/>]({% image "content/blog/images/IMG_5239.webp" %})
+{% image "images/IMG_5239.webp" %}
 
   
 
@@ -134,12 +134,12 @@ Bison at the Yellowstone river; we got a view from an overlook on the other side
   
 
 
-[<img width="320" src="images/IMG_5224.webp"/>]({% image "content/blog/images/IMG_5224.webp" %})
+{% image "images/IMG_5224.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110430.webp"/>]({% image "content/blog/images/P1110430.webp" %})
+{% image "images/P1110430.webp" %}
 
   
 
@@ -149,12 +149,12 @@ LeHardys Rapid beside Hayden Valley.
   
 
 
-[<img width="320" src="images/IMG_5220.webp"/>]({% image "content/blog/images/IMG_5220.webp" %})
+{% image "images/IMG_5220.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5217.webp"/>]({% image "content/blog/images/IMG_5217.webp" %})
+{% image "images/IMG_5217.webp" %}
 
   
 
@@ -164,17 +164,17 @@ Mud Volcano
   
 
 
-[<img width="320" src="images/P1110420.webp"/>]({% image "content/blog/images/P1110420.webp" %})
+{% image "images/P1110420.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110408.webp"/>]({% image "content/blog/images/P1110408.webp" %})
+{% image "images/P1110408.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110422.webp"/>]({% image "content/blog/images/P1110422.webp" %})
+{% image "images/P1110422.webp" %}
 
   
 
@@ -184,7 +184,7 @@ Dragon's breath
   
 
 
-[<img width="320" src="images/P1110427.webp"/>]({% image "content/blog/images/P1110427.webp" %})
+{% image "images/P1110427.webp" %}
 
   
 
@@ -199,7 +199,7 @@ We did another hike in the evening to Harlequin Lake; this was west of our camps
   
 
 
-[<img width="320" src="images/P1110440.webp"/>]({% image "content/blog/images/P1110440.webp" %})
+{% image "images/P1110440.webp" %}
 
   
 
@@ -209,7 +209,7 @@ Harlequin Lake
   
 
 
-[<img width="320" src="images/P1110441.webp"/>]({% image "content/blog/images/P1110441.webp" %})
+{% image "images/P1110441.webp" %}
 
   
 

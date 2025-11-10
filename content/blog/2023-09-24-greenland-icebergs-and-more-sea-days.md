@@ -1,7 +1,7 @@
 ---
 title: "Greenland: Icebergs and more sea days"
 date: 2023-09-24
-img: images/IMG_6778%20(2023_09_17%2023_04_38%20UTC).webp
+img: images/IMG_6778 (2023_09_17 23_04_38 UTC).webp
 tags: [icebergs, sea day, Greenland]
 category: icebergs
 author: Tammy
@@ -14,63 +14,63 @@ In the morning, we learned that the Greenland current had blocked the opening to
 
 More iceberg pictures. 
 
-[<img width="320" src="images/IMG_6778%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6778%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6778 \(2023_09_17 23_04_38 UTC\).webp" %}
 
-[<img width="320" src="images/P1130106%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130106%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
-
-  
-
-
-[<img width="320" src="images/IMG_6800%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6800%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1130106 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6802%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6802%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6800 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1130078%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130078%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6802 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6814%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6814%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
-
-[<img width="320" src="images/P1130056%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130056%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1130078 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1130059%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130059%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6814 \(2023_09_17 23_04_38 UTC\).webp" %}
+
+{% image "images/P1130056 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1130068%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130068%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1130059 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1130101%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130101%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1130068 \(2023_09_17 23_04_38 UTC\).webp" %}
+
+  
+
+
+{% image "images/P1130101 \(2023_09_17 23_04_38 UTC\).webp" %}
 
 Our container ship arrived. It is a small one; I guess that they don't need to move too much cargo in the Artic. Then the sailboat that also got stuck in the ice field and was following us out. Until they felt that they were in the clear and that we were going to slowly. I thought I got a picture of it darting around and very close to our aft, from the aft, but I do not find it now. So, attached is the best that I found, but I think this is from the side and earlier -- still a lot of ice around. 
 
   
 
 
-[<img width="320" src="images/IMG_6821%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6821%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6821 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1130069%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1130069%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1130069 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6864.webp"/>]({% image "content/blog/images/IMG_6864.webp" %})
+{% image "images/IMG_6864.webp" %}
 
   
 
@@ -80,12 +80,12 @@ Lunch at O'Sheehan's; my favorite, but not Travis's. He found something that he 
   
 
 
-[<img width="320" src="images/IMG_6824%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6824%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6824 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6825%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6825%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6825 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -95,32 +95,32 @@ Here we go; out of the ice field. Greenland is run by Denmark -- little Denmark 
   
 
 
-[<img width="320" src="images/P1120942.webp"/>]({% image "content/blog/images/P1120942.webp" %})
+{% image "images/P1120942.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6829%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6829%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6829 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6835%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6835%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6835 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6837%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6837%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6837 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6844%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6844%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6844 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6848%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6848%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6848 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -130,32 +130,32 @@ Thrust away; they did seem to be drawn to the cruise ship.
   
 
 
-[<img width="320" src="images/IMG_6850%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6850%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6850 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6868.webp"/>]({% image "content/blog/images/IMG_6868.webp" %})
+{% image "images/IMG_6868.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6859%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6859%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6859 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6867%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6867%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6867 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6868%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6868%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6868 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6876%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6876%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6876 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -165,7 +165,7 @@ I have never seen so many crew in the crew area on the bow at one time, so I too
   
 
 
-[<img width="320" src="images/IMG_6873%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6873%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6873 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -180,10 +180,10 @@ Travis did a martini tasting; the grasshopper (green one) was really good! It is
   
 
 
-[<img width="320" src="images/IMG_20230721_141218590.webp"/>]({% image "content/blog/images/IMG_20230721_141218590.webp" %})  
+{% image "images/IMG_20230721_141218590.webp" %}  
 
 
-[<img width="320" src="images/IMG_20230721_140110365.webp"/>]({% image "content/blog/images/IMG_20230721_140110365.webp" %})
+{% image "images/IMG_20230721_140110365.webp" %}
 
   
 
@@ -193,12 +193,12 @@ I also got a Bushwhacker; it was pretty but too coconut-y tasting. I have had th
   
 
 
-[<img width="320" src="images/IMG_20230720_193814267.webp"/>]({% image "content/blog/images/IMG_20230720_193814267.webp" %})
+{% image "images/IMG_20230720_193814267.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230718_075302074.webp"/>]({% image "content/blog/images/IMG_20230718_075302074.webp" %})
+{% image "images/IMG_20230718_075302074.webp" %}
 
   
 
@@ -208,12 +208,12 @@ All that I have from dinner pictures was my slider app, which was good.
   
 
 
-[<img width="320" src="images/IMG_6881%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6881%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6881 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img src="images/Screenshot%202023-09-24%20174122.webp"/>]({% image "content/blog/images/Screenshot%202023-09-24%20174122.webp" %}) [<img src="images/Screenshot%202023-09-24%20174228.webp"/>]({% image "content/blog/images/Screenshot%202023-09-24%20174228.webp" %})
+{% image "images/Screenshot 2023-09-24 174122.webp" %} {% image "images/Screenshot 2023-09-24 174228.webp" %}
 
   
 
@@ -228,32 +228,32 @@ I had the grilled iceberg wedge salad; I just had to see what a grilled iceberg 
   
 
 
-[<img src="images/20th%20menu%201.webp"/>]({% image "content/blog/images/20th%20menu%201.webp" %}) [<img src="images/Screenshot%202023-09-24%20142333.webp"/>]({% image "content/blog/images/Screenshot%202023-09-24%20142333.webp" %})
+{% image "images/20th menu 1.webp" %} {% image "images/Screenshot 2023-09-24 142333.webp" %}
 
   
 
 
-[<img src="images/IMG_6887%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6887%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6887 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6886%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6886%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6886 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6882%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6882%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6882 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6888%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6888%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6888 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6889%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6889%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6889 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -273,44 +273,44 @@ For dinner, I got the cheese ravioli with a lobster sauce. It too had must of a 
   
 
 
-[<img src="images/Screenshot%202023-09-24%20171750.webp"/>]({% image "content/blog/images/Screenshot%202023-09-24%20171750.webp" %}) [<img src="images/Screenshot%202023-09-24%20171837.webp"/>]({% image "content/blog/images/Screenshot%202023-09-24%20171837.webp" %})
+{% image "images/Screenshot 2023-09-24 171750.webp" %} {% image "images/Screenshot 2023-09-24 171837.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6880%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6880%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6880 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6885%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6885%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6885 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6890%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6890%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6890 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6891%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6891%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6891 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6892%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6892%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6892 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6893%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6893%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6893 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
 The last night, we ate at the Brazilian restaurant for my birthday, but we got a picture of the MDR menu at the Aqua. We never ate in the Aqua; we like the more formal and not such close tables in the aft MDR. Also, it opens earlier. 
 
-[<img width="320" src="images/IMG_20230713_160654424.webp"/>]({% image "content/blog/images/IMG_20230713_160654424.webp" %})[<img width="320" src="images/IMG_20230713_160749471.webp"/>]({% image "content/blog/images/IMG_20230713_160749471.webp" %})
+{% image "images/IMG_20230713_160654424.webp" %}{% image "images/IMG_20230713_160749471.webp" %}
 
 With the missed ports, here was our final itinerary, onboard credit given. We also got a future cruise credit as a percentage. I'm not sure how that will work, but I have picked a cruise to find out. Though NCL kept our port fees. I heard that you have to request them back at guest services. They shot me down saying that if corporate decided to return them that everyone would receive them. I guess corporate decided it is better for the bottom line to keep them. I guess they did have to pay at Dj to try to tender. I don't know if they had to pay for the Dutch pilots. We did not get close to Paamiut or Nuuk, which saved fuel cost. 
 
@@ -324,7 +324,7 @@ After the many sea days, I felt really bad for the crew, who were getting no bre
 
 With our included platinum laundry, we sent two bags on two days. NCL went to only one room service per day, and the laundry said that the room steward had to take by noon to be returned the next day. Though that did not happen, he got the laundry back both times very quickly. 
 
-[<img src="images/Screenshot%202023-09-18%20210950.webp"/>]({% image "content/blog/images/Screenshot%202023-09-18%20210950.webp" %})
+{% image "images/Screenshot 2023-09-18 210950.webp" %}
 
   
 

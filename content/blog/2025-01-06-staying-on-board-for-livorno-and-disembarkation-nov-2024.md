@@ -14,12 +14,12 @@ We had planned to walk around Livorno and had some sites bookmarked in google ma
 
 For breakfast, I got my favorite smoked salmon on a cream cheese bagel from the MDR. This is a thinner bagel that allows you to bit through with salmon the top. Travis had the waffle and fruit salad, instead of his usual (boring/healthy) oatmeal. There was a lady in the MDR in the table next to us who was saying to the waiter that she is allergic to herbs and that she can see herbs. What? All herbs? How could you eat or get any flavor? 
 
-[<img width="320" src="images/IMG_1133.webp"/>]({% image "content/blog/images/IMG_1133.webp" %})
+{% image "images/IMG_1133.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1135.webp"/>]({% image "content/blog/images/IMG_1135.webp" %})
+{% image "images/IMG_1135.webp" %}
 
   
 
@@ -29,17 +29,17 @@ We had an interesting friend in port with us -- a Hapag-Lloyd cruise ship! I kne
   
 
 
-[<img width="320" src="images/IMG_1139.webp"/>]({% image "content/blog/images/IMG_1139.webp" %})
+{% image "images/IMG_1139.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1142.webp"/>]({% image "content/blog/images/IMG_1142.webp" %})
+{% image "images/IMG_1142.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1143.webp"/>]({% image "content/blog/images/IMG_1143.webp" %})
+{% image "images/IMG_1143.webp" %}
 
   
 
@@ -49,22 +49,22 @@ For the last night, we had the MDR. I enjoyed both of my courses. We skipped des
   
 
 
-[<img width="320" src="images/IMG_1144.webp"/>]({% image "content/blog/images/IMG_1144.webp" %})
+{% image "images/IMG_1144.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1145.webp"/>]({% image "content/blog/images/IMG_1145.webp" %})
+{% image "images/IMG_1145.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1146.webp"/>]({% image "content/blog/images/IMG_1146.webp" %})
+{% image "images/IMG_1146.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1147.webp"/>]({% image "content/blog/images/IMG_1147.webp" %})
+{% image "images/IMG_1147.webp" %}
 
   
 

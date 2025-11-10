@@ -20,7 +20,7 @@ We did spot some whales on the trip to the Island.
 
 They passed out snorkeling gear for those who wanted to snorkel and when close recommended getting sunscreen on because it was a national park and can't put it on there (sounds like cheating). I had read to get reef safe sunscreen, so got a little bottle. They also gave us a bracelet that we paid/supported the national park. The pictures of the island are very pretty. I knew that we did not get to go on it, but snorkeling, we learned that we could not even get very close to it. Approaching...
 
-[<img width="320" src="images/IMG_6178.webp"/>]({% image "content/blog/images/IMG_6178.webp" %})
+{% image "images/IMG_6178.webp" %}
 
   
 
@@ -30,17 +30,17 @@ There were some interesting big fish snorkeling; not as good as the Caribbean, b
   
 
 
-[<img width="320" src="images/IMG_6185.webp"/>]({% image "content/blog/images/IMG_6185.webp" %})
+{% image "images/IMG_6185.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6186.webp"/>]({% image "content/blog/images/IMG_6186.webp" %})
+{% image "images/IMG_6186.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6194.webp"/>]({% image "content/blog/images/IMG_6194.webp" %})
+{% image "images/IMG_6194.webp" %}
 
   
 
@@ -50,12 +50,12 @@ The other guy in the picture was my fellow sick friend. Sigh. I have been seasic
   
 
 
-[<img width="320" src="images/IMG_6195.webp"/>]({% image "content/blog/images/IMG_6195.webp" %})
+{% image "images/IMG_6195.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6198.webp"/>]({% image "content/blog/images/IMG_6198.webp" %})
+{% image "images/IMG_6198.webp" %}
 
   
 
@@ -65,47 +65,47 @@ Then we visited another island with lots of birds. Blue and cream footed boobies
   
 
 
-[<img width="320" src="images/IMG_6208.webp"/>]({% image "content/blog/images/IMG_6208.webp" %})
+{% image "images/IMG_6208.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6221.webp"/>]({% image "content/blog/images/IMG_6221.webp" %})
+{% image "images/IMG_6221.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6227.webp"/>]({% image "content/blog/images/IMG_6227.webp" %})
+{% image "images/IMG_6227.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6228.webp"/>]({% image "content/blog/images/IMG_6228.webp" %})
+{% image "images/IMG_6228.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6235.webp"/>]({% image "content/blog/images/IMG_6235.webp" %})
+{% image "images/IMG_6235.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6242.webp"/>]({% image "content/blog/images/IMG_6242.webp" %})
+{% image "images/IMG_6242.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6246.webp"/>]({% image "content/blog/images/IMG_6246.webp" %})
+{% image "images/IMG_6246.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6258.webp"/>]({% image "content/blog/images/IMG_6258.webp" %})
+{% image "images/IMG_6258.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6264.webp"/>]({% image "content/blog/images/IMG_6264.webp" %})
+{% image "images/IMG_6264.webp" %}
 
   
 
@@ -115,12 +115,12 @@ The crew performed.
   
 
 
-[<img width="320" src="images/IMG_6314.webp"/>]({% image "content/blog/images/IMG_6314.webp" %})
+{% image "images/IMG_6314.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6323.webp"/>]({% image "content/blog/images/IMG_6323.webp" %})
+{% image "images/IMG_6323.webp" %}
 
   
 
@@ -135,19 +135,19 @@ We got back off to visit the famous Puerto Vallarta Walmart with wifi. It is ver
   
 
 
-[<img width="320" src="images/IMG_20230129_174601893.webp"/>]({% image "content/blog/images/IMG_20230129_174601893.webp" %})
+{% image "images/IMG_20230129_174601893.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230125_162948323.webp"/>]({% image "content/blog/images/IMG_20230125_162948323.webp" %})
+{% image "images/IMG_20230125_162948323.webp" %}
 
 For dinner, I had fried mozzarella -- big and very good, pork chop -- good flavor but I very full from that late Guy's burger, and melting cake. Travis had mussels, wedge salad, finally got his Indian vegetarian (which is two plates), and Bitter n Blanc. 
 
   
 
 
-[<img width="320" src="images/Screenshot_20230124-201053.webp"/>]({% image "content/blog/images/Screenshot_20230124-201053.webp" %})[<img width="320" src="images/Screenshot_20230124-201124.webp"/>]({% image "content/blog/images/Screenshot_20230124-201124.webp" %})[<img width="320" src="images/Screenshot_20230124-201153.webp"/>]({% image "content/blog/images/Screenshot_20230124-201153.webp" %})
+{% image "images/Screenshot_20230124-201053.webp" %}{% image "images/Screenshot_20230124-201124.webp" %}{% image "images/Screenshot_20230124-201153.webp" %}
 
   
 
@@ -155,22 +155,22 @@ For dinner, I had fried mozzarella -- big and very good, pork chop -- good flavo
   
 
 
-[<img width="320" src="images/IMG_6333.webp"/>]({% image "content/blog/images/IMG_6333.webp" %})
+{% image "images/IMG_6333.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6336.webp"/>]({% image "content/blog/images/IMG_6336.webp" %})
+{% image "images/IMG_6336.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6338.webp"/>]({% image "content/blog/images/IMG_6338.webp" %})
+{% image "images/IMG_6338.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6339.webp"/>]({% image "content/blog/images/IMG_6339.webp" %})
+{% image "images/IMG_6339.webp" %}
 
   
 
@@ -180,17 +180,17 @@ We watched the new comedians that boarded -- Jason Love and Eric Blake. It sound
   
 
 
-[<img width="320" src="images/IMG_6340.webp"/>]({% image "content/blog/images/IMG_6340.webp" %})
+{% image "images/IMG_6340.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230125_075718211.webp"/>]({% image "content/blog/images/IMG_20230125_075718211.webp" %})
+{% image "images/IMG_20230125_075718211.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230125_075722062.webp"/>]({% image "content/blog/images/IMG_20230125_075722062.webp" %})
+{% image "images/IMG_20230125_075722062.webp" %}
 
   
 

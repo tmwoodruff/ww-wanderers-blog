@@ -10,7 +10,7 @@ description: ""
 
 **Oregon - Planning and First Day -- May 28, 2025**
 
-[<img width="320" src="images/image80.webp"/>]({% image "content/blog/images/image80.webp" %})
+{% image "images/image80.webp" %}
 
 Latourell Falls
 
@@ -38,7 +38,7 @@ Security lines were a little long, but we were not in a hurry. After security, t
 
 After boarding, there were further delays; the Captain noted that they had to reboot the computer to try to get it to work. He said it was a 3rd backup system and that we could go without it working, but that they had to try. His reboot did not work, but maintenance's did. However, we did not take off until a little after 9:30 am for a 7:30 am flight...no guarantee on on-time take off, like they have on bags. The Captain also noted that turbulence was expected, so they would not service snacks and drinks until 1-2 hours into the flight. He also kept noting that they had an award winning crew; that does not matter if they cannot work. The service was standard. I did not think it felt very turbulent; though the family agreed that it was turbulent. I guess that I have just had some very bad turbulence in the past. We were quite hungry by the time we got our snack and drink. We had some snacks in our bags, though I should have remembered more, I normally do have more. We were assigned seats 25A-D for both flights earlier than check-in. They were all together, not all the way to the back, with a window and two aisles, so very nice for basic fare. Hello, Mount Hood and snowy mountains. 
 
-[<img width="320" src="images/IMG_20250528_124636511_HDR.webp"/>]({% image "content/blog/images/IMG_20250528_124636511_HDR.webp" %})[<img src="images/IMG_20250528_104453219.webp"/>]({% image "content/blog/images/IMG_20250528_104453219.webp" %})
+{% image "images/IMG_20250528_124636511_HDR.webp" %}{% image "images/IMG_20250528_104453219.webp" %}
 
 After the late arrival, we found the Lyft pickup location and requested a Lyft. The Lyft driver was very friendly, and he gave us advice on what to do in Portland. Lately, Uber/Lyft drivers have not been very friendly or talkative. Both of ours to and from the airport were awesome. The Avis employee was a little rude about insurance. He assigned a Santa Fe/SUV when we booked a Toyota Camry or similar. They never seem to have the car that we booked. In hindsight, the Santa Fe would probably have been fine, but I do not know how the 5 pieces of luggage would have fit or if the luggage would have been visible for the back window. He happily changed our car to a Chevy Malibu that I would be more comfortable driving. I don't know why they just pick and don't just ask. I also did not know the gas mileage expected on a Santa Fe with Pacific Northwest higher gas prices than we are used to. 
 
@@ -51,22 +51,22 @@ The guys with the gorge and river. Vista House.
   
 
 
-[<img width="320" src="images/IMG_2034.webp"/>]({% image "content/blog/images/IMG_2034.webp" %})
+{% image "images/IMG_2034.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2036.webp"/>]({% image "content/blog/images/IMG_2036.webp" %})
+{% image "images/IMG_2036.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2043.webp"/>]({% image "content/blog/images/IMG_2043.webp" %})
+{% image "images/IMG_2043.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2044.webp"/>]({% image "content/blog/images/IMG_2044.webp" %})
+{% image "images/IMG_2044.webp" %}
 
   
 
@@ -76,12 +76,12 @@ Then we went to Latourell Falls in the Guy W. Talbot State Park. After, we went 
   
 
 
-[<img width="320" src="images/IMG_2045.webp"/>]({% image "content/blog/images/IMG_2045.webp" %})
+{% image "images/IMG_2045.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250528_142821425_HDR.webp"/>]({% image "content/blog/images/IMG_20250528_142821425_HDR.webp" %})[<img width="320" src="images/IMG_2050.webp"/>]({% image "content/blog/images/IMG_2050.webp" %})
+{% image "images/IMG_20250528_142821425_HDR.webp" %}{% image "images/IMG_2050.webp" %}
 
   
 
@@ -91,17 +91,17 @@ Owen found a big rock to climb. We were able to go down to the waterfall pool. A
   
 
 
-[<img width="320" src="images/IMG_2057.webp"/>]({% image "content/blog/images/IMG_2057.webp" %})[<img width="320" src="images/IMG_2059.webp"/>]({% image "content/blog/images/IMG_2059.webp" %})
+{% image "images/IMG_2057.webp" %}{% image "images/IMG_2059.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2060.webp"/>]({% image "content/blog/images/IMG_2060.webp" %})[<img width="320" src="images/IMG_2061.webp"/>]({% image "content/blog/images/IMG_2061.webp" %})
+{% image "images/IMG_2060.webp" %}{% image "images/IMG_2061.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2062.webp"/>]({% image "content/blog/images/IMG_2062.webp" %})[<img width="320" src="images/IMG_2063.webp"/>]({% image "content/blog/images/IMG_2063.webp" %})
+{% image "images/IMG_2062.webp" %}{% image "images/IMG_2063.webp" %}
 
   
 
@@ -111,7 +111,7 @@ A Historic Columbia Highway bridge from the hiking trail.
   
 
 
-[<img width="320" src="images/IMG_2068.webp"/>]({% image "content/blog/images/IMG_2068.webp" %})
+{% image "images/IMG_2068.webp" %}
 
   
 
@@ -121,19 +121,19 @@ Then we arrived at Bridal Veil Falls. Travis and Owen climbed to the bottom.
   
 
 
-[<img width="320" src="images/IMG_2077.webp"/>]({% image "content/blog/images/IMG_2077.webp" %})[<img width="320" src="images/IMG_2088.webp"/>]({% image "content/blog/images/IMG_2088.webp" %})
+{% image "images/IMG_2077.webp" %}{% image "images/IMG_2088.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2085.webp"/>]({% image "content/blog/images/IMG_2085.webp" %})
+{% image "images/IMG_2085.webp" %}
 
   
 Joel decided to cross the river on a fallen tree.   
   
 
 
-[<img width="320" src="images/IMG_2089.webp"/>]({% image "content/blog/images/IMG_2089.webp" %})
+{% image "images/IMG_2089.webp" %}
 
   
 
@@ -143,22 +143,22 @@ We stopped at one more view point before going to our campsite at Ainsworth Stat
   
 
 
-[<img width="320" src="images/IMG_2095.webp"/>]({% image "content/blog/images/IMG_2095.webp" %})
+{% image "images/IMG_2095.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2097.webp"/>]({% image "content/blog/images/IMG_2097.webp" %})
+{% image "images/IMG_2097.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2098.webp"/>]({% image "content/blog/images/IMG_2098.webp" %})
+{% image "images/IMG_2098.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2099.webp"/>]({% image "content/blog/images/IMG_2099.webp" %})
+{% image "images/IMG_2099.webp" %}
 
   
 
@@ -178,7 +178,7 @@ Though our campsite was not ideal/the best choice. Our tents were on two differe
   
 
 
-[<img width="320" src="images/IMG_2105.webp"/>]({% image "content/blog/images/IMG_2105.webp" %})
+{% image "images/IMG_2105.webp" %}
 
   
 

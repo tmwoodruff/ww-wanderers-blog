@@ -12,7 +12,7 @@ description: ""
 
 We had the MDR for breakfast where I got my favorite salmon again. After we stopped by the buffet because I wanted an iced bun too for the day's picnic, well, the guy in front of me took the last two on the ship. I asked and went to each bread station...no more :( . Getting off the ship, you walk through the port area and then across a bridge. After crossing, we stopped at a grocery store, Extra, first and found some good snacks that we had for a picnic later. Here is one. I like the Milka Daim bars, so tried Daim SmaBiter. They was very good too. We also got licorice for Travis, and chocolate chip cookies and chocolate chex. 
 
-[<img width="320" src="images/IMG_9132.webp"/>]({% image "content/blog/images/IMG_9132.webp" %})[<img width="320" src="images/IMG_20240918_154917049.webp"/>]({% image "content/blog/images/IMG_20240918_154917049.webp" %})
+{% image "images/IMG_9132.webp" %}{% image "images/IMG_20240918_154917049.webp" %}
 
   
 
@@ -22,12 +22,12 @@ Haugesund City Hall and fountain across from it.
   
 
 
-[<img width="320" src="images/IMG_9135.webp"/>]({% image "content/blog/images/IMG_9135.webp" %})
+{% image "images/IMG_9135.webp" %}
 
   
 
 
-<img width="320" src="images/IMG_9136.webp"/>
+{% image "images/IMG_9136.webp" %}
 
   
 
@@ -37,17 +37,17 @@ Starting the hike to and around the Djupadalen area. It was challenging to find 
   
 
 
-[<img width="320" src="images/IMG_9143.webp"/>]({% image "content/blog/images/IMG_9143.webp" %})
+{% image "images/IMG_9143.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9140.webp"/>]({% image "content/blog/images/IMG_9140.webp" %})
+{% image "images/IMG_9140.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9145.webp"/>]({% image "content/blog/images/IMG_9145.webp" %})
+{% image "images/IMG_9145.webp" %}
 
   
 
@@ -57,12 +57,12 @@ We had a nice picnic by this lake. I like how it was reflecting that covered she
   
 
 
-[<img width="320" src="images/IMG_9155.webp"/>]({% image "content/blog/images/IMG_9155.webp" %})
+{% image "images/IMG_9155.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9151.webp"/>]({% image "content/blog/images/IMG_9151.webp" %})
+{% image "images/IMG_9151.webp" %}
 
   
 
@@ -72,7 +72,7 @@ After hiking around the lake, we found a restroom at the end of the hike. There 
   
 
 
-[<img width="320" src="images/IMG_9157.webp"/>]({% image "content/blog/images/IMG_9157.webp" %})
+{% image "images/IMG_9157.webp" %}
 
   
 
@@ -82,7 +82,7 @@ The hike back was easier than the hike there. This was a pretty area.
   
 
 
-[<img width="320" src="images/IMG_9159.webp"/>]({% image "content/blog/images/IMG_9159.webp" %})
+{% image "images/IMG_9159.webp" %}
 
   
 
@@ -93,12 +93,12 @@ We then walked back to town. We went into one shop in town. She did a great job 
   
 
 
-[<img width="320" src="images/IMG_9164.webp"/>]({% image "content/blog/images/IMG_9164.webp" %})
+{% image "images/IMG_9164.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9166.webp"/>]({% image "content/blog/images/IMG_9166.webp" %})
+{% image "images/IMG_9166.webp" %}
 
   
 
@@ -108,7 +108,7 @@ We also had to find the Marilyn Monroe statue. I read that her father was born i
   
 
 
-[<img width="320" src="images/IMG_9172.webp"/>]({% image "content/blog/images/IMG_9172.webp" %})
+{% image "images/IMG_9172.webp" %}
 
   
 

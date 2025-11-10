@@ -12,17 +12,17 @@ Centro - February 5, 2025
 
 To warn you, I kept picking every picture, so there are lots of pictures of Centro! For our Centro exploration, we first walked from our hotel in Juarez to the Alameda Central park. There were vendors setup from our approach on the west end. We went through the park and saw the fountains. In the last one, a bird came to hang out for the picture. 
 
-[<img width="320" src="images/IMG_1532.webp"/>]({% image "content/blog/images/IMG_1532.webp" %})
+{% image "images/IMG_1532.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1535.webp"/>]({% image "content/blog/images/IMG_1535.webp" %})
+{% image "images/IMG_1535.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1543.webp"/>]({% image "content/blog/images/IMG_1543.webp" %})
+{% image "images/IMG_1543.webp" %}
 
   
 
@@ -32,12 +32,12 @@ It was sad that this monument was under construction; this is the monument to a 
   
 
 
-[<img width="320" src="images/IMG_1537.webp"/>]({% image "content/blog/images/IMG_1537.webp" %})
+{% image "images/IMG_1537.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1538.webp"/>]({% image "content/blog/images/IMG_1538.webp" %})
+{% image "images/IMG_1538.webp" %}
 
   
 
@@ -47,17 +47,17 @@ Notary historical heritage of Mexico City, an interesting government building ac
   
 
 
-[<img width="320" src="images/IMG_1540.webp"/>]({% image "content/blog/images/IMG_1540.webp" %})
+{% image "images/IMG_1540.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1541.webp"/>]({% image "content/blog/images/IMG_1541.webp" %})
+{% image "images/IMG_1541.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1558.webp"/>]({% image "content/blog/images/IMG_1558.webp" %})
+{% image "images/IMG_1558.webp" %}
 
   
 
@@ -68,22 +68,22 @@ Torre Latinoamericana is a good place to go up for a good view of the Palace of 
   
 
 
-[<img width="320" src="images/IMG_1617.webp"/>]({% image "content/blog/images/IMG_1617.webp" %})
+{% image "images/IMG_1617.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1548.webp"/>]({% image "content/blog/images/IMG_1548.webp" %})[<img width="320" src="images/IMG_1549.webp"/>]({% image "content/blog/images/IMG_1549.webp" %})
+{% image "images/IMG_1548.webp" %}{% image "images/IMG_1549.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1553.webp"/>]({% image "content/blog/images/IMG_1553.webp" %})
+{% image "images/IMG_1553.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1559.webp"/>]({% image "content/blog/images/IMG_1559.webp" %})
+{% image "images/IMG_1559.webp" %}
 
   
 
@@ -93,7 +93,7 @@ I thought it was strange that the metal between the glass dome panels was cooper
   
 
 
-[<img width="320" src="images/IMG_1561.webp"/>]({% image "content/blog/images/IMG_1561.webp" %})
+{% image "images/IMG_1561.webp" %}
 
   
 
@@ -103,22 +103,22 @@ Though not as exciting, other city views that you can get from the Sears cafe.
   
 
 
-[<img width="320" src="images/IMG_1562.webp"/>]({% image "content/blog/images/IMG_1562.webp" %})
+{% image "images/IMG_1562.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1566.webp"/>]({% image "content/blog/images/IMG_1566.webp" %})
+{% image "images/IMG_1566.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1569.webp"/>]({% image "content/blog/images/IMG_1569.webp" %})
+{% image "images/IMG_1569.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1570.webp"/>]({% image "content/blog/images/IMG_1570.webp" %})
+{% image "images/IMG_1570.webp" %}
 
   
 
@@ -128,27 +128,27 @@ The cafe -- Travis had an espresso. and I had a hot chocolate. Hot chocolate (an
   
 
 
-[<img width="320" src="images/IMG_1574.webp"/>]({% image "content/blog/images/IMG_1574.webp" %})
+{% image "images/IMG_1574.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1575.webp"/>]({% image "content/blog/images/IMG_1575.webp" %})
+{% image "images/IMG_1575.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1576.webp"/>]({% image "content/blog/images/IMG_1576.webp" %})
+{% image "images/IMG_1576.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1578.webp"/>]({% image "content/blog/images/IMG_1578.webp" %})
+{% image "images/IMG_1578.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1580.webp"/>]({% image "content/blog/images/IMG_1580.webp" %})
+{% image "images/IMG_1580.webp" %}
 
   
 
@@ -158,12 +158,12 @@ We then continue on the main Centro street. Here the vendors were plentiful and 
   
 
 
-[<img width="320" src="images/IMG_1583.webp"/>]({% image "content/blog/images/IMG_1583.webp" %})
+{% image "images/IMG_1583.webp" %}
 
   
 
 
-[<img src="images/IMG_1585.webp"/>]({% image "content/blog/images/IMG_1585.webp" %})
+{% image "images/IMG_1585.webp" %}
 
   
 
@@ -174,17 +174,17 @@ Travis had read to me about the building and noted a store inside that you had t
   
 
 
-[<img width="320" src="images/IMG_1595.webp"/>]({% image "content/blog/images/IMG_1595.webp" %})
+{% image "images/IMG_1595.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1596.webp"/>]({% image "content/blog/images/IMG_1596.webp" %})
+{% image "images/IMG_1596.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1597.webp"/>]({% image "content/blog/images/IMG_1597.webp" %})
+{% image "images/IMG_1597.webp" %}
 
   
 
@@ -194,9 +194,9 @@ Next, we found and looked at a church inside this gate. In the tent right up to 
   
 
 
-[<img width="320" src="images/IMG_1587.webp"/>]({% image "content/blog/images/IMG_1587.webp" %})
+{% image "images/IMG_1587.webp" %}
 
-[<img width="320" src="images/IMG_20250205_110849708_HDR.webp"/>]({% image "content/blog/images/IMG_20250205_110849708_HDR.webp" %})[<img width="320" src="images/IMG_20250205_111005559_HDR.webp"/>]({% image "content/blog/images/IMG_20250205_111005559_HDR.webp" %})
+{% image "images/IMG_20250205_110849708_HDR.webp" %}{% image "images/IMG_20250205_111005559_HDR.webp" %}
 
   
 
@@ -206,97 +206,97 @@ Then we came to the The Palace of Iturbide, which Count of San Mateo Valparaíso
   
 
 
-[<img width="320" src="images/IMG_1599.webp"/>]({% image "content/blog/images/IMG_1599.webp" %})
+{% image "images/IMG_1599.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1600.webp"/>]({% image "content/blog/images/IMG_1600.webp" %})
+{% image "images/IMG_1600.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1602.webp"/>]({% image "content/blog/images/IMG_1602.webp" %})
+{% image "images/IMG_1602.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1603.webp"/>]({% image "content/blog/images/IMG_1603.webp" %})
+{% image "images/IMG_1603.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1604.webp"/>]({% image "content/blog/images/IMG_1604.webp" %})
+{% image "images/IMG_1604.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1605.webp"/>]({% image "content/blog/images/IMG_1605.webp" %})
+{% image "images/IMG_1605.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1606.webp"/>]({% image "content/blog/images/IMG_1606.webp" %})
+{% image "images/IMG_1606.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1607.webp"/>]({% image "content/blog/images/IMG_1607.webp" %})
+{% image "images/IMG_1607.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1608.webp"/>]({% image "content/blog/images/IMG_1608.webp" %})
+{% image "images/IMG_1608.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1609.webp"/>]({% image "content/blog/images/IMG_1609.webp" %})
+{% image "images/IMG_1609.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1610.webp"/>]({% image "content/blog/images/IMG_1610.webp" %})
+{% image "images/IMG_1610.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1611.webp"/>]({% image "content/blog/images/IMG_1611.webp" %})
+{% image "images/IMG_1611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1612.webp"/>]({% image "content/blog/images/IMG_1612.webp" %})
+{% image "images/IMG_1612.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1613.webp"/>]({% image "content/blog/images/IMG_1613.webp" %})
+{% image "images/IMG_1613.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1614.webp"/>]({% image "content/blog/images/IMG_1614.webp" %})
+{% image "images/IMG_1614.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250205_114333725_HDR.webp"/>]({% image "content/blog/images/IMG_20250205_114333725_HDR.webp" %})
+{% image "images/IMG_20250205_114333725_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250205_114759954_HDR.webp"/>]({% image "content/blog/images/IMG_20250205_114759954_HDR.webp" %})
+{% image "images/IMG_20250205_114759954_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250205_115204972_HDR.webp"/>]({% image "content/blog/images/IMG_20250205_115204972_HDR.webp" %})
+{% image "images/IMG_20250205_115204972_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1616.webp"/>]({% image "content/blog/images/IMG_1616.webp" %})
+{% image "images/IMG_1616.webp" %}
 
   
 
@@ -311,12 +311,12 @@ Next, we came across two protest marches on our way to the Zócalo, main square;
   
 
 
-[<img width="320" src="images/IMG_1620.webp"/>]({% image "content/blog/images/IMG_1620.webp" %})
+{% image "images/IMG_1620.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1622.webp"/>]({% image "content/blog/images/IMG_1622.webp" %})
+{% image "images/IMG_1622.webp" %}
 
   
 
@@ -326,17 +326,17 @@ The main square had the largest flag that I think I have ever seen. The protesto
   
 
 
-[<img width="320" src="images/IMG_1623.webp"/>]({% image "content/blog/images/IMG_1623.webp" %})
+{% image "images/IMG_1623.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1635.webp"/>]({% image "content/blog/images/IMG_1635.webp" %})
+{% image "images/IMG_1635.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1637.webp"/>]({% image "content/blog/images/IMG_1637.webp" %})
+{% image "images/IMG_1637.webp" %}
 
   
 
@@ -346,27 +346,27 @@ Before fully exploring the square, we went back one block to the Gran Hotel. I s
   
 
 
-[<img width="320" src="images/IMG_1626.webp"/>]({% image "content/blog/images/IMG_1626.webp" %})
+{% image "images/IMG_1626.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1627.webp"/>]({% image "content/blog/images/IMG_1627.webp" %})
+{% image "images/IMG_1627.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1628.webp"/>]({% image "content/blog/images/IMG_1628.webp" %})
+{% image "images/IMG_1628.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1629.webp"/>]({% image "content/blog/images/IMG_1629.webp" %})
+{% image "images/IMG_1629.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1630.webp"/>]({% image "content/blog/images/IMG_1630.webp" %})
+{% image "images/IMG_1630.webp" %}
 
   
 
@@ -376,27 +376,27 @@ Back to the Zócalo or Plaza of the Constitution, we looked at the buildings in 
   
 
 
-[<img width="320" src="images/IMG_1631.webp"/>]({% image "content/blog/images/IMG_1631.webp" %})
+{% image "images/IMG_1631.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1641.webp"/>]({% image "content/blog/images/IMG_1641.webp" %})
+{% image "images/IMG_1641.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1633.webp"/>]({% image "content/blog/images/IMG_1633.webp" %})
+{% image "images/IMG_1633.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1634.webp"/>]({% image "content/blog/images/IMG_1634.webp" %})
+{% image "images/IMG_1634.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1638.webp"/>]({% image "content/blog/images/IMG_1638.webp" %})
+{% image "images/IMG_1638.webp" %}
 
   
 
@@ -406,7 +406,7 @@ There was an elaborate Mass in progress, which included a large number of Deacon
   
 
 
-[<img width="320" src="images/IMG_1642.webp"/>]({% image "content/blog/images/IMG_1642.webp" %})
+{% image "images/IMG_1642.webp" %}
 
   
 
@@ -421,12 +421,12 @@ In the museum, we went through medal detectors and were told to check the backpa
   
 
 
-[<img width="320" src="images/IMG_1646.webp"/>]({% image "content/blog/images/IMG_1646.webp" %})
+{% image "images/IMG_1646.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1645.webp"/>]({% image "content/blog/images/IMG_1645.webp" %})
+{% image "images/IMG_1645.webp" %}
 
   
 
@@ -436,12 +436,12 @@ The waste water drainage pipe was interesting.
   
 
 
-[<img width="320" src="images/IMG_1662.webp"/>]({% image "content/blog/images/IMG_1662.webp" %})
+{% image "images/IMG_1662.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1663.webp"/>]({% image "content/blog/images/IMG_1663.webp" %})[<img width="320" src="images/IMG_1698.webp"/>]({% image "content/blog/images/IMG_1698.webp" %})
+{% image "images/IMG_1663.webp" %}{% image "images/IMG_1698.webp" %}
 
   
 
@@ -451,12 +451,12 @@ There were Phases I-VII of the pyramids that the museum/excavation showed. When 
   
 
 
-[<img width="320" src="images/IMG_1658.webp"/>]({% image "content/blog/images/IMG_1658.webp" %})[<img width="320" src="images/IMG_1650.webp"/>]({% image "content/blog/images/IMG_1650.webp" %})
+{% image "images/IMG_1658.webp" %}{% image "images/IMG_1650.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1656.webp"/>]({% image "content/blog/images/IMG_1656.webp" %})
+{% image "images/IMG_1656.webp" %}
 
   
 
@@ -466,17 +466,17 @@ The snakes
   
 
 
-[<img width="320" src="images/IMG_1654.webp"/>]({% image "content/blog/images/IMG_1654.webp" %})
+{% image "images/IMG_1654.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1651.webp"/>]({% image "content/blog/images/IMG_1651.webp" %})
+{% image "images/IMG_1651.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1653.webp"/>]({% image "content/blog/images/IMG_1653.webp" %})
+{% image "images/IMG_1653.webp" %}
 
   
 
@@ -486,37 +486,37 @@ I liked when colors still showed up.
   
 
 
-[<img width="320" src="images/IMG_1679.webp"/>]({% image "content/blog/images/IMG_1679.webp" %})
+{% image "images/IMG_1679.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1676.webp"/>]({% image "content/blog/images/IMG_1676.webp" %})
+{% image "images/IMG_1676.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1675.webp"/>]({% image "content/blog/images/IMG_1675.webp" %})
+{% image "images/IMG_1675.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1670.webp"/>]({% image "content/blog/images/IMG_1670.webp" %})
+{% image "images/IMG_1670.webp" %}
 
   
 
 
-<img width="320" src="images/IMG_1660.webp"/>
+{% image "images/IMG_1660.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1665.webp"/>]({% image "content/blog/images/IMG_1665.webp" %})
+{% image "images/IMG_1665.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1673.webp"/>]({% image "content/blog/images/IMG_1673.webp" %})
+{% image "images/IMG_1673.webp" %}
 
   
 
@@ -526,39 +526,39 @@ A replicate, in full color, of the previously pictured statue.
   
 
 
-[<img width="320" src="images/IMG_1690.webp"/>]({% image "content/blog/images/IMG_1690.webp" %})
+{% image "images/IMG_1690.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1688.webp"/>]({% image "content/blog/images/IMG_1688.webp" %})
+{% image "images/IMG_1688.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1687.webp"/>]({% image "content/blog/images/IMG_1687.webp" %})
+{% image "images/IMG_1687.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1684.webp"/>]({% image "content/blog/images/IMG_1684.webp" %})
+{% image "images/IMG_1684.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1692.webp"/>]({% image "content/blog/images/IMG_1692.webp" %})
+{% image "images/IMG_1692.webp" %}
 
   
 
 
 Inside the big museum. It was very interesting and well done, but we did not have enough time to see it all in depth. 
 
-[<img width="320" src="images/IMG_1696.webp"/>]({% image "content/blog/images/IMG_1696.webp" %})
+{% image "images/IMG_1696.webp" %}
 
   
 
 
-[<img src="images/IMG_1694.webp"/>]({% image "content/blog/images/IMG_1694.webp" %})
+{% image "images/IMG_1694.webp" %}
 
   
 

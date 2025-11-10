@@ -72,7 +72,7 @@ We were booked on what seems like an early flight by the cruise line -- 10:30 am
 
 **Food pictures:**
 
-[<img width="320" src="images/IMG_4562.webp"/>]({% image "content/blog/images/IMG_4562.webp" %})
+{% image "images/IMG_4562.webp" %}
 
   
 
@@ -82,12 +82,12 @@ Jasmine -- Asian restaurant
   
 
 
-[<img width="320" src="images/IMG_4688.webp"/>]({% image "content/blog/images/IMG_4688.webp" %})
+{% image "images/IMG_4688.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4689.webp"/>]({% image "content/blog/images/IMG_4689.webp" %})
+{% image "images/IMG_4689.webp" %}
 
   
 
@@ -97,27 +97,27 @@ Le Bistro, French restaurant, desserts
   
 
 
-[<img width="320" src="images/IMG_4867.webp"/>]({% image "content/blog/images/IMG_4867.webp" %})
+{% image "images/IMG_4867.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4870.webp"/>]({% image "content/blog/images/IMG_4870.webp" %})
+{% image "images/IMG_4870.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4975.webp"/>]({% image "content/blog/images/IMG_4975.webp" %})
+{% image "images/IMG_4975.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4977.webp"/>]({% image "content/blog/images/IMG_4977.webp" %})
+{% image "images/IMG_4977.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4978.webp"/>]({% image "content/blog/images/IMG_4978.webp" %})
+{% image "images/IMG_4978.webp" %}
 
   
 
@@ -127,7 +127,7 @@ Breakfast at O'Sheehan's
   
 
 
-[<img width="320" src="images/IMG_20220609_083724899_HDR.webp"/>]({% image "content/blog/images/IMG_20220609_083724899_HDR.webp" %})
+{% image "images/IMG_20220609_083724899_HDR.webp" %}
 
   
 
@@ -137,12 +137,12 @@ Moderno, Brazilian steakhouse, desserts
   
 
 
-[<img width="320" src="images/IMG_20220609_191027788.webp"/>]({% image "content/blog/images/IMG_20220609_191027788.webp" %})
+{% image "images/IMG_20220609_191027788.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20220609_191039727.webp"/>]({% image "content/blog/images/IMG_20220609_191039727.webp" %})
+{% image "images/IMG_20220609_191039727.webp" %}
 
   
 
@@ -150,7 +150,7 @@ Moderno, Brazilian steakhouse, desserts
   
 
 
-[<img width="320" src="images/IMG_20220611_175115024.webp"/>]({% image "content/blog/images/IMG_20220611_175115024.webp" %})
+{% image "images/IMG_20220611_175115024.webp" %}
 
   
 
@@ -160,12 +160,12 @@ Goat cheese and onion flatbread
   
 
 
-[<img width="320" src="images/IMG_20220611_175119367_HDR.webp"/>]({% image "content/blog/images/IMG_20220611_175119367_HDR.webp" %})
+{% image "images/IMG_20220611_175119367_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20220611_180645038.webp"/>]({% image "content/blog/images/IMG_20220611_180645038.webp" %})
+{% image "images/IMG_20220611_180645038.webp" %}
 
   
 
@@ -175,7 +175,7 @@ Prime rib
   
 
 
-[<img width="320" src="images/IMG_20220611_180657772.webp"/>]({% image "content/blog/images/IMG_20220611_180657772.webp" %})
+{% image "images/IMG_20220611_180657772.webp" %}
 
   
 
@@ -185,17 +185,17 @@ Some menu shots; sorry that they are not better
   
 
 
-[<img width="320" src="images/IMG_20220610_145724253.webp"/>]({% image "content/blog/images/IMG_20220610_145724253.webp" %})
+{% image "images/IMG_20220610_145724253.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20220611_172229118.webp"/>]({% image "content/blog/images/IMG_20220611_172229118.webp" %})
+{% image "images/IMG_20220611_172229118.webp" %}
 
   
 
 
-[<img width="320" src="images/Menu.webp"/>]({% image "content/blog/images/Menu.webp" %})
+{% image "images/Menu.webp" %}
 
   
 

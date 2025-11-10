@@ -15,17 +15,17 @@ We had breakfast at the buffet and arrived in port. There is no breakfast buffet
   
 
 
-[<img width="320" src="images/IMG_7815.webp"/>]({% image "content/blog/images/IMG_7815.webp" %})
+{% image "images/IMG_7815.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7816.webp"/>]({% image "content/blog/images/IMG_7816.webp" %})
+{% image "images/IMG_7816.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7817.webp"/>]({% image "content/blog/images/IMG_7817.webp" %})
+{% image "images/IMG_7817.webp" %}
 
   
 
@@ -35,7 +35,7 @@ We met our room steward, requested ice, and got our only towel animal, well, not
   
 
 
-[<img width="320" src="images/IMG_7818.webp"/>]({% image "content/blog/images/IMG_7818.webp" %})
+{% image "images/IMG_7818.webp" %}
 
   
 
@@ -45,17 +45,17 @@ Welcome to Ocean Cay. Ocean Cay is supposed to have some free umbrellas, but we 
   
 
 
-[<img width="320" src="images/IMG_7820.webp"/>]({% image "content/blog/images/IMG_7820.webp" %})
+{% image "images/IMG_7820.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7821.webp"/>]({% image "content/blog/images/IMG_7821.webp" %})
+{% image "images/IMG_7821.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7823.webp"/>]({% image "content/blog/images/IMG_7823.webp" %})
+{% image "images/IMG_7823.webp" %}
 
   
 
@@ -65,47 +65,47 @@ After we snorkeled, we walked around a little and went to the buffet for lunch. 
   
 
 
-[<img width="320" src="images/IMG_7827.webp"/>]({% image "content/blog/images/IMG_7827.webp" %})
+{% image "images/IMG_7827.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7828.webp"/>]({% image "content/blog/images/IMG_7828.webp" %})
+{% image "images/IMG_7828.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7829.webp"/>]({% image "content/blog/images/IMG_7829.webp" %})
+{% image "images/IMG_7829.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7831.webp"/>]({% image "content/blog/images/IMG_7831.webp" %})
+{% image "images/IMG_7831.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7835.webp"/>]({% image "content/blog/images/IMG_7835.webp" %})
+{% image "images/IMG_7835.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7837.webp"/>]({% image "content/blog/images/IMG_7837.webp" %})
+{% image "images/IMG_7837.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7839.webp"/>]({% image "content/blog/images/IMG_7839.webp" %})
+{% image "images/IMG_7839.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7845.webp"/>]({% image "content/blog/images/IMG_7845.webp" %})
+{% image "images/IMG_7845.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7848.webp"/>]({% image "content/blog/images/IMG_7848.webp" %})
+{% image "images/IMG_7848.webp" %}
 
   
 
@@ -125,7 +125,7 @@ Back on the ship, we did the water park, while others were still on shore and wh
   
 
 
-[<img width="320" src="images/IMG_7849.webp"/>]({% image "content/blog/images/IMG_7849.webp" %})
+{% image "images/IMG_7849.webp" %}
 
   
 
@@ -135,7 +135,7 @@ Almost sunset. We had dinner at the buffet, in order to go to the 7pm Comedian, 
   
 
 
-[<img width="320" src="images/IMG_7814.webp"/>]({% image "content/blog/images/IMG_7814.webp" %})
+{% image "images/IMG_7814.webp" %}
 
 Next up...[Nassau, the Bahamas](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-nassau-march-2024.html)
 

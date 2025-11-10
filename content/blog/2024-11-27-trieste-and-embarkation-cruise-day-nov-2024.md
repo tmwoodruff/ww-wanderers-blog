@@ -1,7 +1,7 @@
 ---
 title: "Trieste and Embarkation (Cruise day!) - Nov 2024"
 date: 2024-11-27
-img: <img src="images/image28.webp"/>
+img: images/image28.webp
 tags: [Trieste, NCL Pearl]
 category: Trieste
 author: Tammy
@@ -12,27 +12,27 @@ description: ""
 
 We arrived in Trieste at 9pm. I read concerns about walking near the bus station, with a park nearby where people slept at night. I priced Ubers and buses and considered them as a backup if we were uncomfortable, but we planned to walk as plan A. After arriving, some people were being picked up near the station doors, but others were walking. So we felt okay walking too. We were near the water for part of the walk. Once we got to the main square/piazza, we saw Halloween costumes and some partying. Our hotel was Urbanauts Studio Minelli. The front picture was actually from the reservation email. Good idea; then you know what you are looking for. They also had a sign pointing to it off a more main street. This hotel had no desk or person on site. We had to complete the registration a few days before, which was before leaving home. The registration required our passport numbers; this was noted an Italian law that they must collect. This seemed very normal for an international hotel. We had to provide a credit card number for them to charge the city tax. They emailed the door code to use to have our room key dropped and other details for getting in and checking out. We were on the top floor. I liked it; it had a cool personality. They also gave a nice bottle of water (my fear of drinking Italian water from getting sick 25 years ago) and a wine complimentary. It had a kitchenette too, but no tea for Travis. The downfall was that the bed had a wall on 3 sides, so I had to climb over Travis to get in or out of bed. I just got up for the restroom when he did, so he will be moved for one trip and not asleep to wake up in my climb when I returned. Also, a slanting ceiling that I think I hit my head and foot on, but that was part of the cool personality. The shower was a little difficult with one open side, but it was hot water so good. You cannot see the full shower, but part of it and glass on the lefthand side of the picture. 
 
-[<img src="images/image28.webp"/>]({% image "content/blog/images/image29.webp" %})
+{% image "images/image29.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9471.webp"/>]({% image "content/blog/images/IMG_9471.webp" %})
+{% image "images/IMG_9471.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9472.webp"/>]({% image "content/blog/images/IMG_9472.webp" %})
+{% image "images/IMG_9472.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9473.webp"/>]({% image "content/blog/images/IMG_9473.webp" %})
+{% image "images/IMG_9473.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9474.webp"/>]({% image "content/blog/images/IMG_9474.webp" %})
+{% image "images/IMG_9474.webp" %}
 
   
 
@@ -42,46 +42,46 @@ The next morning, Friday, Nov 1st, we left our luggage in the room, did not chec
   
 
 
-[<img width="320" src="images/IMG_9475.webp"/>]({% image "content/blog/images/IMG_9475.webp" %})
+{% image "images/IMG_9475.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9481.webp"/>]({% image "content/blog/images/IMG_9481.webp" %})
+{% image "images/IMG_9481.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9484.webp"/>]({% image "content/blog/images/IMG_9484.webp" %})
+{% image "images/IMG_9484.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9489.webp"/>]({% image "content/blog/images/IMG_9489.webp" %})
+{% image "images/IMG_9489.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9491.webp"/>]({% image "content/blog/images/IMG_9491.webp" %})
+{% image "images/IMG_9491.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9493.webp"/>]({% image "content/blog/images/IMG_9493.webp" %})
+{% image "images/IMG_9493.webp" %}
 
 Historic Greek theater. 
 
-[<img width="320" src="images/IMG_9504.webp"/>]({% image "content/blog/images/IMG_9504.webp" %})
+{% image "images/IMG_9504.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9506.webp"/>]({% image "content/blog/images/IMG_9506.webp" %})
+{% image "images/IMG_9506.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9508.webp"/>]({% image "content/blog/images/IMG_9508.webp" %})
+{% image "images/IMG_9508.webp" %}
 
   
 
@@ -91,47 +91,47 @@ Walking just before this, there were three military officers with machine guns. 
   
 
 
-[<img width="320" src="images/IMG_9510.webp"/>]({% image "content/blog/images/IMG_9510.webp" %})
+{% image "images/IMG_9510.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9511.webp"/>]({% image "content/blog/images/IMG_9511.webp" %})
+{% image "images/IMG_9511.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9513.webp"/>]({% image "content/blog/images/IMG_9513.webp" %})
+{% image "images/IMG_9513.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9514.webp"/>]({% image "content/blog/images/IMG_9514.webp" %})
+{% image "images/IMG_9514.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9518.webp"/>]({% image "content/blog/images/IMG_9518.webp" %})
+{% image "images/IMG_9518.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9520.webp"/>]({% image "content/blog/images/IMG_9520.webp" %})
+{% image "images/IMG_9520.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9526.webp"/>]({% image "content/blog/images/IMG_9526.webp" %})
+{% image "images/IMG_9526.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9528.webp"/>]({% image "content/blog/images/IMG_9528.webp" %})
+{% image "images/IMG_9528.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9534.webp"/>]({% image "content/blog/images/IMG_9534.webp" %})
+{% image "images/IMG_9534.webp" %}
 
   
 
@@ -146,37 +146,37 @@ Without luggage on the bumpy cobblestone and crowded square, we decided to have 
   
 
 
-[<img width="320" src="images/IMG_9539.webp"/>]({% image "content/blog/images/IMG_9539.webp" %})
+{% image "images/IMG_9539.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9541.webp"/>]({% image "content/blog/images/IMG_9541.webp" %})
+{% image "images/IMG_9541.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9542.webp"/>]({% image "content/blog/images/IMG_9542.webp" %})
+{% image "images/IMG_9542.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9544.webp"/>]({% image "content/blog/images/IMG_9544.webp" %})
+{% image "images/IMG_9544.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9545.webp"/>]({% image "content/blog/images/IMG_9545.webp" %})
+{% image "images/IMG_9545.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9546.webp"/>]({% image "content/blog/images/IMG_9546.webp" %})
+{% image "images/IMG_9546.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9549.webp"/>]({% image "content/blog/images/IMG_9549.webp" %})
+{% image "images/IMG_9549.webp" %}
 
   
 
@@ -186,12 +186,12 @@ Our ship is peeking out from behind a building with statues. The Four Continents
   
 
 
-[<img width="320" src="images/IMG_9550.webp"/>]({% image "content/blog/images/IMG_9550.webp" %})
+{% image "images/IMG_9550.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9551.webp"/>]({% image "content/blog/images/IMG_9551.webp" %})
+{% image "images/IMG_9551.webp" %}
 
   
 
@@ -206,27 +206,27 @@ We walked along the water to the Grand Canal of Trieste, seeing the churches at 
   
 
 
-[<img width="320" src="images/IMG_9552.webp"/>]({% image "content/blog/images/IMG_9552.webp" %})
+{% image "images/IMG_9552.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9553.webp"/>]({% image "content/blog/images/IMG_9553.webp" %})
+{% image "images/IMG_9553.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9556.webp"/>]({% image "content/blog/images/IMG_9556.webp" %})
+{% image "images/IMG_9556.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9557.webp"/>]({% image "content/blog/images/IMG_9557.webp" %})
+{% image "images/IMG_9557.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9559.webp"/>]({% image "content/blog/images/IMG_9559.webp" %})
+{% image "images/IMG_9559.webp" %}
 
   
 
@@ -236,7 +236,7 @@ We walked back to Giant's Staircase going back to the museum that we cut our vis
   
 
 
-[<img width="320" src="images/IMG_9561.webp"/>]({% image "content/blog/images/IMG_9561.webp" %})
+{% image "images/IMG_9561.webp" %}
 
   
 
@@ -246,7 +246,7 @@ An inside museum display. There was a surprisingly lot see. We could tell that t
   
 
 
-[<img width="320" src="images/IMG_9538.webp"/>]({% image "content/blog/images/IMG_9538.webp" %})
+{% image "images/IMG_9538.webp" %}
 
   
 
@@ -261,37 +261,37 @@ We went through security, immediately boarding, and going to our muster station 
   
 
 
-[<img width="320" src="images/IMG_9564.webp"/>]({% image "content/blog/images/IMG_9564.webp" %})
+{% image "images/IMG_9564.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9568.webp"/>]({% image "content/blog/images/IMG_9568.webp" %})
+{% image "images/IMG_9568.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9573.webp"/>]({% image "content/blog/images/IMG_9573.webp" %})
+{% image "images/IMG_9573.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9575.webp"/>]({% image "content/blog/images/IMG_9575.webp" %})
+{% image "images/IMG_9575.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9579.webp"/>]({% image "content/blog/images/IMG_9579.webp" %})
+{% image "images/IMG_9579.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9583.webp"/>]({% image "content/blog/images/IMG_9583.webp" %})
+{% image "images/IMG_9583.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9585.webp"/>]({% image "content/blog/images/IMG_9585.webp" %})
+{% image "images/IMG_9585.webp" %}
 
   
 
@@ -301,22 +301,22 @@ The cabin pictures. It definitely needed more drawers; there were only two -- on
   
 
 
-[<img width="320" src="images/IMG_9587.webp"/>]({% image "content/blog/images/IMG_9587.webp" %})
+{% image "images/IMG_9587.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9588.webp"/>]({% image "content/blog/images/IMG_9588.webp" %})
+{% image "images/IMG_9588.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9589.webp"/>]({% image "content/blog/images/IMG_9589.webp" %})
+{% image "images/IMG_9589.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9590.webp"/>]({% image "content/blog/images/IMG_9590.webp" %})
+{% image "images/IMG_9590.webp" %}
 
   
 
@@ -331,12 +331,12 @@ The buffet still had some Halloween decorations from the day before, so I got pi
   
 
 
-[<img width="320" src="images/IMG_9591.webp"/>]({% image "content/blog/images/IMG_9591.webp" %})
+{% image "images/IMG_9591.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9592.webp"/>]({% image "content/blog/images/IMG_9592.webp" %})
+{% image "images/IMG_9592.webp" %}
 
   
 

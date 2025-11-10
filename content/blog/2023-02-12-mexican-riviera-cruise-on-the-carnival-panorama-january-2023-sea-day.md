@@ -25,12 +25,12 @@ Tonight was elegant night, with the fancy food. Travis had pumpkin soup, spinach
   
 
 
-[<img width="320" src="images/IMG_5957.webp"/>]({% image "content/blog/images/IMG_5957.webp" %})
+{% image "images/IMG_5957.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5958.webp"/>]({% image "content/blog/images/IMG_5958.webp" %})
+{% image "images/IMG_5958.webp" %}
 
   
 
@@ -40,7 +40,7 @@ We saw the comedian Tim and checked out the sky -- found Jupiter, hanging out un
   
 
 
-[<img width="320" src="images/IMG_5960.webp"/>]({% image "content/blog/images/IMG_5960.webp" %})
+{% image "images/IMG_5960.webp" %}
 
   
 

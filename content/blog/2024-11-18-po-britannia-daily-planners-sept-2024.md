@@ -20,31 +20,31 @@ September 13 - Embarkation Day
   
 
 
-[![](<img width="320" src="images/image11.webp"/>)]({% image "content/blog/images/image11.webp" %})
+{% image "images/image11.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image12.webp"/>)]({% image "content/blog/images/image12.webp" %})
+{% image "images/image12.webp" %}
 
 September 14 - Sea Day
 
   
 
 
-[![](<img width="320" src="images/image13.webp"/>)]({% image "content/blog/images/image13.webp" %})
+{% image "images/image13.webp" %}
 
-[![](<img width="320" src="images/image14.webp"/>)]({% image "content/blog/images/image14.webp" %})
-
-  
-
-
-[![](<img width="320" src="images/image15.webp"/>)]({% image "content/blog/images/image15.webp" %})
+{% image "images/image14.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image16.webp"/>)]({% image "content/blog/images/image16.webp" %})
+{% image "images/image15.webp" %}
+
+  
+
+
+{% image "images/image16.webp" %}
 
   
 
@@ -54,12 +54,12 @@ September 16 - Flam
   
 
 
-[![](<img width="320" src="images/image17.webp"/>)]({% image "content/blog/images/image17.webp" %})
+{% image "images/image17.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image18.webp"/>)]({% image "content/blog/images/image18.webp" %})
+{% image "images/image18.webp" %}
 
   
 
@@ -69,31 +69,31 @@ September 17 - Nordfjordeid
   
 
 
-[![](<img width="320" src="images/image19.webp"/>)]({% image "content/blog/images/image19.webp" %})
+{% image "images/image19.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image20.webp"/>)]({% image "content/blog/images/image20.webp" %})
+{% image "images/image20.webp" %}
 
-[![](<img width="320" src="images/image21.webp"/>)]({% image "content/blog/images/image21.webp" %})
+{% image "images/image21.webp" %}
 
 September 18 - Haugesud 
 
   
 
 
-[![](<img width="320" src="images/image22.webp"/>)]({% image "content/blog/images/image22.webp" %})
+{% image "images/image22.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image23.webp"/>)]({% image "content/blog/images/image23.webp" %})
+{% image "images/image23.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image24.webp"/>)]({% image "content/blog/images/image24.webp" %})
+{% image "images/image24.webp" %}
 
   
 
@@ -103,14 +103,14 @@ September 19 - Sea Day
   
 
 
-[![](<img width="320" src="images/image25.webp"/>)]({% image "content/blog/images/image25.webp" %})
+{% image "images/image25.webp" %}
 
-[![](<img width="320" src="images/image26.webp"/>)]({% image "content/blog/images/image26.webp" %})
+{% image "images/image26.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image27.webp"/>)]({% image "content/blog/images/image27.webp" %})
+{% image "images/image27.webp" %}
 
   
 

@@ -1,14 +1,14 @@
 ---
 title: "Table of Contents"
 date: 2025-02-16
-img: images/Screen%20Shot%202023-03-05%20at%208.32.42%20PM.webp
+img: images/Screen Shot 2023-03-05 at 8.32.42 PM.webp
 tags: [Table of Contents]
 category: Table of Contents
 author: Tammy
 description: ""
 ---
 
-[<img src="images/Screen%20Shot%202023-03-05%20at%208.32.42%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-05%20at%208.32.42%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-05 at 8.32.42 PM.webp" %}
 
 **[Texas A&M; Football game -- August 30, 2025](https://ww-wanderers.blogspot.com/2025/09/our-first-texas-game.html)**
 

@@ -19,7 +19,7 @@ This boat kept photo bombing our pictures. Hagia Sophia from the ship.
   
 
 
-[<img width="320" src="images/IMG_4694.webp"/>]({% image "content/blog/images/IMG_4694.webp" %})
+{% image "images/IMG_4694.webp" %}
 
   
 
@@ -29,7 +29,7 @@ The Blue Mosque
   
 
 
-[<img width="320" src="images/IMG_4695.webp"/>]({% image "content/blog/images/IMG_4695.webp" %})
+{% image "images/IMG_4695.webp" %}
 
   
 
@@ -45,7 +45,7 @@ Ashore, we docked at [Galataport Istanbul](https://www.google.com/maps/place/Gal
 After walking from the port, we passed through a park and arrived at this washing fountain used to wash ones feet before praying. Our youngest called each mosque the Taj Mahal -- not even close, this is not India!  
 
 
-[<img width="320" src="images/IMG_4706.webp"/>]({% image "content/blog/images/IMG_4706.webp" %})
+{% image "images/IMG_4706.webp" %}
 
   
 
@@ -60,27 +60,27 @@ We arrived at Hagia Sophia. Before we went to Istanbul, I got a 3000 piece puzzl
   
 
 
-[<img width="320" src="images/IMG_4709.webp"/>]({% image "content/blog/images/IMG_4709.webp" %})
+{% image "images/IMG_4709.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4713.webp"/>]({% image "content/blog/images/IMG_4713.webp" %})
+{% image "images/IMG_4713.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4715.webp"/>]({% image "content/blog/images/IMG_4715.webp" %})
+{% image "images/IMG_4715.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100939.webp"/>]({% image "content/blog/images/P1100939.webp" %})
+{% image "images/P1100939.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100943.webp"/>]({% image "content/blog/images/P1100943.webp" %})
+{% image "images/P1100943.webp" %}
 
   
 
@@ -100,22 +100,22 @@ The beautiful ceiling.
   
 
 
-[<img width="320" src="images/IMG_4717.webp"/>]({% image "content/blog/images/IMG_4717.webp" %})
+{% image "images/IMG_4717.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4718.webp"/>]({% image "content/blog/images/IMG_4718.webp" %})
+{% image "images/IMG_4718.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4723.webp"/>]({% image "content/blog/images/IMG_4723.webp" %})
+{% image "images/IMG_4723.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4724.webp"/>]({% image "content/blog/images/IMG_4724.webp" %})
+{% image "images/IMG_4724.webp" %}
 
   
 
@@ -125,32 +125,32 @@ The speaking pulpit.
   
 
 
-[<img width="320" src="images/IMG_4725.webp"/>]({% image "content/blog/images/IMG_4725.webp" %})
+{% image "images/IMG_4725.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100956.webp"/>]({% image "content/blog/images/P1100956.webp" %})
+{% image "images/P1100956.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4727.webp"/>]({% image "content/blog/images/IMG_4727.webp" %})
+{% image "images/IMG_4727.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4728.webp"/>]({% image "content/blog/images/IMG_4728.webp" %})
+{% image "images/IMG_4728.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4729.webp"/>]({% image "content/blog/images/IMG_4729.webp" %})
+{% image "images/IMG_4729.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4731.webp"/>]({% image "content/blog/images/IMG_4731.webp" %})
+{% image "images/IMG_4731.webp" %}
 
   
 
@@ -160,7 +160,7 @@ Center doom.
   
 
 
-[<img width="320" src="images/P1100962.webp"/>]({% image "content/blog/images/P1100962.webp" %})
+{% image "images/P1100962.webp" %}
 
   
 
@@ -170,12 +170,12 @@ The library. It is hard to see, but they had large slanted (x shaped) furniture 
   
 
 
-[<img width="320" src="images/IMG_4733.webp"/>]({% image "content/blog/images/IMG_4733.webp" %})
+{% image "images/IMG_4733.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100965.webp"/>]({% image "content/blog/images/P1100965.webp" %})
+{% image "images/P1100965.webp" %}
 
   
 
@@ -185,7 +185,7 @@ This was famous mosaic still remaining and had a mirror as one was leaving to se
   
 
 
-[<img width="320" src="images/P1100973.webp"/>]({% image "content/blog/images/P1100973.webp" %})
+{% image "images/P1100973.webp" %}
 
   
 
@@ -195,7 +195,7 @@ Ablutions Fountain
   
 
 
-[<img width="320" src="images/P1100980.webp"/>]({% image "content/blog/images/P1100980.webp" %})
+{% image "images/P1100980.webp" %}
 
   
 
@@ -205,7 +205,7 @@ They had the upstairs closed. We read about it, and it sounded very interesting 
   
 
 
-[<img width="320" src="images/IMG_4751.webp"/>]({% image "content/blog/images/IMG_4751.webp" %})
+{% image "images/IMG_4751.webp" %}
 
   
 
@@ -215,14 +215,14 @@ The Blue Mosque was under construction, but they had completed the main doom.
   
 
 
-[<img width="320" src="images/P1100991.webp"/>]({% image "content/blog/images/P1100991.webp" %})
+{% image "images/P1100991.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100996.webp"/>]({% image "content/blog/images/P1100996.webp" %})
+{% image "images/P1100996.webp" %}
 
-[<img width="320" src="images/IMG_4749.webp"/>]({% image "content/blog/images/IMG_4749.webp" %})
+{% image "images/IMG_4749.webp" %}
 
   
 
@@ -232,7 +232,7 @@ Another at sailaway.
   
 
 
-[<img width="320" src="images/IMG_20220607_163300690.webp"/>]({% image "content/blog/images/IMG_20220607_163300690.webp" %})
+{% image "images/IMG_20220607_163300690.webp" %}
 
   
 

@@ -12,12 +12,12 @@ description: ""
 
 We set the alarm for 5:30 am. Travis woke up at 5:15 am and got to see the Verrazzano-Narrows Bridge lit up in the dark. Pictures of the approach from our room. 
 
-[<img width="320" src="images/IMG_7963.webp"/>]({% image "content/blog/images/IMG_7963.webp" %})
+{% image "images/IMG_7963.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7965.webp"/>]({% image "content/blog/images/IMG_7965.webp" %})
+{% image "images/IMG_7965.webp" %}
 
   
 
@@ -37,12 +37,12 @@ We subway'ed over to Manhattan and found Radio City Music hall and Rockefeller C
   
 
 
-[<img width="320" src="images/IMG_7969.webp"/>]({% image "content/blog/images/IMG_7969.webp" %})
+{% image "images/IMG_7969.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7971.webp"/>]({% image "content/blog/images/IMG_7971.webp" %})
+{% image "images/IMG_7971.webp" %}
 
   
 
@@ -52,7 +52,7 @@ There was a half marathon in Manhattan on the day that we returned; our FB group
   
 
 
-[<img src="images/IMG_7972.webp"/>]({% image "content/blog/images/IMG_7972.webp" %})
+{% image "images/IMG_7972.webp" %}
 
   
 
@@ -62,37 +62,37 @@ Chrysler Building, Trinity Church, and the New York Stock Exchange...covered wit
   
 
 
-[<img width="320" src="images/IMG_7973.webp"/>]({% image "content/blog/images/IMG_7973.webp" %})
+{% image "images/IMG_7973.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7974.webp"/>]({% image "content/blog/images/IMG_7974.webp" %})
+{% image "images/IMG_7974.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7975.webp"/>]({% image "content/blog/images/IMG_7975.webp" %})
+{% image "images/IMG_7975.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7976.webp"/>]({% image "content/blog/images/IMG_7976.webp" %})
+{% image "images/IMG_7976.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8015.webp"/>]({% image "content/blog/images/IMG_8015.webp" %})
+{% image "images/IMG_8015.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8016.webp"/>]({% image "content/blog/images/IMG_8016.webp" %})
+{% image "images/IMG_8016.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8017.webp"/>]({% image "content/blog/images/IMG_8017.webp" %})
+{% image "images/IMG_8017.webp" %}
 
   
 
@@ -107,7 +107,7 @@ After the show, we found pizza by the slice on the way to the World Trade Center
   
 
 
-[<img src="images/IMG_7977.webp"/>]({% image "content/blog/images/IMG_7977.webp" %})
+{% image "images/IMG_7977.webp" %}
 
   
 
@@ -117,27 +117,27 @@ The new Oculus building with train and subway stations and stores. This is where
   
 
 
-[<img width="320" src="images/IMG_7980.webp"/>]({% image "content/blog/images/IMG_7980.webp" %})
+{% image "images/IMG_7980.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7979.webp"/>]({% image "content/blog/images/IMG_7979.webp" %})
+{% image "images/IMG_7979.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7981.webp"/>]({% image "content/blog/images/IMG_7981.webp" %})
+{% image "images/IMG_7981.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7982.webp"/>]({% image "content/blog/images/IMG_7982.webp" %})
+{% image "images/IMG_7982.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7984.webp"/>]({% image "content/blog/images/IMG_7984.webp" %})
+{% image "images/IMG_7984.webp" %}
 
   
 
@@ -147,17 +147,17 @@ Cool animal statues to the side of the Oculus.
   
 
 
-[<img width="320" src="images/IMG_7985.webp"/>]({% image "content/blog/images/IMG_7985.webp" %})
+{% image "images/IMG_7985.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7986.webp"/>]({% image "content/blog/images/IMG_7986.webp" %})
+{% image "images/IMG_7986.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7988.webp"/>]({% image "content/blog/images/IMG_7988.webp" %})
+{% image "images/IMG_7988.webp" %}
 
 Our hotel was nice and was clean. It was near a large train yard that looked like a train yard for parking trains that were not in use, just from seeing it on the Google map, but it was in use. It was a large train hub; we saw Amtrak and NJ trains. They ran at all hours of the night. It was in an industrial area; on the other side of the tracks were stores and restaurants. We also stopped at Trader Joes before returning to get a few snacks for the room, next day, and the plane. Also after flat pillows on the cruise, we were happy to have good pillows and two per person. 
 

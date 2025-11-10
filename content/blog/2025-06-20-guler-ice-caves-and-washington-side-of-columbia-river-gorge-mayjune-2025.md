@@ -12,69 +12,69 @@ description: ""
 
 Today was the day before our whitewater rafting, which we were passing by the place on the way to the Guler Ice Caves to know where we were going the next day. We were testing using the toll bridge across the River in Hood River, called Hood River Bridge, west of our campground. The website said that the toll bridge had credit card and cash lanes. It did, but they were blocked off and closed. When I was signing for the car, I asked about toll options, and the person just said that we don't have toll roads here. So, Travis pulled into a gas station, while Joel tried to find an Avis toll price. It was per day of rental, not per day of use. Test failed, and we headed back east to the 197 bridge in The Dalles. Annoying, it was about 30 minutes longer each way, each day. A view across the river and then Mt. Adams in WA pictures. How American (or maybe Andean) is that -- a soccer goal and a snow-covered mountain? 
 
-[<img width="320" src="images/IMG_2482.webp"/>]({% image "content/blog/images/IMG_2482.webp" %})
+{% image "images/IMG_2482.webp" %}
 
   
 
 
-[<img src="images/IMG_2487.webp"/>]({% image "content/blog/images/IMG_2487.webp" %})
+{% image "images/IMG_2487.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2491.webp"/>]({% image "content/blog/images/IMG_2491.webp" %})
+{% image "images/IMG_2491.webp" %}
 
   
 
 
 We arrived at Guler Ice Caves. We passed and identified where our whitewater rafting was the next day. We had headlamps and flashlights but not the recommended helmets. It was not too big; however, there were some slippery spots -- at the bottom of the stairs and a few other places to the left. It was cool to see snow and ice around the cave. There was another cave in this area, but I did not climb over the fallen tree. Travis and kids went. There was also a vault restroom here. We did not find any other stops in this area, so I don't know if it was worth the long drive to get here -- 1:30 without the toll road working. 
 
-[<img width="320" src="images/IMG_2494.webp"/>]({% image "content/blog/images/IMG_2494.webp" %})
+{% image "images/IMG_2494.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2499.webp"/>]({% image "content/blog/images/IMG_2499.webp" %})
+{% image "images/IMG_2499.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2500.webp"/>]({% image "content/blog/images/IMG_2500.webp" %})
+{% image "images/IMG_2500.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2501.webp"/>]({% image "content/blog/images/IMG_2501.webp" %})
+{% image "images/IMG_2501.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2502.webp"/>]({% image "content/blog/images/IMG_2502.webp" %})
+{% image "images/IMG_2502.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2503.webp"/>]({% image "content/blog/images/IMG_2503.webp" %})
+{% image "images/IMG_2503.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2504.webp"/>]({% image "content/blog/images/IMG_2504.webp" %})
+{% image "images/IMG_2504.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2506.webp"/>]({% image "content/blog/images/IMG_2506.webp" %})
+{% image "images/IMG_2506.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2507.webp"/>]({% image "content/blog/images/IMG_2507.webp" %})
+{% image "images/IMG_2507.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2511.webp"/>]({% image "content/blog/images/IMG_2511.webp" %})
+{% image "images/IMG_2511.webp" %}
 
   
 
@@ -84,12 +84,12 @@ We headed back. The Ranger station was in Trout Lake, WA, but not open since it 
   
 
 
-[<img width="320" src="images/IMG_2515.webp"/>]({% image "content/blog/images/IMG_2515.webp" %})
+{% image "images/IMG_2515.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2516.webp"/>]({% image "content/blog/images/IMG_2516.webp" %})
+{% image "images/IMG_2516.webp" %}
 
   
 
@@ -99,37 +99,37 @@ Looking for a stop that I noticed in a "The Most Scenic Drives in America" book 
   
 
 
-[<img width="320" src="images/IMG_2517.webp"/>]({% image "content/blog/images/IMG_2517.webp" %})
+{% image "images/IMG_2517.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2521.webp"/>]({% image "content/blog/images/IMG_2521.webp" %})
+{% image "images/IMG_2521.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2523.webp"/>]({% image "content/blog/images/IMG_2523.webp" %})
+{% image "images/IMG_2523.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2524.webp"/>]({% image "content/blog/images/IMG_2524.webp" %})
+{% image "images/IMG_2524.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2526.webp"/>]({% image "content/blog/images/IMG_2526.webp" %})
+{% image "images/IMG_2526.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2527.webp"/>]({% image "content/blog/images/IMG_2527.webp" %})
+{% image "images/IMG_2527.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2529.webp"/>]({% image "content/blog/images/IMG_2529.webp" %})
+{% image "images/IMG_2529.webp" %}
 
   
 

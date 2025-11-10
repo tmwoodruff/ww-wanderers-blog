@@ -12,66 +12,66 @@ description: ""
 
 Now, heading to Grand Canyon from the south side of Petrified National Park, rejoining I-40 in Holbrook. Travis was hoping to stop in Williams to trade drivers, but the highway bypassed it. We stopped at Wendy's for a Frosty just south of the Grand Canyon entrance. On our road trip, we have been listening to Bill Bryson's: _I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away_. He talked about going to the Grand Canyon as a child on a family road trip and then again as an adult for the book. We entered with our annual pass and then headed to Mather Campground to check-in and setup the tent before it got dark. The Ranger was very friendly with check-in, going over the normal rules. She noted that they had seen a bear in the campground recently, though not common or expected. They were changing the process, so we were not given a car tag, but someone else before us was given one. Our reserved site was marked reserved; pre-booked on recreation.gov. It turned out big and to offer several places that we could setup the tent. Here is what we picked. Our tent was on sale at Aldi, about $17; Travis had seam sealed it before. It worked well. That extra piece on the left was a shoe/boot storage to keep them dry if it rained (it did) that was accessible from the inside or outside. Since we had not had rain at home since some time in June, I noted that I would be annoyed if it rained the full time we hiked -- there was rain, but not hike interrupting. More on that later. 
 
-[<img width="320" src="images/IMG_7198.webp"/>]({% image "content/blog/images/IMG_7198.webp" %})
+{% image "images/IMG_7198.webp" %}
 
 We drove and parked at the Visitor Center for our first look at the Grand Canyon at Mather Point. We walked further along the Rim Trail for additional views. The Visitor Center had hiking info displays outside, but was never actually open, it was crazy! It was open 8am to noon, Thursday to Monday. That is prime hiking time; again, crazy! We did not get to visit. The view: 
 
-[<img width="320" src="images/P1130312.webp"/>]({% image "content/blog/images/P1130312.webp" %})
+{% image "images/P1130312.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130315.webp"/>]({% image "content/blog/images/P1130315.webp" %})
+{% image "images/P1130315.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130324.webp"/>]({% image "content/blog/images/P1130324.webp" %})
+{% image "images/P1130324.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130329.webp"/>]({% image "content/blog/images/P1130329.webp" %})
+{% image "images/P1130329.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130338.webp"/>]({% image "content/blog/images/P1130338.webp" %})
+{% image "images/P1130338.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7170.webp"/>]({% image "content/blog/images/IMG_7170.webp" %})
+{% image "images/IMG_7170.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7172.webp"/>]({% image "content/blog/images/IMG_7172.webp" %})
+{% image "images/IMG_7172.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7111.webp"/>]({% image "content/blog/images/IMG_7111.webp" %})
+{% image "images/IMG_7111.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7114.webp"/>]({% image "content/blog/images/IMG_7114.webp" %})
+{% image "images/IMG_7114.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7117.webp"/>]({% image "content/blog/images/IMG_7117.webp" %})
+{% image "images/IMG_7117.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7123.webp"/>]({% image "content/blog/images/IMG_7123.webp" %})
+{% image "images/IMG_7123.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7126.webp"/>]({% image "content/blog/images/IMG_7126.webp" %})
+{% image "images/IMG_7126.webp" %}
 
   
 
@@ -91,62 +91,62 @@ Today, the 10th, we were hiking Hermit's Trail to Santa Maria Spring. We origina
   
 
 
-[<img width="320" src="images/IMG_7037.webp"/>]({% image "content/blog/images/IMG_7037.webp" %})
+{% image "images/IMG_7037.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7051.webp"/>]({% image "content/blog/images/IMG_7051.webp" %})
+{% image "images/IMG_7051.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7053.webp"/>]({% image "content/blog/images/IMG_7053.webp" %})
+{% image "images/IMG_7053.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7057.webp"/>]({% image "content/blog/images/IMG_7057.webp" %})
+{% image "images/IMG_7057.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7061.webp"/>]({% image "content/blog/images/IMG_7061.webp" %})
+{% image "images/IMG_7061.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7063.webp"/>]({% image "content/blog/images/IMG_7063.webp" %})
+{% image "images/IMG_7063.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7064.webp"/>]({% image "content/blog/images/IMG_7064.webp" %})
+{% image "images/IMG_7064.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7067.webp"/>]({% image "content/blog/images/IMG_7067.webp" %})
+{% image "images/IMG_7067.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7068.webp"/>]({% image "content/blog/images/IMG_7068.webp" %})
+{% image "images/IMG_7068.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7071.webp"/>]({% image "content/blog/images/IMG_7071.webp" %})
+{% image "images/IMG_7071.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7077.webp"/>]({% image "content/blog/images/IMG_7077.webp" %})
+{% image "images/IMG_7077.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7078.webp"/>]({% image "content/blog/images/IMG_7078.webp" %})
+{% image "images/IMG_7078.webp" %}
 
   
 
@@ -156,12 +156,12 @@ We arrived at the spring; it was flowing from a pipe and had tadpoles. At the re
   
 
 
-[<img width="320" src="images/IMG_7080.webp"/>]({% image "content/blog/images/IMG_7080.webp" %})
+{% image "images/IMG_7080.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7083.webp"/>]({% image "content/blog/images/IMG_7083.webp" %})
+{% image "images/IMG_7083.webp" %}
 
   
 
@@ -186,47 +186,47 @@ Again up early and on the shuttle to get an early start on the hike. We went dow
   
 
 
-[<img width="320" src="images/IMG_7136.webp"/>]({% image "content/blog/images/IMG_7136.webp" %})
+{% image "images/IMG_7136.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7138.webp"/>]({% image "content/blog/images/IMG_7138.webp" %})
+{% image "images/IMG_7138.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7148.webp"/>]({% image "content/blog/images/IMG_7148.webp" %})
+{% image "images/IMG_7148.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7149.webp"/>]({% image "content/blog/images/IMG_7149.webp" %})
+{% image "images/IMG_7149.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7151.webp"/>]({% image "content/blog/images/IMG_7151.webp" %})
+{% image "images/IMG_7151.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7152.webp"/>]({% image "content/blog/images/IMG_7152.webp" %})
+{% image "images/IMG_7152.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7158.webp"/>]({% image "content/blog/images/IMG_7158.webp" %})
+{% image "images/IMG_7158.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7159.webp"/>]({% image "content/blog/images/IMG_7159.webp" %})
+{% image "images/IMG_7159.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7165.webp"/>]({% image "content/blog/images/IMG_7165.webp" %})
+{% image "images/IMG_7165.webp" %}
 
   
 
@@ -236,14 +236,14 @@ In the afternoon, after finishing our morning hike, we went back to the Hermit's
   
 
 
-[<img width="320" src="images/IMG_7181.webp"/>]({% image "content/blog/images/IMG_7181.webp" %})
+{% image "images/IMG_7181.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7182.webp"/>]({% image "content/blog/images/IMG_7182.webp" %})
+{% image "images/IMG_7182.webp" %}
 
-[<img width="320" src="images/IMG_7189.webp"/>]({% image "content/blog/images/IMG_7189.webp" %})
+{% image "images/IMG_7189.webp" %}
 
   
 
@@ -254,12 +254,12 @@ The hotel with the fireplace with all the layers of the Grand Canyon where some 
   
 
 
-[<img width="320" src="images/IMG_7176.webp"/>]({% image "content/blog/images/IMG_7176.webp" %})
+{% image "images/IMG_7176.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7179.webp"/>]({% image "content/blog/images/IMG_7179.webp" %})
+{% image "images/IMG_7179.webp" %}
 
   
 
@@ -269,7 +269,7 @@ The daily train from Williams, AZ. The last night camping, we had cheese nachos.
   
 
 
-[<img width="320" src="images/IMG_7177.webp"/>]({% image "content/blog/images/IMG_7177.webp" %})
+{% image "images/IMG_7177.webp" %}
 
   
 
@@ -278,87 +278,87 @@ Before leaving the Grand Canyon, we visited Desert View. The views from here wer
   
 
 
-[<img width="320" src="images/IMG_7195.webp"/>]({% image "content/blog/images/IMG_7195.webp" %})
+{% image "images/IMG_7195.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7196.webp"/>]({% image "content/blog/images/IMG_7196.webp" %})
+{% image "images/IMG_7196.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7197.webp"/>]({% image "content/blog/images/IMG_7197.webp" %})
+{% image "images/IMG_7197.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7205.webp"/>]({% image "content/blog/images/IMG_7205.webp" %})
+{% image "images/IMG_7205.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7209.webp"/>]({% image "content/blog/images/IMG_7209.webp" %})
+{% image "images/IMG_7209.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7219.webp"/>]({% image "content/blog/images/IMG_7219.webp" %})
+{% image "images/IMG_7219.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7220.webp"/>]({% image "content/blog/images/IMG_7220.webp" %})
+{% image "images/IMG_7220.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7226.webp"/>]({% image "content/blog/images/IMG_7226.webp" %})
+{% image "images/IMG_7226.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7234.webp"/>]({% image "content/blog/images/IMG_7234.webp" %})
+{% image "images/IMG_7234.webp" %}
 
   
 
 
-[<img src="images/P1130359.webp"/>]({% image "content/blog/images/P1130359.webp" %})
+{% image "images/P1130359.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130360.webp"/>]({% image "content/blog/images/P1130360.webp" %})
+{% image "images/P1130360.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130367.webp"/>]({% image "content/blog/images/P1130367.webp" %})
+{% image "images/P1130367.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130370.webp"/>]({% image "content/blog/images/P1130370.webp" %})
+{% image "images/P1130370.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130381.webp"/>]({% image "content/blog/images/P1130381.webp" %})
+{% image "images/P1130381.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130385.webp"/>]({% image "content/blog/images/P1130385.webp" %})
+{% image "images/P1130385.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130397.webp"/>]({% image "content/blog/images/P1130397.webp" %})
+{% image "images/P1130397.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130427.webp"/>]({% image "content/blog/images/P1130427.webp" %})
+{% image "images/P1130427.webp" %}
 
   
 

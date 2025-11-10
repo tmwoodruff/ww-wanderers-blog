@@ -14,22 +14,22 @@ Our time at Kusadasi was published as 6:30 am to 12:30 pm, so we knew that would
 
 Upon approach to Kusadasi with the sun rising. 
 
-[<img width="320" src="images/IMG_4571.webp"/>]({% image "content/blog/images/IMG_4571.webp" %})
+{% image "images/IMG_4571.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4573.webp"/>]({% image "content/blog/images/IMG_4573.webp" %})
+{% image "images/IMG_4573.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4575.webp"/>]({% image "content/blog/images/IMG_4575.webp" %})
+{% image "images/IMG_4575.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4576.webp"/>]({% image "content/blog/images/IMG_4576.webp" %})
+{% image "images/IMG_4576.webp" %}
 
   
 
@@ -44,7 +44,7 @@ First stop
   
 
 
-[<img width="320" src="images/IMG_4581.webp"/>]({% image "content/blog/images/IMG_4581.webp" %})
+{% image "images/IMG_4581.webp" %}
 
   
 
@@ -54,7 +54,7 @@ Ancient Turkish bathhouses
   
 
 
-[<img width="320" src="images/IMG_4583.webp"/>]({% image "content/blog/images/IMG_4583.webp" %})
+{% image "images/IMG_4583.webp" %}
 
   
 
@@ -64,47 +64,47 @@ Arrived at Ephesus. There are hills around that still need to be excavated where
   
 
 
-[<img width="320" src="images/IMG_4594.webp"/>]({% image "content/blog/images/IMG_4594.webp" %})
+{% image "images/IMG_4594.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4598.webp"/>]({% image "content/blog/images/IMG_4598.webp" %})
+{% image "images/IMG_4598.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4600.webp"/>]({% image "content/blog/images/IMG_4600.webp" %})
+{% image "images/IMG_4600.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4601.webp"/>]({% image "content/blog/images/IMG_4601.webp" %})
+{% image "images/IMG_4601.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4602.webp"/>]({% image "content/blog/images/IMG_4602.webp" %})
+{% image "images/IMG_4602.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4604.webp"/>]({% image "content/blog/images/IMG_4604.webp" %})
+{% image "images/IMG_4604.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100766.webp"/>]({% image "content/blog/images/P1100766.webp" %})
+{% image "images/P1100766.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100758.webp"/>]({% image "content/blog/images/P1100758.webp" %})
+{% image "images/P1100758.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100772.webp"/>]({% image "content/blog/images/P1100772.webp" %})
+{% image "images/P1100772.webp" %}
 
   
 
@@ -114,20 +114,19 @@ Look at that view!
   
 
 
-[<img width="320" src="images/P1100777.webp"/>]({% image "content/blog/images/P1100777.webp" %})
+{% image "images/P1100777.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100784.webp"/>]({% image "content/blog/images/P1100784.webp" %})
+{% image "images/P1100784.webp" %}
 
-[  
-<img width="320" src="images/P1100810.webp"/>]({% image "content/blog/images/P1100810.webp" %})
+{% image "images/P1100810.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100815.webp"/>]({% image "content/blog/images/P1100815.webp" %})
+{% image "images/P1100815.webp" %}
 
   
 
@@ -137,12 +136,12 @@ The public toilets with water flowing below to "flush".
   
 
 
-[<img width="320" src="images/P1100822.webp"/>]({% image "content/blog/images/P1100822.webp" %})
+{% image "images/P1100822.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100824.webp"/>]({% image "content/blog/images/P1100824.webp" %})
+{% image "images/P1100824.webp" %}
 
   
 
@@ -152,32 +151,32 @@ Library of Celsus
   
 
 
-[<img width="320" src="images/P1100828.webp"/>]({% image "content/blog/images/P1100828.webp" %})
+{% image "images/P1100828.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100832.webp"/>]({% image "content/blog/images/P1100832.webp" %})
+{% image "images/P1100832.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100838.webp"/>]({% image "content/blog/images/P1100838.webp" %})
+{% image "images/P1100838.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100851.webp"/>]({% image "content/blog/images/P1100851.webp" %})
+{% image "images/P1100851.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100886.webp"/>]({% image "content/blog/images/P1100886.webp" %})
+{% image "images/P1100886.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100902.webp"/>]({% image "content/blog/images/P1100902.webp" %})
+{% image "images/P1100902.webp" %}
 
   
 
@@ -187,7 +186,7 @@ Travis found a squat toilet before we left the Ephesus site; it was free. Luckil
   
 
 
-[<img width="320" src="images/P1100903.webp"/>]({% image "content/blog/images/P1100903.webp" %})
+{% image "images/P1100903.webp" %}
 
   
 
@@ -202,17 +201,17 @@ Our ship with another, smaller one; I believe it was a Costa ship.
   
 
 
-[<img width="320" src="images/IMG_4665.webp"/>]({% image "content/blog/images/IMG_4665.webp" %})
+{% image "images/IMG_4665.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4668.webp"/>]({% image "content/blog/images/IMG_4668.webp" %})
+{% image "images/IMG_4668.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4678.webp"/>]({% image "content/blog/images/IMG_4678.webp" %})
+{% image "images/IMG_4678.webp" %}
 
   
 
@@ -222,12 +221,12 @@ With the Kusadasi sign and colorful houses on the hill.
   
 
 
-[<img width="320" src="images/P1100743.webp"/>]({% image "content/blog/images/P1100743.webp" %})
+{% image "images/P1100743.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100906.webp"/>]({% image "content/blog/images/P1100906.webp" %})
+{% image "images/P1100906.webp" %}
 
   
 
@@ -237,7 +236,7 @@ He is a little big for the playground.
   
 
 
-[<img width="320" src="images/P1100910.webp"/>]({% image "content/blog/images/P1100910.webp" %})
+{% image "images/P1100910.webp" %}
 
   
 
@@ -247,7 +246,7 @@ Our tour guide mentioned that birds were the symbol of Kusadasi, and we found th
   
 
 
-[<img width="320" src="images/P1100918.webp"/>]({% image "content/blog/images/P1100918.webp" %})
+{% image "images/P1100918.webp" %}
 
   
 
@@ -257,7 +256,7 @@ We had the complimentary Asian restaurant back on the ship for dinner. It was no
   
 
 
-[<img width="320" src="images/IMG_4685.webp"/>]({% image "content/blog/images/IMG_4685.webp" %})
+{% image "images/IMG_4685.webp" %}
 
   
 
@@ -265,7 +264,7 @@ We had the complimentary Asian restaurant back on the ship for dinner. It was no
   
 
 
-[<img width="320" src="images/IMG_4689.webp"/>]({% image "content/blog/images/IMG_4689.webp" %})
+{% image "images/IMG_4689.webp" %}
 
   
 
@@ -275,7 +274,7 @@ Relaxing on the balcony in the included balcony robes.
   
 
 
-[<img width="320" src="images/IMG_4692.webp"/>]({% image "content/blog/images/IMG_4692.webp" %})
+{% image "images/IMG_4692.webp" %}
 
 [Next up Istanbul...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl.html)
 

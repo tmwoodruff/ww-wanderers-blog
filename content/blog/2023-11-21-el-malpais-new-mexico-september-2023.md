@@ -14,7 +14,7 @@ We left Page early. I drove first and the Navajo roads had crazy, slow speed lim
 
 I brought Popeye's coupons that came to our house, not sure how widely accepted they were. We stopped at Popeye's and were able to use a 2 eat coupon and got gas before going to El Malpais. There were two roads that went to the park off of I-40. One really needed a 4x4, so we took the other, stopping at the visitor center. There was another person at the visitor center when we got there, not too busy. So, we stopped and talked to the Ranger for a bit. Before leaving, asking it was going to rain, he thought no, but it did while we were hiking. The visitor center was at exit 85, and the road that we could take was 117 at exit 89, south. 
 
-[<img width="320" src="images/IMG_7477.webp"/>]({% image "content/blog/images/IMG_7477.webp" %})
+{% image "images/IMG_7477.webp" %}
 
   
 
@@ -24,7 +24,7 @@ We stopped and did the short hike to La Ventana Arch.
   
 
 
-[<img width="320" src="images/IMG_7496.webp"/>]({% image "content/blog/images/IMG_7496.webp" %})[<img width="320" src="images/IMG_7497.webp"/>]({% image "content/blog/images/IMG_7497.webp" %})
+{% image "images/IMG_7496.webp" %}{% image "images/IMG_7497.webp" %}
 
   
 
@@ -34,17 +34,17 @@ Then we drove to the end of the park to hike Lava Falls Trail. It rained a littl
   
 
 
-[<img width="320" src="images/IMG_7483.webp"/>]({% image "content/blog/images/IMG_7483.webp" %})
+{% image "images/IMG_7483.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7485.webp"/>]({% image "content/blog/images/IMG_7485.webp" %})[<img width="320" src="images/IMG_7487.webp"/>]({% image "content/blog/images/IMG_7487.webp" %})
+{% image "images/IMG_7485.webp" %}{% image "images/IMG_7487.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7489.webp"/>]({% image "content/blog/images/IMG_7489.webp" %})
+{% image "images/IMG_7489.webp" %}
 
   
 

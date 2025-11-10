@@ -15,7 +15,7 @@ My grocery store bagel toasted with cream cheese was very good. We explored more
   
 
 
-[<img width="320" src="images/IMG_5667.webp"/>]({% image "content/blog/images/IMG_5667.webp" %})
+{% image "images/IMG_5667.webp" %}
 
   
 
@@ -25,17 +25,17 @@ Benjamin Franklin and wife's gravestone, and some good information about his lif
   
 
 
-[<img width="320" src="images/IMG_5671.webp"/>]({% image "content/blog/images/IMG_5671.webp" %})
+{% image "images/IMG_5671.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5672.webp"/>]({% image "content/blog/images/IMG_5672.webp" %})
+{% image "images/IMG_5672.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5673.webp"/>]({% image "content/blog/images/IMG_5673.webp" %})
+{% image "images/IMG_5673.webp" %}
 
   
 
@@ -50,17 +50,17 @@ We headed toward the art museum area through Logan's square and found the Amor v
   
 
 
-[<img width="320" src="images/IMG_5683.webp"/>]({% image "content/blog/images/IMG_5683.webp" %})
+{% image "images/IMG_5683.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5685.webp"/>]({% image "content/blog/images/IMG_5685.webp" %})
+{% image "images/IMG_5685.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5687.webp"/>]({% image "content/blog/images/IMG_5687.webp" %})
+{% image "images/IMG_5687.webp" %}
 
   
 
@@ -70,12 +70,12 @@ Rodin Museum. The Thinker and then the Gates of Hell.
   
 
 
-[<img width="320" src="images/IMG_5691.webp"/>]({% image "content/blog/images/IMG_5691.webp" %})
+{% image "images/IMG_5691.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5693.webp"/>]({% image "content/blog/images/IMG_5693.webp" %})
+{% image "images/IMG_5693.webp" %}
 
   
 
@@ -85,17 +85,17 @@ Sculpture of Balzac and the seal that looks the sculpture below of the him as we
   
 
 
-[<img width="320" src="images/IMG_5694.webp"/>]({% image "content/blog/images/IMG_5694.webp" %})
+{% image "images/IMG_5694.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5695.webp"/>]({% image "content/blog/images/IMG_5695.webp" %})
+{% image "images/IMG_5695.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5701.webp"/>]({% image "content/blog/images/IMG_5701.webp" %})
+{% image "images/IMG_5701.webp" %}
 
   
 
@@ -105,7 +105,7 @@ Philadelphia Museum of Art. We did not visit but looked at the outside with the 
   
 
 
-[<img width="320" src="images/IMG_5705.webp"/>]({% image "content/blog/images/IMG_5705.webp" %})
+{% image "images/IMG_5705.webp" %}
 
   
 
@@ -115,12 +115,12 @@ Behind the Museum we found the waterfront and Schuylkill River where the dam was
   
 
 
-[<img width="320" src="images/IMG_5707.webp"/>]({% image "content/blog/images/IMG_5707.webp" %})
+{% image "images/IMG_5707.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5710.webp"/>]({% image "content/blog/images/IMG_5710.webp" %})
+{% image "images/IMG_5710.webp" %}
 
   
 
@@ -130,12 +130,12 @@ A bridge when going down to the waterfront. Here we found a wedding party preppi
   
 
 
-[<img width="320" src="images/IMG_5709.webp"/>]({% image "content/blog/images/IMG_5709.webp" %})
+{% image "images/IMG_5709.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5712.webp"/>]({% image "content/blog/images/IMG_5712.webp" %})
+{% image "images/IMG_5712.webp" %}
 
   
 
@@ -145,7 +145,7 @@ Matthias Baldwin Park was noted to have good city views. This was near our hotel
   
 
 
-[<img width="320" src="images/IMG_5715.webp"/>]({% image "content/blog/images/IMG_5715.webp" %})
+{% image "images/IMG_5715.webp" %}
 
   
 
@@ -232,7 +232,7 @@ Sicilian rice ball:
   
 
 
-[<img width="320" src="images/IMG_5718.webp"/>]({% image "content/blog/images/IMG_5718.webp" %})
+{% image "images/IMG_5718.webp" %}
 
   
 
@@ -242,7 +242,7 @@ Wide ribbon pasta, slow cooked pork, lamb, chicken & veal ragu:
   
 
 
-[<img width="320" src="images/IMG_5719.webp"/>]({% image "content/blog/images/IMG_5719.webp" %})
+{% image "images/IMG_5719.webp" %}
 
   
 
@@ -252,12 +252,12 @@ Gran Panna Cotta and gelato:
   
 
 
-[<img width="320" src="images/IMG_5720.webp"/>]({% image "content/blog/images/IMG_5720.webp" %})
+{% image "images/IMG_5720.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5721.webp"/>]({% image "content/blog/images/IMG_5721.webp" %})
+{% image "images/IMG_5721.webp" %}
 
   
 
@@ -287,12 +287,12 @@ We were on the second floor out of 7, so not the best view, but we could still s
   
 
 
-[<img width="320" src="images/IMG_5664.webp"/>]({% image "content/blog/images/IMG_5664.webp" %})
+{% image "images/IMG_5664.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5722.webp"/>]({% image "content/blog/images/IMG_5722.webp" %})
+{% image "images/IMG_5722.webp" %}
 
   
 

@@ -20,11 +20,11 @@ We had one stop for water and restroom (5 Pesos and need a 5 Peso coin) at a gas
 
 We got to climb this pyramid though currently climbing the Sun and Moon pyramids is not allowed. We sat on the backside of the first one where our guide shared info. 
 
-[<img width="320" src="images/IMG_1703.webp"/>]({% image "content/blog/images/IMG_1703.webp" %})
+{% image "images/IMG_1703.webp" %}
 
-[<img width="320" src="images/IMG_1715.webp"/>]({% image "content/blog/images/IMG_1715.webp" %})
+{% image "images/IMG_1715.webp" %}
 
-[<img width="320" src="images/IMG_1707.webp"/>]({% image "content/blog/images/IMG_1707.webp" %})[<img width="320" src="images/IMG_1719.webp"/>]({% image "content/blog/images/IMG_1719.webp" %})
+{% image "images/IMG_1707.webp" %}{% image "images/IMG_1719.webp" %}
 
   
 
@@ -34,17 +34,17 @@ From the above left pictures, where you see little rocks in the concrete, this i
   
 
 
-[<img width="320" src="images/IMG_1731.webp"/>]({% image "content/blog/images/IMG_1731.webp" %})
+{% image "images/IMG_1731.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1732.webp"/>]({% image "content/blog/images/IMG_1732.webp" %})
+{% image "images/IMG_1732.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1734.webp"/>]({% image "content/blog/images/IMG_1734.webp" %})
+{% image "images/IMG_1734.webp" %}
 
   
 
@@ -54,47 +54,47 @@ Another that were allowed to climb and views from the top.
   
 
 
-[<img width="320" src="images/IMG_1708.webp"/>]({% image "content/blog/images/IMG_1708.webp" %})
+{% image "images/IMG_1708.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1741.webp"/>]({% image "content/blog/images/IMG_1741.webp" %})
+{% image "images/IMG_1741.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1742.webp"/>]({% image "content/blog/images/IMG_1742.webp" %})
+{% image "images/IMG_1742.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1710.webp"/>]({% image "content/blog/images/IMG_1710.webp" %})
+{% image "images/IMG_1710.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1716.webp"/>]({% image "content/blog/images/IMG_1716.webp" %})
+{% image "images/IMG_1716.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1724.webp"/>]({% image "content/blog/images/IMG_1724.webp" %})
+{% image "images/IMG_1724.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1726.webp"/>]({% image "content/blog/images/IMG_1726.webp" %})
+{% image "images/IMG_1726.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1743.webp"/>]({% image "content/blog/images/IMG_1743.webp" %})
+{% image "images/IMG_1743.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1744.webp"/>]({% image "content/blog/images/IMG_1744.webp" %})
+{% image "images/IMG_1744.webp" %}
 
   
 
@@ -104,7 +104,7 @@ Travis created a panorama, which is small on the blog, but still fun.
   
 
 
-[<img src="images/IMG_20250206_104230356.webp"/>]({% image "content/blog/images/IMG_20250206_104230356.webp" %})
+{% image "images/IMG_20250206_104230356.webp" %}
 
   
 
@@ -114,7 +114,7 @@ Moon pyramid
   
 
 
-[<img width="320" src="images/IMG_1745.webp"/>]({% image "content/blog/images/IMG_1745.webp" %})
+{% image "images/IMG_1745.webp" %}
 
   
 
@@ -124,22 +124,22 @@ Apartments
   
 
 
-[<img width="320" src="images/IMG_1747.webp"/>]({% image "content/blog/images/IMG_1747.webp" %})
+{% image "images/IMG_1747.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1749.webp"/>]({% image "content/blog/images/IMG_1749.webp" %})
+{% image "images/IMG_1749.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1750.webp"/>]({% image "content/blog/images/IMG_1750.webp" %})
+{% image "images/IMG_1750.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1751.webp"/>]({% image "content/blog/images/IMG_1751.webp" %})
+{% image "images/IMG_1751.webp" %}
 
   
 
@@ -149,12 +149,12 @@ Drainage system in the apartments
   
 
 
-[<img width="320" src="images/IMG_1753.webp"/>]({% image "content/blog/images/IMG_1753.webp" %})
+{% image "images/IMG_1753.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1771.webp"/>]({% image "content/blog/images/IMG_1771.webp" %})
+{% image "images/IMG_1771.webp" %}
 
   
 
@@ -164,7 +164,7 @@ Sports field; they had multiple.
   
 
 
-[<img width="320" src="images/IMG_20250206_114007174_HDR.webp"/>]({% image "content/blog/images/IMG_20250206_114007174_HDR.webp" %})
+{% image "images/IMG_20250206_114007174_HDR.webp" %}
 
   
 
@@ -174,27 +174,27 @@ Original on the left and reconstructed on the right. Still retained some red and
   
 
 
-[<img width="320" src="images/IMG_1764.webp"/>]({% image "content/blog/images/IMG_1764.webp" %})
+{% image "images/IMG_1764.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1767.webp"/>]({% image "content/blog/images/IMG_1767.webp" %})
+{% image "images/IMG_1767.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1768.webp"/>]({% image "content/blog/images/IMG_1768.webp" %})
+{% image "images/IMG_1768.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1770.webp"/>]({% image "content/blog/images/IMG_1770.webp" %})
+{% image "images/IMG_1770.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250206_110551935_HDR.webp"/>]({% image "content/blog/images/IMG_20250206_110551935_HDR.webp" %})
+{% image "images/IMG_20250206_110551935_HDR.webp" %}
 
   
 
@@ -203,17 +203,17 @@ Travis caught a lizard on both their tongues in his picture. Mexico has to get p
   
 
 
-[<img src="images/IMG_20250206_113216007_HDR.webp"/>]({% image "content/blog/images/IMG_20250206_113216007_HDR.webp" %})
+{% image "images/IMG_20250206_113216007_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1776.webp"/>]({% image "content/blog/images/IMG_1776.webp" %})
+{% image "images/IMG_1776.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1777.webp"/>]({% image "content/blog/images/IMG_1777.webp" %})
+{% image "images/IMG_1777.webp" %}
 
   
 
@@ -223,59 +223,59 @@ Then we arrived at the Sun pyramid. It was built to be the same shape as the nea
   
 
 
-[<img width="320" src="images/IMG_1778.webp"/>]({% image "content/blog/images/IMG_1778.webp" %})
+{% image "images/IMG_1778.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1795.webp"/>]({% image "content/blog/images/IMG_1795.webp" %})
+{% image "images/IMG_1795.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1780.webp"/>]({% image "content/blog/images/IMG_1780.webp" %})
+{% image "images/IMG_1780.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1784.webp"/>]({% image "content/blog/images/IMG_1784.webp" %})
+{% image "images/IMG_1784.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1785.webp"/>]({% image "content/blog/images/IMG_1785.webp" %})
+{% image "images/IMG_1785.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1787.webp"/>]({% image "content/blog/images/IMG_1787.webp" %})
+{% image "images/IMG_1787.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1789.webp"/>]({% image "content/blog/images/IMG_1789.webp" %})
+{% image "images/IMG_1789.webp" %}
 
   
 
 
-[<img src="images/IMG_1791.webp"/>]({% image "content/blog/images/IMG_1791.webp" %})
+{% image "images/IMG_1791.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1792.webp"/>]({% image "content/blog/images/IMG_1792.webp" %})
+{% image "images/IMG_1792.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1794.webp"/>]({% image "content/blog/images/IMG_1794.webp" %})
+{% image "images/IMG_1794.webp" %}
 
   
 After the walk around, we did not have a lot of time before we needed to meet back at the bus, so we headed toward the Moon pyramid. We got a quick view from a hill/viewpoint from the left of it.   
   
 
 
-[<img width="320" src="images/IMG_1799.webp"/>]({% image "content/blog/images/IMG_1799.webp" %})
+{% image "images/IMG_1799.webp" %}
 
   
 
@@ -285,7 +285,7 @@ Back in Mexico City, we made a stop again at Tony's Pasties and Empanadas for a 
   
 
 
-[<img src="images/IMG_1801.webp"/>]({% image "content/blog/images/IMG_1801.webp" %})[<img src="images/IMG_20250206_152742524_HDR.webp"/>]({% image "content/blog/images/IMG_20250206_152742524_HDR.webp" %})  
+{% image "images/IMG_1801.webp" %}{% image "images/IMG_20250206_152742524_HDR.webp" %}  
   
 
 
@@ -294,7 +294,7 @@ This was cool; it went with a store and was on the walkway/park between the stre
   
 
 
-[<img width="320" src="images/IMG_1802.webp"/>]({% image "content/blog/images/IMG_1802.webp" %})
+{% image "images/IMG_1802.webp" %}
 
   
 
@@ -304,7 +304,7 @@ We then went to Churrería El Moro for churros and coffee for Travis. We did not
   
 
 
-[<img src="images/IMG_1804.webp"/>]({% image "content/blog/images/IMG_1804.webp" %})[<img width="320" src="images/IMG_1805.webp"/>]({% image "content/blog/images/IMG_1805.webp" %})
+{% image "images/IMG_1804.webp" %}{% image "images/IMG_1805.webp" %}
 
   
 

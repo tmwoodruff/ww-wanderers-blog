@@ -12,7 +12,7 @@ description: ""
 
 Mykonos, 8am to 7pm, was our first tender port where all the ships tendered/no docks. A view from the tender of the ship from below.
 
-[<img width="320" src="images/IMG_4879.webp"/>]({% image "content/blog/images/IMG_4879.webp" %})
+{% image "images/IMG_4879.webp" %}
 
   
 
@@ -22,7 +22,7 @@ At the tender port, they had wifi available inside the gates and by the welcome 
   
 
 
-[<img width="320" src="images/IMG_4881.webp"/>]({% image "content/blog/images/IMG_4881.webp" %})
+{% image "images/IMG_4881.webp" %}
 
   
 
@@ -32,7 +32,7 @@ This was our busiest port, with at least 5 ships, in port this day, and the crow
   
 
 
-[<img width="320" src="images/IMG_4884.webp"/>]({% image "content/blog/images/IMG_4884.webp" %})
+{% image "images/IMG_4884.webp" %}
 
   
 
@@ -42,17 +42,17 @@ A little church; they were family run in Mykonos, with each picking their Saint 
   
 
 
-[<img width="320" src="images/IMG_4887.webp"/>]({% image "content/blog/images/IMG_4887.webp" %})
+{% image "images/IMG_4887.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110028.webp"/>]({% image "content/blog/images/P1110028.webp" %})
+{% image "images/P1110028.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110029.webp"/>]({% image "content/blog/images/P1110029.webp" %})
+{% image "images/P1110029.webp" %}
 
   
 
@@ -62,22 +62,22 @@ This was a fortress along the coast; part was described as a marshmallow, which 
   
 
 
-[<img width="320" src="images/IMG_4891.webp"/>]({% image "content/blog/images/IMG_4891.webp" %})
+{% image "images/IMG_4891.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110033.webp"/>]({% image "content/blog/images/P1110033.webp" %})
+{% image "images/P1110033.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4893.webp"/>]({% image "content/blog/images/IMG_4893.webp" %})
+{% image "images/IMG_4893.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4897.webp"/>]({% image "content/blog/images/IMG_4897.webp" %})
+{% image "images/IMG_4897.webp" %}
 
   
 
@@ -87,17 +87,17 @@ Cool view of those with a water view.
   
 
 
-[<img width="320" src="images/290874687_10220645177909205_1104537942511957098.webp"/>]({% image "content/blog/images/290874687_10220645177909205_1104537942511957098.webp" %})
+{% image "images/290874687_10220645177909205_1104537942511957098.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110040.webp"/>]({% image "content/blog/images/P1110040.webp" %})
+{% image "images/P1110040.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110043.webp"/>]({% image "content/blog/images/P1110043.webp" %})
+{% image "images/P1110043.webp" %}
 
   
 
@@ -107,7 +107,7 @@ The famous windmills; none were sailed or running.
   
 
 
-[<img width="320" src="images/P1110048.webp"/>]({% image "content/blog/images/P1110048.webp" %})
+{% image "images/P1110048.webp" %}
 
   
 
@@ -117,12 +117,12 @@ Inside a windmill
   
 
 
-[<img width="320" src="images/P1110050.webp"/>]({% image "content/blog/images/P1110050.webp" %})
+{% image "images/P1110050.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110052.webp"/>]({% image "content/blog/images/P1110052.webp" %})
+{% image "images/P1110052.webp" %}
 
   
 
@@ -132,7 +132,7 @@ Cool narrow alleyways. We read that the painted streets was lime to help with le
   
 
 
-[<img width="320" src="images/P1110057.webp"/>]({% image "content/blog/images/P1110057.webp" %})
+{% image "images/P1110057.webp" %}
 
   
 
@@ -142,12 +142,12 @@ Wells
   
 
 
-[<img width="320" src="images/P1110060.webp"/>]({% image "content/blog/images/P1110060.webp" %})
+{% image "images/P1110060.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4915.webp"/>]({% image "content/blog/images/IMG_4915.webp" %})
+{% image "images/IMG_4915.webp" %}
 
   
 
@@ -157,7 +157,7 @@ Owen found a friend.
   
 
 
-[<img width="320" src="images/P1110063.webp"/>]({% image "content/blog/images/P1110063.webp" %})
+{% image "images/P1110063.webp" %}
 
   
 

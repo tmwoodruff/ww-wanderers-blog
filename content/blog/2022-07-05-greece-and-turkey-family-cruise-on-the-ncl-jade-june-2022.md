@@ -10,7 +10,7 @@ description: ""
 
 **
 
-[<img width="320" src="images/IMG_4531.webp"/>]({% image "content/blog/images/IMG_4531.webp" %})
+{% image "images/IMG_4531.webp" %}
 
   
 **

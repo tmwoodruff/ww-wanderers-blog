@@ -14,16 +14,16 @@ We received a paper version of the Freestyle Daily in our room or outside the do
 
 **Day 1 - Embarkation:**
 
-[![](<img width="320" src="images/image45.webp"/>)]({% image "content/blog/images/image45.webp" %})
+{% image "images/image45.webp" %}
 
-[![](<img width="320" src="images/image46.webp"/>)]({% image "content/blog/images/image46.webp" %})
+{% image "images/image46.webp" %}
 
-[![](<img width="320" src="images/image47.webp"/>)]({% image "content/blog/images/image47.webp" %})
+{% image "images/image47.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image48.webp"/>)]({% image "content/blog/images/image48.webp" %})
+{% image "images/image48.webp" %}
 
   
 
@@ -33,22 +33,22 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image49.webp"/>)]({% image "content/blog/images/image49.webp" %})
+{% image "images/image49.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image50.webp"/>)]({% image "content/blog/images/image50.webp" %})
+{% image "images/image50.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image51.webp"/>)]({% image "content/blog/images/image51.webp" %})
+{% image "images/image51.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image52.webp"/>)]({% image "content/blog/images/image52.webp" %})
+{% image "images/image52.webp" %}
 
   
 
@@ -58,17 +58,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image53.webp"/>)]({% image "content/blog/images/image53.webp" %})
+{% image "images/image53.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image54.webp"/>)]({% image "content/blog/images/image54.webp" %})
+{% image "images/image54.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image55.webp"/>)]({% image "content/blog/images/image55.webp" %})
+{% image "images/image55.webp" %}
 
   
 
@@ -78,17 +78,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image56.webp"/>)]({% image "content/blog/images/image56.webp" %})
+{% image "images/image56.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image57.webp"/>)]({% image "content/blog/images/image57.webp" %})
+{% image "images/image57.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image58.webp"/>)]({% image "content/blog/images/image58.webp" %})
+{% image "images/image58.webp" %}
 
   
 
@@ -98,22 +98,22 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image59.webp"/>)]({% image "content/blog/images/image59.webp" %})
+{% image "images/image59.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image60.webp"/>)]({% image "content/blog/images/image60.webp" %})
+{% image "images/image60.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image61.webp"/>)]({% image "content/blog/images/image61.webp" %})
+{% image "images/image61.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image62.webp"/>)]({% image "content/blog/images/image62.webp" %})
+{% image "images/image62.webp" %}
 
   
 
@@ -123,12 +123,12 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image63.webp"/>)]({% image "content/blog/images/image63.webp" %})
+{% image "images/image63.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image64.webp"/>)]({% image "content/blog/images/image64.webp" %})
+{% image "images/image64.webp" %}
 
   
 
@@ -136,12 +136,12 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image65.webp"/>)]({% image "content/blog/images/image65.webp" %})
+{% image "images/image65.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image66.webp"/>)]({% image "content/blog/images/image66.webp" %})
+{% image "images/image66.webp" %}
 
   
 
@@ -151,17 +151,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image67.webp"/>)]({% image "content/blog/images/image67.webp" %})
+{% image "images/image67.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image68.webp"/>)]({% image "content/blog/images/image68.webp" %})
+{% image "images/image68.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image69.webp"/>)]({% image "content/blog/images/image69.webp" %})
+{% image "images/image69.webp" %}
 
   
 
@@ -171,17 +171,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image70.webp"/>)]({% image "content/blog/images/image70.webp" %})
+{% image "images/image70.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image71.webp"/>)]({% image "content/blog/images/image71.webp" %})
+{% image "images/image71.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image72.webp"/>)]({% image "content/blog/images/image72.webp" %})
+{% image "images/image72.webp" %}
 
   
 
@@ -191,17 +191,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image73.webp"/>)]({% image "content/blog/images/image73.webp" %})
+{% image "images/image73.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image74.webp"/>)]({% image "content/blog/images/image74.webp" %})
+{% image "images/image74.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image75.webp"/>)]({% image "content/blog/images/image75.webp" %})
+{% image "images/image75.webp" %}
 
   
 
@@ -211,17 +211,17 @@ We received a paper version of the Freestyle Daily in our room or outside the do
   
 
 
-[![](<img width="320" src="images/image76.webp"/>)]({% image "content/blog/images/image76.webp" %})
+{% image "images/image76.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image77.webp"/>)]({% image "content/blog/images/image77.webp" %})
+{% image "images/image77.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image78.webp"/>)]({% image "content/blog/images/image78.webp" %})
+{% image "images/image78.webp" %}
 
   
 

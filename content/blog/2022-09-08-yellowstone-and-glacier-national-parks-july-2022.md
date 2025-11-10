@@ -14,7 +14,7 @@ This is Travis and my second visit to Yellowstone; it is new for the kids. I lov
 
 On our first morning, we explored Upper Geyser Basin. From Madison Campground, Old Faithful was only about 16 miles south. The steam off the geysers in the crisp early morning air was magical. 
 
-[<img width="320" src="images/IMG_5066.webp"/>]({% image "content/blog/images/IMG_5066.webp" %})
+{% image "images/IMG_5066.webp" %}
 
   
 
@@ -24,12 +24,12 @@ The Old Faithful viewing seats. We were there before the Visitor Center was open
   
 
 
-[<img width="320" src="images/IMG_5067.webp"/>]({% image "content/blog/images/IMG_5067.webp" %})
+{% image "images/IMG_5067.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110248.webp"/>]({% image "content/blog/images/P1110248.webp" %})
+{% image "images/P1110248.webp" %}
 
   
 
@@ -39,7 +39,7 @@ We missed the first eruption, seemed to have been a little early; we hiked up Ob
   
 
 
-[<img width="320" src="images/IMG_5098.webp"/>]({% image "content/blog/images/IMG_5098.webp" %})
+{% image "images/IMG_5098.webp" %}
 
   
 
@@ -49,7 +49,7 @@ Checking out some other great features in Upper Geyser Basin.
   
 
 
-[<img width="320" src="images/IMG_5111.webp"/>]({% image "content/blog/images/IMG_5111.webp" %})
+{% image "images/IMG_5111.webp" %}
 
   
 
@@ -59,27 +59,27 @@ See the colorful minerals from a hot spring or a geyser running off into the riv
   
 
 
-[<img width="320" src="images/IMG_5114.webp"/>]({% image "content/blog/images/IMG_5114.webp" %})
+{% image "images/IMG_5114.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5124.webp"/>]({% image "content/blog/images/IMG_5124.webp" %})
+{% image "images/IMG_5124.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5127.webp"/>]({% image "content/blog/images/IMG_5127.webp" %})
+{% image "images/IMG_5127.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110252.webp"/>]({% image "content/blog/images/P1110252.webp" %})
+{% image "images/P1110252.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110261.webp"/>]({% image "content/blog/images/P1110261.webp" %})
+{% image "images/P1110261.webp" %}
 
   
 
@@ -89,12 +89,12 @@ Observation Point Trail and view
   
 
 
-[<img width="320" src="images/P1110270.webp"/>]({% image "content/blog/images/P1110270.webp" %})
+{% image "images/P1110270.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110273.webp"/>]({% image "content/blog/images/P1110273.webp" %})
+{% image "images/P1110273.webp" %}
 
   
 
@@ -104,7 +104,7 @@ Solitary geyser was supposed to go off every 5-7 minutes; we waited longer but n
   
 
 
-[<img width="320" src="images/P1110274.webp"/>]({% image "content/blog/images/P1110274.webp" %})
+{% image "images/P1110274.webp" %}
 
   
 
@@ -114,7 +114,7 @@ I like the hot spring pools that you see deep into. They had a sign that talked 
   
 
 
-[<img width="320" src="images/P1110282.webp"/>]({% image "content/blog/images/P1110282.webp" %})
+{% image "images/P1110282.webp" %}
 
   
 
@@ -124,12 +124,12 @@ He is trying to make a depression face for the Depression Geyser.
   
 
 
-[<img width="320" src="images/P1110284.webp"/>]({% image "content/blog/images/P1110284.webp" %})
+{% image "images/P1110284.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110291.webp"/>]({% image "content/blog/images/P1110291.webp" %})
+{% image "images/P1110291.webp" %}
 
   
 
@@ -139,17 +139,17 @@ Castle geyser; we did not see it erupt
   
 
 
-[<img width="320" src="images/P1110293.webp"/>]({% image "content/blog/images/P1110293.webp" %})
+{% image "images/P1110293.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110295.webp"/>]({% image "content/blog/images/P1110295.webp" %})
+{% image "images/P1110295.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110302.webp"/>]({% image "content/blog/images/P1110302.webp" %})
+{% image "images/P1110302.webp" %}
 
   
 
@@ -159,17 +159,17 @@ We hiked Upper Geyser Hill Trail and Upper Geyser Basin Trail to Morning Glory P
   
 
 
-[<img width="320" src="images/P1110305.webp"/>]({% image "content/blog/images/P1110305.webp" %})
+{% image "images/P1110305.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110309.webp"/>]({% image "content/blog/images/P1110309.webp" %})
+{% image "images/P1110309.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110320.webp"/>]({% image "content/blog/images/P1110320.webp" %})
+{% image "images/P1110320.webp" %}
 
   
 

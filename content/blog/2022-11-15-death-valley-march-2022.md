@@ -26,7 +26,7 @@ After checking in and dropping off our luggage and groceries, we went for a quic
   
 
 
-[<img width="320" src="images/277369174_10220240736958434_14320206310629098_n.webp"/>]({% image "content/blog/images/277369174_10220240736958434_14320206310629098_n.webp" %}) [<img width="320" src="images/277003248_10220240737158439_4376182751064142750.webp"/>]({% image "content/blog/images/277003248_10220240737158439_4376182751064142750.webp" %})
+{% image "images/277369174_10220240736958434_14320206310629098_n.webp" %} {% image "images/277003248_10220240737158439_4376182751064142750.webp" %}
 
   
 
@@ -36,12 +36,12 @@ The train depot
   
 
 
-[<img width="320" src="images/P1100112.webp"/>]({% image "content/blog/images/P1100112.webp" %})
+{% image "images/P1100112.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100116.webp"/>]({% image "content/blog/images/P1100116.webp" %})
+{% image "images/P1100116.webp" %}
 
   
 
@@ -50,7 +50,7 @@ The train depot
 
 This statue was as one was heading into Beatty. It was a neat metal cut out.
 
-[<img width="320" src="images/276286290_10220240745998660_7576889968588759400.webp"/>]({% image "content/blog/images/276286290_10220240745998660_7576889968588759400.webp" %})
+{% image "images/276286290_10220240745998660_7576889968588759400.webp" %}
 
   
 
@@ -60,39 +60,39 @@ I always have to stop for the National Park entrance sign. We visited before the
   
 
 
-[<img width="320" src="images/276276583_10220240737758454_2669232682318538407.webp"/>]({% image "content/blog/images/276276583_10220240737758454_2669232682318538407.webp" %})
+{% image "images/276276583_10220240737758454_2669232682318538407.webp" %}
 
   
 
 
 Badwater Basin - 282 feet below sea level. 
 
-[<img width="320" src="images/277534222_10220240740518523_4058135276456309000.webp"/>]({% image "content/blog/images/277534222_10220240740518523_4058135276456309000.webp" %})
+{% image "images/277534222_10220240740518523_4058135276456309000.webp" %}
 
   
 
 
-[<img width="320" src="images/276994045_10220240738158464_4653804380164069293.webp"/>]({% image "content/blog/images/276994045_10220240738158464_4653804380164069293.webp" %})
+{% image "images/276994045_10220240738158464_4653804380164069293.webp" %}
 
   
 
 
-[<img width="320" src="images/277176139_10220240755598900_1138737098212401669.webp"/>]({% image "content/blog/images/277176139_10220240755598900_1138737098212401669.webp" %})
+{% image "images/277176139_10220240755598900_1138737098212401669.webp" %}
 
   
 
 
-[<img width="320" src="images/276318192_10220240738798480_2441466350976312894.webp"/>]({% image "content/blog/images/276318192_10220240738798480_2441466350976312894.webp" %})
+{% image "images/276318192_10220240738798480_2441466350976312894.webp" %}
 
   
 
 
-[<img width="320" src="images/276278973_10220240755198890_813904163648274850_.webp"/>]({% image "content/blog/images/276278973_10220240755198890_813904163648274850_.webp" %})
+{% image "images/276278973_10220240755198890_813904163648274850_.webp" %}
 
   
 
 
-[<img width="320" src="images/276991068_10220240740838531_7016273836465196987.webp"/>]({% image "content/blog/images/276991068_10220240740838531_7016273836465196987.webp" %})
+{% image "images/276991068_10220240740838531_7016273836465196987.webp" %}
 
   
 
@@ -107,44 +107,44 @@ Devil's Golf Course -- we found one of his golf balls. Someone was there hitting
   
 
 
-[<img width="320" src="images/277174404_10220240757158939_2367881397988915758.webp"/>]({% image "content/blog/images/277174404_10220240757158939_2367881397988915758.webp" %})
+{% image "images/277174404_10220240757158939_2367881397988915758.webp" %}
 
   
 
 
-[<img width="320" src="images/277173113_10220240756878932_6498610115172341674.webp"/>]({% image "content/blog/images/277173113_10220240756878932_6498610115172341674.webp" %})
+{% image "images/277173113_10220240756878932_6498610115172341674.webp" %}
 
   
 
 
-[<img width="320" src="images/276988293_10220240742478572_5361276525142706325.webp"/>]({% image "content/blog/images/276988293_10220240742478572_5361276525142706325.webp" %})
+{% image "images/276988293_10220240742478572_5361276525142706325.webp" %}
 
   
 
 
-[<img width="320" src="images/277302938_10220240741118538_775405412932709910_.webp"/>]({% image "content/blog/images/277302938_10220240741118538_775405412932709910_.webp" %})
+{% image "images/277302938_10220240741118538_775405412932709910_.webp" %}
 
 Artists Drive was a one way side road with hikes at Artists Palette.
 
   
 
 
-[<img width="320" src="images/277177192_10220240744038611_2949303232826542344.webp"/>]({% image "content/blog/images/277177192_10220240744038611_2949303232826542344.webp" %})
+{% image "images/277177192_10220240744038611_2949303232826542344.webp" %}
 
   
 
 
-[<img width="320" src="images/277103438_10220240752678827_5629881712360625507.webp"/>]({% image "content/blog/images/277103438_10220240752678827_5629881712360625507.webp" %})
+{% image "images/277103438_10220240752678827_5629881712360625507.webp" %}
 
   
 
 
-[<img width="320" src="images/277103423_10220240745718653_8969052478549501891.webp"/>]({% image "content/blog/images/277103423_10220240745718653_8969052478549501891.webp" %})
+{% image "images/277103423_10220240745718653_8969052478549501891.webp" %}
 
   
 
 
-[<img width="320" src="images/277510403_10220240738118463_4395179291779450063.webp"/>]({% image "content/blog/images/277510403_10220240738118463_4395179291779450063.webp" %})
+{% image "images/277510403_10220240738118463_4395179291779450063.webp" %}
 
   
 
@@ -154,7 +154,7 @@ At Furnace Creek Visitor Center area, in addition to a general store with pricey
   
 
 
-[<img width="320" src="images/277005774_10220240758358969_5953071158885733436.webp"/>]({% image "content/blog/images/277005774_10220240758358969_5953071158885733436.webp" %})
+{% image "images/277005774_10220240758358969_5953071158885733436.webp" %}
 
   
 
@@ -162,7 +162,7 @@ At Furnace Creek Visitor Center area, in addition to a general store with pricey
   
 
 
-[<img width="320" src="images/276990332_10220240744438621_4146764071188939996.webp"/>]({% image "content/blog/images/276990332_10220240744438621_4146764071188939996.webp" %})
+{% image "images/276990332_10220240744438621_4146764071188939996.webp" %}
 
   
 
@@ -172,43 +172,43 @@ Furnace Creek also had the most expensive gas.
   
 
 
-[<img width="320" src="images/276982446_10220240736638426_4064370664979250645.webp"/>]({% image "content/blog/images/276982446_10220240736638426_4064370664979250645.webp" %})
+{% image "images/276982446_10220240736638426_4064370664979250645.webp" %}
 
   
 
 
-[<img width="320" src="images/276240845_10220240736918433_4524779156042564308.webp"/>]({% image "content/blog/images/276240845_10220240736918433_4524779156042564308.webp" %}) [<img width="320" src="images/276154055_10220240738678477_123823221913739299_.webp"/>]({% image "content/blog/images/276154055_10220240738678477_123823221913739299_.webp" %})
+{% image "images/276240845_10220240736918433_4524779156042564308.webp" %} {% image "images/276154055_10220240738678477_123823221913739299_.webp" %}
 
   
-
-
-  
-
-
-[<img width="320" src="images/276323860_10220240756598925_3501513231041270832.webp"/>]({% image "content/blog/images/276323860_10220240756598925_3501513231041270832.webp" %})
-
-  
-
-
-[<img width="320" src="images/277174351_10220240756238916_1817583629016073452.webp"/>]({% image "content/blog/images/277174351_10220240756238916_1817583629016073452.webp" %})  
 
 
   
 
 
-[<img width="320" src="images/276992697_10220240755958909_3430557164071565112.webp"/>]({% image "content/blog/images/276992697_10220240755958909_3430557164071565112.webp" %})
+{% image "images/276323860_10220240756598925_3501513231041270832.webp" %}
 
   
 
 
-[<img width="320" src="images/276992116_10220240757998960_5437570822369674614.webp"/>]({% image "content/blog/images/276992116_10220240757998960_5437570822369674614.webp" %})
+{% image "images/277174351_10220240756238916_1817583629016073452.webp" %}  
+
+
+  
+
+
+{% image "images/276992697_10220240755958909_3430557164071565112.webp" %}
+
+  
+
+
+{% image "images/276992116_10220240757998960_5437570822369674614.webp" %}
 
   
 
 
 In afternoon, it was cloudy and kept the temperature comfortable. We went to visit the Pupfish on the Salt Creek Interpretive Trail north on 190 from Furnace Creek. 
 
-[<img width="320" src="images/277356686_10220240758718978_101019265637574924_.webp"/>]({% image "content/blog/images/277356686_10220240758718978_101019265637574924_.webp" %})
+{% image "images/277356686_10220240758718978_101019265637574924_.webp" %}
 
   
 
@@ -219,7 +219,7 @@ In afternoon, it was cloudy and kept the temperature comfortable. We went to vis
   
 
 
-[<img width="320" src="images/277303260_10220240745118638_5918931041477720975.webp"/>]({% image "content/blog/images/277303260_10220240745118638_5918931041477720975.webp" %})
+{% image "images/277303260_10220240745118638_5918931041477720975.webp" %}
 
   
 
@@ -232,32 +232,32 @@ In the morning, we started at Zabriskie Point Badlands and then hiked to Gower G
   
 
 
-[<img width="320" src="images/P1100304.webp"/>]({% image "content/blog/images/P1100304.webp" %})
+{% image "images/P1100304.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4204.webp"/>]({% image "content/blog/images/IMG_4204.webp" %})
+{% image "images/IMG_4204.webp" %}
 
   
 
 
-[<img width="320" src="images/277528069_10220240759318993_8223921832003308045.webp"/>]({% image "content/blog/images/277528069_10220240759318993_8223921832003308045.webp" %})
+{% image "images/277528069_10220240759318993_8223921832003308045.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100317.webp"/>]({% image "content/blog/images/P1100317.webp" %})
+{% image "images/P1100317.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100320.webp"/>]({% image "content/blog/images/P1100320.webp" %})
+{% image "images/P1100320.webp" %}
 
   
 
 
-[<img width="320" src="images/P1100323.webp"/>]({% image "content/blog/images/P1100323.webp" %})
+{% image "images/P1100323.webp" %}
 
   
 
@@ -267,7 +267,7 @@ A Star Wars backdrop
   
 
 
-[<img width="320" src="images/P1100336.webp"/>]({% image "content/blog/images/P1100336.webp" %})
+{% image "images/P1100336.webp" %}
 
   
 
@@ -277,12 +277,12 @@ Harmony Borax Works display -- a profitable resource mined in the park with the 
   
 
 
-[<img width="320" src="images/IMG_4205.webp"/>]({% image "content/blog/images/IMG_4205.webp" %})
+{% image "images/IMG_4205.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4206.webp"/>]({% image "content/blog/images/IMG_4206.webp" %})
+{% image "images/IMG_4206.webp" %}
 
   
 
@@ -297,12 +297,12 @@ Mesquite Flat Sand Dunes
   
 
 
-[<img width="320" src="images/IMG_4209.webp"/>]({% image "content/blog/images/IMG_4209.webp" %})
+{% image "images/IMG_4209.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4215.webp"/>]({% image "content/blog/images/IMG_4215.webp" %})
+{% image "images/IMG_4215.webp" %}
 
   
 
@@ -312,7 +312,7 @@ Lizard trails
   
 
 
-[<img width="320" src="images/IMG_4217.webp"/>]({% image "content/blog/images/IMG_4217.webp" %})
+{% image "images/IMG_4217.webp" %}
 
   
 
@@ -322,22 +322,22 @@ Keane Wonder Mine hike
   
 
 
-[<img width="320" src="images/277004100_10220240739078487_46099396897777897_n.webp"/>]({% image "content/blog/images/277004100_10220240739078487_46099396897777897_n.webp" %})
+{% image "images/277004100_10220240739078487_46099396897777897_n.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4235.webp"/>]({% image "content/blog/images/IMG_4235.webp" %})
+{% image "images/IMG_4235.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4244.webp"/>]({% image "content/blog/images/IMG_4244.webp" %})
+{% image "images/IMG_4244.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4247.webp"/>]({% image "content/blog/images/IMG_4247.webp" %})
+{% image "images/IMG_4247.webp" %}
 
   
 
@@ -347,7 +347,7 @@ Dante's view and Dante's Ridge hike. We went left first; it was a great view out
   
 
 
-[<img width="320" src="images/277098431_10220240746358669_7072847090304005355.webp"/>]({% image "content/blog/images/277098431_10220240746358669_7072847090304005355.webp" %})
+{% image "images/277098431_10220240746358669_7072847090304005355.webp" %}
 
   
 
@@ -357,45 +357,44 @@ The semi-circle deposits below are called alluvial fans.
   
 
 
-[<img width="320" src="images/277004821_10220240746718678_208274709296179465_.webp"/>]({% image "content/blog/images/277004821_10220240746718678_208274709296179465_.webp" %})
+{% image "images/277004821_10220240746718678_208274709296179465_.webp" %}
 
   
 
 
-[<img width="320" src="images/277104632_10220240739678502_1288994090346349862.webp"/>]({% image "content/blog/images/277104632_10220240739678502_1288994090346349862.webp" %})
+{% image "images/277104632_10220240739678502_1288994090346349862.webp" %}
 
   
 
 
-[<img width="320" src="images/277254191_10220240742758579_8104341934034690385.webp"/>]({% image "content/blog/images/277254191_10220240742758579_8104341934034690385.webp" %})
+{% image "images/277254191_10220240742758579_8104341934034690385.webp" %}
 
   
 
 
-[<img width="320" src="images/277253397_10220240747478697_4909342996374178963.webp"/>]({% image "content/blog/images/277253397_10220240747478697_4909342996374178963.webp" %})
+{% image "images/277253397_10220240747478697_4909342996374178963.webp" %}
 
   
 
 
-[<img width="320" src="images/276313751_10220240741438546_3399635231329473619.webp"/>]({% image "content/blog/images/276313751_10220240741438546_3399635231329473619.webp" %})
+{% image "images/276313751_10220240741438546_3399635231329473619.webp" %}
 
   
 
 
-[<img width="320" src="images/277252511_10220240759679002_579173724717066592_.webp"/>]({% image "content/blog/images/277252511_10220240759679002_579173724717066592_.webp" %})
+{% image "images/277252511_10220240759679002_579173724717066592_.webp" %}
 
   
 
 
-[<img width="320" src="images/276977487_10220240747158689_3968196563576792157.webp"/>]({% image "content/blog/images/276977487_10220240747158689_3968196563576792157.webp" %})
+{% image "images/276977487_10220240747158689_3968196563576792157.webp" %}
 
-[  
-<img width="320" src="images/276232115_10220240757718953_1005081699549359189.webp"/>]({% image "content/blog/images/276232115_10220240757718953_1005081699549359189.webp" %})
+{% image "images/276232115_10220240757718953_1005081699549359189.webp" %}
 
   
 
 
-[<img width="320" src="images/276166310_10220240747758704_4768464649186064777.webp"/>]({% image "content/blog/images/276166310_10220240747758704_4768464649186064777.webp" %})
+{% image "images/276166310_10220240747758704_4768464649186064777.webp" %}
 
   
 

@@ -16,22 +16,22 @@ This delayed us getting to the SeaCity Museum, which we had planned when they op
 
 A Lego Titanic, driving the Titanic game, example cabin, and I loved this deck map approach. 
 
-[<img width="320" src="images/IMG_8730.webp"/>]({% image "content/blog/images/IMG_8730.webp" %})
+{% image "images/IMG_8730.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8734.webp"/>]({% image "content/blog/images/IMG_8734.webp" %})
+{% image "images/IMG_8734.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8735.webp"/>]({% image "content/blog/images/IMG_8735.webp" %})
+{% image "images/IMG_8735.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8736.webp"/>]({% image "content/blog/images/IMG_8736.webp" %})
+{% image "images/IMG_8736.webp" %}
 
   
 
@@ -71,17 +71,17 @@ Back to the room, we did not have plugs by the bed, but used our universal adapt
   
 
 
-[<img width="320" src="images/IMG_8738.webp"/>]({% image "content/blog/images/IMG_8738.webp" %})[<img width="320" src="images/IMG_8737.webp"/>]({% image "content/blog/images/IMG_8737.webp" %})
+{% image "images/IMG_8738.webp" %}{% image "images/IMG_8737.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8739.webp"/>]({% image "content/blog/images/IMG_8739.webp" %})
+{% image "images/IMG_8739.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8740.webp"/>]({% image "content/blog/images/IMG_8740.webp" %})
+{% image "images/IMG_8740.webp" %}
 
   
 
@@ -101,12 +101,12 @@ Off to bed for our Sea Day tomorrow. Goodnight sun; hello wake.
   
 
 
-[<img width="320" src="images/IMG_8750.webp"/>]({% image "content/blog/images/IMG_8750.webp" %})
+{% image "images/IMG_8750.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8754.webp"/>]({% image "content/blog/images/IMG_8754.webp" %})
+{% image "images/IMG_8754.webp" %}
 
   
 

@@ -12,27 +12,27 @@ description: ""
 
 We docked in Reykjavik a day early. This would make our early flight easiest. The cruise line says not to book a flight before noon, and they book us a 9:30 am! However, that may be the time that most leave. Post office box at the port terminal. The port terminal was much less crowded now. They offered a complimentary shuttle. We walked in the morning, but took it in the afternoon. I wanted a license plate picture. We walked along the coast; it was a cloudy day. We looked at the ferry to the island, Videy, which was supposed to have birds. It was pretty expensive, and I felt that I had seen the island from the ship. I did not see any puffin that we needed to visit. We found the old leprosy hospital. 
 
-[<img width="320" src="images/IMG_6895.webp"/>]({% image "content/blog/images/IMG_6895.webp" %})
+{% image "images/IMG_6895.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6899.webp"/>]({% image "content/blog/images/IMG_6899.webp" %})
+{% image "images/IMG_6899.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6905.webp"/>]({% image "content/blog/images/IMG_6905.webp" %})
+{% image "images/IMG_6905.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6908.webp"/>]({% image "content/blog/images/IMG_6908.webp" %})
+{% image "images/IMG_6908.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6910.webp"/>]({% image "content/blog/images/IMG_6910.webp" %})
+{% image "images/IMG_6910.webp" %}
 
   
 
@@ -42,17 +42,17 @@ Then found the recycled house. Very cool and interesting. I looked up the film t
   
 
 
-[<img width="320" src="images/IMG_6912.webp"/>]({% image "content/blog/images/IMG_6912.webp" %})
+{% image "images/IMG_6912.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6915.webp"/>]({% image "content/blog/images/IMG_6915.webp" %})
+{% image "images/IMG_6915.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6916.webp"/>]({% image "content/blog/images/IMG_6916.webp" %})
+{% image "images/IMG_6916.webp" %}
 
   
 
@@ -62,7 +62,7 @@ This partially underground building was also cool.
   
 
 
-[<img width="320" src="images/IMG_6918.webp"/>]({% image "content/blog/images/IMG_6918.webp" %})
+{% image "images/IMG_6918.webp" %}
 
   
 
@@ -72,22 +72,22 @@ We talked through more of a neighborhood where people lived. This art was at the
   
 
 
-[<img width="320" src="images/IMG_6919.webp"/>]({% image "content/blog/images/IMG_6919.webp" %})
+{% image "images/IMG_6919.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6921.webp"/>]({% image "content/blog/images/IMG_6921.webp" %})
+{% image "images/IMG_6921.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6924.webp"/>]({% image "content/blog/images/IMG_6924.webp" %})
+{% image "images/IMG_6924.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6925.webp"/>]({% image "content/blog/images/IMG_6925.webp" %})
+{% image "images/IMG_6925.webp" %}
 
   
 
@@ -97,17 +97,17 @@ We found hot springs were ladies used to do laundry...to kill parasites on the c
   
 
 
-[<img width="320" src="images/IMG_6935.webp"/>]({% image "content/blog/images/IMG_6935.webp" %})
+{% image "images/IMG_6935.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6936.webp"/>]({% image "content/blog/images/IMG_6936.webp" %})
+{% image "images/IMG_6936.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6937.webp"/>]({% image "content/blog/images/IMG_6937.webp" %})
+{% image "images/IMG_6937.webp" %}
 
   
 
@@ -117,7 +117,7 @@ This was at the hot springs, down in the moat/run off. This scooter had a rough 
   
 
 
-[<img width="320" src="images/IMG_6938.webp"/>]({% image "content/blog/images/IMG_6938.webp" %})
+{% image "images/IMG_6938.webp" %}
 
   
 
@@ -127,12 +127,12 @@ Another similar in architecture church.
   
 
 
-[<img width="320" src="images/IMG_6939.webp"/>]({% image "content/blog/images/IMG_6939.webp" %})
+{% image "images/IMG_6939.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6940.webp"/>]({% image "content/blog/images/IMG_6940.webp" %})
+{% image "images/IMG_6940.webp" %}
 
   
 
@@ -142,22 +142,22 @@ We were not in New Zealand, but I think we found Hobbiton.
   
 
 
-[<img width="320" src="images/IMG_6941.webp"/>]({% image "content/blog/images/IMG_6941.webp" %})
+{% image "images/IMG_6941.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6942.webp"/>]({% image "content/blog/images/IMG_6942.webp" %})
+{% image "images/IMG_6942.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6944.webp"/>]({% image "content/blog/images/IMG_6944.webp" %})
+{% image "images/IMG_6944.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6948.webp"/>]({% image "content/blog/images/IMG_6948.webp" %})
+{% image "images/IMG_6948.webp" %}
 
   
 
@@ -167,7 +167,7 @@ I took the picture because the Stop sign said Stop in English.
   
 
 
-[<img width="320" src="images/IMG_6950.webp"/>]({% image "content/blog/images/IMG_6950.webp" %})
+{% image "images/IMG_6950.webp" %}
 
   
 
@@ -177,12 +177,12 @@ On the walk back to the port, I think that gas, in liters, was expensive, but I'
   
 
 
-[<img width="320" src="images/IMG_6953.webp"/>]({% image "content/blog/images/IMG_6953.webp" %})
+{% image "images/IMG_6953.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6955.webp"/>]({% image "content/blog/images/IMG_6955.webp" %})
+{% image "images/IMG_6955.webp" %}
 
   
 
@@ -192,7 +192,7 @@ We went back in the afternoon, using the shuttle there and back. It dropped off/
   
 
 
-[<img width="320" src="images/IMG_6957.webp"/>]({% image "content/blog/images/IMG_6957.webp" %})
+{% image "images/IMG_6957.webp" %}
 
   
 
@@ -202,12 +202,12 @@ Tonight was Moderno. My salad bar plate (when I remembered to take a picture) an
   
 
 
-[<img width="320" src="images/IMG_6964.webp"/>]({% image "content/blog/images/IMG_6964.webp" %})
+{% image "images/IMG_6964.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6965.webp"/>]({% image "content/blog/images/IMG_6965.webp" %})
+{% image "images/IMG_6965.webp" %}
 
   
 
@@ -217,12 +217,12 @@ After the salad bar, the sides arrived and the best (the meats are really good t
   
 
 
-[<img width="320" src="images/IMG_6966.webp"/>]({% image "content/blog/images/IMG_6966.webp" %})
+{% image "images/IMG_6966.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6969.webp"/>]({% image "content/blog/images/IMG_6969.webp" %})
+{% image "images/IMG_6969.webp" %}
 
   
 
@@ -232,12 +232,12 @@ Travis had the Mango Rice Pudding, and I had the Tres leche for dessert. I'm not
   
 
 
-[<img width="320" src="images/IMG_6971.webp"/>]({% image "content/blog/images/IMG_6971.webp" %})
+{% image "images/IMG_6971.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6972.webp"/>]({% image "content/blog/images/IMG_6972.webp" %})
+{% image "images/IMG_6972.webp" %}
 
   
 
@@ -262,12 +262,12 @@ Since I now had the window seat, I got to see some more beautiful Greenland. The
   
 
 
-[<img src="images/IMG_20230723_120056133_HDR.webp"/>]({% image "content/blog/images/IMG_20230723_120056133_HDR.webp" %})
+{% image "images/IMG_20230723_120056133_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230723_104130791.webp"/>]({% image "content/blog/images/IMG_20230723_104130791.webp" %})[<img width="320" src="images/IMG_20230723_104726548_HDR.webp"/>]({% image "content/blog/images/IMG_20230723_104726548_HDR.webp" %})
+{% image "images/IMG_20230723_104130791.webp" %}{% image "images/IMG_20230723_104726548_HDR.webp" %}
 
 Next up...[Summarized review](https://ww-wanderers.blogspot.com/2023/10/ncl-star-iceland-and-greenland-review.html)
 

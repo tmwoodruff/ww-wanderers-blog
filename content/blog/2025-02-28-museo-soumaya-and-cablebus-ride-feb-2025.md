@@ -14,22 +14,22 @@ We took a bus to the Polanco neighborhood. This was even further than our bus ye
 
 Here was the beautiful building. It was just as beautiful inside with swirled ramps to the different levels (I estimated 6 levels) and a glass skylight at the top. I googled it, and supposedly, it cost almost $800 million to build -- crazy! Rodin's The Thinker outside. 
 
-[<img width="320" src="images/IMG_1908.webp"/>]({% image "content/blog/images/IMG_1908.webp" %})
+{% image "images/IMG_1908.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1910.webp"/>]({% image "content/blog/images/IMG_1910.webp" %})
+{% image "images/IMG_1910.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1912.webp"/>]({% image "content/blog/images/IMG_1912.webp" %})
+{% image "images/IMG_1912.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1913.webp"/>]({% image "content/blog/images/IMG_1913.webp" %})
+{% image "images/IMG_1913.webp" %}
 
   
 
@@ -39,12 +39,12 @@ This was an interesting building above or behind the mall. I think it was really
   
 
 
-[<img width="320" src="images/IMG_1914.webp"/>]({% image "content/blog/images/IMG_1914.webp" %})
+{% image "images/IMG_1914.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1915.webp"/>]({% image "content/blog/images/IMG_1915.webp" %})
+{% image "images/IMG_1915.webp" %}
 
   
 
@@ -54,27 +54,27 @@ These reproductions were created by an Italian company that created a 3D imaging
   
 
 
-[<img width="320" src="images/IMG_1916.webp"/>]({% image "content/blog/images/IMG_1916.webp" %})
+{% image "images/IMG_1916.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1917.webp"/>]({% image "content/blog/images/IMG_1917.webp" %})
+{% image "images/IMG_1917.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1918.webp"/>]({% image "content/blog/images/IMG_1918.webp" %})
+{% image "images/IMG_1918.webp" %}
 
   
 
 
-[<img src="images/IMG_1919.webp"/>]({% image "content/blog/images/IMG_1919.webp" %})
+{% image "images/IMG_1919.webp" %}
 
   
 
 
-[<img src="images/IMG_20250208_105324468.webp"/>]({% image "content/blog/images/IMG_20250208_105324468.webp" %})
+{% image "images/IMG_20250208_105324468.webp" %}
 
   
 
@@ -84,34 +84,34 @@ This was on the telephone history level, which was interesting, and why I though
   
 
 
-[<img width="320" src="images/IMG_1920.webp"/>]({% image "content/blog/images/IMG_1920.webp" %})
+{% image "images/IMG_1920.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1921.webp"/>]({% image "content/blog/images/IMG_1921.webp" %})
+{% image "images/IMG_1921.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1924.webp"/>]({% image "content/blog/images/IMG_1924.webp" %})
+{% image "images/IMG_1924.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1925.webp"/>]({% image "content/blog/images/IMG_1925.webp" %})
+{% image "images/IMG_1925.webp" %}
 
 Carved tusks
 
   
 
 
-[<img width="320" src="images/IMG_1926.webp"/>]({% image "content/blog/images/IMG_1926.webp" %})
+{% image "images/IMG_1926.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1928.webp"/>]({% image "content/blog/images/IMG_1928.webp" %})
+{% image "images/IMG_1928.webp" %}
 
   
 
@@ -121,12 +121,12 @@ This is "Cupid Leading a Dove". It was very cute, but I did not get a good pictu
   
 
 
-[<img width="320" src="images/IMG_1929.webp"/>]({% image "content/blog/images/IMG_1929.webp" %})
+{% image "images/IMG_1929.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1931.webp"/>]({% image "content/blog/images/IMG_1931.webp" %})
+{% image "images/IMG_1931.webp" %}
 
   
 
@@ -136,27 +136,27 @@ Here is the ramps between levels and the top with skylight.
   
 
 
-[<img width="320" src="images/IMG_1933.webp"/>]({% image "content/blog/images/IMG_1933.webp" %})
+{% image "images/IMG_1933.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1935.webp"/>]({% image "content/blog/images/IMG_1935.webp" %})
+{% image "images/IMG_1935.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1936.webp"/>]({% image "content/blog/images/IMG_1936.webp" %})
+{% image "images/IMG_1936.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1938.webp"/>]({% image "content/blog/images/IMG_1938.webp" %})
+{% image "images/IMG_1938.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1939.webp"/>]({% image "content/blog/images/IMG_1939.webp" %})
+{% image "images/IMG_1939.webp" %}
 
   
 
@@ -176,22 +176,22 @@ After the long wait and with Metro card credit now, we got on. Since this statio
   
 
 
-[<img width="320" src="images/IMG_1941.webp"/>]({% image "content/blog/images/IMG_1941.webp" %})
+{% image "images/IMG_1941.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1942.webp"/>]({% image "content/blog/images/IMG_1942.webp" %})
+{% image "images/IMG_1942.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1944.webp"/>]({% image "content/blog/images/IMG_1944.webp" %})
+{% image "images/IMG_1944.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1945.webp"/>]({% image "content/blog/images/IMG_1945.webp" %})
+{% image "images/IMG_1945.webp" %}
 
   
 

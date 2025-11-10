@@ -8,7 +8,7 @@ author: Tammy
 description: ""
 ---
 
-[<img src="images/IMG_20240913_093117517.webp"/>]({% image "content/blog/images/IMG_20240913_093117517.webp" %})
+{% image "images/IMG_20240913_093117517.webp" %}
 
   
 
@@ -22,7 +22,7 @@ We picked P&O; UK because they had a Norwegian Fjords cruise in September (there
 Planned itinerary:   
 
 
-[![](<img width="320" src="images/image9.webp"/>)]({% image "content/blog/images/image9.webp" %})
+{% image "images/image9.webp" %}
 
   
 Before check-in, my.pocruises.com, we logged in with our booking number, and they had a spot for registration info. I got our passport info entered with no issue. However, it would not take, or keep, our phone numbers entered. I got both of ours in with no country code, but later Travis's was removed. We had no luck; we tried different values/versions, different browsers, googled British phone number formats, and read browser error messages to try to determine what format was expected. Our TA called P&O; and got it in, so that our registration then showed complete. It needed a 0 at the front and missing one number in the middle; however, it will not allow them to actually call us. I then realized that the site had removed one number from the middle of my phone numbers too and added a 0 to the front. So, the web site was not internationalized for phone numbers. I was afraid without this registration info marked complete that P&O; would not assign us a cabin. Since the P&O; UK website did not list room categories, prices, and cabins available when we booked, so I just booked a guaranteed inside cabin. We received our cabin assignment 6 weeks before the cruise and were happy with it. 

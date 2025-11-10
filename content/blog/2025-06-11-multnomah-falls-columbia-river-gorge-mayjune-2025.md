@@ -14,17 +14,17 @@ Today, we set an alarm to get up early. We had a 9am recreation.gov Multnomah pa
 
 The parking between I-84 had an underground tunnel to Multnomah Falls and an underpass under the railroad tracks. The ever present train along the gorge and river. Though this is part of the history of the river. The river has to remain navigable, unlike some other rivers (comparing to other dams like Hoover and Glen Canyon). So, when the dams were build, Bonneville, The Dalles, etc. for flood control and electricity generation, they had to create locks to raise ships to the dam level and fish ladders for the fish to run and get back to the Pacific. Very interesting, more on the dams later. Below the train bridge, we found fish. Then we found the waterfall; okay, really you can see it from the road. 
 
-[<img width="320" src="images/IMG_2108.webp"/>]({% image "content/blog/images/IMG_2108.webp" %})
+{% image "images/IMG_2108.webp" %}
 
   
 
 
-[<img src="images/IMG_2110.webp"/>]({% image "content/blog/images/IMG_2110.webp" %})
+{% image "images/IMG_2110.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2112.webp"/>]({% image "content/blog/images/IMG_2112.webp" %})
+{% image "images/IMG_2112.webp" %}
 
   
 
@@ -34,17 +34,17 @@ This is a very pretty and popular waterfall. We went to the viewing platform and
   
 
 
-[<img width="320" src="images/IMG_2114.webp"/>]({% image "content/blog/images/IMG_2114.webp" %})[<img width="320" src="images/IMG_2117.webp"/>]({% image "content/blog/images/IMG_2117.webp" %})
+{% image "images/IMG_2114.webp" %}{% image "images/IMG_2117.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2118.webp"/>]({% image "content/blog/images/IMG_2118.webp" %})
+{% image "images/IMG_2118.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2121.webp"/>]({% image "content/blog/images/IMG_2121.webp" %})[<img width="320" src="images/IMG_2122.webp"/>]({% image "content/blog/images/IMG_2122.webp" %})
+{% image "images/IMG_2121.webp" %}{% image "images/IMG_2122.webp" %}
 
   
 
@@ -54,12 +54,12 @@ We found our first banana slug. We never found any in Washington (I did not know
   
 
 
-[<img src="images/IMG_2123.webp"/>]({% image "content/blog/images/IMG_2123.webp" %})
+{% image "images/IMG_2123.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2126.webp"/>]({% image "content/blog/images/IMG_2126.webp" %})
+{% image "images/IMG_2126.webp" %}
 
   
 
@@ -69,17 +69,17 @@ A look down from the top.
   
 
 
-[<img width="320" src="images/IMG_2128.webp"/>]({% image "content/blog/images/IMG_2128.webp" %})
+{% image "images/IMG_2128.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2131.webp"/>]({% image "content/blog/images/IMG_2131.webp" %})[<img width="320" src="images/IMG_2135.webp"/>]({% image "content/blog/images/IMG_2135.webp" %})
+{% image "images/IMG_2131.webp" %}{% image "images/IMG_2135.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2140.webp"/>]({% image "content/blog/images/IMG_2140.webp" %})
+{% image "images/IMG_2140.webp" %}
 
   
 
@@ -89,32 +89,32 @@ The source of Multnomah Falls, thinking of on Top Gear where their challenge was
   
 
 
-[<img src="images/IMG_2141.webp"/>]({% image "content/blog/images/IMG_2141.webp" %})
+{% image "images/IMG_2141.webp" %}
 
   
 
 
-[<img src="images/IMG_20250529_090502830_HDR.webp"/>]({% image "content/blog/images/IMG_20250529_090502830_HDR.webp" %})
+{% image "images/IMG_20250529_090502830_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2142.webp"/>]({% image "content/blog/images/IMG_2142.webp" %})
+{% image "images/IMG_2142.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2143.webp"/>]({% image "content/blog/images/IMG_2143.webp" %})
+{% image "images/IMG_2143.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2146.webp"/>]({% image "content/blog/images/IMG_2146.webp" %})
+{% image "images/IMG_2146.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2147.webp"/>]({% image "content/blog/images/IMG_2147.webp" %})
+{% image "images/IMG_2147.webp" %}
 
   
 
@@ -124,27 +124,27 @@ A view down to the river and a lake.
   
 
 
-[<img width="320" src="images/IMG_2149.webp"/>]({% image "content/blog/images/IMG_2149.webp" %})
+{% image "images/IMG_2149.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2153.webp"/>]({% image "content/blog/images/IMG_2153.webp" %})
+{% image "images/IMG_2153.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2154.webp"/>]({% image "content/blog/images/IMG_2154.webp" %})[<img width="320" src="images/IMG_2156.webp"/>]({% image "content/blog/images/IMG_2156.webp" %})
+{% image "images/IMG_2154.webp" %}{% image "images/IMG_2156.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2163.webp"/>]({% image "content/blog/images/IMG_2163.webp" %})[<img width="320" src="images/IMG_2165.webp"/>]({% image "content/blog/images/IMG_2165.webp" %})
+{% image "images/IMG_2163.webp" %}{% image "images/IMG_2165.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2172.webp"/>]({% image "content/blog/images/IMG_2172.webp" %})[<img width="320" src="images/IMG_2173.webp"/>]({% image "content/blog/images/IMG_2173.webp" %})
+{% image "images/IMG_2172.webp" %}{% image "images/IMG_2173.webp" %}
 
   
 
@@ -159,17 +159,17 @@ Then we went to Horsetail and Ponytail Falls, finding parking without an issue a
   
 
 
-[<img width="320" src="images/IMG_2174.webp"/>]({% image "content/blog/images/IMG_2174.webp" %})
+{% image "images/IMG_2174.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2200.webp"/>]({% image "content/blog/images/IMG_2200.webp" %})[<img width="320" src="images/IMG_2201.webp"/>]({% image "content/blog/images/IMG_2201.webp" %})
+{% image "images/IMG_2200.webp" %}{% image "images/IMG_2201.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250529_090535274_HDR.webp"/>]({% image "content/blog/images/IMG_20250529_090535274_HDR.webp" %})
+{% image "images/IMG_20250529_090535274_HDR.webp" %}
 
   
 
@@ -179,27 +179,27 @@ Ponytail Falls - you could walk behind the waterfall.
   
 
 
-[<img width="320" src="images/IMG_2177.webp"/>]({% image "content/blog/images/IMG_2177.webp" %})
+{% image "images/IMG_2177.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2179.webp"/>]({% image "content/blog/images/IMG_2179.webp" %})
+{% image "images/IMG_2179.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2181.webp"/>]({% image "content/blog/images/IMG_2181.webp" %}) [<img src="images/IMG_20250529_111930727_HDR.webp"/>]({% image "content/blog/images/IMG_20250529_111930727_HDR.webp" %})
+{% image "images/IMG_2181.webp" %} {% image "images/IMG_20250529_111930727_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2187.webp"/>]({% image "content/blog/images/IMG_2187.webp" %})
+{% image "images/IMG_2187.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2189.webp"/>]({% image "content/blog/images/IMG_2189.webp" %})
+{% image "images/IMG_2189.webp" %}
 
   
 
@@ -209,7 +209,7 @@ Cool growths or discolorations on the rocks in the cave behind Ponytail Falls.
   
 
 
-[<img width="320" src="images/IMG_2191.webp"/>]({% image "content/blog/images/IMG_2191.webp" %})
+{% image "images/IMG_2191.webp" %}
 
   
 
@@ -219,24 +219,24 @@ I thought the moss overgrowth on the trail wall was cool.
   
 
 
-[<img width="320" src="images/IMG_2196.webp"/>]({% image "content/blog/images/IMG_2196.webp" %})[<img width="320" src="images/IMG_2197.webp"/>]({% image "content/blog/images/IMG_2197.webp" %})
+{% image "images/IMG_2196.webp" %}{% image "images/IMG_2197.webp" %}
 
   
 Next, we stopped at Oneonta Tunnel; the Oneonta gorge trail was closed. Looking like a slot canyon, it would have been a cool hike. A picture of what we could see below. The tunnel used to be part of the Historic Columbia highway 30 (to the left now in the picture) until cars got too big. They originally sealed the tunnel up and then decided to rebuild it. All the graffiti or defacing inside was from like 2020 or newer, which felt weird.   
   
 
 
-[<img width="320" src="images/IMG_2202.webp"/>]({% image "content/blog/images/IMG_2202.webp" %})
+{% image "images/IMG_2202.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2207.webp"/>]({% image "content/blog/images/IMG_2207.webp" %})
+{% image "images/IMG_2207.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2208.webp"/>]({% image "content/blog/images/IMG_2208.webp" %})[<img width="320" src="images/IMG_2210.webp"/>]({% image "content/blog/images/IMG_2210.webp" %})
+{% image "images/IMG_2208.webp" %}{% image "images/IMG_2210.webp" %}
 
   
 
@@ -251,7 +251,7 @@ This was near the restaurant.
   
 
 
-[<img width="320" src="images/IMG_2212.webp"/>]({% image "content/blog/images/IMG_2212.webp" %})
+{% image "images/IMG_2212.webp" %}
 
   
 
@@ -261,12 +261,12 @@ After being well feed, we stopped at the Lewis and Clark State Recreation Site t
   
 
 
-[<img width="320" src="images/IMG_2214.webp"/>]({% image "content/blog/images/IMG_2214.webp" %})
+{% image "images/IMG_2214.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2217.webp"/>]({% image "content/blog/images/IMG_2217.webp" %})
+{% image "images/IMG_2217.webp" %}
 
   
 
@@ -276,27 +276,27 @@ On the way back east, we stopped at Rooster State Park at exit 25. It was a pay 
   
 
 
-[<img width="320" src="images/IMG_2221.webp"/>]({% image "content/blog/images/IMG_2221.webp" %})
+{% image "images/IMG_2221.webp" %}
 
   
 
 
-[<img src="images/IMG_2224.webp"/>]({% image "content/blog/images/IMG_2224.webp" %})
+{% image "images/IMG_2224.webp" %}
 
   
 
 
-[<img src="images/IMG_2231.webp"/>]({% image "content/blog/images/IMG_2231.webp" %})
+{% image "images/IMG_2231.webp" %}
 
   
 
 
-[<img src="images/IMG_2233.webp"/>]({% image "content/blog/images/IMG_2233.webp" %})
+{% image "images/IMG_2233.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2237.webp"/>]({% image "content/blog/images/IMG_2237.webp" %})
+{% image "images/IMG_2237.webp" %}
 
   
 
@@ -306,7 +306,7 @@ We then went back to campsite. We found multiple big snails that came out after 
   
 
 
-[<img width="320" src="images/IMG_20250529_154854619_HDR.webp"/>]({% image "content/blog/images/IMG_20250529_154854619_HDR.webp" %})
+{% image "images/IMG_20250529_154854619_HDR.webp" %}
 
   
 

@@ -12,14 +12,14 @@ description: ""
 
 We pre-booked the Postojna Cave and Predjama Castle Tour with Koper Tours with our Cruise Critic role call group. Koper Tours asked that we make a deposit payment. We arrived early for the 8:30 am meeting time, paid the balance, and met our guide and group. It took a little bit to leave. I think they were waiting on a group, but then moved a lady from a different tour to ours. Our tour guide was energetic and fun. She had a green Dragon on a stick for us to find her. Slovenians are very proud of their country; she noted it had "love" in the name (though Travis first guessed "oven"). She had a story about the Slovenian ruler telling God that he will take what God choses to give this country vs. other countries saying that they want volcanos or waterfalls. So, they were blessed with so much beauty. It was a very beautiful country, and everything was so green (compared to hot and dry Texas...). We got to see mountains, some fall foliage, and rocks walls on the drive to the cave -- though hard to get good pictures from the bus, so just sharing a few. Someone noted later no litter. He was right; the country was so clean. I was later disappointed in all the litter in Sicily and Rome later. I have since heard a podcast about other places to visit in Slovenia; I'm SO ready to go back!
 
-[<img width="320" src="images/IMG_9596.webp"/>]({% image "content/blog/images/IMG_9596.webp" %})
+{% image "images/IMG_9596.webp" %}
 
-[<img width="320" src="images/IMG_9597.webp"/>]({% image "content/blog/images/IMG_9597.webp" %})
+{% image "images/IMG_9597.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9601.webp"/>]({% image "content/blog/images/IMG_9601.webp" %})
+{% image "images/IMG_9601.webp" %}
 
   
 
@@ -29,7 +29,7 @@ Baby dragons that are blind and live in the cave. They are also called human fis
   
 
 
-[<img width="320" src="images/IMG_9602.webp"/>]({% image "content/blog/images/IMG_9602.webp" %})
+{% image "images/IMG_9602.webp" %}
 
   
 
@@ -38,82 +38,82 @@ When we arrived, after about an hour drive, our guide directed us to the restroo
 
 Postojnska Jama (cave). The cave had a train that took us to the tour starting point. I did not get a good picture of the train; you see the yellow metal of the train behind Travis here. The other pictures were burry with movement and darkness. We did pass other trains and went around curves on the train, which was cool. After the train, our cave tour guide met us and walked us through with different stopping points to give information. The cave was large and pretty, and the guide was knowledgeable and entertaining.
 
-[<img width="320" src="images/IMG_0005.webp"/>]({% image "content/blog/images/IMG_0005.webp" %})
+{% image "images/IMG_0005.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0010.webp"/>]({% image "content/blog/images/IMG_0010.webp" %})
+{% image "images/IMG_0010.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0014.webp"/>]({% image "content/blog/images/IMG_0014.webp" %})
+{% image "images/IMG_0014.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0022.webp"/>]({% image "content/blog/images/IMG_0022.webp" %})
+{% image "images/IMG_0022.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0028.webp"/>]({% image "content/blog/images/IMG_0028.webp" %})
+{% image "images/IMG_0028.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0030.webp"/>]({% image "content/blog/images/IMG_0030.webp" %})
+{% image "images/IMG_0030.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0031.webp"/>]({% image "content/blog/images/IMG_0031.webp" %})
+{% image "images/IMG_0031.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0039.webp"/>]({% image "content/blog/images/IMG_0039.webp" %})
+{% image "images/IMG_0039.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0040.webp"/>]({% image "content/blog/images/IMG_0040.webp" %})
+{% image "images/IMG_0040.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0042.webp"/>]({% image "content/blog/images/IMG_0042.webp" %})
+{% image "images/IMG_0042.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0044.webp"/>]({% image "content/blog/images/IMG_0044.webp" %})
+{% image "images/IMG_0044.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0048.webp"/>]({% image "content/blog/images/IMG_0048.webp" %})
+{% image "images/IMG_0048.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0050.webp"/>]({% image "content/blog/images/IMG_0050.webp" %})
+{% image "images/IMG_0050.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0052.webp"/>]({% image "content/blog/images/IMG_0052.webp" %})
+{% image "images/IMG_0052.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0054.webp"/>]({% image "content/blog/images/IMG_0054.webp" %})
+{% image "images/IMG_0054.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0058.webp"/>]({% image "content/blog/images/IMG_0058.webp" %})
+{% image "images/IMG_0058.webp" %}
 
   
 
@@ -123,12 +123,12 @@ At the end of the tour and cave, they kept baby dragons in a tank, so that every
   
 
 
-[<img width="320" src="images/IMG_0062.webp"/>]({% image "content/blog/images/IMG_0062.webp" %})
+{% image "images/IMG_0062.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0063.webp"/>]({% image "content/blog/images/IMG_0063.webp" %})
+{% image "images/IMG_0063.webp" %}
 
   
 
@@ -138,7 +138,7 @@ Here is the local cake that we tried, called: Gibanica. It is layers of baked ap
   
 
 
-[<img width="320" src="images/IMG_0064.webp"/>]({% image "content/blog/images/IMG_0064.webp" %})
+{% image "images/IMG_0064.webp" %}
 
   
 
@@ -148,17 +148,17 @@ Then we were back on the bus at the defined time and had about a 10 minute drive
   
 
 
-[<img width="320" src="images/IMG_0066.webp"/>]({% image "content/blog/images/IMG_0066.webp" %})
+{% image "images/IMG_0066.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0069.webp"/>]({% image "content/blog/images/IMG_0069.webp" %})
+{% image "images/IMG_0069.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0072.webp"/>]({% image "content/blog/images/IMG_0072.webp" %})
+{% image "images/IMG_0072.webp" %}
 
   
 
@@ -168,22 +168,22 @@ Views from the castle. Down by the entrance, there was another counter service r
   
 
 
-[<img width="320" src="images/IMG_0075.webp"/>]({% image "content/blog/images/IMG_0075.webp" %})
+{% image "images/IMG_0075.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0076.webp"/>]({% image "content/blog/images/IMG_0076.webp" %})
+{% image "images/IMG_0076.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0102.webp"/>]({% image "content/blog/images/IMG_0102.webp" %})
+{% image "images/IMG_0102.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0105.webp"/>]({% image "content/blog/images/IMG_0105.webp" %})
+{% image "images/IMG_0105.webp" %}
 
   
 
@@ -193,12 +193,12 @@ Different views of the cave in the castle or cave and castle together.
   
 
 
-[<img width="320" src="images/IMG_0087.webp"/>]({% image "content/blog/images/IMG_0087.webp" %})
+{% image "images/IMG_0087.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0089.webp"/>]({% image "content/blog/images/IMG_0089.webp" %})
+{% image "images/IMG_0089.webp" %}
 
   
 
@@ -208,12 +208,12 @@ This is the water collection system. From the audio tour, it sounded like this w
   
 
 
-[<img width="320" src="images/IMG_0090.webp"/>]({% image "content/blog/images/IMG_0090.webp" %})
+{% image "images/IMG_0090.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0082.webp"/>]({% image "content/blog/images/IMG_0082.webp" %})
+{% image "images/IMG_0082.webp" %}
 
   
 
@@ -223,12 +223,12 @@ Travis found a local beer to try. Outside, we walked down by the goats and got s
   
 
 
-[<img width="320" src="images/IMG_0094.webp"/>]({% image "content/blog/images/IMG_0094.webp" %})[<img width="320" src="images/IMG_0095.webp"/>]({% image "content/blog/images/IMG_0095.webp" %})
+{% image "images/IMG_0094.webp" %}{% image "images/IMG_0095.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0096.webp"/>]({% image "content/blog/images/IMG_0096.webp" %})[<img width="320" src="images/IMG_0098.webp"/>]({% image "content/blog/images/IMG_0098.webp" %})
+{% image "images/IMG_0096.webp" %}{% image "images/IMG_0098.webp" %}
 
   
 
@@ -236,12 +236,12 @@ Travis found a local beer to try. Outside, we walked down by the goats and got s
   
 
 
-[<img width="320" src="images/IMG_0107.webp"/>]({% image "content/blog/images/IMG_0107.webp" %})
+{% image "images/IMG_0107.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0110.webp"/>]({% image "content/blog/images/IMG_0110.webp" %})
+{% image "images/IMG_0110.webp" %}
 
   
 
@@ -250,27 +250,27 @@ After the castle, we headed back to the Koper main town area. We lost our front 
   
 
 
-[<img width="320" src="images/IMG_0115.webp"/>]({% image "content/blog/images/IMG_0115.webp" %})
+{% image "images/IMG_0115.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0116.webp"/>]({% image "content/blog/images/IMG_0116.webp" %})
+{% image "images/IMG_0116.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0118.webp"/>]({% image "content/blog/images/IMG_0118.webp" %})
+{% image "images/IMG_0118.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0120.webp"/>]({% image "content/blog/images/IMG_0120.webp" %})
+{% image "images/IMG_0120.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0122.webp"/>]({% image "content/blog/images/IMG_0122.webp" %})
+{% image "images/IMG_0122.webp" %}
 
   
 
@@ -280,17 +280,17 @@ Back on the ship, enjoying the Great Outdoors' afternoon snack. They had cookies
   
 
 
-[<img width="320" src="images/IMG_0123.webp"/>]({% image "content/blog/images/IMG_0123.webp" %})
+{% image "images/IMG_0123.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0125.webp"/>]({% image "content/blog/images/IMG_0125.webp" %})
+{% image "images/IMG_0125.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0126.webp"/>]({% image "content/blog/images/IMG_0126.webp" %})
+{% image "images/IMG_0126.webp" %}
 
   
 
@@ -300,32 +300,32 @@ We had Cagney's Steakhouse and bottle of wine with our Sapphire status booked to
   
 
 
-[<img width="320" src="images/IMG_0131.webp"/>]({% image "content/blog/images/IMG_0131.webp" %})
+{% image "images/IMG_0131.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0132.webp"/>]({% image "content/blog/images/IMG_0132.webp" %})
+{% image "images/IMG_0132.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0133.webp"/>]({% image "content/blog/images/IMG_0133.webp" %})
+{% image "images/IMG_0133.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0134.webp"/>]({% image "content/blog/images/IMG_0134.webp" %})
+{% image "images/IMG_0134.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0135.webp"/>]({% image "content/blog/images/IMG_0135.webp" %})
+{% image "images/IMG_0135.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0136.webp"/>]({% image "content/blog/images/IMG_0136.webp" %})
+{% image "images/IMG_0136.webp" %}
 
   
 

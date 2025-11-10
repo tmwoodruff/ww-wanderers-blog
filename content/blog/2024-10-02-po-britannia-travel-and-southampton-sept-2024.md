@@ -20,7 +20,7 @@ Coaches routes were assigned a number; however, we did not find them unique enou
 
 The walk was interesting. The sidewalks have quick history notes. We passed Bargate. 
 
-[<img width="320" src="images/IMG_8709.webp"/>]({% image "content/blog/images/IMG_8709.webp" %}) [<img width="320" src="images/IMG_8711.webp"/>]({% image "content/blog/images/IMG_8711.webp" %})
+{% image "images/IMG_8709.webp" %} {% image "images/IMG_8711.webp" %}
 
   
 
@@ -30,12 +30,12 @@ Remainder of a church; Southampton was bombed during WWII. Its bells with two li
   
 
 
-[<img width="320" src="images/IMG_8707.webp"/>]({% image "content/blog/images/IMG_8707.webp" %})
+{% image "images/IMG_8707.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8708.webp"/>]({% image "content/blog/images/IMG_8708.webp" %})
+{% image "images/IMG_8708.webp" %}
 
   
 
@@ -45,17 +45,17 @@ The city had an interesting old walls.
   
 
 
-[<img width="320" src="images/IMG_8724.webp"/>]({% image "content/blog/images/IMG_8724.webp" %})
+{% image "images/IMG_8724.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8714.webp"/>]({% image "content/blog/images/IMG_8714.webp" %})[<img width="320" src="images/IMG_8715.webp"/>]({% image "content/blog/images/IMG_8715.webp" %})
+{% image "images/IMG_8714.webp" %}{% image "images/IMG_8715.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8723.webp"/>]({% image "content/blog/images/IMG_8723.webp" %})
+{% image "images/IMG_8723.webp" %}
 
   
 
@@ -70,17 +70,17 @@ We went immediately, after a restroom break. We shared an appetizer: fried Hallo
   
 
 
-[<img width="320" src="images/IMG_8713.webp"/>]({% image "content/blog/images/IMG_8713.webp" %})[<img width="320" src="images/IMG_8725.webp"/>]({% image "content/blog/images/IMG_8725.webp" %})
+{% image "images/IMG_8713.webp" %}{% image "images/IMG_8725.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8726.webp"/>]({% image "content/blog/images/IMG_8726.webp" %})
+{% image "images/IMG_8726.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8727.webp"/>]({% image "content/blog/images/IMG_8727.webp" %})
+{% image "images/IMG_8727.webp" %}
 
   
 
@@ -90,17 +90,17 @@ Our AirBNB room and a view from the window of the walls. Our host was having ver
   
 
 
-[<img width="320" src="images/IMG_8719.webp"/>]({% image "content/blog/images/IMG_8719.webp" %})
+{% image "images/IMG_8719.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8720.webp"/>]({% image "content/blog/images/IMG_8720.webp" %})
+{% image "images/IMG_8720.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8721.webp"/>]({% image "content/blog/images/IMG_8721.webp" %})
+{% image "images/IMG_8721.webp" %}
 
   
 

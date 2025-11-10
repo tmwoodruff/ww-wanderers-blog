@@ -10,7 +10,7 @@ description: ""
 
 **MSC Meraviglia Summarized Review -- March 10-17, 2024**
 
-[<img width="320" src="images/IMG_7817.webp"/>]({% image "content/blog/images/IMG_7817.webp" %})
+{% image "images/IMG_7817.webp" %}
 
 **Embarkation**
 
@@ -64,27 +64,27 @@ We had four pillows on our bed, which was good, and the kids each had one. Howev
 
 Some pictures of the room: 1) the tub, 2) sink and more tub, 3) desk and window, 4) the bunkbeds, and 5) desk, closet, and entry. 
 
-[<img width="320" src="images/IMG_7608.webp"/>]({% image "content/blog/images/IMG_7608.webp" %})
+{% image "images/IMG_7608.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7609.webp"/>]({% image "content/blog/images/IMG_7609.webp" %})
+{% image "images/IMG_7609.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7611.webp"/>]({% image "content/blog/images/IMG_7611.webp" %})
+{% image "images/IMG_7611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7612.webp"/>]({% image "content/blog/images/IMG_7612.webp" %})
+{% image "images/IMG_7612.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7613.webp"/>]({% image "content/blog/images/IMG_7613.webp" %})
+{% image "images/IMG_7613.webp" %}
 
 **Entertainment**
 

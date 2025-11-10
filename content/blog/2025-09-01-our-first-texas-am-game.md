@@ -12,22 +12,22 @@ description: ""
 
 Joel at Squad 3 Thunderbirds BBQ with fajitas in his new Thunderbirds cap. 
 
-[<img width="320" src="images/IMG_20250830_121754691_HDR.webp"/>]({% image "/images/IMG_20250830_121754691_HDR.webp" %})
+{% image "images/IMG_20250830_121754691_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2600.webp"/>]({% image "content/blog/images/IMG_2600.webp" %})
+{% image "images/IMG_2600.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2601.webp"/>]({% image "content/blog/images/IMG_2601.webp" %})
+{% image "images/IMG_2601.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2608.webp"/>]({% image "content/blog/images/IMG_2608.webp" %})
+{% image "images/IMG_2608.webp" %}
 
   
 
@@ -37,7 +37,7 @@ Joel with current roommate with their mad, pisshead faces.
   
 
 
-[<img width="320" src="images/IMG_2610.webp"/>]({% image "content/blog/images/IMG_2610.webp" %})
+{% image "images/IMG_2610.webp" %}
 
   
 
@@ -47,7 +47,7 @@ Squad group picture before Step Off.
   
 
 
-[<img width="320" src="images/Group%20picture.webp"/>]({% image "content/blog/images/Group%20picture.webp" %})
+{% image "images/Group picture.webp" %}
 
   
 
@@ -57,67 +57,67 @@ Joel with his fish (freshman) roommate.
   
 
 
-[<img width="320" src="images/Joel%20and%20Ethan%202.webp"/>]({% image "content/blog/images/Joel%20and%20Ethan%202.webp" %})
+{% image "images/Joel and Ethan 2.webp" %}
 
   
 
 
-[<img width="320" src="images/Joel%20and%20Ethan.webp"/>]({% image "content/blog/images/Joel%20and%20Ethan.webp" %})
+{% image "images/Joel and Ethan.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2611.webp"/>]({% image "content/blog/images/IMG_2611.webp" %})
+{% image "images/IMG_2611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2612.webp"/>]({% image "content/blog/images/IMG_2612.webp" %})
+{% image "images/IMG_2612.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2613.webp"/>]({% image "content/blog/images/IMG_2613.webp" %})
+{% image "images/IMG_2613.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2622.webp"/>]({% image "content/blog/images/IMG_2622.webp" %})
+{% image "images/IMG_2622.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2626.webp"/>]({% image "content/blog/images/IMG_2626.webp" %})
+{% image "images/IMG_2626.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2628.webp"/>]({% image "content/blog/images/IMG_2628.webp" %})
+{% image "images/IMG_2628.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2635.webp"/>]({% image "content/blog/images/IMG_2635.webp" %})
+{% image "images/IMG_2635.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2636.webp"/>]({% image "content/blog/images/IMG_2636.webp" %})
+{% image "images/IMG_2636.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2639.webp"/>]({% image "content/blog/images/IMG_2639.webp" %})
+{% image "images/IMG_2639.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2642.webp"/>]({% image "content/blog/images/IMG_2642.webp" %})
+{% image "images/IMG_2642.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2648.webp"/>]({% image "content/blog/images/IMG_2648.webp" %})
+{% image "images/IMG_2648.webp" %}
 
   
 
@@ -127,42 +127,42 @@ Joel is a row and 3 over in from the row with the girl in the white dress, looki
   
 
 
-[<img width="320" src="images/IMG_2652.webp"/>]({% image "content/blog/images/IMG_2652.webp" %})
+{% image "images/IMG_2652.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2654.webp"/>]({% image "content/blog/images/IMG_2654.webp" %})
+{% image "images/IMG_2654.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2658.webp"/>]({% image "content/blog/images/IMG_2658.webp" %})
+{% image "images/IMG_2658.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2660.webp"/>]({% image "content/blog/images/IMG_2660.webp" %})
+{% image "images/IMG_2660.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2663.webp"/>]({% image "content/blog/images/IMG_2663.webp" %})
+{% image "images/IMG_2663.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2668.webp"/>]({% image "content/blog/images/IMG_2668.webp" %})
+{% image "images/IMG_2668.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2672.webp"/>]({% image "content/blog/images/IMG_2672.webp" %})
+{% image "images/IMG_2672.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2674.webp"/>]({% image "content/blog/images/IMG_2674.webp" %})
+{% image "images/IMG_2674.webp" %}
 
   
 
@@ -172,12 +172,12 @@ The sunset
   
 
 
-[<img width="320" src="images/IMG_2676.webp"/>]({% image "content/blog/images/IMG_2676.webp" %})
+{% image "images/IMG_2676.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2679.webp"/>]({% image "content/blog/images/IMG_2679.webp" %})
+{% image "images/IMG_2679.webp" %}
 
   
 
@@ -187,12 +187,12 @@ We had a spirited group behind us.
   
 
 
-[<img width="320" src="images/IMG_20250830_185259766.webp"/>]({% image "content/blog/images/IMG_20250830_185259766.webp" %})
+{% image "images/IMG_20250830_185259766.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250830_205025448.webp"/>]({% image "content/blog/images/IMG_20250830_205025448.webp" %})
+{% image "images/IMG_20250830_205025448.webp" %}
 
   
 

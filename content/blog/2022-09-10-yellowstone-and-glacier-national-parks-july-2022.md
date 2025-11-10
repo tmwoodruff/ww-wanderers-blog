@@ -14,12 +14,12 @@ In the afternoon, we went up to Mammoth Hot Springs, 35 miles north from Madison
 
 Elk hanging out in town. I overheard someone noting that buildings were an ugly green before but now all repainted a cream color. This area was where the military was stationed when they were in charge of protecting and running the park, before the National Park Service took over, so the green. 
 
-[<img width="320" src="images/IMG_5129.webp"/>]({% image "content/blog/images/IMG_5129.webp" %})
+{% image "images/IMG_5129.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110359.webp"/>]({% image "content/blog/images/P1110359.webp" %})
+{% image "images/P1110359.webp" %}
 
   
 
@@ -29,7 +29,7 @@ We did not find parking near the terraces where the hikes start, but we found on
   
 
 
-[<img width="320" src="images/IMG_5132.webp"/>]({% image "content/blog/images/IMG_5132.webp" %})
+{% image "images/IMG_5132.webp" %}
 
   
 
@@ -39,12 +39,12 @@ Some cool terraces that look to be starting to form.
   
 
 
-[<img width="320" src="images/IMG_5133.webp"/>]({% image "content/blog/images/IMG_5133.webp" %})
+{% image "images/IMG_5133.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110326.webp"/>]({% image "content/blog/images/P1110326.webp" %})
+{% image "images/P1110326.webp" %}
 
   
 
@@ -54,17 +54,17 @@ Here are some 2022 speculator views; the main one has some waterfalls.
   
 
 
-[<img width="320" src="images/IMG_5137.webp"/>]({% image "content/blog/images/IMG_5137.webp" %})
+{% image "images/IMG_5137.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110328.webp"/>]({% image "content/blog/images/P1110328.webp" %})
+{% image "images/P1110328.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110348.webp"/>]({% image "content/blog/images/P1110348.webp" %})
+{% image "images/P1110348.webp" %}
 
   
 
@@ -74,7 +74,7 @@ View from 2007; now comparing, they look very similar. There just seemed to be m
   
 
 
-[<img width="320" src="images/IMG_4930.webp"/>]({% image "content/blog/images/IMG_4930.webp" %})
+{% image "images/IMG_4930.webp" %}
 
   
 
@@ -84,22 +84,22 @@ On the way back, we stopped and hiked at Artist's Paintpots between Norris and M
   
 
 
-[<img width="320" src="images/IMG_5137.webp"/>]({% image "content/blog/images/IMG_5137.webp" %})
+{% image "images/IMG_5137.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5148.webp"/>]({% image "content/blog/images/IMG_5148.webp" %})
+{% image "images/IMG_5148.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5149.webp"/>]({% image "content/blog/images/IMG_5149.webp" %})
+{% image "images/IMG_5149.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5151.webp"/>]({% image "content/blog/images/IMG_5151.webp" %})
+{% image "images/IMG_5151.webp" %}
 
   
 

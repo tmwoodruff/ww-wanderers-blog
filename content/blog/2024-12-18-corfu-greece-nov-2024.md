@@ -12,12 +12,12 @@ description: ""
 
 We had an inside cabin, so a picture of the arrival in Corfu and sunrise from the webcam on TV. The ship looking pretty on the pretty Mediterranean Sea.
 
-[<img width="320" src="images/IMG_0616.webp"/>]({% image "content/blog/images/IMG_0616.webp" %})
+{% image "images/IMG_0616.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0620.webp"/>]({% image "content/blog/images/IMG_0620.webp" %})
+{% image "images/IMG_0620.webp" %}
 
   
 
@@ -27,17 +27,17 @@ We did the 25 minute walk from the port to the main town and passed the new fort
   
 
 
-[<img width="320" src="images/IMG_0621.webp"/>]({% image "content/blog/images/IMG_0621.webp" %})
+{% image "images/IMG_0621.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0622.webp"/>]({% image "content/blog/images/IMG_0622.webp" %})
+{% image "images/IMG_0622.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0623.webp"/>]({% image "content/blog/images/IMG_0623.webp" %})
+{% image "images/IMG_0623.webp" %}
 
   
 
@@ -47,12 +47,12 @@ In the old town, we walked to the old fortress, except where I got sidetracked b
   
 
 
-[<img width="320" src="images/IMG_0625.webp"/>]({% image "content/blog/images/IMG_0625.webp" %})
+{% image "images/IMG_0625.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0627.webp"/>]({% image "content/blog/images/IMG_0627.webp" %})
+{% image "images/IMG_0627.webp" %}
 
   
 
@@ -62,32 +62,32 @@ The old fortress was 3 EURs each; I expected it to be 6 EURs each. So, we got th
   
 
 
-[<img width="320" src="images/IMG_0628.webp"/>]({% image "content/blog/images/IMG_0628.webp" %})
+{% image "images/IMG_0628.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0630.webp"/>]({% image "content/blog/images/IMG_0630.webp" %})
+{% image "images/IMG_0630.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0631.webp"/>]({% image "content/blog/images/IMG_0631.webp" %})
+{% image "images/IMG_0631.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0632.webp"/>]({% image "content/blog/images/IMG_0632.webp" %})
+{% image "images/IMG_0632.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0634.webp"/>]({% image "content/blog/images/IMG_0634.webp" %})
+{% image "images/IMG_0634.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0635.webp"/>]({% image "content/blog/images/IMG_0635.webp" %})
+{% image "images/IMG_0635.webp" %}
 
   
 
@@ -97,12 +97,12 @@ The church also had displays inside, but they were in Greek. There were papers b
   
 
 
-[<img width="320" src="images/IMG_0636.webp"/>]({% image "content/blog/images/IMG_0636.webp" %})
+{% image "images/IMG_0636.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0657.webp"/>]({% image "content/blog/images/IMG_0657.webp" %})
+{% image "images/IMG_0657.webp" %}
 
   
 
@@ -112,32 +112,32 @@ I tried to get a picture of Albania (to find where it was; we could also see the
   
 
 
-[<img width="320" src="images/IMG_0637.webp"/>]({% image "content/blog/images/IMG_0637.webp" %})
+{% image "images/IMG_0637.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0641.webp"/>]({% image "content/blog/images/IMG_0641.webp" %})
+{% image "images/IMG_0641.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0642.webp"/>]({% image "content/blog/images/IMG_0642.webp" %})
+{% image "images/IMG_0642.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0647.webp"/>]({% image "content/blog/images/IMG_0647.webp" %})
+{% image "images/IMG_0647.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0648.webp"/>]({% image "content/blog/images/IMG_0648.webp" %})
+{% image "images/IMG_0648.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0650.webp"/>]({% image "content/blog/images/IMG_0650.webp" %})
+{% image "images/IMG_0650.webp" %}
 
   
 
@@ -147,32 +147,32 @@ This was the original gunpower magazine.
   
 
 
-[<img width="320" src="images/IMG_0654.webp"/>]({% image "content/blog/images/IMG_0654.webp" %})
+{% image "images/IMG_0654.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0655.webp"/>]({% image "content/blog/images/IMG_0655.webp" %})
+{% image "images/IMG_0655.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0656.webp"/>]({% image "content/blog/images/IMG_0656.webp" %})
+{% image "images/IMG_0656.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0667.webp"/>]({% image "content/blog/images/IMG_0667.webp" %})
+{% image "images/IMG_0667.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0669.webp"/>]({% image "content/blog/images/IMG_0669.webp" %})
+{% image "images/IMG_0669.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0670.webp"/>]({% image "content/blog/images/IMG_0670.webp" %})
+{% image "images/IMG_0670.webp" %}
 
   
 
@@ -182,17 +182,17 @@ We hiked to the top for awesome views.
   
 
 
-[<img width="320" src="images/IMG_0671.webp"/>]({% image "content/blog/images/IMG_0671.webp" %})
+{% image "images/IMG_0671.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0675.webp"/>]({% image "content/blog/images/IMG_0675.webp" %})
+{% image "images/IMG_0675.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0680.webp"/>]({% image "content/blog/images/IMG_0680.webp" %})
+{% image "images/IMG_0680.webp" %}
 
   
 
@@ -202,32 +202,32 @@ A music school that we could hear music coming from off and on.
   
 
 
-[<img width="320" src="images/IMG_0683.webp"/>]({% image "content/blog/images/IMG_0683.webp" %})
+{% image "images/IMG_0683.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0684.webp"/>]({% image "content/blog/images/IMG_0684.webp" %})
+{% image "images/IMG_0684.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0688.webp"/>]({% image "content/blog/images/IMG_0688.webp" %})
+{% image "images/IMG_0688.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0692.webp"/>]({% image "content/blog/images/IMG_0692.webp" %})
+{% image "images/IMG_0692.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0693.webp"/>]({% image "content/blog/images/IMG_0693.webp" %})
+{% image "images/IMG_0693.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0694.webp"/>]({% image "content/blog/images/IMG_0694.webp" %})
+{% image "images/IMG_0694.webp" %}
 
   
 
@@ -237,12 +237,12 @@ MSC coming to join us about 1pm.
   
 
 
-[<img width="320" src="images/IMG_0695.webp"/>]({% image "content/blog/images/IMG_0695.webp" %})
+{% image "images/IMG_0695.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0697.webp"/>]({% image "content/blog/images/IMG_0697.webp" %})
+{% image "images/IMG_0697.webp" %}
 
   
 
@@ -252,22 +252,22 @@ This grass had some crazy stickers that we had to pull off our shoes. Lesson lea
   
 
 
-[<img width="320" src="images/IMG_0703.webp"/>]({% image "content/blog/images/IMG_0703.webp" %})
+{% image "images/IMG_0703.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0704.webp"/>]({% image "content/blog/images/IMG_0704.webp" %})
+{% image "images/IMG_0704.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0710.webp"/>]({% image "content/blog/images/IMG_0710.webp" %})
+{% image "images/IMG_0710.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0711.webp"/>]({% image "content/blog/images/IMG_0711.webp" %})
+{% image "images/IMG_0711.webp" %}
 
   
 
@@ -277,12 +277,12 @@ After the fortress, we had gyros, and I had gelato and Travis a beer from a groc
   
 
 
-[<img width="320" src="images/IMG_20241106_133138211.webp"/>]({% image "content/blog/images/IMG_20241106_133138211.webp" %})
+{% image "images/IMG_20241106_133138211.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0716.webp"/>]({% image "content/blog/images/IMG_0716.webp" %})
+{% image "images/IMG_0716.webp" %}
 
   
 
@@ -292,12 +292,12 @@ Travis noticed a money museum; it was free. When we arrived, the gentleman worki
   
 
 
-[<img width="320" src="images/IMG_0718.webp"/>]({% image "content/blog/images/IMG_0718.webp" %})
+{% image "images/IMG_0718.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0720.webp"/>]({% image "content/blog/images/IMG_0720.webp" %})
+{% image "images/IMG_0720.webp" %}
 
   
 
@@ -307,22 +307,22 @@ Tonight we had the complimentary Asian restaurant, Lotus Garden, booked. NCL cha
   
 
 
-[<img width="320" src="images/IMG_0721.webp"/>]({% image "content/blog/images/IMG_0721.webp" %})
+{% image "images/IMG_0721.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0722.webp"/>]({% image "content/blog/images/IMG_0722.webp" %})
+{% image "images/IMG_0722.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0723.webp"/>]({% image "content/blog/images/IMG_0723.webp" %})
+{% image "images/IMG_0723.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0725.webp"/>]({% image "content/blog/images/IMG_0725.webp" %})
+{% image "images/IMG_0725.webp" %}
 
   
 
@@ -332,17 +332,17 @@ For dessert, we had the Five Spice Cake and Coconut Tapioca Pudding. We went for
   
 
 
-[<img width="320" src="images/IMG_0727.webp"/>]({% image "content/blog/images/IMG_0727.webp" %})
+{% image "images/IMG_0727.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0728.webp"/>]({% image "content/blog/images/IMG_0728.webp" %})
+{% image "images/IMG_0728.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0733.webp"/>]({% image "content/blog/images/IMG_0733.webp" %})
+{% image "images/IMG_0733.webp" %}
 
   
 
@@ -352,12 +352,12 @@ MDR Menu
   
 
 
-[![](<img width="320" src="images/image32.webp"/>)]({% image "content/blog/images/image32.webp" %})
+{% image "images/image32.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image33.webp"/>)]({% image "content/blog/images/image33.webp" %})
+{% image "images/image33.webp" %}
 
   
 

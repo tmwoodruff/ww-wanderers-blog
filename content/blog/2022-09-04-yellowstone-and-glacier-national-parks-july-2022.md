@@ -21,7 +21,7 @@ We chose Madison Campground in Yellowstone, and St. Mary (with backups selected 
 
 In Yellowstone, we wanted to be close to the Upper, Mid, and Lower Geyser basins. Entering at the West entrance ended up to work out very well due the June 2022 flood that still had the North and Northeast entrances closed. Yellowstone was easier to book. Bookings were available to make more than 6 months in advance with availability at <https://secure.yellowstonenationalparklodges.com/booking/lodging>. When reserving, we did not pick our site; it was assigned by the Ranger based on our equipment when we arrived. Yellowstone also had other campgrounds that had to be booked on recreation.gov. 
 
-[<img width="320" src="images/P1110245.webp"/>]({% image "content/blog/images/P1110245.webp" %})
+{% image "images/P1110245.webp" %}
 
 In Glacier, we picked the east side after reading reviews and wanting to be on the less crowded side of the park. The east side is very pretty. St. Mary campground website information mentioned having showers, but Travis and Joel went to find it and only found it caution taped closed, so don't make the decision based on having shower access. 
 
@@ -29,7 +29,7 @@ Reservations (in 2022, between late May to August 14th) open up 6 months before 
 
 Also, the Going-to-the-Sun Road depends on when the plowing that year is complete. Keep on eye on the NPS.gov site for plowing status. I saw where they had made a section done and then received more snow or an avalanche requiring replowing. After plowing, they have noted about two weeks to get guardrails and such up before opening. We arrived July 23rd; before leaving I was getting a little nervous about it opening. Of course, that is fully open through Logan Pass, they do have parts on the West and East open before it is fully open. It was also open further and earlier to bicycles. I believe this is a pretty late opening; it can definitely be earlier and maybe later. 
 
-[<img width="320" src="images/IMG_5553.webp"/>]({% image "content/blog/images/IMG_5553.webp" %})
+{% image "images/IMG_5553.webp" %}
 
 We had a circle drive for the car, with a break in the brush to enter this area. On the other side, it had a picnic table and fire pit. This is B82 in Loop B. 
 

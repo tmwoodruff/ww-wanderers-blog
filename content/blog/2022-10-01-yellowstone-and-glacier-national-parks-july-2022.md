@@ -12,7 +12,7 @@ description: ""
 
 The kids got these in the Wendy's kids meals, and I made them build them. This was from breakfast before we packed up camp, tossing the tents and pool air mattresses -- and filled the dumpster pretty well :(. I read before about the "sharing shack", which sounded very useful and others recommended it. You can take things like coolers, bear spray, etc. or donate items like tents, etc. This would have been good for our tents, but it was in a town somewhere to the West of the West entrance. So, we were never near it. Google it, if you will be coming in from the West. Travis even looked at Bozeman's Goodwill, but it required an appoint to donate. We had a little more rain overnight, so wet table for the picture. Travis used our $1 knife from the Walmart pick up, used for cheese slicing before, to stab the cooking fuel gas tank after he burnt it off the night before. He read to puncture it to show that it was empty if someone sees it in the dumpster. 
 
-[<img width="320" src="images/IMG_5555.webp"/>]({% image "content/blog/images/IMG_5555.webp" %})
+{% image "images/IMG_5555.webp" %}
 
   
 
@@ -22,7 +22,7 @@ We stopped at the 1913 Ranger Station on the way out of the park, right by the e
   
 
 
-[<img width="320" src="images/IMG_5557.webp"/>]({% image "content/blog/images/IMG_5557.webp" %})
+{% image "images/IMG_5557.webp" %}
 
   
 
@@ -34,7 +34,7 @@ This was a display outside the park.
   
 
 
-[<img width="320" src="images/IMG_5561.webp"/>]({% image "content/blog/images/IMG_5561.webp" %})
+{% image "images/IMG_5561.webp" %}
 
   
 
@@ -44,7 +44,7 @@ We stopped in Helena again and went to Panda Express for lunch. Then we had to d
   
 
 
-[<img width="320" src="images/P1120060.webp"/>]({% image "content/blog/images/P1120060.webp" %})
+{% image "images/P1120060.webp" %}
 
   
 
@@ -59,7 +59,7 @@ The motel was a little West of town. We went into town for some pie and ice crea
   
 
 
-[<img width="320" src="images/IMG_5577.webp"/>]({% image "content/blog/images/IMG_5577.webp" %})
+{% image "images/IMG_5577.webp" %}
 
   
 

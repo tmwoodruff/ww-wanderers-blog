@@ -14,7 +14,7 @@ Today was our first scheduled sea day to get to Greenland, so it was our Cruise 
 
 I wanted to see icebergs. As we approached Greenland, I got my wish. Some very interestingly shaped, colored, and cracked ones. 
 
-[<img src="images/P1120853.webp"/>]({% image "content/blog/images/P1120853.webp" %})
+{% image "images/P1120853.webp" %}
 
   
 
@@ -24,22 +24,22 @@ With mountains in the background. There was a LOT of fog during our cruise, so t
   
 
 
-[<img width="320" src="images/P1120883.webp"/>]({% image "content/blog/images/P1120883.webp" %})
+{% image "images/P1120883.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120898.webp"/>]({% image "content/blog/images/P1120898.webp" %})
+{% image "images/P1120898.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120901.webp"/>]({% image "content/blog/images/P1120901.webp" %})
+{% image "images/P1120901.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120907.webp"/>]({% image "content/blog/images/P1120907.webp" %})
+{% image "images/P1120907.webp" %}
 
   
 
@@ -49,17 +49,17 @@ For a sense of scale, an iceberg through some forward stairs. We went all around
   
 
 
-[<img width="320" src="images/P1120921.webp"/>]({% image "content/blog/images/P1120921.webp" %})
+{% image "images/P1120921.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120923.webp"/>]({% image "content/blog/images/P1120923.webp" %})
+{% image "images/P1120923.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120930.webp"/>]({% image "content/blog/images/P1120930.webp" %})
+{% image "images/P1120930.webp" %}
 
   
 
@@ -69,32 +69,32 @@ Me all bundled up for iceberg viewing.
   
 
 
-[<img width="320" src="images/P1120933.webp"/>]({% image "content/blog/images/P1120933.webp" %})
+{% image "images/P1120933.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120939.webp"/>]({% image "content/blog/images/P1120939.webp" %})
+{% image "images/P1120939.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120940.webp"/>]({% image "content/blog/images/P1120940.webp" %})
+{% image "images/P1120940.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120942.webp"/>]({% image "content/blog/images/P1120942.webp" %})
+{% image "images/P1120942.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120945.webp"/>]({% image "content/blog/images/P1120945.webp" %})
+{% image "images/P1120945.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120947.webp"/>]({% image "content/blog/images/P1120947.webp" %})
+{% image "images/P1120947.webp" %}
 
   
 
@@ -114,12 +114,12 @@ For dinner, we went to the MDR again. There were crazy line for both the MDR and
   
 
 
-[<img src="images/Screenshot%202023-09-23%20151350.webp"/>]({% image "content/blog/images/Screenshot%202023-09-23%20151350.webp" %}) [<img src="images/Screenshot%202023-09-23%20151610.webp"/>]({% image "content/blog/images/Screenshot%202023-09-23%20151610.webp" %})
+{% image "images/Screenshot 2023-09-23 151350.webp" %} {% image "images/Screenshot 2023-09-23 151610.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230717_132230724.webp"/>]({% image "content/blog/images/IMG_20230717_132230724.webp" %})[<img width="320" src="images/IMG_20230717_132243167.webp"/>]({% image "content/blog/images/IMG_20230717_132243167.webp" %})
+{% image "images/IMG_20230717_132230724.webp" %}{% image "images/IMG_20230717_132243167.webp" %}
 
   
 
@@ -144,27 +144,27 @@ We arrived. They only had one tender dock; this became a problem later. This was
   
 
 
-[<img width="320" src="images/IMG_6732%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6732%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6732 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6735%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6735%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6735 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120967%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120967%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120967 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120970%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120970%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120970 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120977%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120977%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120977 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -174,17 +174,17 @@ Up the hill for our views. Travis had a hike map on his phone with GPS to help u
   
 
 
-[<img width="320" src="images/IMG_6739%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6739%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6739 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6742%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6742%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6742 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120972%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120972%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120972 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -194,37 +194,37 @@ My bug net. I forgot my cap to keep it out of my face, and it got hot. We read a
   
 
 
-[<img width="320" src="images/P1120989%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120989%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120989 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120990%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120990%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120990 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120996%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120996%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120996 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/P1120998%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/P1120998%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/P1120998 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6745%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6745%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6745 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6746%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6746%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6746 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6753%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6753%20\(2023_09_17%2023_04_38%20UTC\).webp" %})  
+{% image "images/IMG_6753 \(2023_09_17 23_04_38 UTC\).webp" %}  
   
 
 
@@ -243,12 +243,12 @@ Then we found this church and watched this helicopter land and take off. It was 
   
  
 
-[<img width="320" src="images/IMG_6756%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6756%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6756 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6758%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6758%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6758 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -258,12 +258,12 @@ Since we were back on late and some people were still ashore, we went to Ginza's
   
 
 
-[<img width="320" src="images/IMG_6759%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6759%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6759 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6760%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6760%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6760 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
@@ -273,12 +273,12 @@ My sweet and sour pork was good. I have loved the crispy beef before, but last t
   
 
 
-[<img width="320" src="images/IMG_6762%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6762%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6762 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6763%20\(2023_09_17%2023_04_38%20UTC\).webp"/>]({% image "content/blog/images/IMG_6763%20\(2023_09_17%2023_04_38%20UTC\).webp" %})
+{% image "images/IMG_6763 \(2023_09_17 23_04_38 UTC\).webp" %}
 
   
 

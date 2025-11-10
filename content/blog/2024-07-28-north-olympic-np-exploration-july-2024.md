@@ -25,57 +25,57 @@ Old growth forest and the Sol Duc Falls. The hikes were mostly shady and cool (i
   
 
 
-[<img width="320" src="images/IMG_8298.webp"/>]({% image "content/blog/images/IMG_8298.webp" %})
+{% image "images/IMG_8298.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140376.webp"/>]({% image "content/blog/images/P1140376.webp" %})
+{% image "images/P1140376.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140385.webp"/>]({% image "content/blog/images/P1140385.webp" %})
+{% image "images/P1140385.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8301.webp"/>]({% image "content/blog/images/IMG_8301.webp" %})
+{% image "images/IMG_8301.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8302.webp"/>]({% image "content/blog/images/IMG_8302.webp" %})
+{% image "images/IMG_8302.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8303.webp"/>]({% image "content/blog/images/IMG_8303.webp" %})
+{% image "images/IMG_8303.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140388.webp"/>]({% image "content/blog/images/P1140388.webp" %})
+{% image "images/P1140388.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140397.webp"/>]({% image "content/blog/images/P1140397.webp" %})
+{% image "images/P1140397.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140398.webp"/>]({% image "content/blog/images/P1140398.webp" %})
+{% image "images/P1140398.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140400.webp"/>]({% image "content/blog/images/P1140400.webp" %})
+{% image "images/P1140400.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140402.webp"/>]({% image "content/blog/images/P1140402.webp" %})
+{% image "images/P1140402.webp" %}
 
   
 
@@ -85,42 +85,42 @@ Then on to Ancient Groves.
   
 
 
-[<img width="320" src="images/IMG_8318.webp"/>]({% image "content/blog/images/IMG_8318.webp" %})
+{% image "images/IMG_8318.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8325.webp"/>]({% image "content/blog/images/IMG_8325.webp" %})
+{% image "images/IMG_8325.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8326.webp"/>]({% image "content/blog/images/IMG_8326.webp" %})
+{% image "images/IMG_8326.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8331.webp"/>]({% image "content/blog/images/IMG_8331.webp" %})
+{% image "images/IMG_8331.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140404.webp"/>]({% image "content/blog/images/P1140404.webp" %})
+{% image "images/P1140404.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140406.webp"/>]({% image "content/blog/images/P1140406.webp" %})
+{% image "images/P1140406.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140407.webp"/>]({% image "content/blog/images/P1140407.webp" %})
+{% image "images/P1140407.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140409.webp"/>]({% image "content/blog/images/P1140409.webp" %})
+{% image "images/P1140409.webp" %}
 
   
 
@@ -130,7 +130,7 @@ The carpet of moss was neat.
   
 
 
-[<img width="320" src="images/P1140414.webp"/>]({% image "content/blog/images/P1140414.webp" %})
+{% image "images/P1140414.webp" %}
 
   
 
@@ -140,7 +140,7 @@ We saw lots of nursery logs, fallen trees with new trees, moss, and other plants
   
 
 
-[<img width="320" src="images/P1140421.webp"/>]({% image "content/blog/images/P1140421.webp" %})
+{% image "images/P1140421.webp" %}
 
   
 
@@ -150,12 +150,12 @@ We also stopped for Salmon Cascade Overlook, which had a short talk in. We did n
   
 
 
-[<img width="320" src="images/P1140424.webp"/>]({% image "content/blog/images/P1140424.webp" %})
+{% image "images/P1140424.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140425.webp"/>]({% image "content/blog/images/P1140425.webp" %})
+{% image "images/P1140425.webp" %}
 
   
 
@@ -170,7 +170,7 @@ We checked out the lake first. Very pretty.
   
 
 
-[<img width="320" src="images/IMG_8332.webp"/>]({% image "content/blog/images/IMG_8332.webp" %})
+{% image "images/IMG_8332.webp" %}
 
   
 
@@ -178,22 +178,22 @@ We checked out the lake first. Very pretty.
   
 
 
-[<img width="320" src="images/IMG_8355.webp"/>]({% image "content/blog/images/IMG_8355.webp" %})
+{% image "images/IMG_8355.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140426.webp"/>]({% image "content/blog/images/P1140426.webp" %})
+{% image "images/P1140426.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140430.webp"/>]({% image "content/blog/images/P1140430.webp" %})
+{% image "images/P1140430.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140432.webp"/>]({% image "content/blog/images/P1140432.webp" %})
+{% image "images/P1140432.webp" %}
 
   
 
@@ -203,12 +203,12 @@ Then we visited the restroom before hiking; it had a long line for the women's r
   
 
 
-[<img width="320" src="images/IMG_8334.webp"/>]({% image "content/blog/images/IMG_8334.webp" %})
+{% image "images/IMG_8334.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8338.webp"/>]({% image "content/blog/images/IMG_8338.webp" %})
+{% image "images/IMG_8338.webp" %}
 
   
 
@@ -218,22 +218,22 @@ Marymere Falls
   
 
 
-[<img width="320" src="images/IMG_8340.webp"/>]({% image "content/blog/images/IMG_8340.webp" %})
+{% image "images/IMG_8340.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140444.webp"/>]({% image "content/blog/images/P1140444.webp" %})
+{% image "images/P1140444.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140449.webp"/>]({% image "content/blog/images/P1140449.webp" %})
+{% image "images/P1140449.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140452.webp"/>]({% image "content/blog/images/P1140452.webp" %})
+{% image "images/P1140452.webp" %}
 
   
 
@@ -241,12 +241,12 @@ Marymere Falls
   
 
 
-[<img width="320" src="images/IMG_8343.webp"/>]({% image "content/blog/images/IMG_8343.webp" %})
+{% image "images/IMG_8343.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140436.webp"/>]({% image "content/blog/images/P1140436.webp" %})
+{% image "images/P1140436.webp" %}
 
   
 
@@ -256,17 +256,17 @@ Peek at the lake through the trees. We did see people kayaking and relaxing on t
   
 
 
-[<img width="320" src="images/P1140434.webp"/>]({% image "content/blog/images/P1140434.webp" %})
+{% image "images/P1140434.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140438.webp"/>]({% image "content/blog/images/P1140438.webp" %})
+{% image "images/P1140438.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140456.webp"/>]({% image "content/blog/images/P1140456.webp" %})
+{% image "images/P1140456.webp" %}
 
   
 
@@ -276,7 +276,7 @@ People tunnel under the road at the beginning and end of the Falls hike.
   
 
 
-[<img width="320" src="images/P1140457.webp"/>]({% image "content/blog/images/P1140457.webp" %})
+{% image "images/P1140457.webp" %}
 
   
 
@@ -286,32 +286,32 @@ Then we found the Moments in Time. It was an interpretative, loop trail that act
   
 
 
-[<img width="320" src="images/IMG_8345.webp"/>]({% image "content/blog/images/IMG_8345.webp" %})
+{% image "images/IMG_8345.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8351.webp"/>]({% image "content/blog/images/IMG_8351.webp" %})
+{% image "images/IMG_8351.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8350.webp"/>]({% image "content/blog/images/IMG_8350.webp" %})
+{% image "images/IMG_8350.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8352.webp"/>]({% image "content/blog/images/IMG_8352.webp" %})
+{% image "images/IMG_8352.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8356.webp"/>]({% image "content/blog/images/IMG_8356.webp" %})
+{% image "images/IMG_8356.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140462.webp"/>]({% image "content/blog/images/P1140462.webp" %})
+{% image "images/P1140462.webp" %}
 
   
 
@@ -331,42 +331,42 @@ Views from Hurricane Ridge
   
 
 
-[<img width="320" src="images/IMG_8363.webp"/>]({% image "content/blog/images/IMG_8363.webp" %})
+{% image "images/IMG_8363.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140466.webp"/>]({% image "content/blog/images/P1140466.webp" %})
+{% image "images/P1140466.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140467.webp"/>]({% image "content/blog/images/P1140467.webp" %})
+{% image "images/P1140467.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8367.webp"/>]({% image "content/blog/images/IMG_8367.webp" %})
+{% image "images/IMG_8367.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140475.webp"/>]({% image "content/blog/images/P1140475.webp" %})
+{% image "images/P1140475.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8370.webp"/>]({% image "content/blog/images/IMG_8370.webp" %})
+{% image "images/IMG_8370.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8372.webp"/>]({% image "content/blog/images/IMG_8372.webp" %})
+{% image "images/IMG_8372.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8383.webp"/>]({% image "content/blog/images/IMG_8383.webp" %})
+{% image "images/IMG_8383.webp" %}
 
   
 
@@ -376,17 +376,17 @@ The Visitor Center at Hurricane Ridge burned down in May 2023. I googled to conf
   
 
 
-[<img width="320" src="images/P1140481.webp"/>]({% image "content/blog/images/P1140481.webp" %})
+{% image "images/P1140481.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140485.webp"/>]({% image "content/blog/images/P1140485.webp" %})
+{% image "images/P1140485.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8375.webp"/>]({% image "content/blog/images/IMG_8375.webp" %})
+{% image "images/IMG_8375.webp" %}
 
   
 
@@ -396,17 +396,17 @@ A few more views before heading down.
   
 
 
-[<img width="320" src="images/P1140490.webp"/>]({% image "content/blog/images/P1140490.webp" %})
+{% image "images/P1140490.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140498.webp"/>]({% image "content/blog/images/P1140498.webp" %})
+{% image "images/P1140498.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140502.webp"/>]({% image "content/blog/images/P1140502.webp" %})
+{% image "images/P1140502.webp" %}
 
   
 
@@ -415,12 +415,12 @@ Lots of yellow wildflowers.
   
 
 
-[<img width="320" src="images/IMG_8384.webp"/>]({% image "content/blog/images/IMG_8384.webp" %})
+{% image "images/IMG_8384.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8386.webp"/>]({% image "content/blog/images/IMG_8386.webp" %})
+{% image "images/IMG_8386.webp" %}
 
   
 
@@ -430,21 +430,21 @@ A stop because Travis was annoyed being behind someone braking down instead of u
   
 
 
-[<img width="320" src="images/IMG_8390.webp"/>]({% image "content/blog/images/IMG_8390.webp" %})
+{% image "images/IMG_8390.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8396.webp"/>]({% image "content/blog/images/IMG_8396.webp" %})
+{% image "images/IMG_8396.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8397.webp"/>]({% image "content/blog/images/IMG_8397.webp" %})
+{% image "images/IMG_8397.webp" %}
 
 After Hurricane Ridge, we continued east on Hwy 101 to Fort Townsend state park where we were staying tonight. It too was pricy -- $40 -- and tossed in an out of state visitor fee at the very end of the checkout process. We arrived before 5pm, but there was no one at the booth. There were complicated instructions to sign in and no where to park while completing the paperwork. I had printed the campsite purchase beforehand like it instructed, so first put this on our dashboard. Later (after a hike), after 5pm, there was someone working the booth, so I walked back to the campsite and back to the booth to ask. She said I did not need the print out, and printed a receipt size paper for me to put on the dashboard instead. Before that, we found our spot and setup the tent. We had a good location for the restroom tonight. The restroom had a shower, free, and not even pre-sold to us. Though we did not hassle with a shower the next night. There were a ton of mosquitos here though! We walked an interpretative trail near the campsite and then the cemetery trail. After this is when I found someone at the booth. We did not have enough time to explore more of the state park. 
 
-[<img width="320" src="images/IMG_20240715_060736131_HDR.webp"/>]({% image "content/blog/images/IMG_20240715_060736131_HDR.webp" %})
+{% image "images/IMG_20240715_060736131_HDR.webp" %}
 
   
 

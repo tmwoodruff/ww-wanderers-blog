@@ -12,7 +12,7 @@ description: ""
 
 For breakfast, I had the Blue Iguana breakfast burrito, which was really in 2 twos flour tacos. They have a jalapeno or wheat tortillas on the menu, but you used to be able to request a flour tortilla, but not now. So, they offered me a flour taco instead. It was good, though not as easy to eat. I also had hot chocolate from the machine. Travis had oatmeal from the buffet...so healthy. 
 
-[<img width="320" src="images/IMG_6071.webp"/>]({% image "content/blog/images/IMG_6071.webp" %})
+{% image "images/IMG_6071.webp" %}
 
   
 
@@ -22,7 +22,7 @@ Mazatlan and PV were docked ports; no more tendering. Mazatlan has some cartel v
   
 
 
-[<img width="320" src="images/IMG_6072.webp"/>]({% image "content/blog/images/IMG_6072.webp" %})
+{% image "images/IMG_6072.webp" %}
 
   
 
@@ -32,7 +32,7 @@ View on the way to the lighthouse trail start.
   
 
 
-[<img width="320" src="images/IMG_6073.webp"/>]({% image "content/blog/images/IMG_6073.webp" %})
+{% image "images/IMG_6073.webp" %}
 
   
 
@@ -42,22 +42,22 @@ The lighthouse trail start. I read that it was $1 or 20 pesos for the glass brid
   
 
 
-[<img width="320" src="images/IMG_6075.webp"/>]({% image "content/blog/images/IMG_6075.webp" %})
+{% image "images/IMG_6075.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6080.webp"/>]({% image "content/blog/images/IMG_6080.webp" %})
+{% image "images/IMG_6080.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6085.webp"/>]({% image "content/blog/images/IMG_6085.webp" %})
+{% image "images/IMG_6085.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6091.webp"/>]({% image "content/blog/images/IMG_6091.webp" %})
+{% image "images/IMG_6091.webp" %}
 
   
 
@@ -67,37 +67,37 @@ When it is your turn, you go with a group, take off your shoes, and view/take pi
   
 
 
-[<img width="320" src="images/IMG_6099.webp"/>]({% image "content/blog/images/IMG_6099.webp" %})
+{% image "images/IMG_6099.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6100.webp"/>]({% image "content/blog/images/IMG_6100.webp" %})
+{% image "images/IMG_6100.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6103.webp"/>]({% image "content/blog/images/IMG_6103.webp" %})
+{% image "images/IMG_6103.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6104.webp"/>]({% image "content/blog/images/IMG_6104.webp" %})
+{% image "images/IMG_6104.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6105.webp"/>]({% image "content/blog/images/IMG_6105.webp" %})
+{% image "images/IMG_6105.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6106.webp"/>]({% image "content/blog/images/IMG_6106.webp" %})
+{% image "images/IMG_6106.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6108.webp"/>]({% image "content/blog/images/IMG_6108.webp" %})
+{% image "images/IMG_6108.webp" %}
 
   
 
@@ -107,27 +107,27 @@ Then there was another area for view pictures. They also had a small photo exhib
   
 
 
-[<img width="320" src="images/IMG_6112.webp"/>]({% image "content/blog/images/IMG_6112.webp" %})
+{% image "images/IMG_6112.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6113.webp"/>]({% image "content/blog/images/IMG_6113.webp" %})
+{% image "images/IMG_6113.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6115.webp"/>]({% image "content/blog/images/IMG_6115.webp" %})
+{% image "images/IMG_6115.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6120.webp"/>]({% image "content/blog/images/IMG_6120.webp" %})
+{% image "images/IMG_6120.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6131.webp"/>]({% image "content/blog/images/IMG_6131.webp" %})
+{% image "images/IMG_6131.webp" %}
 
   
 
@@ -137,12 +137,12 @@ Then we walked toward the theater. We walked along the coast. This was cool art.
   
 
 
-[<img width="320" src="images/IMG_6133.webp"/>]({% image "content/blog/images/IMG_6133.webp" %})
+{% image "images/IMG_6133.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6136.webp"/>]({% image "content/blog/images/IMG_6136.webp" %})
+{% image "images/IMG_6136.webp" %}
 
   
 
@@ -152,26 +152,26 @@ Arrived at the theater. Someone's site recommended taking a tour (that it was aw
   
 
 
-[<img width="320" src="images/IMG_6141.webp"/>]({% image "content/blog/images/IMG_6141.webp" %})
+{% image "images/IMG_6141.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6144.webp"/>]({% image "content/blog/images/IMG_6144.webp" %})
+{% image "images/IMG_6144.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6152.webp"/>]({% image "content/blog/images/IMG_6152.webp" %})
+{% image "images/IMG_6152.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6154.webp"/>]({% image "content/blog/images/IMG_6154.webp" %})
+{% image "images/IMG_6154.webp" %}
 
 We got back on the ship in time for late lunch. Travis had buffet salads. I had these items. The Asian flavored short ribs were really good. In front, it was a fried sweet potato and brisket; they were good. The potato wedges were just okay. 
 
-[<img width="320" src="images/IMG_6155.webp"/>]({% image "content/blog/images/IMG_6155.webp" %})
+{% image "images/IMG_6155.webp" %}
 
   
 
@@ -181,11 +181,11 @@ A pretty church that I had not noticed earlier caught my eye.
   
 
 
-[<img width="320" src="images/IMG_6158.webp"/>]({% image "content/blog/images/IMG_6158.webp" %})
+{% image "images/IMG_6158.webp" %}
 
 I remembered to captured some menus. 
 
-[<img width="320" src="images/Screenshot_20230124-200935.webp"/>]({% image "content/blog/images/Screenshot_20230124-200935.webp" %}) [<img width="320" src="images/Screenshot_20230124-200947.webp"/>]({% image "content/blog/images/Screenshot_20230124-200947.webp" %}) [<img width="320" src="images/Screenshot_20230124-201010.webp"/>]({% image "content/blog/images/Screenshot_20230124-201010.webp" %})
+{% image "images/Screenshot_20230124-200935.webp" %} {% image "images/Screenshot_20230124-200947.webp" %} {% image "images/Screenshot_20230124-201010.webp" %}
 
   
 
@@ -195,22 +195,22 @@ I had the flatbread (it was very good), steak, and melting cake. Travis had the 
   
 
 
-[<img width="320" src="images/IMG_6161.webp"/>]({% image "content/blog/images/IMG_6161.webp" %})
+{% image "images/IMG_6161.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6162.webp"/>]({% image "content/blog/images/IMG_6162.webp" %})
+{% image "images/IMG_6162.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6163.webp"/>]({% image "content/blog/images/IMG_6163.webp" %})
+{% image "images/IMG_6163.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6164.webp"/>]({% image "content/blog/images/IMG_6164.webp" %})
+{% image "images/IMG_6164.webp" %}
 
   
 
@@ -220,7 +220,7 @@ After dinner, we got a drink at Alchemy Bar; Amil was fun and efficient. We enjo
   
 
 
-[<img width="320" src="images/IMG_6171.webp"/>]({% image "content/blog/images/IMG_6171.webp" %})
+{% image "images/IMG_6171.webp" %}
 
   
 

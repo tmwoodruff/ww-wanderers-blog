@@ -27,69 +27,69 @@ We watched the sail in. This was awesome; we got a good view of the Arch/Arco. W
   
 
 
-[<img width="320" src="images/IMG_5962.webp"/>]({% image "content/blog/images/IMG_5962.webp" %})
+{% image "images/IMG_5962.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5969.webp"/>]({% image "content/blog/images/IMG_5969.webp" %})
+{% image "images/IMG_5969.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5971.webp"/>]({% image "content/blog/images/IMG_5971.webp" %})
+{% image "images/IMG_5971.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5984.webp"/>]({% image "content/blog/images/IMG_5984.webp" %})
+{% image "images/IMG_5984.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5987.webp"/>]({% image "content/blog/images/IMG_5987.webp" %})
+{% image "images/IMG_5987.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5992.webp"/>]({% image "content/blog/images/IMG_5992.webp" %})
+{% image "images/IMG_5992.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5995.webp"/>]({% image "content/blog/images/IMG_5995.webp" %})
+{% image "images/IMG_5995.webp" %}
 
 The Arch coming into view. 
 
   
 
 
-[<img width="320" src="images/IMG_5997.webp"/>]({% image "content/blog/images/IMG_5997.webp" %})
+{% image "images/IMG_5997.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5999.webp"/>]({% image "content/blog/images/IMG_5999.webp" %})
+{% image "images/IMG_5999.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6001.webp"/>]({% image "content/blog/images/IMG_6001.webp" %})
+{% image "images/IMG_6001.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6003.webp"/>]({% image "content/blog/images/IMG_6003.webp" %})
+{% image "images/IMG_6003.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6006.webp"/>]({% image "content/blog/images/IMG_6006.webp" %})
+{% image "images/IMG_6006.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6015.webp"/>]({% image "content/blog/images/IMG_6015.webp" %})
+{% image "images/IMG_6015.webp" %}
 
   
 
@@ -109,37 +109,37 @@ So, we tried to make it to the Arch via the beach but could not this way either,
   
 
 
-[<img width="320" src="images/IMG_6016.webp"/>]({% image "content/blog/images/IMG_6016.webp" %})
+{% image "images/IMG_6016.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6026.webp"/>]({% image "content/blog/images/IMG_6026.webp" %})
+{% image "images/IMG_6026.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6027.webp"/>]({% image "content/blog/images/IMG_6027.webp" %})
+{% image "images/IMG_6027.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6028.webp"/>]({% image "content/blog/images/IMG_6028.webp" %})
+{% image "images/IMG_6028.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6030.webp"/>]({% image "content/blog/images/IMG_6030.webp" %})
+{% image "images/IMG_6030.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6031.webp"/>]({% image "content/blog/images/IMG_6031.webp" %})
+{% image "images/IMG_6031.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6033.webp"/>]({% image "content/blog/images/IMG_6033.webp" %})
+{% image "images/IMG_6033.webp" %}
 
   
 
@@ -149,22 +149,22 @@ This was the last attempt, that only Travis tried, was after this rock with just
   
 
 
-[<img width="320" src="images/IMG_6040.webp"/>]({% image "content/blog/images/IMG_6040.webp" %})
+{% image "images/IMG_6040.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6046.webp"/>]({% image "content/blog/images/IMG_6046.webp" %})
+{% image "images/IMG_6046.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6054.webp"/>]({% image "content/blog/images/IMG_6054.webp" %})
+{% image "images/IMG_6054.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6057.webp"/>]({% image "content/blog/images/IMG_6057.webp" %})
+{% image "images/IMG_6057.webp" %}
 
   
 
@@ -174,12 +174,12 @@ This was the tuna cannery.
   
 
 
-[<img width="320" src="images/IMG_6059.webp"/>]({% image "content/blog/images/IMG_6059.webp" %})
+{% image "images/IMG_6059.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6061.webp"/>]({% image "content/blog/images/IMG_6061.webp" %})
+{% image "images/IMG_6061.webp" %}
 
   
 
@@ -200,7 +200,7 @@ Travis's was all good; he had: the Greek salad, ceviche, a mushroom with marinar
   
 
 
-[<img width="320" src="images/IMG_6069.webp"/>]({% image "content/blog/images/IMG_6069.webp" %})
+{% image "images/IMG_6069.webp" %}
 
   
 
@@ -220,7 +220,7 @@ Complete side note -- Our room toilet did not seem to flush as much water as oth
   
 
 
-[<img width="320" src="images/IMG_6070.webp"/>]({% image "content/blog/images/IMG_6070.webp" %})
+{% image "images/IMG_6070.webp" %}
 
   
 

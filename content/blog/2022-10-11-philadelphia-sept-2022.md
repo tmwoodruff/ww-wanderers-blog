@@ -14,12 +14,12 @@ Not related at all, except both start with "Independence" and are what we did th
 
 We dropped the groceries off at the apartment, and then headed toward the Independence Hall area. In Love park, we found the I heart Philly and Love signs. The Philadelphia Museum of Art way in the background of the Love picture. 
 
-[<img width="320" src="images/IMG_5580.webp"/>]({% image "content/blog/images/IMG_5580.webp" %})
+{% image "images/IMG_5580.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5584.webp"/>]({% image "content/blog/images/IMG_5584.webp" %})
+{% image "images/IMG_5584.webp" %}
 
   
 
@@ -29,7 +29,7 @@ We read about waiting outside in a line at the Liberty Bell, so we targeted gett
   
 
 
-[<img width="320" src="images/IMG_5594.webp"/>]({% image "content/blog/images/IMG_5594.webp" %})
+{% image "images/IMG_5594.webp" %}
 
   
 
@@ -39,7 +39,7 @@ The bell with Independence Hall in the background.
   
 
 
-[<img width="320" src="images/IMG_5596.webp"/>]({% image "content/blog/images/IMG_5596.webp" %})
+{% image "images/IMG_5596.webp" %}
 
   
 
@@ -49,21 +49,21 @@ Declaration House where Thomas Jefferson wrote the Declaration of Independence. 
   
 
 
-[<img width="320" src="images/IMG_5598.webp"/>]({% image "content/blog/images/IMG_5598.webp" %})
+{% image "images/IMG_5598.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5599.webp"/>]({% image "content/blog/images/IMG_5599.webp" %})
+{% image "images/IMG_5599.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5600.webp"/>]({% image "content/blog/images/IMG_5600.webp" %})
+{% image "images/IMG_5600.webp" %}
 
 Today, we had a 11am tour of Independence Hall booked from recreation.gov for $1 each. They noted to arrive 30 minutes before to get through security and that we had to have a ticket. This was also quick through security, so we read the signs and sat down for a snack/to finish breakfast. A Ranger asked if we were in the group, we noted the 11am group instead, and he said there was space to join the 10:40 am group. They never looked at our tickets. Later, our group looked smaller, so we missed our nice smaller group -- I guess because we were all in the earlier group making it bigger. Our Ranger tour guide was very passionate about the topics, so it made the tour very interesting. 
 
-[<img width="320" src="images/IMG_5603.webp"/>]({% image "content/blog/images/IMG_5603.webp" %})
+{% image "images/IMG_5603.webp" %}
 
   
 
@@ -73,7 +73,7 @@ Supreme Court. The art is an original; others items are replications. The door o
   
 
 
-[<img width="320" src="images/IMG_5606.webp"/>]({% image "content/blog/images/IMG_5606.webp" %})
+{% image "images/IMG_5606.webp" %}
 
   
 
@@ -83,7 +83,7 @@ More symmetry. The Assembly room where the 13 states met to sign the Declaration
   
 
 
-[<img width="320" src="images/IMG_5610.webp"/>]({% image "content/blog/images/IMG_5610.webp" %})
+{% image "images/IMG_5610.webp" %}
 
   
 
@@ -93,12 +93,12 @@ During the tour, it started raining, so our guide recommended that we go directl
   
 
 
-[<img width="320" src="images/IMG_5613.webp"/>]({% image "content/blog/images/IMG_5613.webp" %})
+{% image "images/IMG_5613.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5615.webp"/>]({% image "content/blog/images/IMG_5615.webp" %})
+{% image "images/IMG_5615.webp" %}
 
   
 
@@ -108,12 +108,12 @@ The Senate was upstairs. I don't have any pictures. It has mostly original furni
   
 
 
-[<img width="320" src="images/IMG_5619.webp"/>]({% image "content/blog/images/IMG_5619.webp" %})
+{% image "images/IMG_5619.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5621.webp"/>]({% image "content/blog/images/IMG_5621.webp" %})
+{% image "images/IMG_5621.webp" %}
 
   
 
@@ -128,7 +128,7 @@ We walked to lunch. Our Philly cheesesteak sandwich from Campo's. We got provolo
   
 
 
-[<img width="320" src="images/IMG_5624.webp"/>]({% image "content/blog/images/IMG_5624.webp" %})
+{% image "images/IMG_5624.webp" %}
 
   
 
@@ -138,7 +138,7 @@ Water front, which was pretty dead with the rain and being a weekday. I liked th
   
 
 
-[<img width="320" src="images/IMG_5625.webp"/>]({% image "content/blog/images/IMG_5625.webp" %})
+{% image "images/IMG_5625.webp" %}
 
   
 
@@ -148,7 +148,7 @@ Caught a view of the Benjamin Franklin bridge to New Jersey.
   
 
 
-[<img width="320" src="images/IMG_5627.webp"/>]({% image "content/blog/images/IMG_5627.webp" %})
+{% image "images/IMG_5627.webp" %}
 
   
 
@@ -158,7 +158,7 @@ The Independence Seaport Museum was on the waterfront. Since it was not crowded 
   
 
 
-[<img width="320" src="images/IMG_5630.webp"/>]({% image "content/blog/images/IMG_5630.webp" %})
+{% image "images/IMG_5630.webp" %}
 
   
 
@@ -173,7 +173,7 @@ We saw four engines; in this room, was Huff and Puff.
   
 
 
-[<img width="320" src="images/IMG_5634.webp"/>]({% image "content/blog/images/IMG_5634.webp" %})
+{% image "images/IMG_5634.webp" %}
 
   
 
@@ -183,12 +183,12 @@ Seeing inside a torpedo and looking down the barrel of a torpedo chute, noting t
   
 
 
-[<img width="320" src="images/IMG_5636.webp"/>]({% image "content/blog/images/IMG_5636.webp" %})
+{% image "images/IMG_5636.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5637.webp"/>]({% image "content/blog/images/IMG_5637.webp" %})
+{% image "images/IMG_5637.webp" %}
 
   
 
@@ -198,7 +198,7 @@ A torpedo slide to the chute for firing.
   
 
 
-[<img width="320" src="images/IMG_5638.webp"/>]({% image "content/blog/images/IMG_5638.webp" %})
+{% image "images/IMG_5638.webp" %}
 
   
 
@@ -208,7 +208,7 @@ After the submarine tour, we went to the USS Olympia, which was right next door.
   
 
 
-[<img width="320" src="images/IMG_5640.webp"/>]({% image "content/blog/images/IMG_5640.webp" %})
+{% image "images/IMG_5640.webp" %}
 
   
 
@@ -224,7 +224,7 @@ The top of the USS Olympia and a torpedo on display.
   
 
 
-[<img width="320" src="images/IMG_5644.webp"/>]({% image "content/blog/images/IMG_5644.webp" %})
+{% image "images/IMG_5644.webp" %}
 
   
 
@@ -234,7 +234,7 @@ Back in the main Independence Seaport Museum, it was very empty, so we could lei
   
 
 
-[<img width="320" src="images/IMG_5645.webp"/>]({% image "content/blog/images/IMG_5645.webp" %})
+{% image "images/IMG_5645.webp" %}
 
   
 
@@ -244,17 +244,17 @@ On the waterfront, the photo op swan paddle boats. These also looked run by the 
   
 
 
-[<img width="320" src="images/IMG_5649.webp"/>]({% image "content/blog/images/IMG_5649.webp" %})
+{% image "images/IMG_5649.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5651.webp"/>]({% image "content/blog/images/IMG_5651.webp" %})
+{% image "images/IMG_5651.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5653.webp"/>]({% image "content/blog/images/IMG_5653.webp" %})
+{% image "images/IMG_5653.webp" %}
 
   
 
@@ -264,7 +264,7 @@ Back in the city, Cite Hall and the Hard Rock Cafe.
   
 
 
-[<img width="320" src="images/IMG_5656.webp"/>]({% image "content/blog/images/IMG_5656.webp" %})
+{% image "images/IMG_5656.webp" %}
 
   
 
@@ -274,7 +274,7 @@ Police headquarters clock tower lit up as the sun was setting.
   
 
 
-[<img width="320" src="images/IMG_5658.webp"/>]({% image "content/blog/images/IMG_5658.webp" %})
+{% image "images/IMG_5658.webp" %}
 
   
 
@@ -284,7 +284,7 @@ Night view from our hotel rooftop hangout.
   
 
 
-[<img width="320" src="images/IMG_5663.webp"/>]({% image "content/blog/images/IMG_5663.webp" %})
+{% image "images/IMG_5663.webp" %}
 
 A great first day exploring Philly and was supposed to be our only day with rain predicted. 
 

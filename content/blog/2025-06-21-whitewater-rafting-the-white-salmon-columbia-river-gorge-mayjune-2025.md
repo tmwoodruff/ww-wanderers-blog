@@ -12,12 +12,12 @@ description: ""
 
 We found a bald eagle in the tree with the mountain. 
 
-[<img width="320" src="images/IMG_2535.webp"/>]({% image "content/blog/images/IMG_2535.webp" %})
+{% image "images/IMG_2535.webp" %}
 
   
 
 
-[<img src="images/IMG_2535.webp"/>]({% image "content/blog/images/IMG_2535.webp" %})
+{% image "images/IMG_2535.webp" %}
 
   
 
@@ -52,14 +52,14 @@ After leaving, we drove south back to WA-14, and this time headed west on the Wa
   
 
 
-[<img width="320" src="images/IMG_2539.webp"/>]({% image "content/blog/images/IMG_2539.webp" %})
+{% image "images/IMG_2539.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2541.webp"/>]({% image "content/blog/images/IMG_2541.webp" %})
+{% image "images/IMG_2541.webp" %}
 
-[<img width="320" src="images/IMG_2545.webp"/>]({% image "content/blog/images/IMG_2545.webp" %})
+{% image "images/IMG_2545.webp" %}
 
   
 
@@ -69,7 +69,7 @@ The viewing area; we saw a lamprey eel here too that Owen got a good picture of.
   
 
 
-[<img width="320" src="images/Lamprey%20Eel.webp"/>]({% image "content/blog/images/Lamprey%20Eel.webp" %})[<img width="320" src="images/IMG_2544.webp"/>]({% image "content/blog/images/IMG_2544.webp" %})
+{% image "images/Lamprey Eel.webp" %}{% image "images/IMG_2544.webp" %}
 
   
 

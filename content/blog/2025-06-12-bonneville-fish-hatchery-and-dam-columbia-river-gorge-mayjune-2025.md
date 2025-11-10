@@ -1,7 +1,7 @@
 ---
 title: "Bonneville Fish Hatchery and Dam - Columbia River Gorge -- May/June 2025"
 date: 2025-06-12
-img: images/Google%20map%20triangle.webp
+img: images/Google map triangle.webp
 tags: [Columbia River Gorge, Oregon, Bonneville]
 category: Columbia River Gorge
 author: Tammy
@@ -20,7 +20,7 @@ We were then off, eastbound to Bonneville Fish Hatchery and Dam. We came to the 
   
 
 
-[<img src="images/Google%20map%20triangle.webp"/>]({% image "content/blog/images/Google%20map%20triangle.webp" %})
+{% image "images/Google map triangle.webp" %}
 
   
 
@@ -35,7 +35,7 @@ Salmon rearing ponds and roses.
   
 
 
-[<img width="320" src="images/IMG_2242.webp"/>]({% image "content/blog/images/IMG_2242.webp" %})
+{% image "images/IMG_2242.webp" %}
 
   
 
@@ -45,7 +45,7 @@ A waterfall in a rearing battery.
   
 
 
-[<img width="320" src="images/IMG_2243.webp"/>]({% image "content/blog/images/IMG_2243.webp" %})
+{% image "images/IMG_2243.webp" %}
 
   
 
@@ -55,34 +55,34 @@ We then went to meet Herman, the over 10' long and over 80 year old white sturge
   
 
 
-[<img width="320" src="images/IMG_2246.webp"/>]({% image "content/blog/images/IMG_2246.webp" %})[<img src="images/IMG_2250.webp"/>]({% image "content/blog/images/IMG_2250.webp" %})
+{% image "images/IMG_2246.webp" %}{% image "images/IMG_2250.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2253.webp"/>]({% image "content/blog/images/IMG_2253.webp" %})
+{% image "images/IMG_2253.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2254.webp"/>]({% image "content/blog/images/IMG_2254.webp" %})
+{% image "images/IMG_2254.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2256.webp"/>]({% image "content/blog/images/IMG_2256.webp" %})
+{% image "images/IMG_2256.webp" %}
 
   
 
 
 We then went to the rainbow trout pond where you could buy food to feed them. I had some quarters, so gave each of the kids one. The technology of the food dispenser was so old, with a quarter slot and push metal button, that I did not know if the kids could use it. Owen got food, and here is his fish eating. Joel went to the next pond to feed different rainbow trout. His dispenser did not work and gave no food. A sign noted that these rainbow trout were bigger than those in the wild because visitors feed them so much. 
 
-[<img width="320" src="images/IMG_2263.webp"/>]({% image "content/blog/images/IMG_2263.webp" %})
+{% image "images/IMG_2263.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2265.webp"/>]({% image "content/blog/images/IMG_2265.webp" %})
+{% image "images/IMG_2265.webp" %}
 
   
 
@@ -92,7 +92,7 @@ Then we came back to the salmon rearing ponds and watched the fry. It was funny 
   
 
 
-[ <img width="320" src="images/IMG_2272.webp"/>]({% image "content/blog/images/IMG_2272.webp" %})
+{% image "images/IMG_2272.webp" %}
 
   
 
@@ -102,7 +102,7 @@ Next, we went to the visitor center with spawning room where they open the fish,
   
 
 
-[<img width="320" src="images/IMG_2273.webp"/>]({% image "content/blog/images/IMG_2273.webp" %})
+{% image "images/IMG_2273.webp" %}
 
   
 
@@ -119,22 +119,22 @@ We visited the fish ladder viewing windows, which was on the bottom floor of the
 
 We went out to the picnic table behind the turbine below for a picnic lunch where we found a bald eagle at the top of a tree.
 
-[<img width="320" src="images/IMG_2277.webp"/>]({% image "content/blog/images/IMG_2277.webp" %})
+{% image "images/IMG_2277.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2293.webp"/>]({% image "content/blog/images/IMG_2293.webp" %})
+{% image "images/IMG_2293.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2278.webp"/>]({% image "content/blog/images/IMG_2278.webp" %})
+{% image "images/IMG_2278.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2285.webp"/>]({% image "content/blog/images/IMG_2285.webp" %})
+{% image "images/IMG_2285.webp" %}
 
   
 
@@ -144,12 +144,12 @@ Metal art of local animals -- great blue heron and salmon.
   
 
 
-[<img width="320" src="images/IMG_2294.webp"/>]({% image "content/blog/images/IMG_2294.webp" %})
+{% image "images/IMG_2294.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2295.webp"/>]({% image "content/blog/images/IMG_2295.webp" %})
+{% image "images/IMG_2295.webp" %}
 
   
 
@@ -159,22 +159,22 @@ We also visited the roof with displays and signs labeling the near by mountains 
   
 
 
-[<img width="320" src="images/IMG_2274.webp"/>]({% image "content/blog/images/IMG_2274.webp" %})
+{% image "images/IMG_2274.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2282.webp"/>]({% image "content/blog/images/IMG_2282.webp" %})
+{% image "images/IMG_2282.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2287.webp"/>]({% image "content/blog/images/IMG_2287.webp" %})
+{% image "images/IMG_2287.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2290.webp"/>]({% image "content/blog/images/IMG_2290.webp" %})
+{% image "images/IMG_2290.webp" %}
 
   
 Finally, we went back in for final restroom breaks and visit the gift shop when a park ranger announced ships going through the lock. She tried to explain watching the lock from Robins Island or getting across between the swing bridge before it closed to let the ships through. We checked out the ships near the visitor center. The number and connectedness of the boats going through the lock was a surprise. I saw them connected on another display somewhere else too. If multiple went through, I would not expect them to be connect and moving as one.  
@@ -183,7 +183,7 @@ Finally, we went back in for final restroom breaks and visit the gift shop when 
   
 
 
-[<img src="images/IMG_2296.webp"/>]({% image "content/blog/images/IMG_2296.webp" %})
+{% image "images/IMG_2296.webp" %}
 
   
 
@@ -192,12 +192,12 @@ We did not successfully find where to watch the lock fill on Robins Island, so w
 
 Next, we went to Cascade Locks Marine Park, parking for a $1 for an hour in the Boat Launch zone. We walked across the bridge to an island in the river and walked the island. There were a few wedding venues there. The lighthouse on the map was no longer there. We could see the old Cascade Lock lock, but it is no longer in use. Back on the land slide, we had a snack in the park with playground and restrooms. We saw the Sternwheeler ship go and return on a trip and saw the Oregon Pony. This was a train engine. Washington had a train, so Oregon wanted one too, to keep up. 
 
-[<img width="320" src="images/IMG_2299.webp"/>]({% image "content/blog/images/IMG_2299.webp" %})
+{% image "images/IMG_2299.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2302.webp"/>]({% image "content/blog/images/IMG_2302.webp" %})
+{% image "images/IMG_2302.webp" %}
 
   
 
@@ -207,39 +207,39 @@ We stopped at Mitchell Point Tunnel, west of the town Hood River, where there wa
   
 
 
-[<img src="images/IMG_2305.webp"/>]({% image "content/blog/images/IMG_2305.webp" %})
+{% image "images/IMG_2305.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2306.webp"/>]({% image "content/blog/images/IMG_2306.webp" %})[<img width="320" src="images/IMG_2307.webp"/>]({% image "content/blog/images/IMG_2307.webp" %})
+{% image "images/IMG_2306.webp" %}{% image "images/IMG_2307.webp" %}
 
   
 
 
 Hiking through the tunnel was interesting because it had random light shining in areas that made it look cool. This was the Historic Columbia Hwy 30 turned into a trail at this section and called State Trail 30. Another medallion dated it 2024, so very new.
 
-[<img width="320" src="images/IMG_2310.webp"/>]({% image "content/blog/images/IMG_2310.webp" %})[<img width="320" src="images/IMG_2314.webp"/>]({% image "content/blog/images/IMG_2314.webp" %})
+{% image "images/IMG_2310.webp" %}{% image "images/IMG_2314.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2316.webp"/>]({% image "content/blog/images/IMG_2316.webp" %})
+{% image "images/IMG_2316.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2317.webp"/>]({% image "content/blog/images/IMG_2317.webp" %})
+{% image "images/IMG_2317.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2319.webp"/>]({% image "content/blog/images/IMG_2319.webp" %})
+{% image "images/IMG_2319.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2320.webp"/>]({% image "content/blog/images/IMG_2320.webp" %})
+{% image "images/IMG_2320.webp" %}
 
   
 

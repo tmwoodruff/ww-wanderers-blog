@@ -20,7 +20,7 @@ For lunch, we went to the MDR. It was quiet but not great choices for me. I felt
 
 Dinner was Celebration Night. We saw in the Horizon (daily planner that we received as paper) that the Captain would speak in the Atrium for Celebration Night. They were giving away Champagne for the Celebration. We ran into our tablemates that we met the first night at MDR, got pictures for each other, and sat down with them to listen to the Captain speak. It was very nice. Travis went to see the Captain and got a picture. I tried to zoom into just the Captain, but it was too blurry. So, only our picture.
 
-[<img width="320" src="images/IMG_8761.webp"/>]({% image "content/blog/images/IMG_8761.webp" %})[<img width="320" src="images/IMG_8763.webp"/>]({% image "content/blog/images/IMG_8763.webp" %})
+{% image "images/IMG_8761.webp" %}{% image "images/IMG_8763.webp" %}
 
   
 
@@ -35,7 +35,7 @@ A funnel picture; the ship had two funnels, which looked cool. Tomorrow -- Stava
   
 
 
-[<img width="320" src="images/IMG_8760.webp"/>]({% image "content/blog/images/IMG_8760.webp" %})
+{% image "images/IMG_8760.webp" %}
 
   
 
@@ -50,22 +50,22 @@ On the way to breakfast, we stopped to watch the docking/approach. In the first 
   
 
 
-[<img src="images/IMG_8773.webp"/>]({% image "content/blog/images/IMG_8773.webp" %})
+{% image "images/IMG_8773.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8774.webp"/>]({% image "content/blog/images/IMG_8774.webp" %})
+{% image "images/IMG_8774.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8776.webp"/>]({% image "content/blog/images/IMG_8776.webp" %})
+{% image "images/IMG_8776.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8778.webp"/>]({% image "content/blog/images/IMG_8778.webp" %})
+{% image "images/IMG_8778.webp" %}
 
   
 
@@ -75,12 +75,12 @@ We had the MDR for breakfast this morning. They were superfast the the first and
   
 
 
-[<img width="320" src="images/IMG_8779.webp"/>]({% image "content/blog/images/IMG_8779.webp" %})
+{% image "images/IMG_8779.webp" %}
 
   
 
 
-[<img src="images/IMG_8780.webp"/>]({% image "content/blog/images/IMG_8780.webp" %})
+{% image "images/IMG_8780.webp" %}
 
   
 
@@ -90,17 +90,17 @@ Another look outside before going back up to the room to grab our stuff to go as
   
 
 
-[<img width="320" src="images/IMG_8781.webp"/>]({% image "content/blog/images/IMG_8781.webp" %})
+{% image "images/IMG_8781.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8783.webp"/>]({% image "content/blog/images/IMG_8783.webp" %})
+{% image "images/IMG_8783.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8785.webp"/>]({% image "content/blog/images/IMG_8785.webp" %})
+{% image "images/IMG_8785.webp" %}
 
   
 
@@ -115,17 +115,17 @@ Our first stop was Gamle (old town) Stavanger; however, we quickly got uncomfort
   
 
 
-[<img width="320" src="images/IMG_8787.webp"/>]({% image "content/blog/images/IMG_8787.webp" %})
+{% image "images/IMG_8787.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8788.webp"/>]({% image "content/blog/images/IMG_8788.webp" %})
+{% image "images/IMG_8788.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8789.webp"/>]({% image "content/blog/images/IMG_8789.webp" %})
+{% image "images/IMG_8789.webp" %}
 
   
 
@@ -135,29 +135,29 @@ I saw water fountain on google maps, so we found it. There were several statues,
   
 
 
-[<img width="320" src="images/IMG_8790.webp"/>]({% image "content/blog/images/IMG_8790.webp" %})
+{% image "images/IMG_8790.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8791.webp"/>]({% image "content/blog/images/IMG_8791.webp" %})
+{% image "images/IMG_8791.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8793.webp"/>]({% image "content/blog/images/IMG_8793.webp" %})
+{% image "images/IMG_8793.webp" %}
 
   
 
 
 We were in port on Sunday. We then found the church with ladies going in with fancy, historic dresses. We later heard that there was a special occasion that they dressed up for, not the normal attire. 
 
-[<img width="320" src="images/IMG_8795.webp"/>]({% image "content/blog/images/IMG_8795.webp" %})
+{% image "images/IMG_8795.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8830.webp"/>]({% image "content/blog/images/IMG_8830.webp" %})
+{% image "images/IMG_8830.webp" %}
 
   
 
@@ -167,37 +167,37 @@ Though many stores were closed on Sunday, they were setting up a market. They ha
   
 
 
-[<img width="320" src="images/IMG_8797.webp"/>]({% image "content/blog/images/IMG_8797.webp" %})
+{% image "images/IMG_8797.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8799.webp"/>]({% image "content/blog/images/IMG_8799.webp" %})
+{% image "images/IMG_8799.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8802.webp"/>]({% image "content/blog/images/IMG_8802.webp" %})
+{% image "images/IMG_8802.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8803.webp"/>]({% image "content/blog/images/IMG_8803.webp" %})
+{% image "images/IMG_8803.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8804.webp"/>]({% image "content/blog/images/IMG_8804.webp" %})
+{% image "images/IMG_8804.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8805.webp"/>]({% image "content/blog/images/IMG_8805.webp" %})
+{% image "images/IMG_8805.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8806.webp"/>]({% image "content/blog/images/IMG_8806.webp" %})
+{% image "images/IMG_8806.webp" %}
 
   
 
@@ -207,12 +207,12 @@ A train station shop was open but with train station shop prices; we tried 7-11 
   
 
 
-[<img width="320" src="images/IMG_8813.webp"/>]({% image "content/blog/images/IMG_8813.webp" %})
+{% image "images/IMG_8813.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8817.webp"/>]({% image "content/blog/images/IMG_8817.webp" %})
+{% image "images/IMG_8817.webp" %}
 
   
 
@@ -222,22 +222,22 @@ Then past another Church looking very impressive. We stopped at park, Badedammen
   
 
 
-[<img width="320" src="images/IMG_8818.webp"/>]({% image "content/blog/images/IMG_8818.webp" %})
+{% image "images/IMG_8818.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8821.webp"/>]({% image "content/blog/images/IMG_8821.webp" %})
+{% image "images/IMG_8821.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8824.webp"/>]({% image "content/blog/images/IMG_8824.webp" %})
+{% image "images/IMG_8824.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8827.webp"/>]({% image "content/blog/images/IMG_8827.webp" %})
+{% image "images/IMG_8827.webp" %}
 
   
 We only had one other couple at dinner with us in the MDR, and then we went to bed. 

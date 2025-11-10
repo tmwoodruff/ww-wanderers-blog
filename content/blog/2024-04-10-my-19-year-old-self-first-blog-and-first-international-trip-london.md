@@ -15,7 +15,7 @@ My aunt took me to London for my first international trip and only my second fli
   
 
 
-[<img src="images/1996-03_4.webp"/>]({% image "content/blog/images/1996-03_4.webp" %})
+{% image "images/1996-03_4.webp" %}
 
 **March 14-15, 1996**
 

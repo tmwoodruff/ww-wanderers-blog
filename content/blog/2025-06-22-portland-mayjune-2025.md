@@ -12,12 +12,12 @@ description: ""
 
 It was now time to explore the city. Unfortunately, we started the drive in rush hour, so it was stop and go traffic. Our first stop was parking in Washington Park in the Veterans Parking Lot; it was a pay lot. We did later see pull offs in the park that would have been free to park in. This was near, so we started in the Veterans Memorial, which is the cool circular walkway in the pictures below.
 
-[<img width="320" src="images/IMG_2546.webp"/>]({% image "content/blog/images/IMG_2546.webp" %})
+{% image "images/IMG_2546.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2547.webp"/>]({% image "content/blog/images/IMG_2547.webp" %})
+{% image "images/IMG_2547.webp" %}
 
   
 
@@ -27,7 +27,7 @@ Then we went through, at least some, of the Hoyt Arboretum. From the Arboretum, 
   
 
 
-[<img width="320" src="images/IMG_2548.webp"/>]({% image "content/blog/images/IMG_2548.webp" %})[<img width="320" src="images/IMG_2551.webp"/>]({% image "content/blog/images/IMG_2551.webp" %})
+{% image "images/IMG_2548.webp" %}{% image "images/IMG_2551.webp" %}
 
   
 
@@ -37,67 +37,67 @@ The International Rose Test Garden had hundreds of different roses with specimen
   
 
 
-[<img width="320" src="images/IMG_2552.webp"/>]({% image "content/blog/images/IMG_2552.webp" %})
+{% image "images/IMG_2552.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2554.webp"/>]({% image "content/blog/images/IMG_2554.webp" %})
+{% image "images/IMG_2554.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2555.webp"/>]({% image "content/blog/images/IMG_2555.webp" %})
+{% image "images/IMG_2555.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2556.webp"/>]({% image "content/blog/images/IMG_2556.webp" %})
+{% image "images/IMG_2556.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2557.webp"/>]({% image "content/blog/images/IMG_2557.webp" %})
+{% image "images/IMG_2557.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2559.webp"/>]({% image "content/blog/images/IMG_2559.webp" %})
+{% image "images/IMG_2559.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2560.webp"/>]({% image "content/blog/images/IMG_2560.webp" %})
+{% image "images/IMG_2560.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2562.webp"/>]({% image "content/blog/images/IMG_2562.webp" %})
+{% image "images/IMG_2562.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2563.webp"/>]({% image "content/blog/images/IMG_2563.webp" %})
+{% image "images/IMG_2563.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2568.webp"/>]({% image "content/blog/images/IMG_2568.webp" %})
+{% image "images/IMG_2568.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2571.webp"/>]({% image "content/blog/images/IMG_2571.webp" %})
+{% image "images/IMG_2571.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2576.webp"/>]({% image "content/blog/images/IMG_2576.webp" %})
+{% image "images/IMG_2576.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2578.webp"/>]({% image "content/blog/images/IMG_2578.webp" %})
+{% image "images/IMG_2578.webp" %}
 
   
 
@@ -107,12 +107,12 @@ After the garden, we walked a trail back instead of taking the shuttle. Travis m
   
 
 
-[<img width="320" src="images/IMG_2586.webp"/>]({% image "content/blog/images/IMG_2586.webp" %})
+{% image "images/IMG_2586.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2588.webp"/>]({% image "content/blog/images/IMG_2588.webp" %})
+{% image "images/IMG_2588.webp" %}
 
   
 
@@ -127,12 +127,12 @@ We were starved by this point so started searching for food. We decided on Shang
   
 
 
-[<img width="320" src="images/IMG_2591.webp"/>]({% image "content/blog/images/IMG_2591.webp" %})
+{% image "images/IMG_2591.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2592.webp"/>]({% image "content/blog/images/IMG_2592.webp" %})[<img width="320" src="images/IMG_2594.webp"/>]({% image "content/blog/images/IMG_2594.webp" %})
+{% image "images/IMG_2592.webp" %}{% image "images/IMG_2594.webp" %}
 
   
 
@@ -142,7 +142,7 @@ Chinatown, though under construction. Our next stop was Powell's City of Books, 
   
 
 
-[<img width="320" src="images/IMG_2596.webp"/>]({% image "content/blog/images/IMG_2596.webp" %})
+{% image "images/IMG_2596.webp" %}
 
   
 
@@ -152,7 +152,7 @@ Our last stop was the Portland sign.
   
 
 
-[<img width="320" src="images/IMG_2598.webp"/>]({% image "content/blog/images/IMG_2598.webp" %})
+{% image "images/IMG_2598.webp" %}
 
   
 
@@ -182,7 +182,7 @@ Our flight was uneventful this time, which was good. It still took them a while 
   
 
 
-[<img src="images/IMG_20250604_124050466.webp"/>]({% image "content/blog/images/IMG_20250604_124050466.webp" %})
+{% image "images/IMG_20250604_124050466.webp" %}
 
   
 

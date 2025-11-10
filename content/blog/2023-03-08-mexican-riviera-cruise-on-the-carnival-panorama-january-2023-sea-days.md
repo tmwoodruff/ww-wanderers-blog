@@ -20,7 +20,7 @@ We watched the Dive In movie, the new _Top Gun_. I asked about blankets at the t
 
 Pizza place menu:
 
-[![Carnival pizza menu]({% image "content/blog/images/Screenshot_20230126-220551.webp" %})]({% image "content/blog/images/Screenshot_20230126-220551.webp" %})  
+[![Carnival pizza menu]{% image "images/Screenshot_20230126-220551.webp" %}]{% image "images/Screenshot_20230126-220551.webp" %}  
   
 
 
@@ -29,26 +29,26 @@ Found a cruise duck; I made Travis pose with it. We also found a tiny plastic cr
   
 
 
-[![Cruise rubber duck hunt]({% image "content/blog/images/IMG_20230122_140244277.webp" %})]({% image "content/blog/images/IMG_20230122_140244277.webp" %})
+[![Cruise rubber duck hunt]{% image "images/IMG_20230122_140244277.webp" %}]{% image "images/IMG_20230122_140244277.webp" %}
 
 For dinner, it was the next second/last formal night. I had the Caesar salad, prime rib, baked potato, and creme brulee. The Caesar salad is not as good as it used to be (to me), but the rest was good. Travis had fried oysters, striped bass, and the cheese plate for dessert. I shared some creme brulee with him too. Dressed up, my prime rib, and Travis's oysters and bass. 
 
-[![Formal night]({% image "content/blog/images/IMG_20230126_173804924.webp" %})]({% image "content/blog/images/IMG_20230126_173804924.webp" %}) [![Formal night]({% image "content/blog/images/IMG_20230126_173812218.webp" %})]({% image "content/blog/images/IMG_20230126_173812218.webp" %})
+[![Formal night]{% image "images/IMG_20230126_173804924.webp" %}]{% image "images/IMG_20230126_173804924.webp" %} [![Formal night]{% image "images/IMG_20230126_173812218.webp" %}]{% image "images/IMG_20230126_173812218.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230126_175921589.webp"/>]({% image "content/blog/images/IMG_20230126_175921589.webp" %})
+{% image "images/IMG_20230126_175921589.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230126_175918127.webp"/>]({% image "content/blog/images/IMG_20230126_175918127.webp" %})[<img width="320" src="images/IMG_20230126_174534043_BURST001.webp"/>]({% image "content/blog/images/IMG_20230126_174534043_BURST001.webp" %})
+{% image "images/IMG_20230126_175918127.webp" %}{% image "images/IMG_20230126_174534043_BURST001.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6343.webp"/>]({% image "content/blog/images/IMG_6343.webp" %})
+{% image "images/IMG_6343.webp" %}
 
   
 
@@ -73,12 +73,12 @@ The last Sea Day was the chocolate extravaganza -- cool that they still have one
   
 
 
-[<img width="320" src="images/IMG_20230127_124005519_HDR.webp"/>]({% image "content/blog/images/IMG_20230127_124005519_HDR.webp" %}) [<img width="320" src="images/IMG_20230127_124009701_HDR.webp"/>]({% image "content/blog/images/IMG_20230127_124009701_HDR.webp" %})
+{% image "images/IMG_20230127_124005519_HDR.webp" %} {% image "images/IMG_20230127_124009701_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230127_124012468.webp"/>]({% image "content/blog/images/IMG_20230127_124012468.webp" %})
+{% image "images/IMG_20230127_124012468.webp" %}
 
   
 
@@ -88,7 +88,7 @@ These digital funnels were over the atrium bar and over the casino. They were re
   
 
 
-[<img width="320" src="images/IMG_20230127_114900456.webp"/>]({% image "content/blog/images/IMG_20230127_114900456.webp" %})
+{% image "images/IMG_20230127_114900456.webp" %}
 
   
 
@@ -98,7 +98,7 @@ Last dinner, I had the Asian chicken tenders; they were good but the noodles wer
   
 
 
-[<img width="320" src="images/Screenshot_20230127-205213.webp"/>]({% image "content/blog/images/Screenshot_20230127-205213.webp" %})[<img width="320" src="images/Screenshot_20230127-205222.webp"/>]({% image "content/blog/images/Screenshot_20230127-205222.webp" %})[<img width="320" src="images/Screenshot_20230127-205234.webp"/>]({% image "content/blog/images/Screenshot_20230127-205234.webp" %})
+{% image "images/Screenshot_20230127-205213.webp" %}{% image "images/Screenshot_20230127-205222.webp" %}{% image "images/Screenshot_20230127-205234.webp" %}
 
   
 
@@ -106,17 +106,17 @@ Last dinner, I had the Asian chicken tenders; they were good but the noodles wer
   
 
 
-[<img width="320" src="images/IMG_20230127_175427453.webp"/>]({% image "content/blog/images/IMG_20230127_175427453.webp" %})[<img width="320" src="images/IMG_20230127_175431660.webp"/>]({% image "content/blog/images/IMG_20230127_175431660.webp" %})
+{% image "images/IMG_20230127_175427453.webp" %}{% image "images/IMG_20230127_175431660.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230127_181510878.webp"/>]({% image "content/blog/images/IMG_20230127_181510878.webp" %})[<img width="320" src="images/IMG_20230127_181516612.webp"/>]({% image "content/blog/images/IMG_20230127_181516612.webp" %})
+{% image "images/IMG_20230127_181510878.webp" %}{% image "images/IMG_20230127_181516612.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230127_183354655.webp"/>]({% image "content/blog/images/IMG_20230127_183354655.webp" %})
+{% image "images/IMG_20230127_183354655.webp" %}
 
   
 
@@ -126,12 +126,12 @@ The last day, we got up early enough to have the MDR. I got the broken egg sandw
   
 
 
-[<img width="320" src="images/Screenshot_20230128-064809.webp"/>]({% image "content/blog/images/Screenshot_20230128-064809.webp" %})[<img width="320" src="images/Screenshot_20230128-064800.webp"/>]({% image "content/blog/images/Screenshot_20230128-064800.webp" %})
+{% image "images/Screenshot_20230128-064809.webp" %}{% image "images/Screenshot_20230128-064800.webp" %}
 
   
 
 
-[<img width="320" src="images/Screenshot_20230128-064743.webp"/>]({% image "content/blog/images/Screenshot_20230128-064743.webp" %}) [<img width="320" src="images/Screenshot_20230128-064724.webp"/>]({% image "content/blog/images/Screenshot_20230128-064724.webp" %})
+{% image "images/Screenshot_20230128-064743.webp" %} {% image "images/Screenshot_20230128-064724.webp" %}
 
   
 
@@ -146,12 +146,12 @@ Long Beach terminal, pretty mountains, and back at home.
   
 
 
-[<img width="320" src="images/IMG_20230128_071030064.webp"/>]({% image "content/blog/images/IMG_20230128_071030064.webp" %})
+{% image "images/IMG_20230128_071030064.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20230128_141548910.webp"/>]({% image "content/blog/images/IMG_20230128_141548910.webp" %})[<img width="320" src="images/IMG_20230128_154503019_HDR.webp"/>]({% image "content/blog/images/IMG_20230128_154503019_HDR.webp" %})
+{% image "images/IMG_20230128_141548910.webp" %}{% image "images/IMG_20230128_154503019_HDR.webp" %}
 
   
 
@@ -161,17 +161,17 @@ Since each of our Mexican Riviera stops were in different Mexican states, I want
   
 
 
-[<img width="320" src="images/Screen%20Shot%202023-03-08%20at%208.22.24%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-08%20at%208.22.24%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-08 at 8.22.24 PM.webp" %}
 
   
 
 
-[<img width="320" src="images/Screen%20Shot%202023-03-08%20at%208.23.07%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-08%20at%208.23.07%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-08 at 8.23.07 PM.webp" %}
 
   
 
 
-[<img width="320" src="images/Screen%20Shot%202023-03-08%20at%208.23.31%20PM.webp"/>]({% image "content/blog/images/Screen%20Shot%202023-03-08%20at%208.23.31%20PM.webp" %})
+{% image "images/Screen Shot 2023-03-08 at 8.23.31 PM.webp" %}
 
   
 

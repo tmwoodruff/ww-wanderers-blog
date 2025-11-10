@@ -16,12 +16,12 @@ Isafjordur is connected to other parts of Iceland by two tunnels now. Both that 
 
 On the way, we learned about the tunnels, now they are not allowed to build one lane tunnels. The sheep roam free all summer (marked for the farm that they belong to) and then for the winter the whole town works together and gathers them up to their correct barns. She talked about plants that she foraged for cooking, like thyme. After the tunnels, a bay with salmon farming that is controversial, and our guide talked about winter surfing in the bay with a show on NetFlix. I have since looked this up, not having NetFlix now; one was "surfing" in a kayak. I'm not sure if that is what she meant. 
 
-[<img width="320" src="images/IMG_6594.webp"/>]({% image "content/blog/images/IMG_6594.webp" %})
+{% image "images/IMG_6594.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6599.webp"/>]({% image "content/blog/images/IMG_6599.webp" %})
+{% image "images/IMG_6599.webp" %}
 
   
 
@@ -31,107 +31,107 @@ Then we arrived at the Dynjandi waterfall, with other waterfalls that also had n
   
 
 
-[<img width="320" src="images/IMG_6601.webp"/>]({% image "content/blog/images/IMG_6601.webp" %})
+{% image "images/IMG_6601.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6604.webp"/>]({% image "content/blog/images/IMG_6604.webp" %})
+{% image "images/IMG_6604.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6606.webp"/>]({% image "content/blog/images/IMG_6606.webp" %})
+{% image "images/IMG_6606.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6610.webp"/>]({% image "content/blog/images/IMG_6610.webp" %})[<img width="320" src="images/IMG_6619.webp"/>]({% image "content/blog/images/IMG_6619.webp" %})
+{% image "images/IMG_6610.webp" %}{% image "images/IMG_6619.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6620.webp"/>]({% image "content/blog/images/IMG_6620.webp" %})
+{% image "images/IMG_6620.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6621.webp"/>]({% image "content/blog/images/IMG_6621.webp" %})
+{% image "images/IMG_6621.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6628.webp"/>]({% image "content/blog/images/IMG_6628.webp" %})
+{% image "images/IMG_6628.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6629.webp"/>]({% image "content/blog/images/IMG_6629.webp" %})
+{% image "images/IMG_6629.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6632.webp"/>]({% image "content/blog/images/IMG_6632.webp" %})
+{% image "images/IMG_6632.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6634.webp"/>]({% image "content/blog/images/IMG_6634.webp" %}) [<img width="320" src="images/P1120647.webp"/>]({% image "content/blog/images/P1120647.webp" %})
+{% image "images/IMG_6634.webp" %} {% image "images/P1120647.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120681.webp"/>]({% image "content/blog/images/P1120681.webp" %})
+{% image "images/P1120681.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120689.webp"/>]({% image "content/blog/images/P1120689.webp" %})
+{% image "images/P1120689.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120694.webp"/>]({% image "content/blog/images/P1120694.webp" %})
+{% image "images/P1120694.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120706.webp"/>]({% image "content/blog/images/P1120706.webp" %})
+{% image "images/P1120706.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120713.webp"/>]({% image "content/blog/images/P1120713.webp" %})
+{% image "images/P1120713.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120718.webp"/>]({% image "content/blog/images/P1120718.webp" %})
+{% image "images/P1120718.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120727.webp"/>]({% image "content/blog/images/P1120727.webp" %})
+{% image "images/P1120727.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120745.webp"/>]({% image "content/blog/images/P1120745.webp" %})
+{% image "images/P1120745.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120747.webp"/>]({% image "content/blog/images/P1120747.webp" %})
+{% image "images/P1120747.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120757.webp"/>]({% image "content/blog/images/P1120757.webp" %})
+{% image "images/P1120757.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120759.webp"/>]({% image "content/blog/images/P1120759.webp" %})
+{% image "images/P1120759.webp" %}
 
   
 
@@ -141,17 +141,17 @@ Then we drove the length of the bay to the smallest of small towns to see the tr
   
 
 
-[<img width="320" src="images/IMG_6642.webp"/>]({% image "content/blog/images/IMG_6642.webp" %})
+{% image "images/IMG_6642.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120784.webp"/>]({% image "content/blog/images/P1120784.webp" %})
+{% image "images/P1120784.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120798.webp"/>]({% image "content/blog/images/P1120798.webp" %})
+{% image "images/P1120798.webp" %}
 
   
 
@@ -161,7 +161,7 @@ We could see the waterfall from here.
   
 
 
-[<img width="320" src="images/P1120761.webp"/>]({% image "content/blog/images/P1120761.webp" %})
+{% image "images/P1120761.webp" %}
 
   
 
@@ -171,17 +171,17 @@ We found minke whales or a whale. See the fin in the bottom, center.
   
 
 
-[<img src="images/IMG_6650.webp"/>]({% image "content/blog/images/IMG_6650.webp" %})
+{% image "images/IMG_6650.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120653.webp"/>]({% image "content/blog/images/P1120653.webp" %})
+{% image "images/P1120653.webp" %}
 
   
 
 
-[<img src="images/P1120795.webp"/>]({% image "content/blog/images/P1120795.webp" %})
+{% image "images/P1120795.webp" %}
 
   
 
@@ -191,12 +191,12 @@ This bird, Artic tern, must have had a nest near, but it was trying to attack pe
   
 
 
-[<img width="320" src="images/P1120805.webp"/>]({% image "content/blog/images/P1120805.webp" %})
+{% image "images/P1120805.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120826.webp"/>]({% image "content/blog/images/P1120826.webp" %})
+{% image "images/P1120826.webp" %}
 
   
 
@@ -206,7 +206,7 @@ Also a waterfall at this stop.
   
 
 
-[<img width="320" src="images/P1120812.webp"/>]({% image "content/blog/images/P1120812.webp" %})
+{% image "images/P1120812.webp" %}
 
   
 
@@ -219,7 +219,7 @@ We found another waterfall on the drive and a glacier in the mountains.
   
 
 
-[<img width="320" src="images/IMG_6666.webp"/>]({% image "content/blog/images/IMG_6666.webp" %}) [<img width="320" src="images/P1120656.webp"/>]({% image "content/blog/images/P1120656.webp" %})
+{% image "images/IMG_6666.webp" %} {% image "images/P1120656.webp" %}
 
   
 
@@ -229,12 +229,12 @@ We got a picture of the wrapped hay bales. Also, a nice country side.
   
 
 
-[<img width="320" src="images/P1120835.webp"/>]({% image "content/blog/images/P1120835.webp" %})
+{% image "images/P1120835.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120839.webp"/>]({% image "content/blog/images/P1120839.webp" %})
+{% image "images/P1120839.webp" %}
 
   
 
@@ -244,12 +244,12 @@ Our last stop was a view of our ship. There was also a ski lift here.
   
 
 
-[<img width="320" src="images/IMG_6669.webp"/>]({% image "content/blog/images/IMG_6669.webp" %})
+{% image "images/IMG_6669.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120848.webp"/>]({% image "content/blog/images/P1120848.webp" %})
+{% image "images/P1120848.webp" %}
 
   
 
@@ -279,22 +279,22 @@ Travis had oysters and beefsteak tomato, and I had the Caesar salad. The Caesar 
   
 
 
-[<img width="320" src="images/IMG_6670.webp"/>]({% image "content/blog/images/IMG_6670.webp" %})
+{% image "images/IMG_6670.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6673.webp"/>]({% image "content/blog/images/IMG_6673.webp" %})
+{% image "images/IMG_6673.webp" %}
 
   
 
 
-[<img src="images/IMG_6674.webp"/>]({% image "content/blog/images/IMG_6674.webp" %})
+{% image "images/IMG_6674.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6675.webp"/>]({% image "content/blog/images/IMG_6675.webp" %})
+{% image "images/IMG_6675.webp" %}
 
   
 
@@ -304,17 +304,17 @@ Travis's NY strip and sides: broccoli and barley risotto, and my petite filet wi
   
 
 
-[<img width="320" src="images/IMG_6676.webp"/>]({% image "content/blog/images/IMG_6676.webp" %})
+{% image "images/IMG_6676.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6677.webp"/>]({% image "content/blog/images/IMG_6677.webp" %})
+{% image "images/IMG_6677.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6679.webp"/>]({% image "content/blog/images/IMG_6679.webp" %})
+{% image "images/IMG_6679.webp" %}
 
   
 
@@ -324,7 +324,7 @@ Travis's OMG Caramel Butterscotch Cheesecake and my 7 layer chocolate cake.
   
 
 
-[<img width="320" src="images/IMG_6680.webp"/>]({% image "content/blog/images/IMG_6680.webp" %}) [<img width="320" src="images/IMG_6681.webp"/>]({% image "content/blog/images/IMG_6681.webp" %})
+{% image "images/IMG_6680.webp" %} {% image "images/IMG_6681.webp" %}
 
   
 

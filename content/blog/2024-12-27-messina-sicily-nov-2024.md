@@ -14,39 +14,39 @@ We stayed in Messina, walking around, and then watched the noon moving clock tow
 
 The town hall, churches, and city pictures from the ship. 
 
-[<img width="320" src="images/IMG_0779.webp"/>]({% image "content/blog/images/IMG_0779.webp" %})
+{% image "images/IMG_0779.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0780.webp"/>]({% image "content/blog/images/IMG_0780.webp" %})
+{% image "images/IMG_0780.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0783.webp"/>]({% image "content/blog/images/IMG_0783.webp" %})
+{% image "images/IMG_0783.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0786.webp"/>]({% image "content/blog/images/IMG_0786.webp" %})
+{% image "images/IMG_0786.webp" %}
 
 There was a U.S. Navy ship in port docked right in front of us, which was interesting. 
 
   
 
 
-[<img width="320" src="images/IMG_0817.webp"/>]({% image "content/blog/images/IMG_0817.webp" %})
+{% image "images/IMG_0817.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0787.webp"/>]({% image "content/blog/images/IMG_0787.webp" %})
+{% image "images/IMG_0787.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0788.webp"/>]({% image "content/blog/images/IMG_0788.webp" %})
+{% image "images/IMG_0788.webp" %}
 
   
 
@@ -55,39 +55,39 @@ Walking, we found these cool bird art painted in different colors.
   
 
 
-[<img width="320" src="images/IMG_0791.webp"/>]({% image "content/blog/images/IMG_0791.webp" %})[<img width="320" src="images/IMG_0792.webp"/>]({% image "content/blog/images/IMG_0792.webp" %})
+{% image "images/IMG_0791.webp" %}{% image "images/IMG_0792.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0793.webp"/>]({% image "content/blog/images/IMG_0793.webp" %})
+{% image "images/IMG_0793.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0794.webp"/>]({% image "content/blog/images/IMG_0794.webp" %})
+{% image "images/IMG_0794.webp" %}
 
   
 View from the church grounds. I liked these umbrella trees, as someone called them.   
   
 
 
-[<img width="320" src="images/IMG_0800.webp"/>]({% image "content/blog/images/IMG_0800.webp" %})
+{% image "images/IMG_0800.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0805.webp"/>]({% image "content/blog/images/IMG_0805.webp" %})
+{% image "images/IMG_0805.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0815.webp"/>]({% image "content/blog/images/IMG_0815.webp" %})
+{% image "images/IMG_0815.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0818.webp"/>]({% image "content/blog/images/IMG_0818.webp" %})
+{% image "images/IMG_0818.webp" %}
 
   
 
@@ -97,7 +97,7 @@ I like pictures of other countries' mailboxes, so my mailbox picture. I wanted a
   
 
 
-[<img width="320" src="images/IMG_0809.webp"/>]({% image "content/blog/images/IMG_0809.webp" %})
+{% image "images/IMG_0809.webp" %}
 
   
 
@@ -107,24 +107,24 @@ There were beautiful churches in Messina. This one costs to go in.
   
 
 
-[<img width="320" src="images/IMG_0806.webp"/>]({% image "content/blog/images/IMG_0806.webp" %})
+{% image "images/IMG_0806.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0814.webp"/>]({% image "content/blog/images/IMG_0814.webp" %})
+{% image "images/IMG_0814.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0795.webp"/>]({% image "content/blog/images/IMG_0795.webp" %})[<img width="320" src="images/IMG_0819.webp"/>]({% image "content/blog/images/IMG_0819.webp" %})
+{% image "images/IMG_0795.webp" %}{% image "images/IMG_0819.webp" %}
 
-[<img width="320" src="images/IMG_0822.webp"/>]({% image "content/blog/images/IMG_0822.webp" %})
+{% image "images/IMG_0822.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0825.webp"/>]({% image "content/blog/images/IMG_0825.webp" %})
+{% image "images/IMG_0825.webp" %}
 
   
 
@@ -134,7 +134,7 @@ I liked this palm tree against this building; it looked very Mediterranean or ra
   
 
 
-[<img width="320" src="images/IMG_0831.webp"/>]({% image "content/blog/images/IMG_0831.webp" %})
+{% image "images/IMG_0831.webp" %}
 
   
 
@@ -144,32 +144,32 @@ The performing clock/bell tower. It was neat, and the cathedral was very pretty.
   
 
 
-[<img width="320" src="images/IMG_0832.webp"/>]({% image "content/blog/images/IMG_0832.webp" %})
+{% image "images/IMG_0832.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0835.webp"/>]({% image "content/blog/images/IMG_0835.webp" %})
+{% image "images/IMG_0835.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0837.webp"/>]({% image "content/blog/images/IMG_0837.webp" %})
+{% image "images/IMG_0837.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0838.webp"/>]({% image "content/blog/images/IMG_0838.webp" %})
+{% image "images/IMG_0838.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0839.webp"/>]({% image "content/blog/images/IMG_0839.webp" %})[<img width="320" src="images/IMG_0840.webp"/>]({% image "content/blog/images/IMG_0840.webp" %})
+{% image "images/IMG_0839.webp" %}{% image "images/IMG_0840.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0841.webp"/>]({% image "content/blog/images/IMG_0841.webp" %})
+{% image "images/IMG_0841.webp" %}
 
   
 
@@ -179,7 +179,7 @@ The town hall that I was trying to photograph from the ship is very intricate an
   
 
 
-[<img width="320" src="images/IMG_0842.webp"/>]({% image "content/blog/images/IMG_0842.webp" %})
+{% image "images/IMG_0842.webp" %}
 
   
 
@@ -189,12 +189,12 @@ For dinner, we had the MDR tonight. Travis had the ravioli with lobster sauce, a
   
 
 
-[<img width="320" src="images/IMG_0843.webp"/>]({% image "content/blog/images/IMG_0843.webp" %})
+{% image "images/IMG_0843.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0844.webp"/>]({% image "content/blog/images/IMG_0844.webp" %})
+{% image "images/IMG_0844.webp" %}
 
   
 
@@ -204,12 +204,12 @@ Travis had the Hungarian goulash that he liked and I thought was pretty good too
   
 
 
-[<img width="320" src="images/IMG_0845.webp"/>]({% image "content/blog/images/IMG_0845.webp" %})
+{% image "images/IMG_0845.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0846.webp"/>]({% image "content/blog/images/IMG_0846.webp" %})
+{% image "images/IMG_0846.webp" %}
 
   
 
@@ -219,12 +219,12 @@ For dessert, Travis had the strawberry shortcake, and I had some kind of chocola
   
 
 
-[<img width="320" src="images/IMG_0847.webp"/>]({% image "content/blog/images/IMG_0847.webp" %})
+{% image "images/IMG_0847.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0848.webp"/>]({% image "content/blog/images/IMG_0848.webp" %})
+{% image "images/IMG_0848.webp" %}
 
   
 
@@ -234,7 +234,7 @@ The moon, the wake, and some Italian city lights. We were surprised at how close
   
 
 
-[<img width="320" src="images/IMG_0856.webp"/>]({% image "content/blog/images/IMG_0856.webp" %})
+{% image "images/IMG_0856.webp" %}
 
   
 

@@ -12,7 +12,7 @@ description: ""
 
 Before embarkation, we walked back to the beach again. This time, it was our ship. 
 
-[<img width="320" src="images/IMG_5926.webp"/>]({% image "content/blog/images/IMG_5926.webp" %})
+{% image "images/IMG_5926.webp" %}
 
   
 
@@ -22,12 +22,12 @@ Travis found that Long Beach offered a free rides to the port on a bus called Pa
   
 
 
-[<img width="320" src="images/IMG_5929.webp"/>]({% image "content/blog/images/IMG_5929.webp" %})
+{% image "images/IMG_5929.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5931.webp"/>]({% image "content/blog/images/IMG_5931.webp" %})
+{% image "images/IMG_5931.webp" %}
 
   
 
@@ -37,12 +37,12 @@ Another view of the lighthouse that we visited the night before, and another vie
   
 
 
-[<img width="320" src="images/IMG_5933.webp"/>]({% image "content/blog/images/IMG_5933.webp" %})
+{% image "images/IMG_5933.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5937.webp"/>]({% image "content/blog/images/IMG_5937.webp" %})
+{% image "images/IMG_5937.webp" %}
 
   
 
@@ -70,12 +70,12 @@ We did some ship exploration and did the rope course. I had done it on another s
   
 
 
-[<img width="320" src="images/IMG_5948.webp"/>]({% image "content/blog/images/IMG_5948.webp" %})
+{% image "images/IMG_5948.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5949.webp"/>]({% image "content/blog/images/IMG_5949.webp" %})
+{% image "images/IMG_5949.webp" %}
 
   
 
@@ -85,7 +85,7 @@ Goodbye Long Beach
   
 
 
-[<img width="320" src="images/IMG_5950.webp"/>]({% image "content/blog/images/IMG_5950.webp" %})
+{% image "images/IMG_5950.webp" %}
 
   
 
@@ -95,7 +95,7 @@ This was the Upper Promenade. It was nice with good seating spots and some resta
   
 
 
-[<img width="320" src="images/IMG_5942.webp"/>]({% image "content/blog/images/IMG_5942.webp" %})
+{% image "images/IMG_5942.webp" %}
 
   
 
@@ -105,22 +105,22 @@ Then our room was ready. When they were supposed to be boarding us in the termin
   
 
 
-[<img width="320" src="images/IMG_5947.webp"/>]({% image "content/blog/images/IMG_5947.webp" %})
+{% image "images/IMG_5947.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5944.webp"/>]({% image "content/blog/images/IMG_5944.webp" %})
+{% image "images/IMG_5944.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5945.webp"/>]({% image "content/blog/images/IMG_5945.webp" %})
+{% image "images/IMG_5945.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5946.webp"/>]({% image "content/blog/images/IMG_5946.webp" %})
+{% image "images/IMG_5946.webp" %}
 
   
 
@@ -142,22 +142,22 @@ Strawberry soup, calamari (ok, I took the picture a little late), mahi mahi, and
   
 
 
-[<img width="320" src="images/IMG_5951.webp"/>]({% image "content/blog/images/IMG_5951.webp" %})
+{% image "images/IMG_5951.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5952.webp"/>]({% image "content/blog/images/IMG_5952.webp" %})
+{% image "images/IMG_5952.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5953.webp"/>]({% image "content/blog/images/IMG_5953.webp" %})
+{% image "images/IMG_5953.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5954.webp"/>]({% image "content/blog/images/IMG_5954.webp" %})
+{% image "images/IMG_5954.webp" %}
 
   
 
@@ -167,7 +167,7 @@ After dinner, we saw both of the comedians in 3 shows: Lenny Schmidt and Tim H. 
   
 
 
-[<img width="320" src="images/IMG_5955.webp"/>]({% image "content/blog/images/IMG_5955.webp" %})
+{% image "images/IMG_5955.webp" %}
 
   
 [Next up...Sea Day](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_30.html)  

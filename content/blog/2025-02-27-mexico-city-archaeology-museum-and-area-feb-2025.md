@@ -12,12 +12,12 @@ description: ""
 
 We took the long bus ride, about 40 minutes, to the Archaeology Museum, which was to the west of us. It opened at 9am, so we planned to get there early to get in line. Travis read reviews of no water allowed. They also had a free bag check, so we left the backpack again, getting one last drink this time. We arrived and a line was started, but not too long yet, maybe 6 groups in front of us. Here is the nice bird of paradise flower outside the museum and the museum emblem. The eagle with a snake in its beak and talon is in the Mexican flag and commonly used and goes back to an Aztec legend. 
 
-[<img width="320" src="images/IMG_1810.webp"/>]({% image "content/blog/images/IMG_1810.webp" %})
+{% image "images/IMG_1810.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1811.webp"/>]({% image "content/blog/images/IMG_1811.webp" %})
+{% image "images/IMG_1811.webp" %}
 
   
 
@@ -32,17 +32,17 @@ The Sun Stone, info about it, and what it looked like when originally in use and
   
 
 
-[<img width="320" src="images/IMG_1812.webp"/>]({% image "content/blog/images/IMG_1812.webp" %})[<img width="320" src="images/IMG_1814.webp"/>]({% image "content/blog/images/IMG_1814.webp" %})
+{% image "images/IMG_1812.webp" %}{% image "images/IMG_1814.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1816.webp"/>]({% image "content/blog/images/IMG_1816.webp" %})[<img width="320" src="images/IMG_1817.webp"/>]({% image "content/blog/images/IMG_1817.webp" %})
+{% image "images/IMG_1816.webp" %}{% image "images/IMG_1817.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1818.webp"/>]({% image "content/blog/images/IMG_1818.webp" %})
+{% image "images/IMG_1818.webp" %}
 
   
 
@@ -52,12 +52,12 @@ For each civilization gallery, the museum had a nice outside space with more exh
   
 
 
-[<img width="320" src="images/IMG_1819.webp"/>]({% image "content/blog/images/IMG_1819.webp" %})
+{% image "images/IMG_1819.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1821.webp"/>]({% image "content/blog/images/IMG_1821.webp" %})
+{% image "images/IMG_1821.webp" %}
 
   
 
@@ -67,37 +67,37 @@ The Aztecs, for a ceremony, would dress up as eagles, continuing the eagle theme
   
 
 
-[<img src="images/IMG_1822.webp"/>]({% image "content/blog/images/IMG_1822.webp" %})
+{% image "images/IMG_1822.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1823.webp"/>]({% image "content/blog/images/IMG_1823.webp" %})
+{% image "images/IMG_1823.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1824.webp"/>]({% image "content/blog/images/IMG_1824.webp" %})
+{% image "images/IMG_1824.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1825.webp"/>]({% image "content/blog/images/IMG_1825.webp" %})
+{% image "images/IMG_1825.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1826.webp"/>]({% image "content/blog/images/IMG_1826.webp" %})
+{% image "images/IMG_1826.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1828.webp"/>]({% image "content/blog/images/IMG_1828.webp" %})
+{% image "images/IMG_1828.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1830.webp"/>]({% image "content/blog/images/IMG_1830.webp" %})
+{% image "images/IMG_1830.webp" %}
 
   
 
@@ -107,22 +107,22 @@ We got to the Mexica gallery with Teotihuacan pyramid replicas (in color) that w
   
 
 
-[<img width="320" src="images/IMG_1832.webp"/>]({% image "content/blog/images/IMG_1832.webp" %})
+{% image "images/IMG_1832.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1833.webp"/>]({% image "content/blog/images/IMG_1833.webp" %})
+{% image "images/IMG_1833.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1835.webp"/>]({% image "content/blog/images/IMG_1835.webp" %})
+{% image "images/IMG_1835.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1836.webp"/>]({% image "content/blog/images/IMG_1836.webp" %})
+{% image "images/IMG_1836.webp" %}
 
   
 
@@ -133,22 +133,22 @@ Prisoners were sacrificed to the gods and buried in the pyramids. Pyramids in Me
   
 
 
-[<img width="320" src="images/IMG_1837.webp"/>]({% image "content/blog/images/IMG_1837.webp" %})
+{% image "images/IMG_1837.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1841.webp"/>]({% image "content/blog/images/IMG_1841.webp" %})
+{% image "images/IMG_1841.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1844.webp"/>]({% image "content/blog/images/IMG_1844.webp" %})
+{% image "images/IMG_1844.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1845.webp"/>]({% image "content/blog/images/IMG_1845.webp" %})
+{% image "images/IMG_1845.webp" %}
 
   
 
@@ -158,32 +158,32 @@ We watched this civilization story on a movie they had. There was scrolls showin
   
 
 
-[<img width="320" src="images/IMG_1846.webp"/>]({% image "content/blog/images/IMG_1846.webp" %})
+{% image "images/IMG_1846.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1847.webp"/>]({% image "content/blog/images/IMG_1847.webp" %})
+{% image "images/IMG_1847.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1848.webp"/>]({% image "content/blog/images/IMG_1848.webp" %})
+{% image "images/IMG_1848.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1849.webp"/>]({% image "content/blog/images/IMG_1849.webp" %})
+{% image "images/IMG_1849.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1850.webp"/>]({% image "content/blog/images/IMG_1850.webp" %})
+{% image "images/IMG_1850.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1852.webp"/>]({% image "content/blog/images/IMG_1852.webp" %})
+{% image "images/IMG_1852.webp" %}
 
   
 
@@ -193,7 +193,7 @@ I was impressed with the bamboo, and we found the Jade mask.
   
 
 
-[<img width="320" src="images/IMG_1853.webp"/>]({% image "content/blog/images/IMG_1853.webp" %})[<img width="320" src="images/IMG_1854.webp"/>]({% image "content/blog/images/IMG_1854.webp" %})
+{% image "images/IMG_1853.webp" %}{% image "images/IMG_1854.webp" %}
 
   
 
@@ -203,17 +203,17 @@ We were going to eat at the museum cafe, but it was expensive and the line was n
   
 
 
-[<img src="images/IMG_20250207_120022730_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_120022730_HDR.webp" %})
+{% image "images/IMG_20250207_120022730_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1855.webp"/>]({% image "content/blog/images/IMG_1855.webp" %})
+{% image "images/IMG_1855.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1856.webp"/>]({% image "content/blog/images/IMG_1856.webp" %})
+{% image "images/IMG_1856.webp" %}
 
   
 
@@ -223,12 +223,12 @@ Olmec head -- original and replica outside
   
 
 
-[<img width="320" src="images/IMG_1858.webp"/>]({% image "content/blog/images/IMG_1858.webp" %})
+{% image "images/IMG_1858.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1859.webp"/>]({% image "content/blog/images/IMG_1859.webp" %})
+{% image "images/IMG_1859.webp" %}
 
   
 
@@ -238,7 +238,7 @@ As we were leaving, there was a long line of students on a field trip to the mus
   
 
 
-[<img width="320" src="images/IMG_1862.webp"/>]({% image "content/blog/images/IMG_1862.webp" %})
+{% image "images/IMG_1862.webp" %}
 
   
 
@@ -253,72 +253,72 @@ The castle was pretty to see and had a museum, though most was in Spanish. There
   
 
 
-[<img width="320" src="images/IMG_1868.webp"/>]({% image "content/blog/images/IMG_1868.webp" %})
+{% image "images/IMG_1868.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1869.webp"/>]({% image "content/blog/images/IMG_1869.webp" %})
+{% image "images/IMG_1869.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1871.webp"/>]({% image "content/blog/images/IMG_1871.webp" %})
+{% image "images/IMG_1871.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1864.webp"/>]({% image "content/blog/images/IMG_1864.webp" %})
+{% image "images/IMG_1864.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1873.webp"/>]({% image "content/blog/images/IMG_1873.webp" %})
+{% image "images/IMG_1873.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1876.webp"/>]({% image "content/blog/images/IMG_1876.webp" %})
+{% image "images/IMG_1876.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1877.webp"/>]({% image "content/blog/images/IMG_1877.webp" %})
+{% image "images/IMG_1877.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1878.webp"/>]({% image "content/blog/images/IMG_1878.webp" %})
+{% image "images/IMG_1878.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1879.webp"/>]({% image "content/blog/images/IMG_1879.webp" %})
+{% image "images/IMG_1879.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1880.webp"/>]({% image "content/blog/images/IMG_1880.webp" %})
+{% image "images/IMG_1880.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1882.webp"/>]({% image "content/blog/images/IMG_1882.webp" %})
+{% image "images/IMG_1882.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1883.webp"/>]({% image "content/blog/images/IMG_1883.webp" %})
+{% image "images/IMG_1883.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1884.webp"/>]({% image "content/blog/images/IMG_1884.webp" %})
+{% image "images/IMG_1884.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1887.webp"/>]({% image "content/blog/images/IMG_1887.webp" %})
+{% image "images/IMG_1887.webp" %}
 
   
 
@@ -328,12 +328,12 @@ Here is the eagle, snake, and cactus from the legend again on the walk down from
   
 
 
-[<img width="320" src="images/IMG_1888.webp"/>]({% image "content/blog/images/IMG_1888.webp" %})
+{% image "images/IMG_1888.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1889.webp"/>]({% image "content/blog/images/IMG_1889.webp" %})
+{% image "images/IMG_1889.webp" %}
 
   
 
@@ -343,7 +343,7 @@ I also found the CDMX, for Ciudad de México, sign in the park for a picture. In
   
 
 
-[<img width="320" src="images/IMG_1890.webp"/>]({% image "content/blog/images/IMG_1890.webp" %})
+{% image "images/IMG_1890.webp" %}
 
   
 
@@ -353,22 +353,22 @@ Due to the zoo closing at 5pm and me dying, we just looked a couple of sections 
   
 
 
-[<img width="320" src="images/IMG_1897.webp"/>]({% image "content/blog/images/IMG_1897.webp" %})
+{% image "images/IMG_1897.webp" %}
 
   
 
 
-[<img src="images/IMG_1902.webp"/>]({% image "content/blog/images/IMG_1902.webp" %})
+{% image "images/IMG_1902.webp" %}
 
   
 
 
-[<img src="images/IMG_1903.webp"/>]({% image "content/blog/images/IMG_1903.webp" %})
+{% image "images/IMG_1903.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1905.webp"/>]({% image "content/blog/images/IMG_1905.webp" %})
+{% image "images/IMG_1905.webp" %}
 
   
 
@@ -383,22 +383,22 @@ We ordered brisket tacos for two. They made them table side, which was exciting.
   
 
 
-[<img width="320" src="images/IMG_20250207_180211904_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_180211904_HDR.webp" %})[<img width="320" src="images/IMG_20250207_180214609_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_180214609_HDR.webp" %})
+{% image "images/IMG_20250207_180211904_HDR.webp" %}{% image "images/IMG_20250207_180214609_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250207_180217088_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_180217088_HDR.webp" %}) [<img width="320" src="images/IMG_20250207_181431998_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_181431998_HDR.webp" %})
+{% image "images/IMG_20250207_180217088_HDR.webp" %} {% image "images/IMG_20250207_181431998_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250207_180759901_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_180759901_HDR.webp" %})
+{% image "images/IMG_20250207_180759901_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250207_181759798_HDR.webp"/>]({% image "content/blog/images/IMG_20250207_181759798_HDR.webp" %}) [<img width="320" src="images/IMG_20250207_181803336.webp"/>]({% image "content/blog/images/IMG_20250207_181803336.webp" %})
+{% image "images/IMG_20250207_181759798_HDR.webp" %} {% image "images/IMG_20250207_181803336.webp" %}
 
   
 

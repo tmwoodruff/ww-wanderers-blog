@@ -16,7 +16,7 @@ We had found an Ancient Greek Technology Museum that we planned if we got back i
 
 Arriving in port. 
 
-[<img width="320" src="images/IMG_0735.webp"/>]({% image "content/blog/images/IMG_0735.webp" %})
+{% image "images/IMG_0735.webp" %}
 
   
 
@@ -26,12 +26,12 @@ The museum was a short walk from the port. It was a 5 EUR cash donation each (wh
   
 
 
-[![](<img width="320" src="images/image34.webp"/>)]({% image "content/blog/images/image34.webp" %})
+{% image "images/image34.webp" %}
 
   
 
 
-[![](<img width="320" src="images/image35.webp"/>)]({% image "content/blog/images/image35.webp" %})
+{% image "images/image35.webp" %}
 
   
 
@@ -41,22 +41,22 @@ Fancy sundial and then our youngest son does Tech Theater, so some Greek theater
   
 
 
-[<img width="320" src="images/IMG_0741.webp"/>]({% image "content/blog/images/IMG_0741.webp" %})
+{% image "images/IMG_0741.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0742.webp"/>]({% image "content/blog/images/IMG_0742.webp" %})
+{% image "images/IMG_0742.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0746.webp"/>]({% image "content/blog/images/IMG_0746.webp" %})
+{% image "images/IMG_0746.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0747.webp"/>]({% image "content/blog/images/IMG_0747.webp" %})
+{% image "images/IMG_0747.webp" %}
 
   
 
@@ -66,32 +66,32 @@ After the museum, we hiked up next to this church to get a view out over the wat
   
 
 
-[<img width="320" src="images/IMG_0749.webp"/>]({% image "content/blog/images/IMG_0749.webp" %})
+{% image "images/IMG_0749.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0750.webp"/>]({% image "content/blog/images/IMG_0750.webp" %})
+{% image "images/IMG_0750.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0755.webp"/>]({% image "content/blog/images/IMG_0755.webp" %})
+{% image "images/IMG_0755.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0761.webp"/>]({% image "content/blog/images/IMG_0761.webp" %})
+{% image "images/IMG_0761.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0762.webp"/>]({% image "content/blog/images/IMG_0762.webp" %})
+{% image "images/IMG_0762.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0767.webp"/>]({% image "content/blog/images/IMG_0767.webp" %})
+{% image "images/IMG_0767.webp" %}
 
   
 
@@ -106,22 +106,22 @@ At Le Bistro, goat cheese croquettes with beet salad; I ordered this just for th
   
 
 
-[<img width="320" src="images/IMG_0771.webp"/>]({% image "content/blog/images/IMG_0771.webp" %})
+{% image "images/IMG_0771.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0772.webp"/>]({% image "content/blog/images/IMG_0772.webp" %})
+{% image "images/IMG_0772.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0773.webp"/>]({% image "content/blog/images/IMG_0773.webp" %})
+{% image "images/IMG_0773.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0774.webp"/>]({% image "content/blog/images/IMG_0774.webp" %})
+{% image "images/IMG_0774.webp" %}
 
   
 
@@ -131,22 +131,22 @@ For mains, Travis got the Mediterranean Sea Bass, and I got my favorite, the bee
   
 
 
-[<img width="320" src="images/IMG_0775.webp"/>]({% image "content/blog/images/IMG_0775.webp" %})
+{% image "images/IMG_0775.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0776.webp"/>]({% image "content/blog/images/IMG_0776.webp" %})
+{% image "images/IMG_0776.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0777.webp"/>]({% image "content/blog/images/IMG_0777.webp" %})
+{% image "images/IMG_0777.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0778.webp"/>]({% image "content/blog/images/IMG_0778.webp" %})
+{% image "images/IMG_0778.webp" %}
 
   
 

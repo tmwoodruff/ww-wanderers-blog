@@ -12,7 +12,7 @@ description: ""
 
 We had 10am timed-entry tickets to the Mütter Museum, so we were able to sleep in a little. We passed this art on the way. 
 
-[<img width="320" src="images/IMG_5723.webp"/>]({% image "content/blog/images/IMG_5723.webp" %})
+{% image "images/IMG_5723.webp" %}
 
   
 
@@ -30,22 +30,22 @@ After the museum, we had lunch at Gyu-Kaku, a Japanese cook your food at the tab
   
 
 
-[<img width="320" src="images/IMG_5725.webp"/>]({% image "content/blog/images/IMG_5725.webp" %})
+{% image "images/IMG_5725.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5727.webp"/>]({% image "content/blog/images/IMG_5727.webp" %})
+{% image "images/IMG_5727.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5731.webp"/>]({% image "content/blog/images/IMG_5731.webp" %})
+{% image "images/IMG_5731.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5734.webp"/>]({% image "content/blog/images/IMG_5734.webp" %})
+{% image "images/IMG_5734.webp" %}
 
   
 
@@ -55,22 +55,22 @@ Next, we walked to the Eastern State Penitentiary. We also had pre-purchased tic
   
 
 
-[<img width="320" src="images/IMG_5735.webp"/>]({% image "content/blog/images/IMG_5735.webp" %})
+{% image "images/IMG_5735.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5736.webp"/>]({% image "content/blog/images/IMG_5736.webp" %})
+{% image "images/IMG_5736.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5737.webp"/>]({% image "content/blog/images/IMG_5737.webp" %})
+{% image "images/IMG_5737.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5739.webp"/>]({% image "content/blog/images/IMG_5739.webp" %})
+{% image "images/IMG_5739.webp" %}
 
   
 
@@ -80,7 +80,7 @@ The hall wings were numbered; they started as one story and later wings were bui
   
 
 
-[<img width="320" src="images/IMG_5741.webp"/>]({% image "content/blog/images/IMG_5741.webp" %})
+{% image "images/IMG_5741.webp" %}
 
   
 
@@ -90,12 +90,12 @@ A second story view. They have not restore all the prison, and it sounds like th
   
 
 
-[<img width="320" src="images/IMG_5743.webp"/>]({% image "content/blog/images/IMG_5743.webp" %})
+{% image "images/IMG_5743.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5744.webp"/>]({% image "content/blog/images/IMG_5744.webp" %})
+{% image "images/IMG_5744.webp" %}
 
   
 
@@ -105,7 +105,7 @@ At the end of the main audio tour, we were outside to what was later the basebal
   
 
 
-[<img width="320" src="images/IMG_5751.webp"/>]({% image "content/blog/images/IMG_5751.webp" %})
+{% image "images/IMG_5751.webp" %}
 
   
 
@@ -115,7 +115,7 @@ We went around and listened to audio tour segments; we learned about the kitchen
   
 
 
-[<img width="320" src="images/IMG_5752.webp"/>]({% image "content/blog/images/IMG_5752.webp" %})
+{% image "images/IMG_5752.webp" %}
 
   
 

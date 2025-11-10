@@ -14,52 +14,52 @@ We re-entered Texas and then onto Palo Duro Canyon. It was south and a little ea
 
 On the CCC trail, you are supposed to look for four bridges built by the CCC. We found one, and maybe only because we went off the main trail and could see the bottom that it was a bridge (first picture). This trail went to the area that they were setting up for the festival tomorrow. Second picture, we some almost hoodoos in Texas. 
 
-[<img width="320" src="images/IMG_7502.webp"/>]({% image "content/blog/images/IMG_7502.webp" %})
+{% image "images/IMG_7502.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130746.webp"/>]({% image "content/blog/images/P1130746.webp" %})
+{% image "images/P1130746.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130737.webp"/>]({% image "content/blog/images/P1130737.webp" %})
+{% image "images/P1130737.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130735.webp"/>]({% image "content/blog/images/P1130735.webp" %})
+{% image "images/P1130735.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130725.webp"/>]({% image "content/blog/images/P1130725.webp" %})
+{% image "images/P1130725.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130719.webp"/>]({% image "content/blog/images/P1130719.webp" %})
+{% image "images/P1130719.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130718.webp"/>]({% image "content/blog/images/P1130718.webp" %})
+{% image "images/P1130718.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130717.webp"/>]({% image "content/blog/images/P1130717.webp" %})
+{% image "images/P1130717.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130714.webp"/>]({% image "content/blog/images/P1130714.webp" %})
+{% image "images/P1130714.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7503.webp"/>]({% image "content/blog/images/IMG_7503.webp" %})
+{% image "images/IMG_7503.webp" %}
 
   
 

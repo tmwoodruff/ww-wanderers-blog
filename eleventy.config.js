@@ -2,7 +2,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin, Util } from "@11ty/eleventy-img";
 import Image from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
@@ -108,21 +108,30 @@ export default async function(eleventyConfig) {
 		},
 	});
 
-	eleventyConfig.addShortcode("image", async (src, alt = "", widths = ["auto"], sizes = "") => {
-		return await Image(src, {
-			widths,
-			formats: ["auto"],
-			failOnError: true,
-			returnType: "html",    // new in v6.0
-			htmlOptions: {         // new in v6.0
-				imgAttributes: {
-					alt,
-					sizes,             // required with more than one width, optional if single width output
-					loading: "lazy",   // optional
-					decoding: "async", // optional
-				}
-			}
-		});
+	eleventyConfig.addShortcode("image", function image(src, alt = "", widths = ["auto"], sizes = "") {
+		const normalizedSource = Util.normalizeImageSource(
+			{
+				input: this.eleventy.directories.input,
+				inputPath: this.page.inputPath,
+			},
+			src,
+		);
+		return `<a href="${src}"><img width="320" src="${src}"/></a>`
+
+		// 		return await Image(src, {
+		// 	widths,
+		// 	formats: ["auto"],
+		// 	failOnError: true,
+		// 	returnType: "html",    // new in v6.0
+		// 	htmlOptions: {         // new in v6.0
+		// 		imgAttributes: {
+		// 			alt,
+		// 			sizes,             // required with more than one width, optional if single width output
+		// 			loading: "lazy",   // optional
+		// 			decoding: "async", // optional
+		// 		}
+		// 	}
+		// });
 	});
 
 	// Filters

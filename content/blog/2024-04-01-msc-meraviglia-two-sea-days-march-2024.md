@@ -12,12 +12,12 @@ description: ""
 
 We followed along the coast, and it was still rough on the way south. This time we were going north further from the shoreline, and it was smoother. This was a warm day still since not toofar north yet. Owen and I went back to the waterpark, and Travis and Joel went to the outside and inside pools. Both the outside and inside pool was heated. Now to start getting the swimming suits dried. This was a challenge in the cabin trying to dry 4 sets of swimming suits, gym clothes, and laundry. Someone left one magnetic hook in our cabin, and it was awesome (of course, we left it for the next family). I have heard this tip before, to get these, but thought that we did not need them. I now have ours ordered. 
 
-[<img width="320" src="images/IMG_7924.webp"/>]({% image "content/blog/images/IMG_7924.webp" %})
+{% image "images/IMG_7924.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7925.webp"/>]({% image "content/blog/images/IMG_7925.webp" %})
+{% image "images/IMG_7925.webp" %}
 
   
 
@@ -27,7 +27,7 @@ We wore our dressy clothes to dinner again, me while it was still warm and Travi
   
 
 
-[<img width="320" src="images/IMG_7927.webp"/>]({% image "content/blog/images/IMG_7927.webp" %})
+{% image "images/IMG_7927.webp" %}
 
   
 
@@ -37,22 +37,22 @@ Owen's beef and barley soup without much beef. Travis's marinated octopus and wa
   
 
 
-[<img width="320" src="images/IMG_7928.webp"/>]({% image "content/blog/images/IMG_7928.webp" %})
+{% image "images/IMG_7928.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7929.webp"/>]({% image "content/blog/images/IMG_7929.webp" %})
+{% image "images/IMG_7929.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7931.webp"/>]({% image "content/blog/images/IMG_7931.webp" %})
+{% image "images/IMG_7931.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7930.webp"/>]({% image "content/blog/images/IMG_7930.webp" %})
+{% image "images/IMG_7930.webp" %}
 
   
 
@@ -62,17 +62,17 @@ For mains, Owen and I got the lamb; it was very good. Travis's wild barramundi f
   
 
 
-[<img width="320" src="images/IMG_7932.webp"/>]({% image "content/blog/images/IMG_7932.webp" %})
+{% image "images/IMG_7932.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7933.webp"/>]({% image "content/blog/images/IMG_7933.webp" %})
+{% image "images/IMG_7933.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7934.webp"/>]({% image "content/blog/images/IMG_7934.webp" %})
+{% image "images/IMG_7934.webp" %}
 
   
 
@@ -82,17 +82,17 @@ Grandma's cake, chocolate duo cake, and coconut cake.
   
 
 
-[<img width="320" src="images/IMG_7936.webp"/>]({% image "content/blog/images/IMG_7936.webp" %})
+{% image "images/IMG_7936.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7937.webp"/>]({% image "content/blog/images/IMG_7937.webp" %})
+{% image "images/IMG_7937.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7938.webp"/>]({% image "content/blog/images/IMG_7938.webp" %})
+{% image "images/IMG_7938.webp" %}
 
   
 
@@ -102,12 +102,12 @@ We caught a few dome shows: famous ceilings, Jurassic, and another that I'm forg
   
 
 
-[<img width="320" src="images/IMG_7944.webp"/>]({% image "content/blog/images/IMG_7944.webp" %})
+{% image "images/IMG_7944.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7945.webp"/>]({% image "content/blog/images/IMG_7945.webp" %})
+{% image "images/IMG_7945.webp" %}
 
   
 
@@ -122,12 +122,12 @@ Each deck had a place name with nice pictures from that place and a metal statue
   
 
 
-[<img width="320" src="images/IMG_7946.webp"/>]({% image "content/blog/images/IMG_7946.webp" %})
+{% image "images/IMG_7946.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7947.webp"/>]({% image "content/blog/images/IMG_7947.webp" %})
+{% image "images/IMG_7947.webp" %}
 
   
 
@@ -137,27 +137,27 @@ Tonight was Italian night. Owen and I got the Sicilian-style arancini that were 
   
 
 
-[<img width="320" src="images/IMG_7949.webp"/>]({% image "content/blog/images/IMG_7949.webp" %})
+{% image "images/IMG_7949.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7950.webp"/>]({% image "content/blog/images/IMG_7950.webp" %})
+{% image "images/IMG_7950.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7951.webp"/>]({% image "content/blog/images/IMG_7951.webp" %})
+{% image "images/IMG_7951.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7952.webp"/>]({% image "content/blog/images/IMG_7952.webp" %})
+{% image "images/IMG_7952.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7953.webp"/>]({% image "content/blog/images/IMG_7953.webp" %})
+{% image "images/IMG_7953.webp" %}
 
   
 
@@ -167,12 +167,12 @@ Travis and Joel had to get the tiramisu on Italian night. Owen got Grandma's cak
   
 
 
-[<img width="320" src="images/IMG_7959.webp"/>]({% image "content/blog/images/IMG_7959.webp" %})
+{% image "images/IMG_7959.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7960.webp"/>]({% image "content/blog/images/IMG_7960.webp" %})
+{% image "images/IMG_7960.webp" %}
 
 The next morning, up super early to get off and today was the saddest day of a cruise when we had to pack. 
 

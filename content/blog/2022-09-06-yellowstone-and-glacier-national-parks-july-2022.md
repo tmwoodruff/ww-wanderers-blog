@@ -10,7 +10,7 @@ description: ""
 
 > > > **Flight and arriving in Bozeman and Yellowstone - July 19, 2022**
 
-[<img width="320" src="images/P1110583.webp"/>]({% image "content/blog/images/P1110583.webp" %})
+{% image "images/P1110583.webp" %}
 
 Grand Prismatic Spring in Yellowstone from the overlook trail. 
 

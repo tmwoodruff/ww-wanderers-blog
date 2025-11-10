@@ -20,27 +20,27 @@ The Petrified Forest's did not open unto 8am, with a closed gate before. I have 
 
 Stopped for our obligatory sign picture. After, we stopped at the visitor center and bought an National Parks Annual Pass at the pay booth. Still north of I-40, we stopped for some panorama views. 
 
-[<img width="320" src="images/IMG_6979.webp"/>]({% image "content/blog/images/IMG_6979.webp" %})
+{% image "images/IMG_6979.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130174.webp"/>]({% image "content/blog/images/P1130174.webp" %})
+{% image "images/P1130174.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130178.webp"/>]({% image "content/blog/images/P1130178.webp" %})
+{% image "images/P1130178.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130179.webp"/>]({% image "content/blog/images/P1130179.webp" %})
+{% image "images/P1130179.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130184.webp"/>]({% image "content/blog/images/P1130184.webp" %})
+{% image "images/P1130184.webp" %}
 
   
 
@@ -50,12 +50,12 @@ First, we hiked the Blue Mesa Trail across I-40 on the south side. This was a 1 
   
 
 
-[<img width="320" src="images/P1130194.webp"/>]({% image "content/blog/images/P1130194.webp" %})
+{% image "images/P1130194.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130235.webp"/>]({% image "content/blog/images/P1130235.webp" %})
+{% image "images/P1130235.webp" %}
 
   
 
@@ -63,37 +63,37 @@ First, we hiked the Blue Mesa Trail across I-40 on the south side. This was a 1 
   
 
 
-[<img width="320" src="images/IMG_6993.webp"/>]({% image "content/blog/images/IMG_6993.webp" %})
+{% image "images/IMG_6993.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6999.webp"/>]({% image "content/blog/images/IMG_6999.webp" %})
+{% image "images/IMG_6999.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7006.webp"/>]({% image "content/blog/images/IMG_7006.webp" %})
+{% image "images/IMG_7006.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7011.webp"/>]({% image "content/blog/images/IMG_7011.webp" %})
+{% image "images/IMG_7011.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130271.webp"/>]({% image "content/blog/images/P1130271.webp" %})
+{% image "images/P1130271.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130273.webp"/>]({% image "content/blog/images/P1130273.webp" %})
+{% image "images/P1130273.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130286.webp"/>]({% image "content/blog/images/P1130286.webp" %})
+{% image "images/P1130286.webp" %}
 
   
 
@@ -103,12 +103,12 @@ Lastly, we visited the Rainbow Forest Museum and hiked Giant Logs behind it. On 
   
 
 
-[<img width="320" src="images/P1130306.webp"/>]({% image "content/blog/images/P1130306.webp" %})
+{% image "images/P1130306.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7020.webp"/>]({% image "content/blog/images/IMG_7020.webp" %})
+{% image "images/IMG_7020.webp" %}
 
   
 
@@ -118,7 +118,7 @@ Before leaving, we had our picnic lunch in a picnic area in front of the visitor
   
 
 
-[<img width="320" src="images/IMG_7025.webp"/>]({% image "content/blog/images/IMG_7025.webp" %})
+{% image "images/IMG_7025.webp" %}
 
   
 

@@ -12,7 +12,7 @@ description: ""
 
 Today we walked across the Benjamin Franklin Bridge to New Jersey and found Camden and saw their Rudkins University location. It was a challenge to find the entrance to the pedestrian walkway. From Google maps, we could only tell that it was near the Benjamin Franklin park, which walked through another day. It had a fountain, putt-putt, and a merry-go-round. Trying our best to follow our GPS location and map, we finally found a sign saying where to go. The first entrance was closed, but I saw an under the highway walkway (first thought it may be the entrance to the bridge), which did go to the other side, which was side. 
 
-[<img width="320" src="images/IMG_5822.webp"/>]({% image "content/blog/images/IMG_5822.webp" %})
+{% image "images/IMG_5822.webp" %}
 
   
 
@@ -22,7 +22,7 @@ Views of the Delaware River.
   
 
 
-[<img width="320" src="images/IMG_5839.webp"/>]({% image "content/blog/images/IMG_5839.webp" %})
+{% image "images/IMG_5839.webp" %}
 
   
 
@@ -32,7 +32,7 @@ Philadelphia skyline
   
 
 
-[<img width="320" src="images/IMG_5854.webp"/>]({% image "content/blog/images/IMG_5854.webp" %})
+{% image "images/IMG_5854.webp" %}
 
   
 
@@ -45,7 +45,7 @@ After the walk back, we wanted to find lunch on South Street known for its resta
   
 
 
-[<img width="320" src="images/IMG_5858.webp"/>]({% image "content/blog/images/IMG_5858.webp" %})
+{% image "images/IMG_5858.webp" %}
 
   
 
@@ -55,7 +55,7 @@ I had heard of this but did not know the history, so I took a picture.
   
 
 
-[<img width="320" src="images/IMG_5859.webp"/>]({% image "content/blog/images/IMG_5859.webp" %})
+{% image "images/IMG_5859.webp" %}
 
   
 
@@ -65,7 +65,7 @@ We went back to the hotel for a little rest. Then went back to the Independence 
   
 
 
-[<img width="320" src="images/IMG_5855.webp"/>]({% image "content/blog/images/IMG_5855.webp" %})
+{% image "images/IMG_5855.webp" %}
 
   
 
@@ -75,7 +75,7 @@ Art that we found on the way back to the hotel.
   
 
 
-[<img width="320" src="images/IMG_5860.webp"/>]({% image "content/blog/images/IMG_5860.webp" %})
+{% image "images/IMG_5860.webp" %}
 
   
 

@@ -12,27 +12,27 @@ Sea Day and Winchester -- September 19-21, 2024
 
 The last night's MDR picture. Four others got away, our waiters took pictures with everyone, before we thought to get a picture. I liked the diver sculptures in the buffet. Last sunset and wake at sea. I like seeing the full moon on the ocean and reflecting off the ocean. We had a full moon during this cruise; however, I found that it rose too late (okay, I'm getting old). 
 
-[<img width="320" src="images/IMG_20240916_073307536_HDR.webp"/>]({% image "content/blog/images/IMG_20240916_073307536_HDR.webp" %})
+{% image "images/IMG_20240916_073307536_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20240919_200840606_HDR.webp"/>]({% image "content/blog/images/IMG_20240919_200840606_HDR.webp" %})
+{% image "images/IMG_20240919_200840606_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9209.webp"/>]({% image "content/blog/images/IMG_9209.webp" %})
+{% image "images/IMG_9209.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9210.webp"/>]({% image "content/blog/images/IMG_9210.webp" %})
+{% image "images/IMG_9210.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9217.webp"/>]({% image "content/blog/images/IMG_9217.webp" %})
+{% image "images/IMG_9217.webp" %}
 
   
 
@@ -42,27 +42,27 @@ Back in the Southampton. Not exciting looking now, but this is the berth that th
   
 
 
-[<img width="320" src="images/IMG_9212.webp"/>]({% image "content/blog/images/IMG_9212.webp" %})
+{% image "images/IMG_9212.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9213.webp"/>]({% image "content/blog/images/IMG_9213.webp" %})
+{% image "images/IMG_9213.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9216.webp"/>]({% image "content/blog/images/IMG_9216.webp" %})
+{% image "images/IMG_9216.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9214.webp"/>]({% image "content/blog/images/IMG_9214.webp" %})
+{% image "images/IMG_9214.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9220.webp"/>]({% image "content/blog/images/IMG_9220.webp" %})
+{% image "images/IMG_9220.webp" %}
 
   
 
@@ -82,29 +82,29 @@ We walked to Winchester High Street and found the Buttercross, which was later m
   
 
 
-[<img width="320" src="images/IMG_9225.webp"/>]({% image "content/blog/images/IMG_9225.webp" %})
+{% image "images/IMG_9225.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9227.webp"/>]({% image "content/blog/images/IMG_9227.webp" %})
+{% image "images/IMG_9227.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9230.webp"/>]({% image "content/blog/images/IMG_9230.webp" %})
+{% image "images/IMG_9230.webp" %}
 
   
 I do not remember what this was and cannot find it on Google maps now. I think it was close the Cathedral. Let me know if you know. It had a nice garden and a Jane Austen bench. There was an available restroom that a tour group was in line for, so we did not try to use it.   
   
 
 
-[<img width="320" src="images/IMG_9234.webp"/>]({% image "content/blog/images/IMG_9234.webp" %})
+{% image "images/IMG_9234.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9235.webp"/>]({% image "content/blog/images/IMG_9235.webp" %})
+{% image "images/IMG_9235.webp" %}
 
   
 
@@ -114,17 +114,17 @@ Jane Austen's 200 anniversary of her death bench.
   
 
 
-[<img width="320" src="images/IMG_9236.webp"/>]({% image "content/blog/images/IMG_9236.webp" %})
+{% image "images/IMG_9236.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9238.webp"/>]({% image "content/blog/images/IMG_9238.webp" %})
+{% image "images/IMG_9238.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9241.webp"/>]({% image "content/blog/images/IMG_9241.webp" %})
+{% image "images/IMG_9241.webp" %}
 
   
 
@@ -134,27 +134,27 @@ Winchester Cathedral
   
 
 
-[<img width="320" src="images/IMG_9243.webp"/>]({% image "content/blog/images/IMG_9243.webp" %})
+{% image "images/IMG_9243.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9246.webp"/>]({% image "content/blog/images/IMG_9246.webp" %})
+{% image "images/IMG_9246.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9250.webp"/>]({% image "content/blog/images/IMG_9250.webp" %})
+{% image "images/IMG_9250.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9251.webp"/>]({% image "content/blog/images/IMG_9251.webp" %})
+{% image "images/IMG_9251.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9257.webp"/>]({% image "content/blog/images/IMG_9257.webp" %})
+{% image "images/IMG_9257.webp" %}
 
   
 
@@ -164,17 +164,17 @@ They had their own little Citroen van.
   
 
 
-[<img width="320" src="images/IMG_9260.webp"/>]({% image "content/blog/images/IMG_9260.webp" %})
+{% image "images/IMG_9260.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9261.webp"/>]({% image "content/blog/images/IMG_9261.webp" %})
+{% image "images/IMG_9261.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9262.webp"/>]({% image "content/blog/images/IMG_9262.webp" %})
+{% image "images/IMG_9262.webp" %}
 
   
 
@@ -184,22 +184,22 @@ Walking around near the Cathedral
   
 
 
-[<img width="320" src="images/IMG_9266.webp"/>]({% image "content/blog/images/IMG_9266.webp" %})
+{% image "images/IMG_9266.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9268.webp"/>]({% image "content/blog/images/IMG_9268.webp" %})
+{% image "images/IMG_9268.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9269.webp"/>]({% image "content/blog/images/IMG_9269.webp" %})
+{% image "images/IMG_9269.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9270.webp"/>]({% image "content/blog/images/IMG_9270.webp" %})
+{% image "images/IMG_9270.webp" %}
 
   
 
@@ -209,17 +209,17 @@ This is the current Bishop's residence, private and very pretty, but we got to v
   
 
 
-[<img width="320" src="images/IMG_9277.webp"/>]({% image "content/blog/images/IMG_9277.webp" %})
+{% image "images/IMG_9277.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9280.webp"/>]({% image "content/blog/images/IMG_9280.webp" %})
+{% image "images/IMG_9280.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9282.webp"/>]({% image "content/blog/images/IMG_9282.webp" %})
+{% image "images/IMG_9282.webp" %}
 
   
 
@@ -229,47 +229,47 @@ A peek of the new Bishop's residence's window over the walls of the ruins. I tho
   
 
 
-[<img width="320" src="images/IMG_9283.webp"/>]({% image "content/blog/images/IMG_9283.webp" %})
+{% image "images/IMG_9283.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9284.webp"/>]({% image "content/blog/images/IMG_9284.webp" %})
+{% image "images/IMG_9284.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9286.webp"/>]({% image "content/blog/images/IMG_9286.webp" %})
+{% image "images/IMG_9286.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9289.webp"/>]({% image "content/blog/images/IMG_9289.webp" %})
+{% image "images/IMG_9289.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9290.webp"/>]({% image "content/blog/images/IMG_9290.webp" %})
+{% image "images/IMG_9290.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9292.webp"/>]({% image "content/blog/images/IMG_9292.webp" %})
+{% image "images/IMG_9292.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9293.webp"/>]({% image "content/blog/images/IMG_9293.webp" %})
+{% image "images/IMG_9293.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9294.webp"/>]({% image "content/blog/images/IMG_9294.webp" %})
+{% image "images/IMG_9294.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9295.webp"/>]({% image "content/blog/images/IMG_9295.webp" %})
+{% image "images/IMG_9295.webp" %}
 
   
 
@@ -279,7 +279,7 @@ The bathroom and sewer system.
   
 
 
-[<img width="320" src="images/IMG_9298.webp"/>]({% image "content/blog/images/IMG_9298.webp" %})
+{% image "images/IMG_9298.webp" %}
 
   
 
@@ -289,7 +289,7 @@ View from the ruins
   
 
 
-[<img width="320" src="images/IMG_9301.webp"/>]({% image "content/blog/images/IMG_9301.webp" %})
+{% image "images/IMG_9301.webp" %}
 
   
 
@@ -299,7 +299,7 @@ We then walked back to the Winchester City Museum and got the combo ticket -- 3 
   
 
 
-[<img width="320" src="images/IMG_9307.webp"/>]({% image "content/blog/images/IMG_9307.webp" %})
+{% image "images/IMG_9307.webp" %}
 
   
 
@@ -309,7 +309,7 @@ Then a walk to the King Arthur and Knights of the Round Table museum.
   
 
 
-[<img width="320" src="images/IMG_9310.webp"/>]({% image "content/blog/images/IMG_9310.webp" %})
+{% image "images/IMG_9310.webp" %}
 
   
 
@@ -319,22 +319,22 @@ The Great Hall where the museum is. It started raining when we were inside, so w
   
 
 
-[<img width="320" src="images/IMG_9311.webp"/>]({% image "content/blog/images/IMG_9311.webp" %})
+{% image "images/IMG_9311.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9312.webp"/>]({% image "content/blog/images/IMG_9312.webp" %})
+{% image "images/IMG_9312.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9313.webp"/>]({% image "content/blog/images/IMG_9313.webp" %})
+{% image "images/IMG_9313.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9314.webp"/>]({% image "content/blog/images/IMG_9314.webp" %})
+{% image "images/IMG_9314.webp" %}
 
   
 
@@ -344,7 +344,7 @@ The table
   
 
 
-[<img width="320" src="images/IMG_9317.webp"/>]({% image "content/blog/images/IMG_9317.webp" %})
+{% image "images/IMG_9317.webp" %}
 
   
 
@@ -354,17 +354,17 @@ Wedding Gates
   
 
 
-[<img width="320" src="images/IMG_9319.webp"/>]({% image "content/blog/images/IMG_9319.webp" %})
+{% image "images/IMG_9319.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9321.webp"/>]({% image "content/blog/images/IMG_9321.webp" %})
+{% image "images/IMG_9321.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9322.webp"/>]({% image "content/blog/images/IMG_9322.webp" %})
+{% image "images/IMG_9322.webp" %}
 
   
 
@@ -374,17 +374,17 @@ I liked the Queen Elizabeth II art, and then there was Queen Victoria too.
   
 
 
-[<img width="320" src="images/IMG_9323.webp"/>]({% image "content/blog/images/IMG_9323.webp" %})
+{% image "images/IMG_9323.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9324.webp"/>]({% image "content/blog/images/IMG_9324.webp" %})
+{% image "images/IMG_9324.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9325.webp"/>]({% image "content/blog/images/IMG_9325.webp" %})
+{% image "images/IMG_9325.webp" %}
 
   
 
@@ -394,27 +394,27 @@ The garden
   
 
 
-[<img width="320" src="images/IMG_9328.webp"/>]({% image "content/blog/images/IMG_9328.webp" %})
+{% image "images/IMG_9328.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9331.webp"/>]({% image "content/blog/images/IMG_9331.webp" %})
+{% image "images/IMG_9331.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9333.webp"/>]({% image "content/blog/images/IMG_9333.webp" %})
+{% image "images/IMG_9333.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9334.webp"/>]({% image "content/blog/images/IMG_9334.webp" %})
+{% image "images/IMG_9334.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9335.webp"/>]({% image "content/blog/images/IMG_9335.webp" %})[<img width="320" src="images/IMG_9336.webp"/>]({% image "content/blog/images/IMG_9336.webp" %})
+{% image "images/IMG_9335.webp" %}{% image "images/IMG_9336.webp" %}
 
   
 
@@ -424,12 +424,12 @@ The table in mosaics outside.
   
 
 
-[<img width="320" src="images/IMG_9338.webp"/>]({% image "content/blog/images/IMG_9338.webp" %})
+{% image "images/IMG_9338.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9340.webp"/>]({% image "content/blog/images/IMG_9340.webp" %})
+{% image "images/IMG_9340.webp" %}
 
   
 
@@ -439,32 +439,32 @@ The Gurkha Museum with nice landscaping; the area previously had army barracks, 
   
 
 
-[<img src="images/IMG_9341.webp"/>]({% image "content/blog/images/IMG_9341.webp" %})
+{% image "images/IMG_9341.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9342.webp"/>]({% image "content/blog/images/IMG_9342.webp" %})
+{% image "images/IMG_9342.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9344.webp"/>]({% image "content/blog/images/IMG_9344.webp" %})
+{% image "images/IMG_9344.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9345.webp"/>]({% image "content/blog/images/IMG_9345.webp" %})
+{% image "images/IMG_9345.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9347.webp"/>]({% image "content/blog/images/IMG_9347.webp" %})
+{% image "images/IMG_9347.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9349.webp"/>]({% image "content/blog/images/IMG_9349.webp" %})
+{% image "images/IMG_9349.webp" %}
 
   
 
@@ -474,32 +474,32 @@ The final museum was the Westgate Museum. This one was fairly small but had good
   
 
 
-[<img width="320" src="images/IMG_9350.webp"/>]({% image "content/blog/images/IMG_9350.webp" %})[<img width="320" src="images/IMG_9353.webp"/>]({% image "content/blog/images/IMG_9353.webp" %})
+{% image "images/IMG_9350.webp" %}{% image "images/IMG_9353.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9354.webp"/>]({% image "content/blog/images/IMG_9354.webp" %})
+{% image "images/IMG_9354.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9356.webp"/>]({% image "content/blog/images/IMG_9356.webp" %})
+{% image "images/IMG_9356.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9358.webp"/>]({% image "content/blog/images/IMG_9358.webp" %})
+{% image "images/IMG_9358.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9357.webp"/>]({% image "content/blog/images/IMG_9357.webp" %})
+{% image "images/IMG_9357.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9359.webp"/>]({% image "content/blog/images/IMG_9359.webp" %})
+{% image "images/IMG_9359.webp" %}
 
   
 
@@ -524,7 +524,7 @@ There were some wrecks, so lots of traffic -- slow -- getting to LHR. We booked 
   
 
 
-[<img width="320" src="images/IMG_20240920_194845369_HDR.webp"/>]({% image "content/blog/images/IMG_20240920_194845369_HDR.webp" %})
+{% image "images/IMG_20240920_194845369_HDR.webp" %}
 
   
 

@@ -18,17 +18,17 @@ We were on the Kennewick. We went up for a view; it was windy and chilly. Then w
 
 The ride was about 20 minutes. We watched the approach on Google maps, wondering if they would announce when to go back to cars. Travis thought no, but it would be mass chaos if people in the front of a line were not in their car. I ferrying is old hat to some people, but we don't have the need in Texas. They did announce to go back, but said not to start the engine until they announced to do so. 
 
-[<img width="320" src="images/IMG_20240715_080144043_HDR.webp"/>]({% image "content/blog/images/IMG_20240715_080144043_HDR.webp" %})
+{% image "images/IMG_20240715_080144043_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8400.webp"/>]({% image "content/blog/images/IMG_8400.webp" %})
+{% image "images/IMG_8400.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8399.webp"/>]({% image "content/blog/images/IMG_8399.webp" %})
+{% image "images/IMG_8399.webp" %}
 
   
 
@@ -48,17 +48,17 @@ Here we hiked the River Loop Trail, an interpretive trail.
   
 
 
-[<img width="320" src="images/IMG_8403.webp"/>]({% image "content/blog/images/IMG_8403.webp" %})
+{% image "images/IMG_8403.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8405.webp"/>]({% image "content/blog/images/IMG_8405.webp" %})
+{% image "images/IMG_8405.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8406.webp"/>]({% image "content/blog/images/IMG_8406.webp" %})
+{% image "images/IMG_8406.webp" %}
 
   
 
@@ -68,7 +68,7 @@ Then we drove a little further east on Hwy 20 (which goes through the park) to N
   
 
 
-[<img width="320" src="images/IMG_8408.webp"/>]({% image "content/blog/images/IMG_8408.webp" %})
+{% image "images/IMG_8408.webp" %}
 
   
 
@@ -78,27 +78,27 @@ We were close to the Gorge Dam, so we stopped here though Travis was eager to ge
   
 
 
-[<img width="320" src="images/IMG_8414.webp"/>]({% image "content/blog/images/IMG_8414.webp" %})
+{% image "images/IMG_8414.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140516.webp"/>]({% image "content/blog/images/P1140516.webp" %})
+{% image "images/P1140516.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8416.webp"/>]({% image "content/blog/images/IMG_8416.webp" %})
+{% image "images/IMG_8416.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8435.webp"/>]({% image "content/blog/images/IMG_8435.webp" %})
+{% image "images/IMG_8435.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8419.webp"/>]({% image "content/blog/images/IMG_8419.webp" %})
+{% image "images/IMG_8419.webp" %}
 
   
 
@@ -118,12 +118,12 @@ There were different big families with many kids by us each night. The second ni
   
 
 
-[<img width="320" src="images/IMG_8426.webp"/>]({% image "content/blog/images/IMG_8426.webp" %})
+{% image "images/IMG_8426.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20240717_083154799_HDR.webp"/>]({% image "content/blog/images/IMG_20240717_083154799_HDR.webp" %})
+{% image "images/IMG_20240717_083154799_HDR.webp" %}
 
   
 
@@ -133,57 +133,57 @@ We then drove further east on Hwy 20 to check out the Ross Lake and Diablo Lake 
   
 
 
-[<img width="320" src="images/IMG_8428.webp"/>]({% image "content/blog/images/IMG_8428.webp" %})
+{% image "images/IMG_8428.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8434.webp"/>]({% image "content/blog/images/IMG_8434.webp" %})
+{% image "images/IMG_8434.webp" %}
 
   
 
 
-[<img src="images/P1140519.webp"/>]({% image "content/blog/images/P1140519.webp" %})
+{% image "images/P1140519.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140533.webp"/>]({% image "content/blog/images/P1140533.webp" %})
+{% image "images/P1140533.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140544.webp"/>]({% image "content/blog/images/P1140544.webp" %})
+{% image "images/P1140544.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8436.webp"/>]({% image "content/blog/images/IMG_8436.webp" %})
+{% image "images/IMG_8436.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8437.webp"/>]({% image "content/blog/images/IMG_8437.webp" %})
+{% image "images/IMG_8437.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8444.webp"/>]({% image "content/blog/images/IMG_8444.webp" %})
+{% image "images/IMG_8444.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8453.webp"/>]({% image "content/blog/images/IMG_8453.webp" %})
+{% image "images/IMG_8453.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140552.webp"/>]({% image "content/blog/images/P1140552.webp" %})
+{% image "images/P1140552.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140553.webp"/>]({% image "content/blog/images/P1140553.webp" %})
+{% image "images/P1140553.webp" %}
 
   
 

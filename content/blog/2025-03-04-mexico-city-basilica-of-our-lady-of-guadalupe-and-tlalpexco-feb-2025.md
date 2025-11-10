@@ -12,18 +12,18 @@ description: ""
 
 We took another weekend morning calm bus to the Basilica of Our Lady of Guadalupe, which is northeast of Centro. Here is the Basilica of Our Lady of Guadalupe. Mass was in progress, and there were many people there. 
 
-[<img width="320" src="images/IMG_1979.webp"/>]({% image "content/blog/images/IMG_1979.webp" %})[<img width="320" src="images/IMG_20250209_095302518_HDR.webp"/>]({% image "content/blog/images/IMG_20250209_095302518_HDR.webp" %})  
+{% image "images/IMG_1979.webp" %}{% image "images/IMG_20250209_095302518_HDR.webp" %}  
   
 
 
-[<img src="images/IMG_20250209_094908116_HDR.webp"/>]({% image "content/blog/images/IMG_20250209_094908116_HDR.webp" %})
+{% image "images/IMG_20250209_094908116_HDR.webp" %}
 
   
 
 
 The Pocito Chapel or The Chapel of the Little Well that protects the natural/miraculous spring where Our Lady of Guadalupe appeared. People came to the spring to repent and to seek cures. 
 
-[<img width="320" src="images/IMG_1969.webp"/>]({% image "content/blog/images/IMG_1969.webp" %})[<img width="320" src="images/IMG_1974.webp"/>]({% image "content/blog/images/IMG_1974.webp" %})
+{% image "images/IMG_1969.webp" %}{% image "images/IMG_1974.webp" %}
 
   
 
@@ -33,12 +33,12 @@ This is the old Cathedral; it was also being used for Mass this morning.
   
 
 
-[<img width="320" src="images/IMG_1975.webp"/>]({% image "content/blog/images/IMG_1975.webp" %})
+{% image "images/IMG_1975.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1977.webp"/>]({% image "content/blog/images/IMG_1977.webp" %})
+{% image "images/IMG_1977.webp" %}
 
   
 
@@ -48,22 +48,22 @@ A view of Mexico City from above.
   
 
 
-[<img width="320" src="images/IMG_1978.webp"/>]({% image "content/blog/images/IMG_1978.webp" %})
+{% image "images/IMG_1978.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1980.webp"/>]({% image "content/blog/images/IMG_1980.webp" %})
+{% image "images/IMG_1980.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1982.webp"/>]({% image "content/blog/images/IMG_1982.webp" %})[<img width="320" src="images/IMG_1984.webp"/>]({% image "content/blog/images/IMG_1984.webp" %})
+{% image "images/IMG_1982.webp" %}{% image "images/IMG_1984.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1983.webp"/>]({% image "content/blog/images/IMG_1983.webp" %})
+{% image "images/IMG_1983.webp" %}
 
   
 After the basilica, we stopped at a close by grocery store for change. They required that backpacks be checked, so I stayed at the front while Travis got a few snacks. They also had a restroom that we visited. 
@@ -81,62 +81,62 @@ Our Metro card was loaded for our second cablebus ride. The last one that we too
   
 
 
-[<img width="320" src="images/IMG_1986.webp"/>]({% image "content/blog/images/IMG_1986.webp" %})
+{% image "images/IMG_1986.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1991.webp"/>]({% image "content/blog/images/IMG_1991.webp" %})
+{% image "images/IMG_1991.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1992.webp"/>]({% image "content/blog/images/IMG_1992.webp" %})
+{% image "images/IMG_1992.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1995.webp"/>]({% image "content/blog/images/IMG_1995.webp" %})
+{% image "images/IMG_1995.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1996.webp"/>]({% image "content/blog/images/IMG_1996.webp" %})
+{% image "images/IMG_1996.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1997.webp"/>]({% image "content/blog/images/IMG_1997.webp" %})
+{% image "images/IMG_1997.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1998.webp"/>]({% image "content/blog/images/IMG_1998.webp" %})
+{% image "images/IMG_1998.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_1999.webp"/>]({% image "content/blog/images/IMG_1999.webp" %})
+{% image "images/IMG_1999.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2000.webp"/>]({% image "content/blog/images/IMG_2000.webp" %})
+{% image "images/IMG_2000.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2001.webp"/>]({% image "content/blog/images/IMG_2001.webp" %})
+{% image "images/IMG_2001.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2003.webp"/>]({% image "content/blog/images/IMG_2003.webp" %})
+{% image "images/IMG_2003.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2006.webp"/>]({% image "content/blog/images/IMG_2006.webp" %})
+{% image "images/IMG_2006.webp" %}
 
   
 
@@ -146,32 +146,32 @@ In Tlalpexco, we did a _very_ uphill hike for a full view of the city.
   
 
 
-[<img width="320" src="images/IMG_2011.webp"/>]({% image "content/blog/images/IMG_2011.webp" %})
+{% image "images/IMG_2011.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2013.webp"/>]({% image "content/blog/images/IMG_2013.webp" %})
+{% image "images/IMG_2013.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2015.webp"/>]({% image "content/blog/images/IMG_2015.webp" %})
+{% image "images/IMG_2015.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2016.webp"/>]({% image "content/blog/images/IMG_2016.webp" %})
+{% image "images/IMG_2016.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2017.webp"/>]({% image "content/blog/images/IMG_2017.webp" %})
+{% image "images/IMG_2017.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2018.webp"/>]({% image "content/blog/images/IMG_2018.webp" %})
+{% image "images/IMG_2018.webp" %}
 
   
 
@@ -191,37 +191,37 @@ Then we walked down Paseo de la Reforma to the The Angel of Independence statue 
   
 
 
-[<img width="320" src="images/IMG_2020.webp"/>]({% image "content/blog/images/IMG_2020.webp" %})
+{% image "images/IMG_2020.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2021.webp"/>]({% image "content/blog/images/IMG_2021.webp" %})
+{% image "images/IMG_2021.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2022.webp"/>]({% image "content/blog/images/IMG_2022.webp" %})
+{% image "images/IMG_2022.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2024.webp"/>]({% image "content/blog/images/IMG_2024.webp" %})
+{% image "images/IMG_2024.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2025.webp"/>]({% image "content/blog/images/IMG_2025.webp" %})
+{% image "images/IMG_2025.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2027.webp"/>]({% image "content/blog/images/IMG_2027.webp" %})
+{% image "images/IMG_2027.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2028.webp"/>]({% image "content/blog/images/IMG_2028.webp" %})
+{% image "images/IMG_2028.webp" %}
 
   
 
@@ -231,17 +231,17 @@ Missing persons on the roundabout; though it seems hard to see them in detail wh
   
 
 
-[<img width="320" src="images/IMG_2029.webp"/>]({% image "content/blog/images/IMG_2029.webp" %})
+{% image "images/IMG_2029.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_2030.webp"/>]({% image "content/blog/images/IMG_2030.webp" %})
+{% image "images/IMG_2030.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250209_150953363_HDR.webp"/>]({% image "content/blog/images/IMG_20250209_150953363_HDR.webp" %})
+{% image "images/IMG_20250209_150953363_HDR.webp" %}
 
   
 
@@ -251,7 +251,7 @@ Tonight was Superbowl Sunday. I was not sure if we would be able to watch it in 
   
 
 
-[<img width="320" src="images/IMG_20250209_182831267.webp"/>]({% image "content/blog/images/IMG_20250209_182831267.webp" %})
+{% image "images/IMG_20250209_182831267.webp" %}
 
   
 

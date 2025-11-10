@@ -12,12 +12,12 @@ description: ""
 
 We made it to the Paradise Visitor Center parking for the Skyline trail early to get a spot. We parked in the lower lot because the lot by the Visitor Center was signed for a 2 hour limit. To remember everything, we needed to make a few trips back and forth, doh. We stopped by the restroom, not finding the water filler until after the hike, so had to settle for restroom sink water. It was nice and cold. We found the sign that showed the latest snow cover -- green: clear, blue: full snow cover, and green/blue dashed: partially covered. The color coding was different than the NPS.gov site that we were monitoring before our trip. It also recommended taking the Golden Gate Trail instead of east Skyline. This cut off a mile, and I was planning it anyway. So, about 4.5 miles and 2000 feet elevation gain. Paradise was at 5400 ft, and Cougar Rock Campground was at 3100 ft. 
 
-[<img src="images/IMG_8167.webp"/>]({% image "content/blog/images/IMG_8167.webp" %})
+{% image "images/IMG_8167.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8168.webp"/>]({% image "content/blog/images/IMG_8168.webp" %})
+{% image "images/IMG_8168.webp" %}
 
   
 
@@ -27,22 +27,22 @@ Trying to get a picture of some of the blue in the glaciers. Mt. Rainier has fin
   
 
 
-[<img width="320" src="images/IMG_8174.webp"/>]({% image "content/blog/images/IMG_8174.webp" %})
+{% image "images/IMG_8174.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8175.webp"/>]({% image "content/blog/images/IMG_8175.webp" %})
+{% image "images/IMG_8175.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8176.webp"/>]({% image "content/blog/images/IMG_8176.webp" %})
+{% image "images/IMG_8176.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8205.webp"/>]({% image "content/blog/images/IMG_8205.webp" %})
+{% image "images/IMG_8205.webp" %}
 
   
 
@@ -52,7 +52,7 @@ Playing in the snow. The trail was paved at first; I pulled out the trekking pol
   
 
 
-[<img width="320" src="images/P1140178.webp"/>]({% image "content/blog/images/P1140178.webp" %})
+{% image "images/P1140178.webp" %}
 
   
 
@@ -62,34 +62,34 @@ Look at all that snow.
   
 
 
-[<img width="320" src="images/P1140186.webp"/>]({% image "content/blog/images/P1140186.webp" %})
+{% image "images/P1140186.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140189.webp"/>]({% image "content/blog/images/P1140189.webp" %})
+{% image "images/P1140189.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8188.webp"/>]({% image "content/blog/images/IMG_8188.webp" %})
+{% image "images/IMG_8188.webp" %}
 
   
   
   
 
 
-[<img width="320" src="images/IMG_8215.webp"/>]({% image "content/blog/images/IMG_8215.webp" %})
+{% image "images/IMG_8215.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140212.webp"/>]({% image "content/blog/images/P1140212.webp" %})
+{% image "images/P1140212.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140236.webp"/>]({% image "content/blog/images/P1140236.webp" %})
+{% image "images/P1140236.webp" %}
 
   
 
@@ -99,7 +99,7 @@ We had to climb/slide down these blue slides.
   
 
 
-[<img width="320" src="images/IMG_8203.webp"/>]({% image "content/blog/images/IMG_8203.webp" %})
+{% image "images/IMG_8203.webp" %}
 
   
 
@@ -109,12 +109,12 @@ Flowers poking through. In the North Cascade Visitor Center, we learned that the
   
 
 
-[<img src="images/IMG_8256.webp"/>]({% image "content/blog/images/IMG_8256.webp" %})
+{% image "images/IMG_8256.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8264.webp"/>]({% image "content/blog/images/IMG_8264.webp" %})
+{% image "images/IMG_8264.webp" %}
 
   
 
@@ -124,7 +124,7 @@ At the end of the hike was Myrtle Falls, which can be reached without doing the 
   
 
 
-[<img width="320" src="images/P1140274.webp"/>]({% image "content/blog/images/P1140274.webp" %})
+{% image "images/P1140274.webp" %}
 
   
 
@@ -134,7 +134,7 @@ We used the real water bottle filler and had a picnic outside of the Paradise In
   
 
 
-[<img width="320" src="images/IMG_8249.webp"/>]({% image "content/blog/images/IMG_8249.webp" %})
+{% image "images/IMG_8249.webp" %}
 
   
 
@@ -144,18 +144,18 @@ From the lower parking lot, we next did the Nisqually Vista trail; it was only 2
   
 
 
-[<img src="images/IMG_8255.webp"/>]({% image "content/blog/images/IMG_8255.webp" %})
+{% image "images/IMG_8255.webp" %}
 
   
   
 
 
-[<img src="images/P1140281.webp"/>]({% image "content/blog/images/P1140281.webp" %})
+{% image "images/P1140281.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140280.webp"/>]({% image "content/blog/images/P1140280.webp" %})
+{% image "images/P1140280.webp" %}
 
   
 
@@ -165,7 +165,7 @@ Then we headed out of the Paradise area, where we could see that people had park
   
 
 
-[<img width="320" src="images/P1140283.webp"/>]({% image "content/blog/images/P1140283.webp" %})
+{% image "images/P1140283.webp" %}
 
   
 
@@ -175,7 +175,7 @@ Lastly, we visited Narada Falls, which was a short and popular hike to the viewi
   
 
 
-[<img width="320" src="images/P1140289.webp"/>]({% image "content/blog/images/P1140289.webp" %})
+{% image "images/P1140289.webp" %}
 
   
 

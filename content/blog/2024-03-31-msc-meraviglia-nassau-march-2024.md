@@ -12,57 +12,57 @@ description: ""
 
 We did not rush to port on our Nassau day. We had buffet breakfast, and the guys did the rope course. Then they tried the F1 simulator. There is a 50% discount per Gold member; she hinted at this but did not really explain it. So, we missed our discount on the second kid, putting them on the same card--grr. Joel won. Lastly, they did the 4D theater--the Carnival show, and Joel won again. The roller coaster simulator was currently not working. We used some onboard credit since this was Joel's trip. The onboard credit did take about a day to show up (though I could see it, bought by the Travel Agent, on our boarding papers) and then only showed on Travis's account since he put in the credit card info. 
 
-[<img width="320" src="images/IMG_7853.webp"/>]({% image "content/blog/images/IMG_7853.webp" %})
+{% image "images/IMG_7853.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7855.webp"/>]({% image "content/blog/images/IMG_7855.webp" %})
+{% image "images/IMG_7855.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7857.webp"/>]({% image "content/blog/images/IMG_7857.webp" %})
+{% image "images/IMG_7857.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7858.webp"/>]({% image "content/blog/images/IMG_7858.webp" %})
+{% image "images/IMG_7858.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7863.webp"/>]({% image "content/blog/images/IMG_7863.webp" %})
+{% image "images/IMG_7863.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7865.webp"/>]({% image "content/blog/images/IMG_7865.webp" %})
+{% image "images/IMG_7865.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7867.webp"/>]({% image "content/blog/images/IMG_7867.webp" %})
+{% image "images/IMG_7867.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7868.webp"/>]({% image "content/blog/images/IMG_7868.webp" %})
+{% image "images/IMG_7868.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7869.webp"/>]({% image "content/blog/images/IMG_7869.webp" %})
+{% image "images/IMG_7869.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7870.webp"/>]({% image "content/blog/images/IMG_7870.webp" %})
+{% image "images/IMG_7870.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20240314_111335377_HDR.webp"/>]({% image "content/blog/images/IMG_20240314_111335377_HDR.webp" %})
+{% image "images/IMG_20240314_111335377_HDR.webp" %}
 
   
 
@@ -72,12 +72,12 @@ Atlantis and a super yacht (which later birthed a mini boat, in the same color, 
   
 
 
-[<img width="320" src="images/IMG_7873.webp"/>]({% image "content/blog/images/IMG_7873.webp" %})
+{% image "images/IMG_7873.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7877.webp"/>]({% image "content/blog/images/IMG_7877.webp" %})
+{% image "images/IMG_7877.webp" %}
 
   
 
@@ -92,37 +92,37 @@ Here is the Junkaroo museum; it is right in the new port area. Then we walked to
   
 
 
-[<img width="320" src="images/IMG_7878.webp"/>]({% image "content/blog/images/IMG_7878.webp" %})
+{% image "images/IMG_7878.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7890.webp"/>]({% image "content/blog/images/IMG_7890.webp" %})
+{% image "images/IMG_7890.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7881.webp"/>]({% image "content/blog/images/IMG_7881.webp" %})
+{% image "images/IMG_7881.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7882.webp"/>]({% image "content/blog/images/IMG_7882.webp" %})
+{% image "images/IMG_7882.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7885.webp"/>]({% image "content/blog/images/IMG_7885.webp" %})
+{% image "images/IMG_7885.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7886.webp"/>]({% image "content/blog/images/IMG_7886.webp" %})
+{% image "images/IMG_7886.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7887.webp"/>]({% image "content/blog/images/IMG_7887.webp" %})
+{% image "images/IMG_7887.webp" %}
 
   
 
@@ -132,7 +132,7 @@ This guy found a unique position in a hole in the fort.
   
 
 
-[<img width="320" src="images/IMG_7889.webp"/>]({% image "content/blog/images/IMG_7889.webp" %})
+{% image "images/IMG_7889.webp" %}
 
   
 
@@ -142,22 +142,22 @@ Then we walked to the shopping area, which had many tourists. We read the US Sta
   
 
 
-[<img width="320" src="images/IMG_7894.webp"/>]({% image "content/blog/images/IMG_7894.webp" %})
+{% image "images/IMG_7894.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7895.webp"/>]({% image "content/blog/images/IMG_7895.webp" %})
+{% image "images/IMG_7895.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7897.webp"/>]({% image "content/blog/images/IMG_7897.webp" %})
+{% image "images/IMG_7897.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7898.webp"/>]({% image "content/blog/images/IMG_7898.webp" %})
+{% image "images/IMG_7898.webp" %}
 
   
 
@@ -167,12 +167,12 @@ It was Caribbean night at the MDR. I tried to get nachos, but our waiter kept sa
   
 
 
-[<img width="320" src="images/IMG_7899.webp"/>]({% image "content/blog/images/IMG_7899.webp" %})
+{% image "images/IMG_7899.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7900.webp"/>]({% image "content/blog/images/IMG_7900.webp" %})
+{% image "images/IMG_7900.webp" %}
 
   
 
@@ -182,12 +182,12 @@ The kids and I all ordered the BBQ pork ribs. They were very good and very messy
   
 
 
-[<img width="320" src="images/IMG_7902.webp"/>]({% image "content/blog/images/IMG_7902.webp" %})
+{% image "images/IMG_7902.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7901.webp"/>]({% image "content/blog/images/IMG_7901.webp" %})
+{% image "images/IMG_7901.webp" %}
 
   
 
@@ -197,17 +197,17 @@ Joel and Owen got the key lime pie; they noted that it was interesting but that 
   
 
 
-[<img width="320" src="images/IMG_7903.webp"/>]({% image "content/blog/images/IMG_7903.webp" %})
+{% image "images/IMG_7903.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7904.webp"/>]({% image "content/blog/images/IMG_7904.webp" %})
+{% image "images/IMG_7904.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7905.webp"/>]({% image "content/blog/images/IMG_7905.webp" %})
+{% image "images/IMG_7905.webp" %}
 
   
 
@@ -217,32 +217,32 @@ After dinner, the Nassau sail away from the one view point on the promenade deck
   
 
 
-[<img width="320" src="images/IMG_7907.webp"/>]({% image "content/blog/images/IMG_7907.webp" %})
+{% image "images/IMG_7907.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7913.webp"/>]({% image "content/blog/images/IMG_7913.webp" %})
+{% image "images/IMG_7913.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7917.webp"/>]({% image "content/blog/images/IMG_7917.webp" %})
+{% image "images/IMG_7917.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7918.webp"/>]({% image "content/blog/images/IMG_7918.webp" %})
+{% image "images/IMG_7918.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7919.webp"/>]({% image "content/blog/images/IMG_7919.webp" %})
+{% image "images/IMG_7919.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7920.webp"/>]({% image "content/blog/images/IMG_7920.webp" %})
+{% image "images/IMG_7920.webp" %}
 
 Next up...[two Sea Days](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-two-sea-days-march-2024.html).
 

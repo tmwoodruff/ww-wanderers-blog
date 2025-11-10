@@ -14,27 +14,27 @@ Being our last camping night, we did not have luggage space to take the purchase
 
 We did not take down the tent yet and went east to Ross Dam Trail at MP/Milepost 134 for the 1.5 miles, 500 foot elevation gain hike. This hike was downhill first and then up. We quickly found a waterfall. 
 
-[<img width="320" src="images/IMG_8617.webp"/>]({% image "content/blog/images/IMG_8617.webp" %})
+{% image "images/IMG_8617.webp" %}
 
   
 
 
-<img width="320" src="images/P1140557.webp"/>
+{% image "images//P1140557.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140560.webp"/>]({% image "content/blog/images/P1140560.webp" %})
+{% image "images/P1140560.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140563.webp"/>]({% image "content/blog/images/P1140563.webp" %})
+{% image "images/P1140563.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140565.webp"/>]({% image "content/blog/images/P1140565.webp" %})
+{% image "images/P1140565.webp" %}
 
   
 
@@ -44,32 +44,32 @@ Arrived at Ross Dam.
   
 
 
-[<img width="320" src="images/IMG_8628.webp"/>]({% image "content/blog/images/IMG_8628.webp" %})
+{% image "images/IMG_8628.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8629.webp"/>]({% image "content/blog/images/IMG_8629.webp" %})
+{% image "images/IMG_8629.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140567.webp"/>]({% image "content/blog/images/P1140567.webp" %})
+{% image "images/P1140567.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140577.webp"/>]({% image "content/blog/images/P1140577.webp" %})
+{% image "images/P1140577.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140580.webp"/>]({% image "content/blog/images/P1140580.webp" %})
+{% image "images/P1140580.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140586.webp"/>]({% image "content/blog/images/P1140586.webp" %})
+{% image "images/P1140586.webp" %}
 
   
 
@@ -78,17 +78,17 @@ Arrived at Ross Dam.
   
 
 
-[<img width="320" src="images/IMG_8629.webp"/>]({% image "content/blog/images/IMG_8629.webp" %})
+{% image "images/IMG_8629.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140587.webp"/>]({% image "content/blog/images/P1140587.webp" %})
+{% image "images/P1140587.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140589.webp"/>]({% image "content/blog/images/P1140589.webp" %})
+{% image "images/P1140589.webp" %}
 
   
 
@@ -98,17 +98,17 @@ There was also a waterfall into the lake by the dam. Washington had many beautif
   
 
 
-[<img width="320" src="images/P1140594.webp"/>]({% image "content/blog/images/P1140594.webp" %})
+{% image "images/P1140594.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140595.webp"/>]({% image "content/blog/images/P1140595.webp" %})
+{% image "images/P1140595.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140598.webp"/>]({% image "content/blog/images/P1140598.webp" %})
+{% image "images/P1140598.webp" %}
 
   
 
@@ -118,17 +118,17 @@ The power house and electric lines up and across the mountains.
   
 
 
-[<img width="320" src="images/P1140600.webp"/>]({% image "content/blog/images/P1140600.webp" %})
+{% image "images/P1140600.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140597.webp"/>]({% image "content/blog/images/P1140597.webp" %})
+{% image "images/P1140597.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140602.webp"/>]({% image "content/blog/images/P1140602.webp" %})
+{% image "images/P1140602.webp" %}
 
   
 
@@ -138,32 +138,32 @@ They used the log barriers here too. The lake was very pretty and with the sunri
   
 
 
-[<img width="320" src="images/P1140606.webp"/>]({% image "content/blog/images/P1140606.webp" %})
+{% image "images/P1140606.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140611.webp"/>]({% image "content/blog/images/P1140611.webp" %})
+{% image "images/P1140611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8647.webp"/>]({% image "content/blog/images/IMG_8647.webp" %})
+{% image "images/IMG_8647.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8650.webp"/>]({% image "content/blog/images/IMG_8650.webp" %})
+{% image "images/IMG_8650.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8653.webp"/>]({% image "content/blog/images/IMG_8653.webp" %})
+{% image "images/IMG_8653.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8655.webp"/>]({% image "content/blog/images/IMG_8655.webp" %})
+{% image "images/IMG_8655.webp" %}
 
   
 
@@ -173,7 +173,7 @@ After the hike, we went back to the campsite to pack up and then headed toward S
   
 
 
-[<img width="320" src="images/IMG_8660.webp"/>]({% image "content/blog/images/IMG_8660.webp" %})
+{% image "images/IMG_8660.webp" %}
 
   
 
@@ -188,17 +188,17 @@ We found some turtles in a pond and lots of hydrangeas.
   
 
 
-[<img width="320" src="images/IMG_8664.webp"/>]({% image "content/blog/images/IMG_8664.webp" %})
+{% image "images/IMG_8664.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8665.webp"/>]({% image "content/blog/images/IMG_8665.webp" %})
+{% image "images/IMG_8665.webp" %}
 
   
 
 
-[<img width="320" src="images/P1140624.webp"/>]({% image "content/blog/images/P1140624.webp" %})
+{% image "images/P1140624.webp" %}
 
 Then we did a drive (scary because of city driving) by the Space Needle and then past Pike's Place fish market, but with limited parking options, did not get out. Then on to the hotel -- Motel 6. There we someone in front of us asking about staying for eight weeks. There was a three week limit, I think, and they wrote a quote on paper for him for that time frame, and then he left. Maybe I should have spent more to stay somewhere else. We did not have any crime issues and the stay was fine. Also, it was very close to the car rental return for our early flight. There were also a few walkable, interesting looking restaurants nearby, though we stayed at the hotel and worked to eat up some of our leftover food. 
 

@@ -22,62 +22,62 @@ We hiked the main trail counter-clockwise, which was recommended on the internet
 
 Columbine flowers and Lake Ann from above. There was also some snow that looked like it fell from higher up the mountain by Lake Ann's banks. Then some amazing views. It was a very pretty trail.
 
-[<img width="320" src="images/IMG_8458.webp"/>]({% image "content/blog/images/IMG_8458.webp" %})
+{% image "images/IMG_8458.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8478.webp"/>]({% image "content/blog/images/IMG_8478.webp" %})
+{% image "images/IMG_8478.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8488.webp"/>]({% image "content/blog/images/IMG_8488.webp" %})
+{% image "images/IMG_8488.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8555.webp"/>]({% image "content/blog/images/IMG_8555.webp" %})
+{% image "images/IMG_8555.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8490.webp"/>]({% image "content/blog/images/IMG_8490.webp" %})
+{% image "images/IMG_8490.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8491.webp"/>]({% image "content/blog/images/IMG_8491.webp" %})
+{% image "images/IMG_8491.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8493.webp"/>]({% image "content/blog/images/IMG_8493.webp" %})
+{% image "images/IMG_8493.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8498.webp"/>]({% image "content/blog/images/IMG_8498.webp" %})
+{% image "images/IMG_8498.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8520.webp"/>]({% image "content/blog/images/IMG_8520.webp" %})
+{% image "images/IMG_8520.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8527.webp"/>]({% image "content/blog/images/IMG_8527.webp" %})
+{% image "images/IMG_8527.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8534.webp"/>]({% image "content/blog/images/IMG_8534.webp" %})
+{% image "images/IMG_8534.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8544.webp"/>]({% image "content/blog/images/IMG_8544.webp" %})
+{% image "images/IMG_8544.webp" %}
 
   
 
@@ -87,27 +87,27 @@ Then we found the second lake, could see Rainy Lake from Maple Pass Loop, with s
   
 
 
-[<img width="320" src="images/IMG_8545.webp"/>]({% image "content/blog/images/IMG_8545.webp" %})
+{% image "images/IMG_8545.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8551.webp"/>]({% image "content/blog/images/IMG_8551.webp" %})
+{% image "images/IMG_8551.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8557.webp"/>]({% image "content/blog/images/IMG_8557.webp" %})
+{% image "images/IMG_8557.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8570.webp"/>]({% image "content/blog/images/IMG_8570.webp" %})
+{% image "images/IMG_8570.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8585.webp"/>]({% image "content/blog/images/IMG_8585.webp" %})
+{% image "images/IMG_8585.webp" %}
 
   
 
@@ -117,17 +117,17 @@ After Maple Loop, we went further east to Washington Pass and then on to Winthro
   
 
 
-[<img width="320" src="images/IMG_8591.webp"/>]({% image "content/blog/images/IMG_8591.webp" %})
+{% image "images/IMG_8591.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8586.webp"/>]({% image "content/blog/images/IMG_8586.webp" %})
+{% image "images/IMG_8586.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8589.webp"/>]({% image "content/blog/images/IMG_8589.webp" %})
+{% image "images/IMG_8589.webp" %}
 
   
 
@@ -137,32 +137,32 @@ After finishing in Winthrop, we went down Old Diablo Rd (at MP 127, not MP 128 l
   
 
 
-[<img width="320" src="images/IMG_8593.webp"/>]({% image "content/blog/images/IMG_8593.webp" %})
+{% image "images/IMG_8593.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8597.webp"/>]({% image "content/blog/images/IMG_8597.webp" %})
+{% image "images/IMG_8597.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8598.webp"/>]({% image "content/blog/images/IMG_8598.webp" %})
+{% image "images/IMG_8598.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8603.webp"/>]({% image "content/blog/images/IMG_8603.webp" %})
+{% image "images/IMG_8603.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8605.webp"/>]({% image "content/blog/images/IMG_8605.webp" %})
+{% image "images/IMG_8605.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8608.webp"/>]({% image "content/blog/images/IMG_8608.webp" %})
+{% image "images/IMG_8608.webp" %}
 
   
 
@@ -172,7 +172,7 @@ I don't know what this did, but there was a train-like track for it to move the 
   
 
 
-[<img width="320" src="images/IMG_8610.webp"/>]({% image "content/blog/images/IMG_8610.webp" %})
+{% image "images/IMG_8610.webp" %}
 
   
 
@@ -182,12 +182,12 @@ Lastly, we went to the Ranger talk in Colonial Creek South Campground that I men
   
 
 
-[<img width="320" src="images/IMG_8611.webp"/>]({% image "content/blog/images/IMG_8611.webp" %})
+{% image "images/IMG_8611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8614.webp"/>]({% image "content/blog/images/IMG_8614.webp" %})
+{% image "images/IMG_8614.webp" %}
 
 Next Up...[Last day in North Cascades and Seattle](https://ww-wanderers.blogspot.com/2024/08/north-cascades-and-seattle-july-2024.html)
 

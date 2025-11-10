@@ -17,7 +17,7 @@ We grabbed everything that we wanted (went back for jackets) to take on the firs
   
 
 
-[<img width="320" src="images/IMG_5316.webp"/>]({% image "content/blog/images/IMG_5316.webp" %})
+{% image "images/IMG_5316.webp" %}
 
   
 
@@ -27,12 +27,12 @@ And then more of his friends. Owen wanted his picture taken with the bighorn she
   
 
 
-[<img width="320" src="images/IMG_5320.webp"/>]({% image "content/blog/images/IMG_5320.webp" %})
+{% image "images/IMG_5320.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110594.webp"/>]({% image "content/blog/images/P1110594.webp" %})
+{% image "images/P1110594.webp" %}
 
   
 
@@ -42,7 +42,7 @@ Starting the trail, which starts as a boardwalk.
   
 
 
-[<img width="320" src="images/P1110603.webp"/>]({% image "content/blog/images/P1110603.webp" %})
+{% image "images/P1110603.webp" %}
 
   
 
@@ -52,12 +52,12 @@ Then it turned into snow hiking. This was challenging but cool and fun too. Ther
   
 
 
-[<img width="320" src="images/IMG_5326.webp"/>]({% image "content/blog/images/IMG_5326.webp" %})
+{% image "images/IMG_5326.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5328.webp"/>]({% image "content/blog/images/IMG_5328.webp" %})
+{% image "images/IMG_5328.webp" %}
 
   
 
@@ -67,12 +67,12 @@ We arrived at the Hidden Lake lookout where the trail was closed to the Lake for
   
 
 
-[<img width="320" src="images/P1110636.webp"/>]({% image "content/blog/images/P1110636.webp" %})
+{% image "images/P1110636.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110647.webp"/>]({% image "content/blog/images/P1110647.webp" %})
+{% image "images/P1110647.webp" %}
 
   
 
@@ -82,17 +82,17 @@ We found this guy. He had scared another group of hikers by trying to block them
   
 
 
-[<img width="320" src="images/P1110661.webp"/>]({% image "content/blog/images/P1110661.webp" %})
+{% image "images/P1110661.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110665.webp"/>]({% image "content/blog/images/P1110665.webp" %})
+{% image "images/P1110665.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110668.webp"/>]({% image "content/blog/images/P1110668.webp" %})
+{% image "images/P1110668.webp" %}
 
   
 
@@ -102,7 +102,7 @@ Pika (?) busy working.
   
 
 
-[<img width="320" src="images/P1110671.webp"/>]({% image "content/blog/images/P1110671.webp" %})
+{% image "images/P1110671.webp" %}
 
   
 
@@ -112,12 +112,12 @@ There were guys snowboarding down the hills. Ours found a snow melt.
   
 
 
-[<img width="320" src="images/P1110676.webp"/>]({% image "content/blog/images/P1110676.webp" %})
+{% image "images/P1110676.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110679.webp"/>]({% image "content/blog/images/P1110679.webp" %})
+{% image "images/P1110679.webp" %}
 
   
 
@@ -127,17 +127,17 @@ Owen's footprint in the snow hiking; we slid to the side.
   
 
 
-[<img width="320" src="images/IMG_5349.webp"/>]({% image "content/blog/images/IMG_5349.webp" %})
+{% image "images/IMG_5349.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5345.webp"/>]({% image "content/blog/images/IMG_5345.webp" %})
+{% image "images/IMG_5345.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5348.webp"/>]({% image "content/blog/images/IMG_5348.webp" %})
+{% image "images/IMG_5348.webp" %}
 
   
 
@@ -147,17 +147,17 @@ Then we found this area with bighorn sheep and marmots. Owen wanted to go out to
   
 
 
-[<img width="320" src="images/IMG_5350.webp"/>]({% image "content/blog/images/IMG_5350.webp" %})
+{% image "images/IMG_5350.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5353.webp"/>]({% image "content/blog/images/IMG_5353.webp" %})
+{% image "images/IMG_5353.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5354.webp"/>]({% image "content/blog/images/IMG_5354.webp" %})
+{% image "images/IMG_5354.webp" %}
 
   
 
@@ -172,7 +172,7 @@ The Visitor Center had a model marmot; they do have big, scary front two teeth. 
   
 
 
-[<img width="320" src="images/IMG_5361.webp"/>]({% image "content/blog/images/IMG_5361.webp" %})
+{% image "images/IMG_5361.webp" %}
 
   
 
@@ -182,7 +182,7 @@ Then we started down the popular Highline Trail just to see the very beginning. 
   
 
 
-[<img width="320" src="images/IMG_5366.webp"/>]({% image "content/blog/images/IMG_5366.webp" %})
+{% image "images/IMG_5366.webp" %}
 
   
 
@@ -192,17 +192,17 @@ From the trail, there is a great view of a waterfall that is above, under, and b
   
 
 
-[<img width="320" src="images/IMG_5369.webp"/>]({% image "content/blog/images/IMG_5369.webp" %})
+{% image "images/IMG_5369.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110829.webp"/>]({% image "content/blog/images/P1110829.webp" %})
+{% image "images/P1110829.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110832.webp"/>]({% image "content/blog/images/P1110832.webp" %})
+{% image "images/P1110832.webp" %}
 
   
 
@@ -217,12 +217,12 @@ Back on the Going-to-the-Sun Road heading West.
   
 
 
-[<img width="320" src="images/IMG_5371.webp"/>]({% image "content/blog/images/IMG_5371.webp" %})
+{% image "images/IMG_5371.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110711.webp"/>]({% image "content/blog/images/P1110711.webp" %})
+{% image "images/P1110711.webp" %}
 
   
 
@@ -232,17 +232,17 @@ A tunnel and a window out of a tunnel.
   
 
 
-[<img width="320" src="images/P1110717.webp"/>]({% image "content/blog/images/P1110717.webp" %})
+{% image "images/P1110717.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110718.webp"/>]({% image "content/blog/images/P1110718.webp" %})
+{% image "images/P1110718.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110705.webp"/>]({% image "content/blog/images/P1110705.webp" %})
+{% image "images/P1110705.webp" %}
 
   
 
@@ -252,27 +252,27 @@ Next, we planned the Avalanche Lake trail (2.3 miles one way) via the Trail of t
   
 
 
-[<img width="320" src="images/P1110737.webp"/>]({% image "content/blog/images/P1110737.webp" %})
+{% image "images/P1110737.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110747.webp"/>]({% image "content/blog/images/P1110747.webp" %})
+{% image "images/P1110747.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110776.webp"/>]({% image "content/blog/images/P1110776.webp" %})
+{% image "images/P1110776.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110765.webp"/>]({% image "content/blog/images/P1110765.webp" %})
+{% image "images/P1110765.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110794.webp"/>]({% image "content/blog/images/P1110794.webp" %})
+{% image "images/P1110794.webp" %}
 
   
 
@@ -282,7 +282,7 @@ We arrived at Avalanche Lake; it was very pretty with greens, blues, and turquoi
   
 
 
-<img width="320" src="images/IMG_5395.webp"/>
+{% image "images/IMG_5395.webp" %}
 
   
 
@@ -292,12 +292,12 @@ Back on the Trail of Cedars, a cool view up. Also, many ferns growing in the und
   
 
 
-[<img width="320" src="images/P1110795.webp"/>]({% image "content/blog/images/P1110795.webp" %})
+{% image "images/P1110795.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110797.webp"/>]({% image "content/blog/images/P1110797.webp" %})
+{% image "images/P1110797.webp" %}
 
   
 
@@ -318,17 +318,17 @@ Jackson Glacier. Since we would not be able to hike to Grinnell Glacier, I wante
   
 
 
-[<img width="320" src="images/IMG_5428.webp"/>]({% image "content/blog/images/IMG_5428.webp" %})
+{% image "images/IMG_5428.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110873.webp"/>]({% image "content/blog/images/P1110873.webp" %})
+{% image "images/P1110873.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5410.webp"/>]({% image "content/blog/images/IMG_5410.webp" %})
+{% image "images/IMG_5410.webp" %}
 
   
 
@@ -338,17 +338,17 @@ Many waterfalls along the road.
   
 
 
-[<img width="320" src="images/P1110819.webp"/>]({% image "content/blog/images/P1110819.webp" %})
+{% image "images/P1110819.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5423.webp"/>]({% image "content/blog/images/IMG_5423.webp" %})
+{% image "images/IMG_5423.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110859.webp"/>]({% image "content/blog/images/P1110859.webp" %})
+{% image "images/P1110859.webp" %}
 
   
 
@@ -357,18 +357,18 @@ Weeping wall
   
 
 
-[<img width="320" src="images/P1110845.webp"/>]({% image "content/blog/images/P1110845.webp" %})
+{% image "images/P1110845.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110850.webp"/>]({% image "content/blog/images/P1110850.webp" %})
+{% image "images/P1110850.webp" %}
 
   
 
 
   
-<img width="320" src="images/P1110824.webp"/>
+{% image "images/P1110824.webp" %}
 
   
 
@@ -378,17 +378,17 @@ I was thinking that it was nice and cool due to the elevation, but then determin
   
 
 
-[<img width="320" src="images/P1110856.webp"/>]({% image "content/blog/images/P1110856.webp" %})
+{% image "images/P1110856.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110857.webp"/>]({% image "content/blog/images/P1110857.webp" %})
+{% image "images/P1110857.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110862.webp"/>]({% image "content/blog/images/P1110862.webp" %})
+{% image "images/P1110862.webp" %}
 
   
 
@@ -398,12 +398,12 @@ This was a horse trail.
   
 
 
-[<img width="320" src="images/IMG_5434.webp"/>]({% image "content/blog/images/IMG_5434.webp" %})
+{% image "images/IMG_5434.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110874.webp"/>]({% image "content/blog/images/P1110874.webp" %})
+{% image "images/P1110874.webp" %}
 
   
 
@@ -413,12 +413,12 @@ Goose Island in Saint Mary Lake.
   
 
 
-[<img width="320" src="images/IMG_5436.webp"/>]({% image "content/blog/images/IMG_5436.webp" %})
+{% image "images/IMG_5436.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5442.webp"/>]({% image "content/blog/images/IMG_5442.webp" %})
+{% image "images/IMG_5442.webp" %}
 
   
 
@@ -428,12 +428,12 @@ Hiking around Saint Mary Lake.
   
 
 
-[<img width="320" src="images/IMG_5446.webp"/>]({% image "content/blog/images/IMG_5446.webp" %})
+{% image "images/IMG_5446.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5447.webp"/>]({% image "content/blog/images/IMG_5447.webp" %})
+{% image "images/IMG_5447.webp" %}
 
   
 

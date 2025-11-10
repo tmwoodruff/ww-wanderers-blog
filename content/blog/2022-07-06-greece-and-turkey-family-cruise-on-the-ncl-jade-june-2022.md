@@ -1,7 +1,7 @@
 ---
 title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
 date: 2022-07-06
-img: <img src="images/image1.webp"/>
+img: images/image1.webp
 tags: [Athens]
 category: Athens
 author: Tammy
@@ -22,7 +22,7 @@ In Athens, passport and immigration was quick, and our luggage came quickly. We 
 
 The hotel was good. Everyone at the front desk was friendly (we asked about a pharmacy for a cruise covid test and got two recommendations). Our flight arrived at 11:30 am and about an hour ride into to Athen, so the 2pm check in was perfect. They had the sleeper sofa open and ready for kids. Though we had to add our top sheets, they were folded into boats when we arrived. Maybe not everyone uses them. We were on the top floor, and it was quiet. We had two balconies that we could see the Acropolis in the distance. 
 
-[<img src="images/image1.webp"/>]({% image "content/blog/images/image2.webp" %})
+{% image "images/image2.webp" %}
 
   
 

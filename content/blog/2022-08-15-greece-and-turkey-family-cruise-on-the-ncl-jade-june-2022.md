@@ -12,7 +12,7 @@ description: ""
 
 Santorini, 8 am - 9:30 pm, so a lot time in port. This was also a tender port, and doh, we were about to head down right as they announced open tender. Bad timing; luckily, it was not too busy. On the tender boat -- Joel, Travis, and Owen.
 
-[<img width="320" src="images/IMG_4988.webp"/>]({% image "content/blog/images/IMG_4988.webp" %})
+{% image "images/IMG_4988.webp" %}
 
   
 
@@ -22,7 +22,7 @@ An interesting view from the tender boat.
   
 
 
-[<img width="320" src="images/IMG_4991.webp"/>]({% image "content/blog/images/IMG_4991.webp" %})
+{% image "images/IMG_4991.webp" %}
 
   
 
@@ -32,12 +32,12 @@ We took the cable car up instead of walking or the mules. The cable car was 6 Eu
   
 
 
-[<img width="320" src="images/IMG_4998.webp"/>]({% image "content/blog/images/IMG_4998.webp" %})
+{% image "images/IMG_4998.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5001.webp"/>]({% image "content/blog/images/IMG_5001.webp" %})
+{% image "images/IMG_5001.webp" %}
 
   
 
@@ -47,7 +47,7 @@ The inner workings
   
 
 
-[<img width="320" src="images/IMG_5004.webp"/>]({% image "content/blog/images/IMG_5004.webp" %})
+{% image "images/IMG_5004.webp" %}
 
   
 
@@ -62,12 +62,12 @@ Dominican Monastery and Catholic Cathedral
   
 
 
-[<img width="320" src="images/IMG_5012.webp"/>]({% image "content/blog/images/IMG_5012.webp" %})
+{% image "images/IMG_5012.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110174.webp"/>]({% image "content/blog/images/P1110174.webp" %})
+{% image "images/P1110174.webp" %}
 
   
 
@@ -77,72 +77,72 @@ The views! If you want to stay here, they have places where each unit has their 
   
 
 
-[<img width="320" src="images/IMG_5024.webp"/>]({% image "content/blog/images/IMG_5024.webp" %})
+{% image "images/IMG_5024.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5028.webp"/>]({% image "content/blog/images/IMG_5028.webp" %})
+{% image "images/IMG_5028.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5052.webp"/>]({% image "content/blog/images/IMG_5052.webp" %})
+{% image "images/IMG_5052.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5029.webp"/>]({% image "content/blog/images/IMG_5029.webp" %})
+{% image "images/IMG_5029.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5031.webp"/>]({% image "content/blog/images/IMG_5031.webp" %})
+{% image "images/IMG_5031.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5038.webp"/>]({% image "content/blog/images/IMG_5038.webp" %})
+{% image "images/IMG_5038.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110192.webp"/>]({% image "content/blog/images/P1110192.webp" %})
+{% image "images/P1110192.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110193.webp"/>]({% image "content/blog/images/P1110193.webp" %})
+{% image "images/P1110193.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110180.webp"/>]({% image "content/blog/images/P1110180.webp" %})
+{% image "images/P1110180.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110194.webp"/>]({% image "content/blog/images/P1110194.webp" %})
+{% image "images/P1110194.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110195.webp"/>]({% image "content/blog/images/P1110195.webp" %})
+{% image "images/P1110195.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110197.webp"/>]({% image "content/blog/images/P1110197.webp" %})
+{% image "images/P1110197.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110202.webp"/>]({% image "content/blog/images/P1110202.webp" %})
+{% image "images/P1110202.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_5041.webp"/>]({% image "content/blog/images/IMG_5041.webp" %})
+{% image "images/IMG_5041.webp" %}
 
   
 
@@ -152,12 +152,12 @@ A camera zoom into Oia. We started the hike but did not go all the way. Owen is 
   
 
 
-[<img width="320" src="images/IMG_5046.webp"/>]({% image "content/blog/images/IMG_5046.webp" %})
+{% image "images/IMG_5046.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110189.webp"/>]({% image "content/blog/images/P1110189.webp" %})
+{% image "images/P1110189.webp" %}
 
   
 
@@ -171,7 +171,7 @@ The comedy -- Santorini is one half of a caldera with other islands around the o
   
 
 
-[<img width="320" src="images/IMG_5054.webp"/>]({% image "content/blog/images/IMG_5054.webp" %})
+{% image "images/IMG_5054.webp" %}
 
   
 
@@ -181,12 +181,12 @@ Starting down the switchbacks where we met the mules on both the top and bottom.
   
 
 
-[<img width="320" src="images/IMG_5064.webp"/>]({% image "content/blog/images/IMG_5064.webp" %})
+{% image "images/IMG_5064.webp" %}
 
   
 
 
-[<img width="320" src="images/P1110233.webp"/>]({% image "content/blog/images/P1110233.webp" %})
+{% image "images/P1110233.webp" %}
 
   
 
@@ -196,7 +196,7 @@ So close, yet so far.
   
 
 
-[<img width="320" src="images/P1110238.webp"/>]({% image "content/blog/images/P1110238.webp" %})
+{% image "images/P1110238.webp" %}
 
   
 

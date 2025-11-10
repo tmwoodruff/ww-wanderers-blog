@@ -14,17 +14,17 @@ We arrived at Djupivogur, a tender port. The captain and team tried and declared
 
 At breakfast at O'Sheehan's (before arriving), I found the arms off the biggest Icelandic glacier on the south coast. For breakfast, Travis had oatmeal and coffee; I had a breakfast sandwich with a brioche bun, scrambled eggs, American cheese, aka hamburger cheese in Iceland, and ham. It was pretty good.
 
-[<img width="320" src="images/IMG_6479.webp"/>]({% image "content/blog/images/IMG_6479.webp" %})
+{% image "images/IMG_6479.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6482.webp"/>]({% image "content/blog/images/IMG_6482.webp" %})
+{% image "images/IMG_6482.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6487.webp"/>]({% image "content/blog/images/IMG_6487.webp" %})
+{% image "images/IMG_6487.webp" %}
 
   
 
@@ -39,17 +39,17 @@ We had Le Bistro with our platinum certificate booked, online before boarding --
   
 
 
-[<img width="320" src="images/IMG_6495.webp"/>]({% image "content/blog/images/IMG_6495.webp" %})
+{% image "images/IMG_6495.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6497.webp"/>]({% image "content/blog/images/IMG_6497.webp" %})
+{% image "images/IMG_6497.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6499.webp"/>]({% image "content/blog/images/IMG_6499.webp" %})
+{% image "images/IMG_6499.webp" %}
 
   
 
@@ -59,12 +59,12 @@ For dessert, Travis had Fraisier, and I had 70% chocolate.
   
 
 
-[<img width="320" src="images/IMG_6500.webp"/>]({% image "content/blog/images/IMG_6500.webp" %})
+{% image "images/IMG_6500.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6501.webp"/>]({% image "content/blog/images/IMG_6501.webp" %})
+{% image "images/IMG_6501.webp" %}
 
   
 
@@ -74,12 +74,12 @@ The acrobat show was scheduled today. I was excited and always enjoyed their sho
   
 
 
-[<img width="320" src="images/IMG_6502.webp"/>]({% image "content/blog/images/IMG_6502.webp" %})
+{% image "images/IMG_6502.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6503.webp"/>]({% image "content/blog/images/IMG_6503.webp" %})
+{% image "images/IMG_6503.webp" %}
 
   
 
@@ -94,7 +94,7 @@ There were vendors selling tours to the Godafoss waterfall and Lake Mývatn that
   
 
 
-[<img width="320" src="images/IMG_6505.webp"/>]({% image "content/blog/images/IMG_6505.webp" %})
+{% image "images/IMG_6505.webp" %}
 
   
 
@@ -104,17 +104,17 @@ We found an adorable seal by the whale tail statue. He was so sweet. Later in th
   
 
 
-[<img width="320" src="images/IMG_6510.webp"/>]({% image "content/blog/images/IMG_6510.webp" %})
+{% image "images/IMG_6510.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6512.webp"/>]({% image "content/blog/images/IMG_6512.webp" %})
+{% image "images/IMG_6512.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6516.webp"/>]({% image "content/blog/images/IMG_6516.webp" %})
+{% image "images/IMG_6516.webp" %}
 
   
 
@@ -124,17 +124,17 @@ Past the whale tail, named Strandgata, was the Hof cultural center. Then I just 
   
 
 
-[<img width="320" src="images/IMG_6519.webp"/>]({% image "content/blog/images/IMG_6519.webp" %})
+{% image "images/IMG_6519.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6520.webp"/>]({% image "content/blog/images/IMG_6520.webp" %})
+{% image "images/IMG_6520.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6522.webp"/>]({% image "content/blog/images/IMG_6522.webp" %})
+{% image "images/IMG_6522.webp" %}
 
   
 
@@ -144,17 +144,17 @@ Most of the towns looked to have a rainbow sidewalk or street. This yarn chicken
   
 
 
-[<img width="320" src="images/IMG_6524.webp"/>]({% image "content/blog/images/IMG_6524.webp" %})
+{% image "images/IMG_6524.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6528.webp"/>]({% image "content/blog/images/IMG_6528.webp" %})
+{% image "images/IMG_6528.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6532.webp"/>]({% image "content/blog/images/IMG_6532.webp" %})
+{% image "images/IMG_6532.webp" %}
 
   
 
@@ -164,22 +164,22 @@ Birds that we identified when we were there, but forgot now. Then we arrived at 
   
 
 
-[<img width="320" src="images/IMG_6536.webp"/>]({% image "content/blog/images/IMG_6536.webp" %})
+{% image "images/IMG_6536.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6539.webp"/>]({% image "content/blog/images/IMG_6539.webp" %})
+{% image "images/IMG_6539.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6541.webp"/>]({% image "content/blog/images/IMG_6541.webp" %})
+{% image "images/IMG_6541.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6545.webp"/>]({% image "content/blog/images/IMG_6545.webp" %})
+{% image "images/IMG_6545.webp" %}
 
   
 
@@ -187,27 +187,27 @@ Birds that we identified when we were there, but forgot now. Then we arrived at 
 These mounds were artic plants from different artic areas.   
 
 
-[<img width="320" src="images/IMG_6548.webp"/>]({% image "content/blog/images/IMG_6548.webp" %})
+{% image "images/IMG_6548.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6550.webp"/>]({% image "content/blog/images/IMG_6550.webp" %})
+{% image "images/IMG_6550.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6556.webp"/>]({% image "content/blog/images/IMG_6556.webp" %})
+{% image "images/IMG_6556.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6561.webp"/>]({% image "content/blog/images/IMG_6561.webp" %})
+{% image "images/IMG_6561.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6569.webp"/>]({% image "content/blog/images/IMG_6569.webp" %})
+{% image "images/IMG_6569.webp" %}
 
   
 For lunch, we went to the buffet. I found a pork corden bleu, which was really good. The NCL pizza is improved and pretty good now. The chili corndog did not have much chili taste.   
@@ -219,22 +219,22 @@ When we got back off the ship we walked along the coast. I liked the apartment c
   
 
 
-[<img width="320" src="images/IMG_6574.webp"/>]({% image "content/blog/images/IMG_6574.webp" %})
+{% image "images/IMG_6574.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6575.webp"/>]({% image "content/blog/images/IMG_6575.webp" %})
+{% image "images/IMG_6575.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6578.webp"/>]({% image "content/blog/images/IMG_6578.webp" %})
+{% image "images/IMG_6578.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6579.webp"/>]({% image "content/blog/images/IMG_6579.webp" %})
+{% image "images/IMG_6579.webp" %}
 
   
 
@@ -244,17 +244,17 @@ The Akureyri International Airport with runway ending in the water. Trying to sp
   
 
 
-[<img width="320" src="images/IMG_6582.webp"/>]({% image "content/blog/images/IMG_6582.webp" %})
+{% image "images/IMG_6582.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6583.webp"/>]({% image "content/blog/images/IMG_6583.webp" %})
+{% image "images/IMG_6583.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6586.webp"/>]({% image "content/blog/images/IMG_6586.webp" %})
+{% image "images/IMG_6586.webp" %}
 
   
 
@@ -264,7 +264,7 @@ During an economic downturn, they put up lights with the red light in the shape 
   
 
 
-[<img width="320" src="images/IMG_6589.webp"/>]({% image "content/blog/images/IMG_6589.webp" %})
+{% image "images/IMG_6589.webp" %}
 
   
 

@@ -12,7 +12,7 @@ description: ""
 
 We had breakfast at the buffet. I liked the divers from the buffet seating area. I discovered the iced buns this morning; they are very good. The hash browns here were better than those yesterday in the MDR; more toasted or fried longer. This day they had a special -- it was a very good sirloin steak. 
 
-[<img width="320" src="images/IMG_20240916_073307536_HDR.webp"/>]({% image "content/blog/images/IMG_20240916_073307536_HDR.webp" %})
+{% image "images/IMG_20240916_073307536_HDR.webp" %}
 
   
 
@@ -22,37 +22,37 @@ Some pictures from the upper decks. Behind the buffet outside is nice, and also 
   
 
 
-[<img width="320" src="images/IMG_20240916_180612698_HDR.webp"/>]({% image "content/blog/images/IMG_20240916_180612698_HDR.webp" %})
+{% image "images/IMG_20240916_180612698_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20240916_175950936_HDR.webp"/>]({% image "content/blog/images/IMG_20240916_175950936_HDR.webp" %})
+{% image "images/IMG_20240916_175950936_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20240916_175854088_HDR.webp"/>]({% image "content/blog/images/IMG_20240916_175854088_HDR.webp" %})
+{% image "images/IMG_20240916_175854088_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8861.webp"/>]({% image "content/blog/images/IMG_8861.webp" %})
+{% image "images/IMG_8861.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8843.webp"/>]({% image "content/blog/images/IMG_8843.webp" %})
+{% image "images/IMG_8843.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8845.webp"/>]({% image "content/blog/images/IMG_8845.webp" %})
+{% image "images/IMG_8845.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8839.webp"/>]({% image "content/blog/images/IMG_8839.webp" %})
+{% image "images/IMG_8839.webp" %}
 
   
 
@@ -67,17 +67,17 @@ We got off early and walked around a little, went across a bridge, found the loc
   
 
 
-[<img width="320" src="images/IMG_8877.webp"/>]({% image "content/blog/images/IMG_8877.webp" %})
+{% image "images/IMG_8877.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8874.webp"/>]({% image "content/blog/images/IMG_8874.webp" %})
+{% image "images/IMG_8874.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8851.webp"/>]({% image "content/blog/images/IMG_8851.webp" %})
+{% image "images/IMG_8851.webp" %}
 
   
 
@@ -97,79 +97,79 @@ We arrived. Still some clouds, but some good breaks would come and go. It was an
   
 
 
-[<img width="320" src="images/IMG_8918.webp"/>]({% image "content/blog/images/IMG_8918.webp" %})
+{% image "images/IMG_8918.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8921.webp"/>]({% image "content/blog/images/IMG_8921.webp" %})
+{% image "images/IMG_8921.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8946.webp"/>]({% image "content/blog/images/IMG_8946.webp" %})
+{% image "images/IMG_8946.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8927.webp"/>]({% image "content/blog/images/IMG_8927.webp" %})
+{% image "images/IMG_8927.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8931.webp"/>]({% image "content/blog/images/IMG_8931.webp" %})
+{% image "images/IMG_8931.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8932.webp"/>]({% image "content/blog/images/IMG_8932.webp" %})
+{% image "images/IMG_8932.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8905.webp"/>]({% image "content/blog/images/IMG_8905.webp" %})
+{% image "images/IMG_8905.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8939.webp"/>]({% image "content/blog/images/IMG_8939.webp" %})
+{% image "images/IMG_8939.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8898.webp"/>]({% image "content/blog/images/IMG_8898.webp" %})
+{% image "images/IMG_8898.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8900.webp"/>]({% image "content/blog/images/IMG_8900.webp" %})
+{% image "images/IMG_8900.webp" %}
 
   
   
   
 
 
-[<img width="320" src="images/IMG_8909.webp"/>]({% image "content/blog/images/IMG_8909.webp" %})
+{% image "images/IMG_8909.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8916.webp"/>]({% image "content/blog/images/IMG_8916.webp" %})
+{% image "images/IMG_8916.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8948.webp"/>]({% image "content/blog/images/IMG_8948.webp" %})
+{% image "images/IMG_8948.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8917.webp"/>]({% image "content/blog/images/IMG_8917.webp" %})
+{% image "images/IMG_8917.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8954.webp"/>]({% image "content/blog/images/IMG_8954.webp" %})
+{% image "images/IMG_8954.webp" %}
 
   
 
@@ -179,12 +179,12 @@ We found an e-card that you can rent at the port. Also, the famous restroom with
   
 
 
-[<img width="320" src="images/IMG_8945.webp"/>]({% image "content/blog/images/IMG_8945.webp" %})
+{% image "images/IMG_8945.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8949.webp"/>]({% image "content/blog/images/IMG_8949.webp" %})
+{% image "images/IMG_8949.webp" %}
 
   
 
@@ -194,12 +194,12 @@ Got a curvy road view picture on the way down. Our big coach had to pass cars on
   
 
 
-[<img width="320" src="images/IMG_8962.webp"/>]({% image "content/blog/images/IMG_8962.webp" %})
+{% image "images/IMG_8962.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8972.webp"/>]({% image "content/blog/images/IMG_8972.webp" %})
+{% image "images/IMG_8972.webp" %}
 
   
 
@@ -209,12 +209,12 @@ Returning to Flam, we went back to the ship for a quick lunch. Our ship was dock
   
 
 
-[<img width="320" src="images/IMG_8986.webp"/>]({% image "content/blog/images/IMG_8986.webp" %})
+{% image "images/IMG_8986.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8990.webp"/>]({% image "content/blog/images/IMG_8990.webp" %})
+{% image "images/IMG_8990.webp" %}
 
   
 
@@ -224,32 +224,32 @@ Back out, we were hiking to and up Brekkenfossen waterfall. We walked through to
   
 
 
-[<img width="320" src="images/IMG_8992.webp"/>]({% image "content/blog/images/IMG_8992.webp" %})
+{% image "images/IMG_8992.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8993.webp"/>]({% image "content/blog/images/IMG_8993.webp" %})
+{% image "images/IMG_8993.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8994.webp"/>]({% image "content/blog/images/IMG_8994.webp" %})
+{% image "images/IMG_8994.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9064.webp"/>]({% image "content/blog/images/IMG_9064.webp" %})
+{% image "images/IMG_9064.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8996.webp"/>]({% image "content/blog/images/IMG_8996.webp" %})
+{% image "images/IMG_8996.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9063.webp"/>]({% image "content/blog/images/IMG_9063.webp" %})
+{% image "images/IMG_9063.webp" %}
 
   
 
@@ -259,7 +259,7 @@ I learned "parking" was "parkering". No parking (parking forbidden) was "parkeri
   
 
 
-[<img width="320" src="images/IMG_8997.webp"/>]({% image "content/blog/images/IMG_8997.webp" %})
+{% image "images/IMG_8997.webp" %}
 
   
 
@@ -272,12 +272,12 @@ Spotting the waterfall that we were hiking up to with some nice pastoral cows an
   
 
 
-[<img width="320" src="images/IMG_9005.webp"/>]({% image "content/blog/images/IMG_9005.webp" %})
+{% image "images/IMG_9005.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8951.webp"/>]({% image "content/blog/images/IMG_8951.webp" %})
+{% image "images/IMG_8951.webp" %}
 
   
 
@@ -285,17 +285,17 @@ Spotting the waterfall that we were hiking up to with some nice pastoral cows an
   
 
 
-[<img width="320" src="images/IMG_9000.webp"/>]({% image "content/blog/images/IMG_9000.webp" %})
+{% image "images/IMG_9000.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9001.webp"/>]({% image "content/blog/images/IMG_9001.webp" %})
+{% image "images/IMG_9001.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9002.webp"/>]({% image "content/blog/images/IMG_9002.webp" %})
+{% image "images/IMG_9002.webp" %}
 
   
 
@@ -305,12 +305,12 @@ We arrived at the waterfall hike start; it was very uphill from here. Travis, wh
   
 
 
-[<img width="320" src="images/IMG_9015.webp"/>]({% image "content/blog/images/IMG_9015.webp" %})
+{% image "images/IMG_9015.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9021.webp"/>]({% image "content/blog/images/IMG_9021.webp" %})
+{% image "images/IMG_9021.webp" %}
 
   
 
@@ -320,49 +320,49 @@ Then we arrived. Travis tried the Norwegian brown cheese and shared with strange
   
 
 
-[<img width="320" src="images/IMG_9027.webp"/>]({% image "content/blog/images/IMG_9027.webp" %})
+{% image "images/IMG_9027.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9023.webp"/>]({% image "content/blog/images/IMG_9023.webp" %})
+{% image "images/IMG_9023.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9033.webp"/>]({% image "content/blog/images/IMG_9033.webp" %})
+{% image "images/IMG_9033.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9037.webp"/>]({% image "content/blog/images/IMG_9037.webp" %})
+{% image "images/IMG_9037.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9038.webp"/>]({% image "content/blog/images/IMG_9038.webp" %})
+{% image "images/IMG_9038.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9043.webp"/>]({% image "content/blog/images/IMG_9043.webp" %})
+{% image "images/IMG_9043.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9044.webp"/>]({% image "content/blog/images/IMG_9044.webp" %})
+{% image "images/IMG_9044.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9031.webp"/>]({% image "content/blog/images/IMG_9031.webp" %})
+{% image "images/IMG_9031.webp" %}
 
-[<img width="320" src="images/IMG_9032.webp"/>]({% image "content/blog/images/IMG_9032.webp" %})
+{% image "images/IMG_9032.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9049.webp"/>]({% image "content/blog/images/IMG_9049.webp" %})
+{% image "images/IMG_9049.webp" %}
 
   
 
@@ -372,12 +372,12 @@ Going down. When back on the road where the trail started, we took a different p
   
 
 
-[<img width="320" src="images/IMG_9050.webp"/>]({% image "content/blog/images/IMG_9050.webp" %})
+{% image "images/IMG_9050.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_9061.webp"/>]({% image "content/blog/images/IMG_9061.webp" %})
+{% image "images/IMG_9061.webp" %}
 
   
 
@@ -392,27 +392,27 @@ A few more pictures from the ship -- The historic hotel; a ship, beautiful fjord
   
 
 
-[<img width="320" src="images/IMG_8864.webp"/>]({% image "content/blog/images/IMG_8864.webp" %})
+{% image "images/IMG_8864.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8865.webp"/>]({% image "content/blog/images/IMG_8865.webp" %})
+{% image "images/IMG_8865.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8867.webp"/>]({% image "content/blog/images/IMG_8867.webp" %})
+{% image "images/IMG_8867.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_8870.webp"/>]({% image "content/blog/images/IMG_8870.webp" %})
+{% image "images/IMG_8870.webp" %}
 
   
 
 
-[<img src="images/IMG_8859.webp"/>]({% image "content/blog/images/IMG_8859.webp" %})
+{% image "images/IMG_8859.webp" %}
 
   
 

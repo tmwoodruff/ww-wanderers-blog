@@ -16,19 +16,19 @@ The tour started with picking up all those on the tour; they offered pickup at v
 
 After picking up everyone, the guide gave the day's tour plan. We left the capitol area and headed south. We came upon a geothermal, geyser area. Then the tree on a small island in the river was just cute. First glacier sighting -- up in the mountains. We passed round hay bales that were fully wrapped in thick plastic to survive the winter until needed. Passing Seljalandsfoss that we came back later to visit -- the hike behind the waterfall to be the last stop for those that got too wet. We learned that the 2010 volcano eruption, where the ash blew to Europe and shut down air traffic, gave Iceland a lot of free marketing. People had not heard of Iceland, so the news stories talked about the volcano and showed some waterfall pictures. Iceland is a country of 375,000 people but now gets 2+ million visitors per year. 
 
-[<img width="320" src="images/P1120361.webp"/>]({% image "content/blog/images/P1120361.webp" %})  
+{% image "images/P1120361.webp" %}  
   
 
 
-[<img width="320" src="images/P1120369.webp"/>]({% image "content/blog/images/P1120369.webp" %})  
+{% image "images/P1120369.webp" %}  
   
 
 
-[<img width="320" src="images/P1120375.webp"/>]({% image "content/blog/images/P1120375.webp" %})  
+{% image "images/P1120375.webp" %}  
   
 
 
-[<img width="320" src="images/P1120383.webp"/>]({% image "content/blog/images/P1120383.webp" %})  
+{% image "images/P1120383.webp" %}  
 
 
   
@@ -39,22 +39,22 @@ We arrived at Skógafoss. Foss means waterfall. A small introduction fall before
   
 
 
-[<img width="320" src="images/IMG_6400.webp"/>]({% image "content/blog/images/IMG_6400.webp" %})
+{% image "images/IMG_6400.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6407.webp"/>]({% image "content/blog/images/IMG_6407.webp" %})
+{% image "images/IMG_6407.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6409.webp"/>]({% image "content/blog/images/IMG_6409.webp" %})
+{% image "images/IMG_6409.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120402.webp"/>]({% image "content/blog/images/P1120402.webp" %})  
+{% image "images/P1120402.webp" %}  
   
 
 
@@ -63,7 +63,7 @@ I'm not a good upstairs or uphill climber. I have a lot more to go. They challen
   
 
 
-[<img width="320" src="images/P1120406.webp"/>]({% image "content/blog/images/P1120406.webp" %})
+{% image "images/P1120406.webp" %}
 
   
 
@@ -73,22 +73,22 @@ Wow -- the ocean, mountains, and a rainbow!
   
 
 
-[<img width="320" src="images/P1120410.webp"/>]({% image "content/blog/images/P1120410.webp" %})
+{% image "images/P1120410.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120415.webp"/>]({% image "content/blog/images/P1120415.webp" %})
+{% image "images/P1120415.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120425.webp"/>]({% image "content/blog/images/P1120425.webp" %})
+{% image "images/P1120425.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120444.webp"/>]({% image "content/blog/images/P1120444.webp" %})
+{% image "images/P1120444.webp" %}
 
   
 
@@ -98,12 +98,12 @@ The viewing platform at the top of the stairs.
   
 
 
-[<img width="320" src="images/P1120448.webp"/>]({% image "content/blog/images/P1120448.webp" %})
+{% image "images/P1120448.webp" %}
 
   
 
 
-[<img src="images/P1120457.webp"/>]({% image "content/blog/images/P1120457.webp" %})
+{% image "images/P1120457.webp" %}
 
   
 
@@ -113,12 +113,12 @@ Earlier we got a restroom break (complimentary restrooms) at a gas station and c
   
 
 
-[<img width="320" src="images/IMG_6419.webp"/>]({% image "content/blog/images/IMG_6419.webp" %})
+{% image "images/IMG_6419.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120473.webp"/>]({% image "content/blog/images/P1120473.webp" %})
+{% image "images/P1120473.webp" %}
 
   
 
@@ -128,22 +128,22 @@ We continued around the basalt columns to find this cool cave and birds flying a
   
 
 
-[<img width="320" src="images/P1120482.webp"/>]({% image "content/blog/images/P1120482.webp" %})
+{% image "images/P1120482.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120502.webp"/>]({% image "content/blog/images/P1120502.webp" %})
+{% image "images/P1120502.webp" %}
 
   
 
 
-[<img src="images/IMG_6437.webp"/>]({% image "content/blog/images/IMG_6437.webp" %})
+{% image "images/IMG_6437.webp" %}
 
   
 
 
-[<img src="images/IMG_6441.webp"/>]({% image "content/blog/images/IMG_6441.webp" %})
+{% image "images/IMG_6441.webp" %}
 
   
 We visited the restroom and returned to the bus to head to the glacier. 
@@ -161,41 +161,41 @@ We hiked to this lagoon, which used to be part of the glacier too, and there are
   
 
 
-[<img width="320" src="images/IMG_6447.webp"/>]({% image "content/blog/images/IMG_6447.webp" %})  
+{% image "images/IMG_6447.webp" %}  
   
 
 
-[<img width="320" src="images/P1120520.webp"/>]({% image "content/blog/images/P1120520.webp" %})
-
-  
-
-
-[<img width="320" src="images/P1120524.webp"/>]({% image "content/blog/images/P1120524.webp" %})
+{% image "images/P1120520.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120527.webp"/>]({% image "content/blog/images/P1120527.webp" %})
+{% image "images/P1120524.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120533.webp"/>]({% image "content/blog/images/P1120533.webp" %})
+{% image "images/P1120527.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120534.webp"/>]({% image "content/blog/images/P1120534.webp" %})
+{% image "images/P1120533.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120536.webp"/>]({% image "content/blog/images/P1120536.webp" %})
+{% image "images/P1120534.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120573.webp"/>]({% image "content/blog/images/P1120573.webp" %})  
+{% image "images/P1120536.webp" %}
+
+  
+
+
+{% image "images/P1120573.webp" %}  
   
 
 
@@ -204,12 +204,12 @@ The glaciers in Iceland are melting quickly. They estimated to be completely gon
   
 
 
-[<img width="320" src="images/IMG_6448.webp"/>]({% image "content/blog/images/IMG_6448.webp" %})
+{% image "images/IMG_6448.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6450.webp"/>]({% image "content/blog/images/IMG_6450.webp" %})
+{% image "images/IMG_6450.webp" %}
 
   
 
@@ -217,22 +217,22 @@ The glaciers in Iceland are melting quickly. They estimated to be completely gon
   
 
 
-[<img width="320" src="images/P1120542.webp"/>]({% image "content/blog/images/P1120542.webp" %})
+{% image "images/P1120542.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120544.webp"/>]({% image "content/blog/images/P1120544.webp" %})
+{% image "images/P1120544.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120548.webp"/>]({% image "content/blog/images/P1120548.webp" %})
+{% image "images/P1120548.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120550.webp"/>]({% image "content/blog/images/P1120550.webp" %})
+{% image "images/P1120550.webp" %}
 
   
 
@@ -242,12 +242,12 @@ He was building a new trail and still working when we came back. With the meltin
   
 
 
-[<img width="320" src="images/P1120552.webp"/>]({% image "content/blog/images/P1120552.webp" %})
+{% image "images/P1120552.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120553.webp"/>]({% image "content/blog/images/P1120553.webp" %})
+{% image "images/P1120553.webp" %}
 
   
 
@@ -255,32 +255,32 @@ He was building a new trail and still working when we came back. With the meltin
   
 
 
-[<img width="320" src="images/P1120556.webp"/>]({% image "content/blog/images/P1120556.webp" %})
+{% image "images/P1120556.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120557.webp"/>]({% image "content/blog/images/P1120557.webp" %})
+{% image "images/P1120557.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120561.webp"/>]({% image "content/blog/images/P1120561.webp" %})
+{% image "images/P1120561.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120570.webp"/>]({% image "content/blog/images/P1120570.webp" %})
+{% image "images/P1120570.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120575.webp"/>]({% image "content/blog/images/P1120575.webp" %})
+{% image "images/P1120575.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120577.webp"/>]({% image "content/blog/images/P1120577.webp" %})  
+{% image "images/P1120577.webp" %}  
   
 
 
@@ -289,62 +289,62 @@ Travis did the Viking way of drinking the water. It was clean and drinkable. I g
   
 
 
-[<img width="320" src="images/P1120579.webp"/>]({% image "content/blog/images/P1120579.webp" %})
+{% image "images/P1120579.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120580.webp"/>]({% image "content/blog/images/P1120580.webp" %})
+{% image "images/P1120580.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120582.webp"/>]({% image "content/blog/images/P1120582.webp" %})
+{% image "images/P1120582.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120592.webp"/>]({% image "content/blog/images/P1120592.webp" %})
+{% image "images/P1120592.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120598.webp"/>]({% image "content/blog/images/P1120598.webp" %})
+{% image "images/P1120598.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120599.webp"/>]({% image "content/blog/images/P1120599.webp" %})
+{% image "images/P1120599.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120601.webp"/>]({% image "content/blog/images/P1120601.webp" %})
+{% image "images/P1120601.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120619.webp"/>]({% image "content/blog/images/P1120619.webp" %})
+{% image "images/P1120619.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120624.webp"/>]({% image "content/blog/images/P1120624.webp" %})
+{% image "images/P1120624.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120625.webp"/>]({% image "content/blog/images/P1120625.webp" %})
+{% image "images/P1120625.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120626.webp"/>]({% image "content/blog/images/P1120626.webp" %})
+{% image "images/P1120626.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120631.webp"/>]({% image "content/blog/images/P1120631.webp" %})
+{% image "images/P1120631.webp" %}
 
   
 
@@ -359,22 +359,22 @@ Our last stop was Seljalandsfoss. We walked behind it. It was super wet! So, we 
   
 
 
-[<img width="320" src="images/IMG_6452.webp"/>]({% image "content/blog/images/IMG_6452.webp" %})
+{% image "images/IMG_6452.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120635.webp"/>]({% image "content/blog/images/P1120635.webp" %})
+{% image "images/P1120635.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120640.webp"/>]({% image "content/blog/images/P1120640.webp" %})
+{% image "images/P1120640.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6456.webp"/>]({% image "content/blog/images/IMG_6456.webp" %})
+{% image "images/IMG_6456.webp" %}
 
   
 
@@ -384,7 +384,7 @@ This was a view of a waterfall from behind. Okay, now we had to hike back quickl
   
 
 
-[<img width="320" src="images/IMG_6459.webp"/>]({% image "content/blog/images/IMG_6459.webp" %})
+{% image "images/IMG_6459.webp" %}
 
   
 

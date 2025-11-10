@@ -16,7 +16,7 @@ Moving past tendering, Kotor is at the of end of a fjord, so like experiencing t
 
 Upon arriving, we took a goodbye from Montenegro picture instead of the welcome to Montenegro picture. This side was less crowded; later it made sense why. 
 
-[<img width="320" src="images/IMG_0523.webp"/>]({% image "content/blog/images/IMG_0523.webp" %})
+{% image "images/IMG_0523.webp" %}
 
   
 
@@ -26,32 +26,32 @@ I believe that the walk went up that mountain; we could see hikers. I wondered w
   
 
 
-[<img width="320" src="images/IMG_0524.webp"/>]({% image "content/blog/images/IMG_0524.webp" %})
+{% image "images/IMG_0524.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0526.webp"/>]({% image "content/blog/images/IMG_0526.webp" %})
+{% image "images/IMG_0526.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0527.webp"/>]({% image "content/blog/images/IMG_0527.webp" %})
+{% image "images/IMG_0527.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0531.webp"/>]({% image "content/blog/images/IMG_0531.webp" %})
+{% image "images/IMG_0531.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0534.webp"/>]({% image "content/blog/images/IMG_0534.webp" %})
+{% image "images/IMG_0534.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0535.webp"/>]({% image "content/blog/images/IMG_0535.webp" %})
+{% image "images/IMG_0535.webp" %}
 
   
 
@@ -61,47 +61,47 @@ We next went up on the walls for a view down.
   
 
 
-[<img width="320" src="images/IMG_0538.webp"/>]({% image "content/blog/images/IMG_0538.webp" %})
+{% image "images/IMG_0538.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0539.webp"/>]({% image "content/blog/images/IMG_0539.webp" %})
+{% image "images/IMG_0539.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0541.webp"/>]({% image "content/blog/images/IMG_0541.webp" %})
+{% image "images/IMG_0541.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0542.webp"/>]({% image "content/blog/images/IMG_0542.webp" %})
+{% image "images/IMG_0542.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0543.webp"/>]({% image "content/blog/images/IMG_0543.webp" %})
+{% image "images/IMG_0543.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0544.webp"/>]({% image "content/blog/images/IMG_0544.webp" %})
+{% image "images/IMG_0544.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0545.webp"/>]({% image "content/blog/images/IMG_0545.webp" %})
+{% image "images/IMG_0545.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0546.webp"/>]({% image "content/blog/images/IMG_0546.webp" %})
+{% image "images/IMG_0546.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0548.webp"/>]({% image "content/blog/images/IMG_0548.webp" %})
+{% image "images/IMG_0548.webp" %}
 
   
 
@@ -111,22 +111,22 @@ We arrived at the Scurda river beside the old town walls; there were a ton of se
   
 
 
-[<img width="320" src="images/IMG_0549.webp"/>]({% image "content/blog/images/IMG_0549.webp" %})
+{% image "images/IMG_0549.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0551.webp"/>]({% image "content/blog/images/IMG_0551.webp" %})
+{% image "images/IMG_0551.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0569.webp"/>]({% image "content/blog/images/IMG_0569.webp" %})
+{% image "images/IMG_0569.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0574.webp"/>]({% image "content/blog/images/IMG_0574.webp" %})
+{% image "images/IMG_0574.webp" %}
 
   
 
@@ -136,32 +136,32 @@ This led to two churches; one active and one in ruins and not used now but still
   
 
 
-[<img width="320" src="images/IMG_0553.webp"/>]({% image "content/blog/images/IMG_0553.webp" %})
+{% image "images/IMG_0553.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0554.webp"/>]({% image "content/blog/images/IMG_0554.webp" %})
+{% image "images/IMG_0554.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0555.webp"/>]({% image "content/blog/images/IMG_0555.webp" %})
+{% image "images/IMG_0555.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0559.webp"/>]({% image "content/blog/images/IMG_0559.webp" %})
+{% image "images/IMG_0559.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0561.webp"/>]({% image "content/blog/images/IMG_0561.webp" %})
+{% image "images/IMG_0561.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0562.webp"/>]({% image "content/blog/images/IMG_0562.webp" %})
+{% image "images/IMG_0562.webp" %}
 
   
 
@@ -171,29 +171,29 @@ Next, we found a cat park. I loved the little baby kittens. There was a sign say
   
 
 
-[<img width="320" src="images/IMG_0565.webp"/>]({% image "content/blog/images/IMG_0565.webp" %})
+{% image "images/IMG_0565.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0566.webp"/>]({% image "content/blog/images/IMG_0566.webp" %})
+{% image "images/IMG_0566.webp" %}
 
   
 We stopped by a grocery store and then reentered the old town to see more. In a guidebook, there was a war museum, from the Yugoslavia breakup wars, mentioned that I wanted to go to. However, it looked no longer in existence; we could only find the Maritime Museum. I should have planned this better because we were also in Croatia. The old town water fountain, Old Fountain Karampana.   
   
 
 
-[<img width="320" src="images/IMG_0576.webp"/>]({% image "content/blog/images/IMG_0576.webp" %})[<img width="320" src="images/IMG_0578.webp"/>]({% image "content/blog/images/IMG_0578.webp" %})
+{% image "images/IMG_0576.webp" %}{% image "images/IMG_0578.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0579.webp"/>]({% image "content/blog/images/IMG_0579.webp" %})
+{% image "images/IMG_0579.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0583.webp"/>]({% image "content/blog/images/IMG_0583.webp" %})[<img width="320" src="images/IMG_0584.webp"/>]({% image "content/blog/images/IMG_0584.webp" %})
+{% image "images/IMG_0583.webp" %}{% image "images/IMG_0584.webp" %}
 
   
 
@@ -203,48 +203,47 @@ Fjord views and Holland America
   
 
 
-[<img width="320" src="images/IMG_0586.webp"/>]({% image "content/blog/images/IMG_0586.webp" %})
+{% image "images/IMG_0586.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0588.webp"/>]({% image "content/blog/images/IMG_0588.webp" %})
+{% image "images/IMG_0588.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0589.webp"/>]({% image "content/blog/images/IMG_0589.webp" %})
+{% image "images/IMG_0589.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0590.webp"/>  
-]({% image "content/blog/images/IMG_0590.webp" %})
+{% image "images/IMG_0590.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0591.webp"/>]({% image "content/blog/images/IMG_0591.webp" %})
+{% image "images/IMG_0591.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0593.webp"/>]({% image "content/blog/images/IMG_0593.webp" %})
+{% image "images/IMG_0593.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0594.webp"/>]({% image "content/blog/images/IMG_0594.webp" %})
+{% image "images/IMG_0594.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0596.webp"/>]({% image "content/blog/images/IMG_0596.webp" %})
+{% image "images/IMG_0596.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0598.webp"/>]({% image "content/blog/images/IMG_0598.webp" %})
+{% image "images/IMG_0598.webp" %}
 
   
 
@@ -254,12 +253,12 @@ Tonight we had the Italian restaurant specialty dining with our status meal cred
   
 
 
-[<img width="320" src="images/IMG_0600.webp"/>]({% image "content/blog/images/IMG_0600.webp" %})
+{% image "images/IMG_0600.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0601.webp"/>]({% image "content/blog/images/IMG_0601.webp" %})
+{% image "images/IMG_0601.webp" %}
 
   
 
@@ -269,12 +268,12 @@ Travis had Caprese salad, and I had calami. It came with a whole baby squid or o
   
 
 
-[<img width="320" src="images/IMG_0603.webp"/>]({% image "content/blog/images/IMG_0603.webp" %})
+{% image "images/IMG_0603.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0604.webp"/>]({% image "content/blog/images/IMG_0604.webp" %})
+{% image "images/IMG_0604.webp" %}
 
   
 
@@ -284,22 +283,22 @@ For a main, I had the salmon. I was disappointed in it though; it was not very g
   
 
 
-[<img width="320" src="images/IMG_0605.webp"/>]({% image "content/blog/images/IMG_0605.webp" %})
+{% image "images/IMG_0605.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0606.webp"/>]({% image "content/blog/images/IMG_0606.webp" %})
+{% image "images/IMG_0606.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0607.webp"/>]({% image "content/blog/images/IMG_0607.webp" %})
+{% image "images/IMG_0607.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0609.webp"/>]({% image "content/blog/images/IMG_0609.webp" %})
+{% image "images/IMG_0609.webp" %}
 
   
 
@@ -309,12 +308,12 @@ Some shots of the towns near by and a lit up bridge sailing away.
   
 
 
-[<img width="320" src="images/IMG_0611.webp"/>]({% image "content/blog/images/IMG_0611.webp" %})
+{% image "images/IMG_0611.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_0614.webp"/>]({% image "content/blog/images/IMG_0614.webp" %})
+{% image "images/IMG_0614.webp" %}
 
 Next up...[Corfu, Greece](https://ww-wanderers.blogspot.com/2024/12/corfu-greece-nov-2024.html)
 

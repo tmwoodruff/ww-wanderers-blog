@@ -20,7 +20,7 @@ We caught the bus and finished walking to the port. We read about a shuttle betw
 
 Walking to the cruise port with a pretty bell tower. 
 
-[<img width="320" src="images/IMG_4529.webp"/>]({% image "content/blog/images/IMG_4529.webp" %})
+{% image "images/IMG_4529.webp" %}
 
   
 
@@ -29,7 +29,7 @@ There was a guard at the entrance letting taxis in, but there did not seem to a 
 
 The kids in front of the ship; the first sighting is always very exciting. 
 
-[<img width="320" src="images/IMG_4531.webp"/>]({% image "content/blog/images/IMG_4531.webp" %})
+{% image "images/IMG_4531.webp" %}
 
   
 
@@ -40,7 +40,7 @@ Yay, then we walked right on, and our cruise vacation begins! As soon as getting
 
 I wanted the MDR for lunch, and we were there. However, it was not open and only had a preview of the night's dinner menu. So, we went to O'Sheehan's instead. We were on before 12:30 pm but close; rooms were announced ready while we were still eating, probably about 1pm. All of the crew were wonderful, and we were so happy to be back to cruising!
 
-[<img width="320" src="images/IMG_4535.webp"/>]({% image "content/blog/images/IMG_4535.webp" %})
+{% image "images/IMG_4535.webp" %}
 
   
 
@@ -55,7 +55,7 @@ Sail away; they had a little trouble unmooring us.
   
 
 
-[<img width="320" src="images/IMG_4547.webp"/>]({% image "content/blog/images/IMG_4547.webp" %})
+{% image "images/IMG_4547.webp" %}
 
   
 
@@ -65,12 +65,12 @@ MDR:
   
 
 
-[<img width="320" src="images/IMG_4561.webp"/>]({% image "content/blog/images/IMG_4561.webp" %})
+{% image "images/IMG_4561.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4562.webp"/>]({% image "content/blog/images/IMG_4562.webp" %})
+{% image "images/IMG_4562.webp" %}
 
   
 
@@ -80,17 +80,17 @@ Checking out the wake in our evening walk around the promenade deck:
   
 
 
-[<img width="320" src="images/IMG_4565.webp"/>]({% image "content/blog/images/IMG_4565.webp" %})
+{% image "images/IMG_4565.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4566.webp"/>]({% image "content/blog/images/IMG_4566.webp" %})
+{% image "images/IMG_4566.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4568.webp"/>]({% image "content/blog/images/IMG_4568.webp" %})
+{% image "images/IMG_4568.webp" %}
 
   
 
@@ -100,7 +100,7 @@ Our room got crowded in the evening when the kids' beds were out and down. Our r
   
 
 
-[<img width="320" src="images/IMG_20220612_062557188.webp"/>]({% image "content/blog/images/IMG_20220612_062557188.webp" %})
+{% image "images/IMG_20220612_062557188.webp" %}
 
   
 A great first day! 

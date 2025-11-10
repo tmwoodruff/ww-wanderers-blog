@@ -22,7 +22,7 @@ After completing security, getting on board was quick. We found a Latitude statu
 
 With that complete, we went to lunch at O'Sheehans. My favorite but not Travis's. It was super crowded, almost full; I have never seen it that crowded on embarkation day. However, it was super fast; everything must have already been pre-made. I had loaded nachos and a burger with bacon, BBQ sauce, and said cheddar, but looked like American. I asked specifically for cheddar later. Though when we were in the grocery store in Reykjavik, we saw what was called cheddar that looked like American; they must have a different definition of cheddar in Iceland. Travis had Cobb salad and then India food from the buffet. The buffet had hard/real ice cream, and not just soft serve, yay! Travis at O'Sheehans.   
   
-[<img width="320" src="images/IMG_6461.webp"/>]({% image "content/blog/images/IMG_6461.webp" %})
+{% image "images/IMG_6461.webp" %}
 
 After the buffet, we toured the ship/started learning our way around. It seemed very different than we were used to, and we initially were not a big fan. The bottom decks were similar, but the top decks were different. The spa and gym were in the back, and the gym had no windows to enjoy the view while working out. There were a few windows on the sides, but only visible from a few machines. The buffet was frequently very crowded. We could not get food; unless, we found a table to eat it at. Travis's rule. We could have asked to share with people; a lot of people asked us. One person asked to sit with us when the table next to us was empty. I do not mind normally, but that was weird. Then his wife sat at the empty table, so he moved to be with her. It was too cold outside and the outdoor buffet was rarely open. Though also outdoors, I missed the Great Outdoors. There was no drink stations outside; there would have been with the Great Outdoors. It was an adult only area, which would have been nice too, if were not so cold. Also, no observation lounge that; normally NCL has an awesome observation lounge high and forward. The full walk around promenade was nice. Some maintenance did closed a section during part of our cruise, but the front was always open to walk all the way around. 
 
@@ -30,22 +30,22 @@ The cruise ship always felt like there was no place to sit. The first day people
 
 At 3:30 pm, we went the room and have a few pictures without our stuff everywhere yet. We had an obstructed oceanview. Unfortunately, very obstructed. We have never seen a non-full window for the obstructed, or I would have researched better. Walking on the promenade, I only saw ours, so avoid 8106 and the one directly across from it. We could see the ocean out of the right window, though a tight squeeze with the desk. Travis had the tight squeeze, and I had to bend around the fold down bed. We had good outlets -- British and US at the desk, European and 2 USBs under the TV, and Travis had a USB by the bed on his side. I have a picture of the shower, but not the full bathroom. The bathroom was roomy with toilet with closing sliding door, sink in the middle, and shower with a sliding door. I have a picture of the shower because it had a facet for a shower/tub combo -- funny looking in our shower. 
 
-[<img width="320" src="images/IMG_6462.webp"/>]({% image "content/blog/images/IMG_6462.webp" %})
+{% image "images/IMG_6462.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6463.webp"/>]({% image "content/blog/images/IMG_6463.webp" %})
+{% image "images/IMG_6463.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6464.webp"/>]({% image "content/blog/images/IMG_6464.webp" %})
+{% image "images/IMG_6464.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6494.webp"/>]({% image "content/blog/images/IMG_6494.webp" %})
+{% image "images/IMG_6494.webp" %}
 
   
 
@@ -60,31 +60,31 @@ We had dinner in the aft, more formal dining room. It was slower than I expected
   
 
 
-[<img width="320" src="images/IMG_6468.webp"/>]({% image "content/blog/images/IMG_6468.webp" %})[<img width="320" src="images/IMG_6469.webp"/>]({% image "content/blog/images/IMG_6469.webp" %})
+{% image "images/IMG_6468.webp" %}{% image "images/IMG_6469.webp" %}
 
 I had crab and cream cheese wontons; they were just okay -- too fishy of a taste for crab. Then I had sirloin medallions and fries; they were very good. Travis has a very good Greek salad and enjoyed his tilapia, not a strong flavor. We normally try different desserts, but we both could not resist the sound of the sea salt caramel chocolate tart. It was a winner and so pretty. Menus of varying quality. 
 
-[<img src="images/IMG_20230713_Aqua2.webp"/>]({% image "content/blog/images/IMG_20230713_Aqua2.webp" %})[<img src="images/IMG_20230713_Aqua1.webp"/>]({% image "content/blog/images/IMG_20230713_Aqua1.webp" %})
+{% image "images/IMG_20230713_Aqua2.webp" %}{% image "images/IMG_20230713_Aqua1.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6470.webp"/>]({% image "content/blog/images/IMG_6470.webp" %})
+{% image "images/IMG_6470.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6472.webp"/>]({% image "content/blog/images/IMG_6472.webp" %})
+{% image "images/IMG_6472.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6473.webp"/>]({% image "content/blog/images/IMG_6473.webp" %})
+{% image "images/IMG_6473.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6474.webp"/>]({% image "content/blog/images/IMG_6474.webp" %})
+{% image "images/IMG_6474.webp" %}
 
   
 

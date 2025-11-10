@@ -17,7 +17,7 @@ Since this was a month before our 20th anniversary, I called it our 20th anniver
   
 
 
-[<img width="320" src="images/IMG_4812.webp"/>]({% image "content/blog/images/IMG_4812.webp" %})
+{% image "images/IMG_4812.webp" %}
 
   
 
@@ -27,12 +27,12 @@ Approaching Volos
   
 
 
-[<img width="320" src="images/IMG_4821.webp"/>]({% image "content/blog/images/IMG_4821.webp" %})
+{% image "images/IMG_4821.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4822.webp"/>]({% image "content/blog/images/IMG_4822.webp" %})
+{% image "images/IMG_4822.webp" %}
 
   
 
@@ -42,7 +42,7 @@ We did a nice walk that followed the coastline; the marina.
   
 
 
-[<img width="320" src="images/IMG_4825.webp"/>]({% image "content/blog/images/IMG_4825.webp" %})
+{% image "images/IMG_4825.webp" %}
 
   
 
@@ -52,17 +52,17 @@ Travis with the ship in the background.
   
 
 
-[<img width="320" src="images/IMG_4829.webp"/>]({% image "content/blog/images/IMG_4829.webp" %})
+{% image "images/IMG_4829.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4831.webp"/>]({% image "content/blog/images/IMG_4831.webp" %})
+{% image "images/IMG_4831.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4832.webp"/>]({% image "content/blog/images/IMG_4832.webp" %})
+{% image "images/IMG_4832.webp" %}
 
   
 
@@ -72,7 +72,7 @@ I loved this church's square clock. It did not seem like it would work perfectly
   
 
 
-[<img width="320" src="images/IMG_4835.webp"/>]({% image "content/blog/images/IMG_4835.webp" %})
+{% image "images/IMG_4835.webp" %}
 
   
 
@@ -82,7 +82,7 @@ From a beach, we climbed out of the rock pier; they climbed out to the end.
   
 
 
-[<img width="320" src="images/IMG_4843.webp"/>]({% image "content/blog/images/IMG_4843.webp" %})
+{% image "images/IMG_4843.webp" %}
 
   
 
@@ -92,7 +92,7 @@ Interesting railroad switch.
   
 
 
-[<img width="320" src="images/IMG_4859.webp"/>]({% image "content/blog/images/IMG_4859.webp" %})
+{% image "images/IMG_4859.webp" %}
 
   
 
@@ -102,7 +102,7 @@ This church was more in town/inland from the coast. We went back this way. This 
   
 
 
-[<img width="320" src="images/IMG_4862.webp"/>]({% image "content/blog/images/IMG_4862.webp" %})
+{% image "images/IMG_4862.webp" %}
 
   
 
@@ -117,12 +117,12 @@ Another newish thing that they do is have photographers take picture at the spec
   
 
 
-[<img width="320" src="images/IMG_4867.webp"/>]({% image "content/blog/images/IMG_4867.webp" %})
+{% image "images/IMG_4867.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_4870.webp"/>]({% image "content/blog/images/IMG_4870.webp" %})
+{% image "images/IMG_4870.webp" %}
 
   
 
@@ -132,7 +132,7 @@ We thought the kids would go for the buffet or O'Sheehan's, but they went for th
   
 
 
-[<img width="320" src="images/Menu.webp"/>]({% image "content/blog/images/Menu.webp" %})
+{% image "images/Menu.webp" %}
 
   
 

@@ -15,9 +15,9 @@ We had a NCL booked Delta flight from DFW to Detroit, a 1:30 hour layover, befor
 
 The first glimpse was clouds, cool clouds. Then land! Followed by a golf course. 
 
-[<img width="320" src="images/IMG_20230711_014618755_HDR.webp"/>]({% image "content/blog/images/IMG_20230711_014618755_HDR.webp" %}) [<img width="320" src="images/IMG_20230711_015616774.webp"/>]({% image "content/blog/images/IMG_20230711_015616774.webp" %})
+{% image "images/IMG_20230711_014618755_HDR.webp" %} {% image "images/IMG_20230711_015616774.webp" %}
 
-[<img width="320" src="images/IMG_20230711_015626222.webp"/>]({% image "content/blog/images/IMG_20230711_015626222.webp" %})
+{% image "images/IMG_20230711_015626222.webp" %}
 
   
 
@@ -42,7 +42,7 @@ We walked by the water (not the ocean but concrete pond) to the Reykjavik City H
   
 
 
-[<img width="320" src="images/P1120320.webp"/>]({% image "content/blog/images/P1120320.webp" %}) [<img width="320" src="images/P1120317.webp"/>]({% image "content/blog/images/P1120317.webp" %})
+{% image "images/P1120320.webp" %} {% image "images/P1120317.webp" %}
 
   
 
@@ -52,27 +52,27 @@ Tickets to the top of the tower were available in the gift shop, which included 
   
 
 
-[<img width="320" src="images/P1120315.webp"/>]({% image "content/blog/images/P1120315.webp" %}) [<img width="320" src="images/P1120313.webp"/>]({% image "content/blog/images/P1120313.webp" %})
+{% image "images/P1120315.webp" %} {% image "images/P1120313.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120312.webp"/>]({% image "content/blog/images/P1120312.webp" %})
+{% image "images/P1120312.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120311.webp"/>]({% image "content/blog/images/P1120311.webp" %})
+{% image "images/P1120311.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120310.webp"/>]({% image "content/blog/images/P1120310.webp" %}) [<img width="320" src="images/P1120295.webp"/>]({% image "content/blog/images/P1120295.webp" %})
+{% image "images/P1120310.webp" %} {% image "images/P1120295.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120299.webp"/>]({% image "content/blog/images/P1120299.webp" %})
+{% image "images/P1120299.webp" %}
 
   
 
@@ -83,7 +83,7 @@ Tickets to the top of the tower were available in the gift shop, which included 
   
 
 
-[<img width="320" src="images/P1120293.webp"/>]({% image "content/blog/images/P1120293.webp" %}) [<img width="320" src="images/P1120287.webp"/>]({% image "content/blog/images/P1120287.webp" %})
+{% image "images/P1120293.webp" %} {% image "images/P1120287.webp" %}
 
   
 
@@ -93,38 +93,38 @@ A more distant view from the park.
   
 
 
-[<img width="320" src="images/IMG_6381.webp"/>]({% image "content/blog/images/IMG_6381.webp" %})
+{% image "images/IMG_6381.webp" %}
 
   
 
 
 For lunch, we had a Bæjarins Beztu Pylsur hot dog and a Prince Polo candy bar. The hot dogs were good; the chocolate bar was not as good as expected -- like a chocolate wafer bar. 
 
-[<img width="320" src="images/P1120326.webp"/>]({% image "content/blog/images/P1120326.webp" %})
+{% image "images/P1120326.webp" %}
 
 Then we visited the beautiful Harpa performance hall; look at the different colors in the windows. Travis visited the restroom downstairs for 200 ISK. We had some change from a previous purchase, maybe the hot dogs. This was a common price, and most took credit cards. One took our money and did not let us in; someone came by and said to go inside where we found free ones. This was at the black sand beach. Someone in the restroom gave me the idea to fill up our waters, so I caught Travis heading out and suggested to him too. After getting sick in Italy from drinking the water, I'm good about buying bottled water now, but read that Iceland has the cleanest water. We drank it the full time with no issues -- except it was super sulfurous in our guesthouse, but more on that later. The yellow bus in the picture the Straeto bus, yellow in the capitol area. 
 
-[<img width="320" src="images/P1120351.webp"/>]({% image "content/blog/images/P1120351.webp" %})
+{% image "images/P1120351.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120341.webp"/>]({% image "content/blog/images/P1120341.webp" %})[<img width="320" src="images/P1120337.webp"/>]({% image "content/blog/images/P1120337.webp" %})
+{% image "images/P1120341.webp" %}{% image "images/P1120337.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120335.webp"/>]({% image "content/blog/images/P1120335.webp" %})
+{% image "images/P1120335.webp" %}
 
   
 
 
-[<img width="320" src="images/P1120332.webp"/>]({% image "content/blog/images/P1120332.webp" %})
+{% image "images/P1120332.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6374.webp"/>]({% image "content/blog/images/IMG_6374.webp" %})
+{% image "images/IMG_6374.webp" %}
 
   
 
@@ -134,7 +134,7 @@ We walked along the coast to the Sun Voyager. We could see another cruise ship f
   
 
 
-[<img width="320" src="images/P1120355.webp"/>]({% image "content/blog/images/P1120355.webp" %})
+{% image "images/P1120355.webp" %}
 
   
 
@@ -144,12 +144,12 @@ We walked back; our guesthouse was off a main street. We passed by the church ag
   
 
 
-[<img width="320" src="images/IMG_6386.webp"/>]({% image "content/blog/images/IMG_6386.webp" %})
+{% image "images/IMG_6386.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_6387.webp"/>]({% image "content/blog/images/IMG_6387.webp" %})
+{% image "images/IMG_6387.webp" %}
 
   
 

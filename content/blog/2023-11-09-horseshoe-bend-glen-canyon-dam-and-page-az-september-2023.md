@@ -12,17 +12,17 @@ description: ""
 
 After leaving the Grand Canyon, we had about a 2 hour drive to Page, AZ. We stopped at Horseshoe Bend, one of the top stops on my list. It is a little before arriving at Page. It is operated by the City of Page, and they charge $10 parking -- cash or credit card. They also provided some very stinky vault toilets, where all did not lock, that we visited before starting the hike to Horseshoe Bend. Trying to pick an entrance, a nice person directed us to the shortest. The dark clouds are coming again, which made a cool picture below, but we kept an eye on them. 
 
-[<img width="320" src="images/IMG_7265.webp"/>]({% image "content/blog/images/IMG_7265.webp" %})
+{% image "images/IMG_7265.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7266.webp"/>]({% image "content/blog/images/IMG_7266.webp" %})
+{% image "images/IMG_7266.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130440.webp"/>]({% image "content/blog/images/P1130440.webp" %})
+{% image "images/P1130440.webp" %}
 
   
 
@@ -32,47 +32,47 @@ After a short hike, we arrived at Horseshoe Bend. There was a good crowd but pla
   
 
 
-[<img width="320" src="images/P1130448.webp"/>]({% image "content/blog/images/P1130448.webp" %})
+{% image "images/P1130448.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130463.webp"/>]({% image "content/blog/images/P1130463.webp" %})
+{% image "images/P1130463.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130467.webp"/>]({% image "content/blog/images/P1130467.webp" %})
+{% image "images/P1130467.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130469.webp"/>]({% image "content/blog/images/P1130469.webp" %})
+{% image "images/P1130469.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130474.webp"/>]({% image "content/blog/images/P1130474.webp" %})
+{% image "images/P1130474.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7271.webp"/>]({% image "content/blog/images/IMG_7271.webp" %})
+{% image "images/IMG_7271.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7276.webp"/>]({% image "content/blog/images/IMG_7276.webp" %})
+{% image "images/IMG_7276.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130492.webp"/>]({% image "content/blog/images/P1130492.webp" %})
+{% image "images/P1130492.webp" %}
 
   
 
 
-[<img width="320" src="images/P1130496.webp"/>]({% image "content/blog/images/P1130496.webp" %})
+{% image "images/P1130496.webp" %}
 
   
 
@@ -82,19 +82,19 @@ We picked Paco Tacos in Page for lunch. It was really good. I had steak quesadil
   
 
 
-[<img width="320" src="images/IMG_7300.webp"/>]({% image "content/blog/images/IMG_7300.webp" %})
+{% image "images/IMG_7300.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7299.webp"/>]({% image "content/blog/images/IMG_7299.webp" %})
+{% image "images/IMG_7299.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7304.webp"/>]({% image "content/blog/images/IMG_7304.webp" %})
+{% image "images/IMG_7304.webp" %}
 
-[<img width="320" src="images/IMG_7309.webp"/>]({% image "content/blog/images/IMG_7309.webp" %})
+{% image "images/IMG_7309.webp" %}
 
   
 
@@ -104,7 +104,7 @@ Then we drove to Dam Overlook, a 940 ft round-trip hike, called easy. Though it 
   
 
 
-[<img width="320" src="images/IMG_7311.webp"/>]({% image "content/blog/images/IMG_7311.webp" %})
+{% image "images/IMG_7311.webp" %}
 
   
 
@@ -114,22 +114,22 @@ After this stop, we went to check into our motel, Motel 6. Motels/hotels were ex
   
 
 
-[<img width="320" src="images/IMG_7318.webp"/>]({% image "content/blog/images/IMG_7318.webp" %})
+{% image "images/IMG_7318.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7319.webp"/>]({% image "content/blog/images/IMG_7319.webp" %})
+{% image "images/IMG_7319.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7323.webp"/>]({% image "content/blog/images/IMG_7323.webp" %})
+{% image "images/IMG_7323.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_7316.webp"/>]({% image "content/blog/images/IMG_7316.webp" %})
+{% image "images/IMG_7316.webp" %}
 
   
 

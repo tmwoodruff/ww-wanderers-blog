@@ -12,12 +12,12 @@ description: ""
 
 We went for a quick walk to an area that we had not been before in the morning. We found this monument, but unfortunately, it was very graffitied. 
 
-[<img width="320" src="images/IMG_20250210_091417714_HDR.webp"/>]({% image "content/blog/images/IMG_20250210_091417714_HDR.webp" %})
+{% image "images/IMG_20250210_091417714_HDR.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250210_091426655_HDR.webp"/>]({% image "content/blog/images/IMG_20250210_091426655_HDR.webp" %})
+{% image "images/IMG_20250210_091426655_HDR.webp" %}
 
   
 
@@ -32,7 +32,7 @@ Then we went to the Chocolate Museum, which was only about 3 minutes walk from t
   
 
 
-[<img src="images/IMG_20250210_120226803_HDR.webp"/>]({% image "content/blog/images/IMG_20250210_120226803_HDR.webp" %})[<img src="images/IMG_20250210_120953572_HDR.webp"/>]({% image "content/blog/images/IMG_20250210_120953572_HDR.webp" %})
+{% image "images/IMG_20250210_120226803_HDR.webp" %}{% image "images/IMG_20250210_120953572_HDR.webp" %}
 
   
 
@@ -42,7 +42,7 @@ After the museum, we found a food stand with Chilaquiles. This is fried tortilla
   
 
 
-[<img width="320" src="images/IMG_20250210_122920375_HDR.webp"/>]({% image "content/blog/images/IMG_20250210_122920375_HDR.webp" %})
+{% image "images/IMG_20250210_122920375_HDR.webp" %}
 
   
 
@@ -62,17 +62,17 @@ Since we were late, some cool moon and sunset pictures.
   
 
 
-[<img width="320" src="images/IMG_20250210_181926562.webp"/>]({% image "content/blog/images/IMG_20250210_181926562.webp" %})
+{% image "images/IMG_20250210_181926562.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250210_181932403.webp"/>]({% image "content/blog/images/IMG_20250210_181932403.webp" %})
+{% image "images/IMG_20250210_181932403.webp" %}
 
   
 
 
-[<img width="320" src="images/IMG_20250210_193120849.webp"/>]({% image "content/blog/images/IMG_20250210_193120849.webp" %})[<img width="320" src="images/IMG_20250210_193127733.webp"/>]({% image "content/blog/images/IMG_20250210_193127733.webp" %})
+{% image "images/IMG_20250210_193120849.webp" %}{% image "images/IMG_20250210_193127733.webp" %}
 
   
 
