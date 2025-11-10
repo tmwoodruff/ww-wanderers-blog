@@ -109,13 +109,13 @@ export default async function(eleventyConfig) {
 	});
 
 	eleventyConfig.addShortcode("image", function image(src, alt = "", widths = ["auto"], sizes = "") {
-		const normalizedSource = Util.normalizeImageSource(
-			{
-				input: this.eleventy.directories.input,
-				inputPath: this.page.inputPath,
-			},
-			src,
-		);
+		// const normalizedSource = Util.normalizeImageSource(
+		// 	{
+		// 		input: this.eleventy.directories.input,
+		// 		inputPath: this.page.inputPath,
+		// 	},
+		// 	src,
+		// );
 		return `<a href="${src}"><img width="320" src="${src}"/></a>`
 
 		// 		return await Image(src, {
