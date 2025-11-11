@@ -16,99 +16,71 @@ Isafjordur is connected to other parts of Iceland by two tunnels now. Both that 
 
 On the way, we learned about the tunnels, now they are not allowed to build one lane tunnels. The sheep roam free all summer (marked for the farm that they belong to) and then for the winter the whole town works together and gathers them up to their correct barns. She talked about plants that she foraged for cooking, like thyme. After the tunnels, a bay with salmon farming that is controversial, and our guide talked about winter surfing in the bay with a show on NetFlix. I have since looked this up, not having NetFlix now; one was "surfing" in a kayak. I'm not sure if that is what she meant. 
 
-{% image "images/IMG_6594.webp" %}
-
-{% image "images/IMG_6599.webp" %}
+{% image "legacy/IMG_6594.webp", "1536x2048" %}
+{% image "legacy/IMG_6599.webp", "2048x1536" %}
 
 Then we arrived at the Dynjandi waterfall, with other waterfalls that also had names. It was so big. Our tour guide mentioned that we arrived before of the other tour buses, so we should get up there quickly. The bay behind the waterfall with the mountains was so pretty, so too many pictures of both. We hiked up to the waterfall. They had free restrooms at the bottom though hard to tell which were available, staggered sets behind each other. 
 
-{% image "images/IMG_6601.webp" %}
-
-{% image "images/IMG_6604.webp" %}
-
-{% image "images/IMG_6606.webp" %}
-
-{% image "images/IMG_6610.webp" %}{% image "images/IMG_6619.webp" %}
-
-{% image "images/IMG_6620.webp" %}
-
-{% image "images/IMG_6621.webp" %}
-
-{% image "images/IMG_6628.webp" %}
-
-{% image "images/IMG_6629.webp" %}
-
-{% image "images/IMG_6632.webp" %}
-
-{% image "images/IMG_6634.webp" %} {% image "images/P1120647.webp" %}
-
-{% image "images/P1120681.webp" %}
-
-{% image "images/P1120689.webp" %}
-
-{% image "images/P1120694.webp" %}
-
-{% image "images/P1120706.webp" %}
-
-{% image "images/P1120713.webp" %}
-
-{% image "images/P1120718.webp" %}
-
-{% image "images/P1120727.webp" %}
-
-{% image "images/P1120745.webp" %}
-
-{% image "images/P1120747.webp" %}
-
-{% image "images/P1120757.webp" %}
-
-{% image "images/P1120759.webp" %}
+{% image "legacy/IMG_6601.webp", "2048x1536" %}
+{% image "legacy/IMG_6604.webp", "2048x1536" %}
+{% image "legacy/IMG_6606.webp", "2048x1536" %}
+{% image "legacy/IMG_6610.webp", "1536x2048" %}{% image "legacy/IMG_6619.webp", "2048x1536" %}
+{% image "legacy/IMG_6620.webp", "2048x1536" %}
+{% image "legacy/IMG_6621.webp", "2048x1536" %}
+{% image "legacy/IMG_6628.webp", "2048x1536" %}
+{% image "legacy/IMG_6629.webp", "1536x2048" %}
+{% image "legacy/IMG_6632.webp", "2048x1536" %}
+{% image "legacy/IMG_6634.webp", "1536x2048" %} {% image "legacy/P1120647.webp", "2048x1538" %}
+{% image "legacy/P1120681.webp", "2048x1538" %}
+{% image "legacy/P1120689.webp", "2048x1538" %}
+{% image "legacy/P1120694.webp", "2048x1538" %}
+{% image "legacy/P1120706.webp", "2048x1538" %}
+{% image "legacy/P1120713.webp", "2048x1538" %}
+{% image "legacy/P1120718.webp", "2048x1538" %}
+{% image "legacy/P1120727.webp", "2048x1538" %}
+{% image "legacy/P1120745.webp", "2048x1538" %}
+{% image "legacy/P1120747.webp", "2048x1538" %}
+{% image "legacy/P1120757.webp", "2048x1538" %}
+{% image "legacy/P1120759.webp", "2048x1538" %}
 
 Then we drove the length of the bay to the smallest of small towns to see the traditional sod roof houses. This was the Jon Sigurdsson Museum. The house was setup like they would have been. This was the cake stop. We shared a piece. It had jelly, but it was still very good. The other was called wedding cake, but ours was not that easy. Travis also had some tea. Our tour guide asked them to make her waffles; we did arrive to the port early so no time for breakfast beforehand. There was an additional museum and a Church with an old cemetery. 
 
-{% image "images/IMG_6642.webp" %}
-
-{% image "images/P1120784.webp" %}
-
-{% image "images/P1120798.webp" %}
+{% image "legacy/IMG_6642.webp", "2048x1536" %}
+{% image "legacy/P1120784.webp", "2048x1538" %}
+{% image "legacy/P1120798.webp", "2048x1538" %}
 
 We could see the waterfall from here. 
 
-{% image "images/P1120761.webp" %}
+{% image "legacy/P1120761.webp", "2048x1538" %}
 
 We found minke whales or a whale. See the fin in the bottom, center. 
 
-{% image "images/IMG_6650.webp" %}
-
-{% image "images/P1120653.webp" %}
-
-{% image "images/P1120795.webp" %}
+{% image "legacy/IMG_6650.webp", "2048x1536" %}
+{% image "legacy/P1120653.webp", "2048x1538" %}
+{% image "legacy/P1120795.webp", "2048x1538" %}
 
 This bird, Artic tern, must have had a nest near, but it was trying to attack people that got too close. 
 
-{% image "images/P1120805.webp" %}
-
-{% image "images/P1120826.webp" %}
+{% image "legacy/P1120805.webp", "2048x1538" %}
+{% image "legacy/P1120826.webp", "2048x1538" %}
 
 Also a waterfall at this stop. 
 
-{% image "images/P1120812.webp" %}
+{% image "legacy/P1120812.webp", "2048x1538" %}
 
 We found another waterfall on the drive and a glacier in the mountains. 
 
-{% image "images/IMG_6666.webp" %} {% image "images/P1120656.webp" %}
+{% image "legacy/IMG_6666.webp", "1536x2048" %} {% image "legacy/P1120656.webp", "2048x1538" %}
 
 We got a picture of the wrapped hay bales. Also, a nice country side. 
 
-{% image "images/P1120835.webp" %}
-
-{% image "images/P1120839.webp" %}
+{% image "legacy/P1120835.webp", "2048x1538" %}
+{% image "legacy/P1120839.webp", "2048x1538" %}
 
 Our last stop was a view of our ship. There was also a ski lift here. 
 
-{% image "images/IMG_6669.webp" %}
-
-{% image "images/P1120848.webp" %}
+{% image "legacy/IMG_6669.webp", "2048x1536" %}
+{% image "legacy/P1120848.webp", "2048x1538" %}
 
 So, for our tour guide's interesting life...she was a tour guide in the summer, did travel and cruise brochures photography, and worked on boats with scientist to tag animals and other related work (this one sounded really cold!). She also sailed with others to the east coast of Greenland where there are fewer towns and more rugged. She said that we will like Greenland much more than Iceland. 
 
@@ -120,25 +92,20 @@ Tonight was our Cagney's night. We used our free at sea meal of Cagney's, since 
 
 Travis had oysters and beefsteak tomato, and I had the Caesar salad. The Caesar salad used to be my favorite in the MDR, but is not as good as it used to be. This one was high quality. 
 
-{% image "images/IMG_6670.webp" %}
-
-{% image "images/IMG_6673.webp" %}
-
-{% image "images/IMG_6674.webp" %}
-
-{% image "images/IMG_6675.webp" %}
+{% image "legacy/IMG_6670.webp", "1536x2048" %}
+{% image "legacy/IMG_6673.webp", "2048x1536" %}
+{% image "legacy/IMG_6674.webp", "1536x2048" %}
+{% image "legacy/IMG_6675.webp", "2048x1536" %}
 
 Travis's NY strip and sides: broccoli and barley risotto, and my petite filet with sides: onion rings and truffle, garlic mashed potatoes. So good, but so...much...food. 
 
-{% image "images/IMG_6676.webp" %}
-
-{% image "images/IMG_6677.webp" %}
-
-{% image "images/IMG_6679.webp" %}
+{% image "legacy/IMG_6676.webp", "2048x1536" %}
+{% image "legacy/IMG_6677.webp", "2048x1536" %}
+{% image "legacy/IMG_6679.webp", "2048x1536" %}
 
 Travis's OMG Caramel Butterscotch Cheesecake and my 7 layer chocolate cake. 
 
-{% image "images/IMG_6680.webp" %} {% image "images/IMG_6681.webp" %}
+{% image "legacy/IMG_6680.webp", "1536x2048" %} {% image "legacy/IMG_6681.webp", "1536x2048" %}
 
 Up next...[Sea day and Nanortalik](https://ww-wanderers.blogspot.com/2023/09/greenland-sea-day-and-nanortalik.html)
 

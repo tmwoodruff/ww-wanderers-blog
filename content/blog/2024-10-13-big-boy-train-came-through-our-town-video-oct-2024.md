@@ -10,6 +10,6 @@ description: ""
 
 **October 13, 2024**
 
-{% image "images/IMG_20241013_094038630_HDR~2.webp" %}
+{% image "legacy/IMG_20241013_094038630_HDR~2.webp", "2048x939" %}
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

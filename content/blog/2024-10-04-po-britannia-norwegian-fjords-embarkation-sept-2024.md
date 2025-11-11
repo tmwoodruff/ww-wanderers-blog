@@ -16,13 +16,10 @@ This delayed us getting to the SeaCity Museum, which we had planned when they op
 
 A Lego Titanic, driving the Titanic game, example cabin, and I loved this deck map approach. 
 
-{% image "images/IMG_8730.webp" %}
-
-{% image "images/IMG_8734.webp" %}
-
-{% image "images/IMG_8735.webp" %}
-
-{% image "images/IMG_8736.webp" %}
+{% image "legacy/IMG_8730.webp", "2048x1536" %}
+{% image "legacy/IMG_8734.webp", "1536x2048" %}
+{% image "legacy/IMG_8735.webp", "2048x1536" %}
+{% image "legacy/IMG_8736.webp", "2048x1536" %}
 
 The museum was 22 GBP for two, and the ticket is good for one year. I thought, "Well, geez, we will not likely be back within a year, so we will not get our moneys worth." The museums in Winchester were the same. The museum displayed different jobs on the Titanic and their salary, had a wall with the number of different items loaded onto the Titanic for the maiden voyage, a game to tell you how well you fed the coal furnaces, and survivors talking about what they were and were not told after the iceberg hit and events of the attempted evacuation. Outside of the museum display area, they also had historic carnival games, where we also needed 20p coins (with a machine that would make change). We did not play any, but would have if we had had the 20p coins. They were very interesting games being less electronic and video game-like like today's. They also had a mis-mash display in a special section, but included in the price. The attendant said that they had some stuff in the basement that no one was getting to enjoy, so they pulled some out to share. 
 
@@ -38,11 +35,9 @@ We went back to the room (only 2 floors down/very close to the buffet) to see if
 
 Back to the room, we did not have plugs by the bed, but used our universal adapter with 4 USB slots and one US plug slot in a British outlet. We also had one US plug and another British plug on the desk for the kettle. I later found two other British plugs close to the floor; Travis guessed one for vacuuming. Travis enjoyed the kettle and tea service in the room, including biscuits. He only had real sugar at first, so noted to grab some sweet n low from the buffet for the room, thinking the room steward would not have that on her cart, but later she saw it brought it and begin stocking it -- that is good service! The closet was big, and in front of the bathroom, which helped to block the bathroom light when someone went in the middle of the night. Good design. The bathroom and shower were plenty roomy. I did not like the bathroom trashcan though; it was a small, step on the button to open. However, since it was small and lightweight, I feared stepping on the button would tip it, so I had to open it each time with my hand. Just more work when trying to hold the trash in the same hand. The mirror to do makeup and fix hair in the room had a lamp on the wall but was still a dark corner. I loved that we both had two big drawers in our nightstand (and had two nightstands -- since I was missing mine on MSC, which drove me crazy). Here are some pictures of the room; we were in B516 on deck 14, which was quiet, no noise issues. The bathroom across from the closet, and the main room -- I loved the art over the bed. The bathroom had The White Company products that people raved about on YouTube, and I saw a store at the airport later, but the smell was not to my liking. They had kleenex in the bathroom vs. MSC who covered over the dispenser. The side cabinet in the closet had the safe and shelves. I do not have a desk/vanity picture, but it was all the way across the other side of the closet wall with a fridge and large TV mounted above it. 
 
-{% image "images/IMG_8738.webp" %}{% image "images/IMG_8737.webp" %}
-
-{% image "images/IMG_8739.webp" %}
-
-{% image "images/IMG_8740.webp" %}
+{% image "legacy/IMG_8738.webp", "1536x2048" %}{% image "legacy/IMG_8737.webp", "1536x2048" %}
+{% image "legacy/IMG_8739.webp", "1536x2048" %}
+{% image "legacy/IMG_8740.webp", "2048x1536" %}
 
 At 6:30 pm, we went to dinner in the MDR. We had to arrive before 15 minutes after the starting time. Only two of our tablemates were there the first night. They were lovely; okay, all the British on the cruise were so polite and lovely. We saw some other passports at check-in; I think definitely Australian passports; they were maroon. Just googled it, and Australian passports are mostly navy like ours and British, only their diplomatic passports are maroon. Let me know if you know who has maroon. We did not run into any other Americans on the ship. Back to our dinner, they were a lady, with just grown children, and her mother from Coventry. The waiters first came around to hand out the menu (physical menu, no QR codes), put butter on the table, and offer bread, as soon as you arrived, so those at the same table may get them at different times. Then take orders for all three courses. At the end, they offered tea and coffee; everyone else at the table accepted each night. Travis noted that he could not have caffeine that late. I took food pictures, and our wait team gave us a gift of the menus for each night except for the last menu, on the last night. It was sweet and a nice memory. I'll put all the food and menus together in one post. 
 
@@ -50,9 +45,8 @@ We were scheduled to leave at 6pm, but the Captain or someone on the Bridge team
 
 Off to bed for our Sea Day tomorrow. Goodnight sun; hello wake. 
 
-{% image "images/IMG_8750.webp" %}
-
-{% image "images/IMG_8754.webp" %}
+{% image "legacy/IMG_8750.webp", "2048x1536" %}
+{% image "legacy/IMG_8754.webp", "2048x1536" %}
 
 Next up...[Sea day, formal night, and Stavanger](https://ww-wanderers.blogspot.com/2024/10/p-britannia-sea-day-formal-night-and.html). 
 

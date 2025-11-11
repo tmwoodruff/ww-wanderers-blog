@@ -12,7 +12,7 @@ description: ""
 
 My aunt took me to London for my first international trip and only my second flight. I was a sophomore in jr. college and had to finish all my assignments and tests before leaving. Then, woohoo, we were off. My 19 year old self blogging in a travel journal that I have now typed. My aunt worked at the jr. college, and the trip was organized by a teacher there with flights, hotel, transfers, Tube/Underground pass, and one group dinner. Other than that, we were free to explore as we wished. He was the Speech and Theater teacher, so he took a group to get a trip where he spent most of his time in the 1/2 ticket line or at a theater show. He was willing to look for and get 1/2 tickets for others. So, we are off into the past and across the pond...
 
-{% image "images/1996-03_4.webp" %}
+{% image "legacy/1996-03_4.webp", "2048x1780" %}
 
 **March 14-15, 1996**
 

@@ -10,7 +10,7 @@ description: ""
 
 **Drive to and arriving at Glacier - July 23, 2022**
 
-{% image "images/IMG_5306.webp" %}
+{% image "legacy/IMG_5306.webp", "2048x1536" %}
 
 We did not see any more of Yellowstone this morning but had breakfast and packed up camp. Then we headed back to West Yellowstone and took the path that allowed us to drive through Idaho, a state that we have not been to before. 
 

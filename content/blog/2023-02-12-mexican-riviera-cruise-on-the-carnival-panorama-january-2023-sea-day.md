@@ -20,13 +20,12 @@ We also checked out afternoon tea. The speciality or higher quality teas were an
 
 Tonight was elegant night, with the fancy food. Travis had pumpkin soup, spinach pie in phyllo (lunch repeat), and a fruit plate. I had Caesar salad, filet mignon, and the Carnival melting cake.  
 
-{% image "images/IMG_5957.webp" %}
-
-{% image "images/IMG_5958.webp" %}
+{% image "legacy/IMG_5957.webp", "1536x2048" %}
+{% image "legacy/IMG_5958.webp", "1536x2048" %}
 
 We saw the comedian Tim and checked out the sky -- found Jupiter, hanging out under the small moon, and Venus. Our new visitor. 
 
-{% image "images/IMG_5960.webp" %}
+{% image "legacy/IMG_5960.webp", "1536x2048" %}
 
 [Next up...Cabo San Lucas](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_20.html)
 

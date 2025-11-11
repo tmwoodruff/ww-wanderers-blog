@@ -8,7 +8,7 @@ author: Tammy
 description: ""
 ---
 
-{% image "images/Screen Shot 2023-03-05 at 8.32.42 PM.webp" %}
+{% image "legacy/Screen Shot 2023-03-05 at 8.32.42 PM.webp", "2048x1600" %}
 
 **[Texas A&M; Football game -- August 30, 2025](https://ww-wanderers.blogspot.com/2025/09/our-first-texas-game.html)**
 

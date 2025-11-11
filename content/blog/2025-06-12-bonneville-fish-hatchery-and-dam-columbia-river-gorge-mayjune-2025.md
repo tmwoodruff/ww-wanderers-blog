@@ -14,41 +14,37 @@ We were moving to a new campsite today to Memaloose State Park, so we had to pac
 
 We were then off, eastbound to Bonneville Fish Hatchery and Dam. We came to the security for the dam first due to a non-roundabout, but more of a triangle road. We never determined if you could make an left turns at the triangle and one was needed to get the fish hatchery, so we talked to the security guy. He noted that bridge to the dam was up now anyway for the lock, so we would have to wait to get the dam now. He directed us to the hatchery. Here is the triangle pictured on Google Maps with dam security on the top right and the fish hatchery down the road on the top left: 
 
-{% image "images/Google map triangle.webp" %}
+{% image "legacy/Google map triangle.webp", "908x657" %}
 
 There were not many cars or people when we arrived at the Bonneville Fish Hatchery. This was nice. It opened at 7am; we were not there that early. At the front, there was a self-guided tour guide that you could carry with you. There were also salmons painted on the ground to direct the tour. 
 
 Salmon rearing ponds and roses. 
 
-{% image "images/IMG_2242.webp" %}
+{% image "legacy/IMG_2242.webp", "2048x1536" %}
 
 A waterfall in a rearing battery. 
 
-{% image "images/IMG_2243.webp" %}
+{% image "legacy/IMG_2243.webp", "2048x1536" %}
 
 We then went to meet Herman, the over 10' long and over 80 year old white sturgeon. There is a sturgeon viewing center with a window underwater, and you van view him from the top. There were also other large sturgeons in this pond. First picture was probably supposed to a sturgeon, but you cannot see the fish, and it just looked cool. In the second picture is Herman from above and then from the window. Our youngest learned that sturgeon make good caviar. 
 
-{% image "images/IMG_2246.webp" %}{% image "images/IMG_2250.webp" %}
-
-{% image "images/IMG_2253.webp" %}
-
-{% image "images/IMG_2254.webp" %}
-
-{% image "images/IMG_2256.webp" %}
+{% image "legacy/IMG_2246.webp", "1536x2048" %}{% image "legacy/IMG_2250.webp", "1536x2048" %}
+{% image "legacy/IMG_2253.webp", "2048x1536" %}
+{% image "legacy/IMG_2254.webp", "2048x1536" %}
+{% image "legacy/IMG_2256.webp", "1536x2048" %}
 
 We then went to the rainbow trout pond where you could buy food to feed them. I had some quarters, so gave each of the kids one. The technology of the food dispenser was so old, with a quarter slot and push metal button, that I did not know if the kids could use it. Owen got food, and here is his fish eating. Joel went to the next pond to feed different rainbow trout. His dispenser did not work and gave no food. A sign noted that these rainbow trout were bigger than those in the wild because visitors feed them so much. 
 
-{% image "images/IMG_2263.webp" %}
-
-{% image "images/IMG_2265.webp" %}
+{% image "legacy/IMG_2263.webp", "2048x1536" %}
+{% image "legacy/IMG_2265.webp", "2048x1536" %}
 
 Then we came back to the salmon rearing ponds and watched the fry. It was funny because they were already jumping, like the adults, up the wall and in this waterfall ladder that they had made for them to learn. It was also their feeding time, and they seemed to have all the food eaten before we could see them eat. 
 
-{% image "images/IMG_2272.webp" %}
+{% image "legacy/IMG_2272.webp", "2048x1536" %}
 
 Next, we went to the visitor center with spawning room where they open the fish, remove eggs, and fertilize them. The fertilized eggs were stored in drawers. It was not spawning season, so we just saw the equipment, a movie on the full process through to their release in the Columbia River, and last year's stats. The hatchery opened in 1909. It also said that this hatchery sold some of the fry. 
 
-{% image "images/IMG_2273.webp" %}
+{% image "legacy/IMG_2273.webp", "2048x1536" %}
 
 Following the hatchery, we went to the Bonneville Dam. Security was required -- no drones or firearms, and they requested that you open the truck. Of course, ours is full of suitcases and camping gear, so hard to inspect. But no problem, we were allowed in. You cross the swing bridge to Robins Island, and then you drive across the dam (hence the security). The Army Corp of Engineers planned and built the lock and dam; they had a visitor center. The visitor center had information about the area and dam and a fish ladder viewing windows. The area is an Oregon Trail area -- interesting for those who died of dysentery on the blue screen game.
 
@@ -56,59 +52,46 @@ We visited the fish ladder viewing windows, which was on the bottom floor of the
 
 We went out to the picnic table behind the turbine below for a picnic lunch where we found a bald eagle at the top of a tree.
 
-{% image "images/IMG_2277.webp" %}
-
-{% image "images/IMG_2293.webp" %}
-
-{% image "images/IMG_2278.webp" %}
-
-{% image "images/IMG_2285.webp" %}
+{% image "legacy/IMG_2277.webp", "2048x1536" %}
+{% image "legacy/IMG_2293.webp", "2048x1536" %}
+{% image "legacy/IMG_2278.webp", "2048x1536" %}
+{% image "legacy/IMG_2285.webp", "2048x1536" %}
 
 Metal art of local animals -- great blue heron and salmon. 
 
-{% image "images/IMG_2294.webp" %}
-
-{% image "images/IMG_2295.webp" %}
+{% image "legacy/IMG_2294.webp", "2048x1536" %}
+{% image "legacy/IMG_2295.webp", "2048x1536" %}
 
 We also visited the roof with displays and signs labeling the near by mountains and parts of the dam. The fish ladder from above.
 
-{% image "images/IMG_2274.webp" %}
-
-{% image "images/IMG_2282.webp" %}
-
-{% image "images/IMG_2287.webp" %}
-
-{% image "images/IMG_2290.webp" %}
+{% image "legacy/IMG_2274.webp", "2048x1536" %}
+{% image "legacy/IMG_2282.webp", "2048x1536" %}
+{% image "legacy/IMG_2287.webp", "2048x1536" %}
+{% image "legacy/IMG_2290.webp", "2048x1536" %}
 
 Finally, we went back in for final restroom breaks and visit the gift shop when a park ranger announced ships going through the lock. She tried to explain watching the lock from Robins Island or getting across between the swing bridge before it closed to let the ships through. We checked out the ships near the visitor center. The number and connectedness of the boats going through the lock was a surprise. I saw them connected on another display somewhere else too. If multiple went through, I would not expect them to be connect and moving as one.  
 
-{% image "images/IMG_2296.webp" %}
+{% image "legacy/IMG_2296.webp", "2048x1536" %}
 
 We did not successfully find where to watch the lock fill on Robins Island, so we crossed the swing bridge before it closed. I tried to sell the Cascade Locks Fish Hatchery, but everyone else was happy with the one fish hatchery and did not need another. We did see it from the drive, and it looked smaller.
 
 Next, we went to Cascade Locks Marine Park, parking for a $1 for an hour in the Boat Launch zone. We walked across the bridge to an island in the river and walked the island. There were a few wedding venues there. The lighthouse on the map was no longer there. We could see the old Cascade Lock lock, but it is no longer in use. Back on the land slide, we had a snack in the park with playground and restrooms. We saw the Sternwheeler ship go and return on a trip and saw the Oregon Pony. This was a train engine. Washington had a train, so Oregon wanted one too, to keep up. 
 
-{% image "images/IMG_2299.webp" %}
-
-{% image "images/IMG_2302.webp" %}
+{% image "legacy/IMG_2299.webp", "2048x1536" %}
+{% image "legacy/IMG_2302.webp", "2048x1536" %}
 
 We stopped at Mitchell Point Tunnel, west of the town Hood River, where there was a river viewpoint and than the tunnels to go through to a hiking trail. We only did a little of the trail. The river was pretty with blue mountain layering; it looks like a Norwegian Fjord here. 
 
-{% image "images/IMG_2305.webp" %}
-
-{% image "images/IMG_2306.webp" %}{% image "images/IMG_2307.webp" %}
+{% image "legacy/IMG_2305.webp", "2048x1536" %}
+{% image "legacy/IMG_2306.webp", "1536x2048" %}{% image "legacy/IMG_2307.webp", "2048x1536" %}
 
 Hiking through the tunnel was interesting because it had random light shining in areas that made it look cool. This was the Historic Columbia Hwy 30 turned into a trail at this section and called State Trail 30. Another medallion dated it 2024, so very new.
 
-{% image "images/IMG_2310.webp" %}{% image "images/IMG_2314.webp" %}
-
-{% image "images/IMG_2316.webp" %}
-
-{% image "images/IMG_2317.webp" %}
-
-{% image "images/IMG_2319.webp" %}
-
-{% image "images/IMG_2320.webp" %}
+{% image "legacy/IMG_2310.webp", "2048x1536" %}{% image "legacy/IMG_2314.webp", "1536x2048" %}
+{% image "legacy/IMG_2316.webp", "2048x1536" %}
+{% image "legacy/IMG_2317.webp", "2048x1536" %}
+{% image "legacy/IMG_2319.webp", "1536x2048" %}
+{% image "legacy/IMG_2320.webp", "2048x1239" %}
 
 We went into the town of Hood River and tried to go to the mini-Stonehenge labeled on Google maps. It seemed to be a garden at a restaurant. It was very unwelcoming, so we did not park or look for Stonehenge. Instead, we went to Dairy Queen for a snack. They forgot to make our order so gave us a free blizzard coupon, but unfortunately, we were not coming back to Hood River to use it. We found another view of Mt. Hood and then headed to our new campground: Memaloose State Park. There was no eastbound exit to the park, so we had to pass it and exit further east. The same was true for leaving it; we could only leave westbound. This was annoying. The full park seemed to only be the campground. There was a closed rest area at the campground exit that said that the exit now was only for the campground. Though there was a small park area with river views and an Oregon Trail display that we walked to the next two nights of our stay and checked out. 
 

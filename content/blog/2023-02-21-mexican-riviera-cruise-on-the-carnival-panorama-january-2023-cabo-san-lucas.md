@@ -18,33 +18,22 @@ We were arriving in Cabo at 10am. It was a tender port. We were good with open t
 
 We watched the sail in. This was awesome; we got a good view of the Arch/Arco. We also got to try out the SkyRide. It was so fun! There were no line, so we went twice. I liked the one closest to the stairs bike, or rather track, or maybe I was just less tired the first time. Travis, who exercises on a bicycle all the time, left me in the dust, but I enjoyed the wonderful views. Part is even out over the ocean a little. Travis also did the rope course again.   
 
-{% image "images/IMG_5962.webp" %}
-
-{% image "images/IMG_5969.webp" %}
-
-{% image "images/IMG_5971.webp" %}
-
-{% image "images/IMG_5984.webp" %}
-
-{% image "images/IMG_5987.webp" %}
-
-{% image "images/IMG_5992.webp" %}
-
-{% image "images/IMG_5995.webp" %}
+{% image "legacy/IMG_5962.webp", "2048x1536" %}
+{% image "legacy/IMG_5969.webp", "2048x1536" %}
+{% image "legacy/IMG_5971.webp", "2048x1536" %}
+{% image "legacy/IMG_5984.webp", "2048x1536" %}
+{% image "legacy/IMG_5987.webp", "2048x1536" %}
+{% image "legacy/IMG_5992.webp", "2048x1536" %}
+{% image "legacy/IMG_5995.webp", "2048x1536" %}
 
 The Arch coming into view. 
 
-{% image "images/IMG_5997.webp" %}
-
-{% image "images/IMG_5999.webp" %}
-
-{% image "images/IMG_6001.webp" %}
-
-{% image "images/IMG_6003.webp" %}
-
-{% image "images/IMG_6006.webp" %}
-
-{% image "images/IMG_6015.webp" %}
+{% image "legacy/IMG_5997.webp", "2048x1536" %}
+{% image "legacy/IMG_5999.webp", "1536x2048" %}
+{% image "legacy/IMG_6001.webp", "2048x1536" %}
+{% image "legacy/IMG_6003.webp", "2048x1536" %}
+{% image "legacy/IMG_6006.webp", "2048x1536" %}
+{% image "legacy/IMG_6015.webp", "2048x1536" %}
 
 Before heading out to Cabo, we had lunch at the Pizzeria Del Capitano. We have never tried the pizza place on Carnival before, worrying about long lines for a full pizza. This time they would serve a fourth to full pizza. We brought up our sodas; there is a convenient ice machine by the pizza place. Travis waited in line and then for the pizza to be baked. He got us a whole prosciutto pizza. This was like the four cheese pizza, no tomato sauce, and prosciutto. I do like tomato sauce, but we never tried one with tomato sauce. The prosciutto was thick and tough, and it was okay. Travis liked it better than I did. 
 
@@ -52,35 +41,25 @@ Then at open tender, we went to shore. This was operated by Cabo, not our lifebo
 
 So, we tried to make it to the Arch via the beach but could not this way either, even with some rock scrambling. At least, we saw it during sail in. Some bird and ship pictures. 
 
-{% image "images/IMG_6016.webp" %}
-
-{% image "images/IMG_6026.webp" %}
-
-{% image "images/IMG_6027.webp" %}
-
-{% image "images/IMG_6028.webp" %}
-
-{% image "images/IMG_6030.webp" %}
-
-{% image "images/IMG_6031.webp" %}
-
-{% image "images/IMG_6033.webp" %}
+{% image "legacy/IMG_6016.webp", "2048x1536" %}
+{% image "legacy/IMG_6026.webp", "2048x1536" %}
+{% image "legacy/IMG_6027.webp", "2048x1536" %}
+{% image "legacy/IMG_6028.webp", "2048x1536" %}
+{% image "legacy/IMG_6030.webp", "2048x1536" %}
+{% image "legacy/IMG_6031.webp", "2048x1536" %}
+{% image "legacy/IMG_6033.webp", "2048x1536" %}
 
 This was the last attempt, that only Travis tried, was after this rock with just a cliff down and another cliff back up. After this, we headed back. 
 
-{% image "images/IMG_6040.webp" %}
-
-{% image "images/IMG_6046.webp" %}
-
-{% image "images/IMG_6054.webp" %}
-
-{% image "images/IMG_6057.webp" %}
+{% image "legacy/IMG_6040.webp", "1636x2048" %}
+{% image "legacy/IMG_6046.webp", "1536x2048" %}
+{% image "legacy/IMG_6054.webp", "2048x1536" %}
+{% image "legacy/IMG_6057.webp", "2048x1536" %}
 
 This was the tuna cannery. 
 
-{% image "images/IMG_6059.webp" %}
-
-{% image "images/IMG_6061.webp" %}
+{% image "legacy/IMG_6059.webp", "2048x1536" %}
+{% image "legacy/IMG_6061.webp", "2048x1536" %}
 
 After the beach, we walked around town or where the vendors/stores were. I had a Dairy Queen chocolate brownie extreme blizzard -- it was more chocolatey than at home so very good, even though I can, sort of, get them at home! I was hoping for available wifi, with a kid at home needing something, though unclear what, but no such luck. Travis had a tequila shot.   
 
@@ -88,7 +67,7 @@ For dinner, I had the pork slider with cheese, I asked for no slaw, and came wit
 
 Travis's was all good; he had: the Greek salad, ceviche, a mushroom with marinara sauce and mozzarella, and chocolate panna cotta. The panna cotta.
 
-{% image "images/IMG_6069.webp" %}
+{% image "legacy/IMG_6069.webp", "1536x2048" %}
 
 We watched the comedian Lenny Schmidtz again. 
 
@@ -96,7 +75,7 @@ Tonight we had a time change and lost an hour. I did not get this. Carnival uses
 
 Complete side note -- Our room toilet did not seem to flush as much water as other cruise ship toilet did, so had to check each time. I wonder if this is a newer ship thing. It did flush every time, so no issues there. 
 
-{% image "images/IMG_6070.webp" %}
+{% image "legacy/IMG_6070.webp", "1536x2048" %}
 
 [Next up...Mazatlan](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_23.html)
 

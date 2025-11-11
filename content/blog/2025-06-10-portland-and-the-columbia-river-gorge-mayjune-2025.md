@@ -10,7 +10,7 @@ description: ""
 
 **Oregon - Planning and First Day -- May 28, 2025**
 
-{% image "images/image80.webp" %}
+{% image "legacy/image80.webp", "1600x1200" %}
 
 Latourell Falls
 
@@ -38,7 +38,7 @@ Security lines were a little long, but we were not in a hurry. After security, t
 
 After boarding, there were further delays; the Captain noted that they had to reboot the computer to try to get it to work. He said it was a 3rd backup system and that we could go without it working, but that they had to try. His reboot did not work, but maintenance's did. However, we did not take off until a little after 9:30 am for a 7:30 am flight...no guarantee on on-time take off, like they have on bags. The Captain also noted that turbulence was expected, so they would not service snacks and drinks until 1-2 hours into the flight. He also kept noting that they had an award winning crew; that does not matter if they cannot work. The service was standard. I did not think it felt very turbulent; though the family agreed that it was turbulent. I guess that I have just had some very bad turbulence in the past. We were quite hungry by the time we got our snack and drink. We had some snacks in our bags, though I should have remembered more, I normally do have more. We were assigned seats 25A-D for both flights earlier than check-in. They were all together, not all the way to the back, with a window and two aisles, so very nice for basic fare. Hello, Mount Hood and snowy mountains. 
 
-{% image "images/IMG_20250528_124636511_HDR.webp" %}{% image "images/IMG_20250528_104453219.webp" %}
+{% image "legacy/IMG_20250528_124636511_HDR.webp", "2048x1536" %}{% image "legacy/IMG_20250528_104453219.webp", "2048x1536" %}
 
 After the late arrival, we found the Lyft pickup location and requested a Lyft. The Lyft driver was very friendly, and he gave us advice on what to do in Portland. Lately, Uber/Lyft drivers have not been very friendly or talkative. Both of ours to and from the airport were awesome. The Avis employee was a little rude about insurance. He assigned a Santa Fe/SUV when we booked a Toyota Camry or similar. They never seem to have the car that we booked. In hindsight, the Santa Fe would probably have been fine, but I do not know how the 5 pieces of luggage would have fit or if the luggage would have been visible for the back window. He happily changed our car to a Chevy Malibu that I would be more comfortable driving. I don't know why they just pick and don't just ask. I also did not know the gas mileage expected on a Santa Fe with Pacific Northwest higher gas prices than we are used to. 
 
@@ -48,51 +48,41 @@ Then, we got to start touring. Starting our drive to the Historic Columbia 30 hi
 
 The guys with the gorge and river. Vista House. 
 
-{% image "images/IMG_2034.webp" %}
-
-{% image "images/IMG_2036.webp" %}
-
-{% image "images/IMG_2043.webp" %}
-
-{% image "images/IMG_2044.webp" %}
+{% image "legacy/IMG_2034.webp", "2048x1536" %}
+{% image "legacy/IMG_2036.webp", "2048x1536" %}
+{% image "legacy/IMG_2043.webp", "2048x1536" %}
+{% image "legacy/IMG_2044.webp", "2048x1536" %}
 
 Then we went to Latourell Falls in the Guy W. Talbot State Park. After, we went to Bridal Veil Falls. Both are free to park and no admission fee. Both were pretty close to the parking; no long hike required. Latourell had vault toilets, so we waited for Bridal Veil with flush toilets and handwashing available. I saw this on a youtube video before arrival. 
 
-{% image "images/IMG_2045.webp" %}
-
-{% image "images/IMG_20250528_142821425_HDR.webp" %}{% image "images/IMG_2050.webp" %}
+{% image "legacy/IMG_2045.webp", "2048x1536" %}
+{% image "legacy/IMG_20250528_142821425_HDR.webp", "2048x1151" %}{% image "legacy/IMG_2050.webp", "1536x2048" %}
 
 Owen found a big rock to climb. We were able to go down to the waterfall pool. All the water that I touched was very cold; too early to swim in waterfall pools.
 
-{% image "images/IMG_2057.webp" %}{% image "images/IMG_2059.webp" %}
-
-{% image "images/IMG_2060.webp" %}{% image "images/IMG_2061.webp" %}
-
-{% image "images/IMG_2062.webp" %}{% image "images/IMG_2063.webp" %}
+{% image "legacy/IMG_2057.webp", "1536x2048" %}{% image "legacy/IMG_2059.webp", "1536x2048" %}
+{% image "legacy/IMG_2060.webp", "1536x2048" %}{% image "legacy/IMG_2061.webp", "2048x1536" %}
+{% image "legacy/IMG_2062.webp", "1536x2048" %}{% image "legacy/IMG_2063.webp", "1536x2048" %}
 
 A Historic Columbia Highway bridge from the hiking trail.
 
-{% image "images/IMG_2068.webp" %}
+{% image "legacy/IMG_2068.webp", "2048x1536" %}
 
 Then we arrived at Bridal Veil Falls. Travis and Owen climbed to the bottom. 
 
-{% image "images/IMG_2077.webp" %}{% image "images/IMG_2088.webp" %}
-
-{% image "images/IMG_2085.webp" %}
+{% image "legacy/IMG_2077.webp", "1536x2048" %}{% image "legacy/IMG_2088.webp", "1536x2048" %}
+{% image "legacy/IMG_2085.webp", "2048x1536" %}
 
 Joel decided to cross the river on a fallen tree.   
 
-{% image "images/IMG_2089.webp" %}
+{% image "legacy/IMG_2089.webp", "2048x1536" %}
 
 We stopped at one more view point before going to our campsite at Ainsworth State Park. 
 
-{% image "images/IMG_2095.webp" %}
-
-{% image "images/IMG_2097.webp" %}
-
-{% image "images/IMG_2098.webp" %}
-
-{% image "images/IMG_2099.webp" %}
+{% image "legacy/IMG_2095.webp", "2048x1536" %}
+{% image "legacy/IMG_2097.webp", "2048x1536" %}
+{% image "legacy/IMG_2098.webp", "2048x1536" %}
+{% image "legacy/IMG_2099.webp", "1680x2048" %}
 
 Both campsites were near the river, so also near the the train and interstate highway 84. This one was a hike-in campsite, which we have not done before, but they were charging out of state residents an extra fee for RV hook up available sites or pull into sites. When we arrived, I pointed to the "Enter" sign that we followed and completely missed the hike-in/Loop C parking. We found the camp host and saw him to ask. For check-in, he pointed us to the Park Ranger. Some check-in was online -- number of tents, any pets, and car info. Since ours was a rental, I could not complete this park. She, the Park Ranger, complete it, gave us a rearview mirror hanger with check-out date, and pointed us in the right direction. The parking did have the promised water spigot. 
 
@@ -100,7 +90,7 @@ Hike-in was not too long of a walk, but having to hike up and not being near our
 
 Though our campsite was not ideal/the best choice. Our tents were on two different levels. Our tent was on the top level with a drop off pretty close to the tent. The rainfly stake was a tripping hazard by the picnic table. The kids' tent was on the lower level, going more downhill where their air mattress was pushing on the side of the tent and bending it badly. It is pretty though. The Milky Way was supposed to be very visible on our nights in Oregon, but there quite a few trees blocking the sky view. Travis did see it though. I just saw many stars. 
 
-{% image "images/IMG_2105.webp" %}
+{% image "legacy/IMG_2105.webp", "2048x1536" %}
 
 Next up...[Multnomah Falls](https://ww-wanderers.blogspot.com/2025/06/multnomah-falls-columbia-river-gorge.html)
 

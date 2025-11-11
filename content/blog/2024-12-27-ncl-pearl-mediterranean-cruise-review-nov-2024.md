@@ -10,7 +10,7 @@ description: ""
 
 **NCL Pearl - November 1-11, 2024**
 
-{% image "images/IMG_0620.webp" %}
+{% image "legacy/IMG_0620.webp", "2048x1536" %}
 
 We booked this 10-night cruise a year before with our 20% off future cruise credit from missed ports in Iceland/Greenland for its awesome itinerary. All the ports were new to both of us, and we had two nights before and after the cruise planned to see Florence and Rome. I had been to Florence and Rome 25 years ago, and they were new to Travis. We had a port everyday, which we worried about being tiring, but we could always stay onboard or not stay on shore long. 
 
@@ -38,9 +38,8 @@ O'Sheehan's is normally my favorite (well, not over Cagney's and Le Bistro -- a 
 
 Escargot and filet at Le Bistro. 
 
-{% image "images/IMG_0772.webp" %}
-
-{% image "images/IMG_0776.webp" %}
+{% image "legacy/IMG_0772.webp", "2048x1536" %}
+{% image "legacy/IMG_0776.webp", "2048x1536" %}
 
 **Ship**
 
@@ -62,11 +61,9 @@ Our room steward did a great job keeping us with ice and extra towels. I was sur
 
 Also, for Latitudes status, NCL, without telling us, cut the laundry perk from a laundry bag per member to a laundry bag per stateroom. Not knowing, we did not plan well, and of course disappointed in the uncommunicated cutback. 
 
-{% image "images/IMG_9587.webp" %}
-
-{% image "images/IMG_9588.webp" %}
-
-{% image "images/IMG_9589.webp" %}{% image "images/IMG_9590.webp" %}
+{% image "legacy/IMG_9587.webp", "2048x1536" %}
+{% image "legacy/IMG_9588.webp", "2048x1536" %}
+{% image "legacy/IMG_9589.webp", "1536x2048" %}{% image "legacy/IMG_9590.webp", "1536x2048" %}
 
 **Entertainment**
 

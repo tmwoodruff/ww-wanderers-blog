@@ -12,79 +12,55 @@ description: ""
 
 Joel at Squad 3 Thunderbirds BBQ with fajitas in his new Thunderbirds cap. 
 
-{% image "images/IMG_20250830_121754691_HDR.webp" %}
-
-{% image "images/IMG_2600.webp" %}
-
-{% image "images/IMG_2601.webp" %}
-
-{% image "images/IMG_2608.webp" %}
+{% image "legacy/IMG_20250830_121754691_HDR.webp", "2048x1536" %}
+{% image "legacy/IMG_2600.webp", "2048x1536" %}
+{% image "legacy/IMG_2601.webp", "2048x1536" %}
+{% image "legacy/IMG_2608.webp", "2048x1536" %}
 
 Joel with current roommate with their mad, pisshead faces.
 
-{% image "images/IMG_2610.webp" %}
+{% image "legacy/IMG_2610.webp", "2048x1536" %}
 
 Squad group picture before Step Off. 
 
-{% image "images/Group picture.webp" %}
+{% image "legacy/Group picture.webp", "1200x900" %}
 
 Joel with his fish (freshman) roommate.
 
-{% image "images/Joel and Ethan 2.webp" %}
-
-{% image "images/Joel and Ethan.webp" %}
-
-{% image "images/IMG_2611.webp" %}
-
-{% image "images/IMG_2612.webp" %}
-
-{% image "images/IMG_2613.webp" %}
-
-{% image "images/IMG_2622.webp" %}
-
-{% image "images/IMG_2626.webp" %}
-
-{% image "images/IMG_2628.webp" %}
-
-{% image "images/IMG_2635.webp" %}
-
-{% image "images/IMG_2636.webp" %}
-
-{% image "images/IMG_2639.webp" %}
-
-{% image "images/IMG_2642.webp" %}
-
-{% image "images/IMG_2648.webp" %}
+{% image "legacy/Joel and Ethan 2.webp", "2048x1536" %}
+{% image "legacy/Joel and Ethan.webp", "2048x1536" %}
+{% image "legacy/IMG_2611.webp", "1536x2048" %}
+{% image "legacy/IMG_2612.webp", "2048x1536" %}
+{% image "legacy/IMG_2613.webp", "2048x1536" %}
+{% image "legacy/IMG_2622.webp", "1536x2048" %}
+{% image "legacy/IMG_2626.webp", "2048x1536" %}
+{% image "legacy/IMG_2628.webp", "2048x1536" %}
+{% image "legacy/IMG_2635.webp", "2048x1536" %}
+{% image "legacy/IMG_2636.webp", "2048x1536" %}
+{% image "legacy/IMG_2639.webp", "2048x1536" %}
+{% image "legacy/IMG_2642.webp", "2048x1536" %}
+{% image "legacy/IMG_2648.webp", "2048x1536" %}
 
 Joel is a row and 3 over in from the row with the girl in the white dress, looking at his phone. Another looking up. Later the girl in the white dress left, so he was harder to find.
 
-{% image "images/IMG_2652.webp" %}
-
-{% image "images/IMG_2654.webp" %}
-
-{% image "images/IMG_2658.webp" %}
-
-{% image "images/IMG_2660.webp" %}
-
-{% image "images/IMG_2663.webp" %}
-
-{% image "images/IMG_2668.webp" %}
-
-{% image "images/IMG_2672.webp" %}
-
-{% image "images/IMG_2674.webp" %}
+{% image "legacy/IMG_2652.webp", "2048x1536" %}
+{% image "legacy/IMG_2654.webp", "2048x1536" %}
+{% image "legacy/IMG_2658.webp", "2048x1536" %}
+{% image "legacy/IMG_2660.webp", "2048x1536" %}
+{% image "legacy/IMG_2663.webp", "2048x1536" %}
+{% image "legacy/IMG_2668.webp", "2048x1536" %}
+{% image "legacy/IMG_2672.webp", "2048x1536" %}
+{% image "legacy/IMG_2674.webp", "2048x1536" %}
 
 The sunset
 
-{% image "images/IMG_2676.webp" %}
-
-{% image "images/IMG_2679.webp" %}
+{% image "legacy/IMG_2676.webp", "2048x1536" %}
+{% image "legacy/IMG_2679.webp", "2048x1536" %}
 
 We had a spirited group behind us.
 
-{% image "images/IMG_20250830_185259766.webp" %}
-
-{% image "images/IMG_20250830_205025448.webp" %}
+{% image "legacy/IMG_20250830_185259766.webp", "2048x1536" %}
+{% image "legacy/IMG_20250830_205025448.webp", "2048x1536" %}
 
 Highlights and Aggie Band:
 

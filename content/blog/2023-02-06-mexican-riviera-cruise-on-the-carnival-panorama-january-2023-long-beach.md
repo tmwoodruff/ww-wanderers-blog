@@ -40,31 +40,27 @@ Then on to the hotel. Our hotel was the Vagabond hotel. It was a good location a
 
 After getting settled, we went out to explore Long Beach. We walked to the beach, around the lagoon (which had Swan paddle boats for rent for $12/person for an hour), to the birdcage (a spinal stair alternating with ramps up for views and bridge over the lagoon), through the marina and restaurant and shopping area, and up to the lighthouse (they had changing colored lights shining on the lighthouse and a display and pictures of history in Long Beach). We caught a glance of a cruise ship; it was not ours. It was the Carnival Radiance. The cruise terminal is only used by Carnival; it is a dome shaped terminal -- it was cool looking. It looked like other cruise lines used a terminal further west in San Pedro. The cruise ship through the very tall, skinny palm trees. 
 
-{% image "images/IMG_5876.webp" %}
+{% image "legacy/IMG_5876.webp", "1536x2048" %}
 
 Long beach and Travis demonstrating the playground surfboard. 
 
-{% image "images/IMG_5877.webp" %}
-
-{% image "images/IMG_5882.webp" %}
+{% image "legacy/IMG_5877.webp", "2048x1536" %}
+{% image "legacy/IMG_5882.webp", "2048x1536" %}
 
 Then we found Queen Mary! The City of Long Beach owns and has been fixing her up. Before covid, she served as a hotel, restaurant, and tours. With the restoration and covid, they have been closed. I kept watching for the tours to open. Then during the holidays apparently they did, and I got behind checking with the holidays. They tours showed full. Maybe they were filled very quickly, but I was super annoyed and disappointed! 
 
-{% image "images/IMG_5887.webp" %}
+{% image "legacy/IMG_5887.webp", "2048x1536" %}
 
 The sailboat was nice with the sun setting. Queen Mary with the terminal dome, Radiance, Travis, and port cranes. 
 
-{% image "images/IMG_5890.webp" %}
-
-{% image "images/IMG_5897.webp" %}
-
-{% image "images/IMG_5904.webp" %}
-
-{% image "images/IMG_5906.webp" %}
+{% image "legacy/IMG_5890.webp", "2048x1536" %}
+{% image "legacy/IMG_5897.webp", "2048x1536" %}
+{% image "legacy/IMG_5904.webp", "2048x1536" %}
+{% image "legacy/IMG_5906.webp", "2048x1536" %}
 
 Terrace Plaza foundations. They were choreographed and danced to Jump by Van Halen, which was awesome. 
 
-{% image "images/IMG_5918.webp" %}
+{% image "legacy/IMG_5918.webp", "2048x1536" %}
 
 Long Beach was a nice walking tour. We returned to the hotel for our cruise tomorrow!
 

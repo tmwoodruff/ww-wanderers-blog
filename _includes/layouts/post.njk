@@ -1,10 +1,13 @@
 ---
 layout: layouts/base.njk
 ---
-{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
-<style>{% include "node_modules/prismjs/themes/prism-okaidia.css" %}</style>
-<style>{% include "css/prism-diff.css" %}</style>
 <h1>{{ title }}</h1>
+
+<style>
+	body { max-width: 50em; }
+	p:has(> a.post-image) { display: flex;  gap: 1em 1em; flex-wrap: wrap; align-items: baseline; justify-content: center;}
+	a.post-image { text-decoration: none; }
+</style>
 
 <ul class="post-metadata">
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>

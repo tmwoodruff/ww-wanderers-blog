@@ -22,7 +22,7 @@ In Athens, passport and immigration was quick, and our luggage came quickly. We 
 
 The hotel was good. Everyone at the front desk was friendly (we asked about a pharmacy for a cruise covid test and got two recommendations). Our flight arrived at 11:30 am and about an hour ride into to Athen, so the 2pm check in was perfect. They had the sleeper sofa open and ready for kids. Though we had to add our top sheets, they were folded into boats when we arrived. Maybe not everyone uses them. We were on the top floor, and it was quiet. We had two balconies that we could see the Acropolis in the distance. 
 
-{% image "images/image2.webp" %}
+{% image "legacy/image2.webp", "1600x1200" %}
 
 It looked like hotels in the area noted having added sound reduction for noisy city streets. We were in more of a residential area, but we liked it. We stopped at a more resident-geared grocery store several times for room snacks, breakfast, ice cream, and water (20p for a liter versus in the US where bottled water is the same price as soda). After getting sick from different stuff in the water in Italy, I'm big on not drinking the local water in foreign countries. We also had a big gyro plate to share at a sit down restaurant near the hotel. It came with 4+ pitas, chicken and pork, french fries (they are eaten in the gyros in Greece), tzatziki, another more mayo sauce, tomatoes, onions, and lettuce. The hotel also had a very interesting elevator; the door that you had to swing open with doorknob. It was very small, but good for moving luggage up and down, which I rode up with it.
 

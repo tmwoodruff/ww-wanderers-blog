@@ -14,18 +14,18 @@ World scratch and U.S. National Park pin maps history; both from my sister. We h
 
 **August 2015**
 
-{% image "images/Screen Shot 2023-03-05 at 6.37.47 PM.webp" %}
+{% image "legacy/Screen Shot 2023-03-05 at 6.37.47 PM.webp", "1716x1288" %}
 
 **March 2023**
 
 **  
 **
 
-{% image "images/Screen Shot 2023-03-05 at 8.32.42 PM.webp" %}
+{% image "legacy/Screen Shot 2023-03-05 at 8.32.42 PM.webp", "2048x1600" %}
 
 **March 2023**
 
-{% image "images/Screen Shot 2023-03-05 at 8.32.04 PM.webp" %}
+{% image "legacy/Screen Shot 2023-03-05 at 8.32.04 PM.webp", "2048x1659" %}
 
 [Table of Contents  
 ](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

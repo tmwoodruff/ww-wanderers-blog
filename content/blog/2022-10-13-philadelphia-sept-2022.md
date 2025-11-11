@@ -12,59 +12,50 @@ description: ""
 
 My grocery store bagel toasted with cream cheese was very good. We explored more of the Independence Hall area.
 
-{% image "images/IMG_5667.webp" %}
+{% image "legacy/IMG_5667.webp", "1536x2048" %}
 
 Benjamin Franklin and wife's gravestone, and some good information about his life. 
 
-{% image "images/IMG_5671.webp" %}
-
-{% image "images/IMG_5672.webp" %}
-
-{% image "images/IMG_5673.webp" %}
+{% image "legacy/IMG_5671.webp", "2048x1536" %}
+{% image "legacy/IMG_5672.webp", "1536x2048" %}
+{% image "legacy/IMG_5673.webp", "1536x2048" %}
 
 We went through Chinatown and to Reading Terminal Market for a pork sandwich for lunch. Travis liked it; I was not a big fan -- Philly cheesesteak was much better. Also, we got some chocolates from the candy stand at the Market -- dark chocolate peanut butter cups, dark chocolate coconut, and dark chocolate covered cashews. They were delicious; the peanut butter cups were the best. 
 
 We headed toward the art museum area through Logan's square and found the Amor version of the Love sign. 
 
-{% image "images/IMG_5683.webp" %}
-
-{% image "images/IMG_5685.webp" %}
-
-{% image "images/IMG_5687.webp" %}
+{% image "legacy/IMG_5683.webp", "1536x2048" %}
+{% image "legacy/IMG_5685.webp", "2048x1536" %}
+{% image "legacy/IMG_5687.webp", "2048x1536" %}
 
 Rodin Museum. The Thinker and then the Gates of Hell. 
 
-{% image "images/IMG_5691.webp" %}
-
-{% image "images/IMG_5693.webp" %}
+{% image "legacy/IMG_5691.webp", "2048x1536" %}
+{% image "legacy/IMG_5693.webp", "1536x2048" %}
 
 Sculpture of Balzac and the seal that looks the sculpture below of the him as well. 
 
-{% image "images/IMG_5694.webp" %}
-
-{% image "images/IMG_5695.webp" %}
-
-{% image "images/IMG_5701.webp" %}
+{% image "legacy/IMG_5694.webp", "2048x1536" %}
+{% image "legacy/IMG_5695.webp", "1536x2048" %}
+{% image "legacy/IMG_5701.webp", "1536x2048" %}
 
 Philadelphia Museum of Art. We did not visit but looked at the outside with the stairs that Rocky exercised/training on. Before, we visited the Rocky statue; Travis managed to get a picture without anyone in it. There were lots of people by the Rocky statue talking/bothering to tourists, offering to take a picture (for tips), and selling shirts. It was too high pressure for me. The stairs were a more pleasant experience. 
 
-{% image "images/IMG_5705.webp" %}
+{% image "legacy/IMG_5705.webp", "2048x1536" %}
 
 Behind the Museum we found the waterfront and Schuylkill River where the dam was. 
 
-{% image "images/IMG_5707.webp" %}
-
-{% image "images/IMG_5710.webp" %}
+{% image "legacy/IMG_5707.webp", "2048x1536" %}
+{% image "legacy/IMG_5710.webp", "2048x1536" %}
 
 A bridge when going down to the waterfront. Here we found a wedding party prepping for the wedding. 
 
-{% image "images/IMG_5709.webp" %}
-
-{% image "images/IMG_5712.webp" %}
+{% image "legacy/IMG_5709.webp", "1536x2048" %}
+{% image "legacy/IMG_5712.webp", "2048x1536" %}
 
 Matthias Baldwin Park was noted to have good city views. This was near our hotel, so we went on the way back. 
 
-{% image "images/IMG_5715.webp" %}
+{% image "legacy/IMG_5715.webp", "2048x1536" %}
 
 Back at the hotel, we got dressed for dinner. We had reservations for Philly restaurant week with fixed price lunches and dinners. We picked Gran Caffe L’Aquila; it was a four course dinner for $40 each. We ordered:   
 
@@ -116,17 +107,16 @@ Gelato Champion Stefano Biasini -- I got the 70% dark chocolate gelato, and it w
 
 Sicilian rice ball: 
 
-{% image "images/IMG_5718.webp" %}
+{% image "legacy/IMG_5718.webp", "1536x2048" %}
 
 Wide ribbon pasta, slow cooked pork, lamb, chicken & veal ragu: 
 
-{% image "images/IMG_5719.webp" %}
+{% image "legacy/IMG_5719.webp", "2048x1536" %}
 
 Gran Panna Cotta and gelato: 
 
-{% image "images/IMG_5720.webp" %}
-
-{% image "images/IMG_5721.webp" %}
+{% image "legacy/IMG_5720.webp", "1536x2048" %}
+{% image "legacy/IMG_5721.webp", "1536x2048" %}
 
 We stayed at Sonder Sixteen Hundred at 1600 Callowhill St. I had not heard of Sonders before, but they have locations in some cities around the world; it seems like they are newer and expanding. This was the most the afford place to stay in Philly and was a great location. The hotel prices made it look like Philly thought it was NYC. 
 
@@ -138,9 +128,8 @@ This is the studio; they had one and two bedroom rooms too for families. In fron
 
 We were on the second floor out of 7, so not the best view, but we could still see some good buildings and had big windows. It was also facing an alley, so it was nice and quiet. 
 
-{% image "images/IMG_5664.webp" %}
-
-{% image "images/IMG_5722.webp" %}
+{% image "legacy/IMG_5664.webp", "2048x1536" %}
+{% image "legacy/IMG_5722.webp", "1536x2048" %}
 
 Next up [Mutter Museum and Eastern State Penitentiary](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_16.html)...
 

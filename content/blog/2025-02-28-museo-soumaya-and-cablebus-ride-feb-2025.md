@@ -14,65 +14,48 @@ We took a bus to the Polanco neighborhood. This was even further than our bus ye
 
 Here was the beautiful building. It was just as beautiful inside with swirled ramps to the different levels (I estimated 6 levels) and a glass skylight at the top. I googled it, and supposedly, it cost almost $800 million to build -- crazy! Rodin's The Thinker outside. 
 
-{% image "images/IMG_1908.webp" %}
-
-{% image "images/IMG_1910.webp" %}
-
-{% image "images/IMG_1912.webp" %}
-
-{% image "images/IMG_1913.webp" %}
+{% image "legacy/IMG_1908.webp", "2048x1536" %}
+{% image "legacy/IMG_1910.webp", "2048x1536" %}
+{% image "legacy/IMG_1912.webp", "1536x2048" %}
+{% image "legacy/IMG_1913.webp", "2048x1364" %}
 
 This was an interesting building above or behind the mall. I think it was really just the curtains on the windows and maybe being fully glass. A nice flowering tree. 
 
-{% image "images/IMG_1914.webp" %}
-
-{% image "images/IMG_1915.webp" %}
+{% image "legacy/IMG_1914.webp", "1536x2048" %}
+{% image "legacy/IMG_1915.webp", "2048x1536" %}
 
 These reproductions were created by an Italian company that created a 3D imaging technology to image the the original. Then created casts that they filled with crushed marble. The process is described below in Spanish. All my pictures on the ground floor turned out pink, so for some, I changed them to B&W.; It must have been the lighting. 
 
-{% image "images/IMG_1916.webp" %}
-
-{% image "images/IMG_1917.webp" %}
-
-{% image "images/IMG_1918.webp" %}
-
-{% image "images/IMG_1919.webp" %}
-
-{% image "images/IMG_20250208_105324468.webp" %}
+{% image "legacy/IMG_1916.webp", "1536x2048" %}
+{% image "legacy/IMG_1917.webp", "2048x1536" %}
+{% image "legacy/IMG_1918.webp", "1536x2048" %}
+{% image "legacy/IMG_1919.webp", "2048x1536" %}
+{% image "legacy/IMG_20250208_105324468.webp", "2048x1536" %}
 
 This was on the telephone history level, which was interesting, and why I thought there was not going to be any more art. Then more sculptures and many paintings were on the higher levels. 
 
-{% image "images/IMG_1920.webp" %}
-
-{% image "images/IMG_1921.webp" %}
-
-{% image "images/IMG_1924.webp" %}
-
-{% image "images/IMG_1925.webp" %}
+{% image "legacy/IMG_1920.webp", "2048x1536" %}
+{% image "legacy/IMG_1921.webp", "1536x2048" %}
+{% image "legacy/IMG_1924.webp", "2048x1536" %}
+{% image "legacy/IMG_1925.webp", "2048x1536" %}
 
 Carved tusks
 
-{% image "images/IMG_1926.webp" %}
-
-{% image "images/IMG_1928.webp" %}
+{% image "legacy/IMG_1926.webp", "2048x1536" %}
+{% image "legacy/IMG_1928.webp", "2048x1536" %}
 
 This is "Cupid Leading a Dove". It was very cute, but I did not get a good picture. There was a Cupid section, Venus section, Cupid and Venus together, and other sections by subject. 
 
-{% image "images/IMG_1929.webp" %}
-
-{% image "images/IMG_1931.webp" %}
+{% image "legacy/IMG_1929.webp", "1536x2048" %}
+{% image "legacy/IMG_1931.webp", "2048x1536" %}
 
 Here is the ramps between levels and the top with skylight. 
 
-{% image "images/IMG_1933.webp" %}
-
-{% image "images/IMG_1935.webp" %}
-
-{% image "images/IMG_1936.webp" %}
-
-{% image "images/IMG_1938.webp" %}
-
-{% image "images/IMG_1939.webp" %}
+{% image "legacy/IMG_1933.webp", "2048x1536" %}
+{% image "legacy/IMG_1935.webp", "2048x1536" %}
+{% image "legacy/IMG_1936.webp", "2048x1536" %}
+{% image "legacy/IMG_1938.webp", "2048x1536" %}
+{% image "legacy/IMG_1939.webp", "1536x2048" %}
 
 After we wore out, we went to a street vendor that was across the street from the museum for two quesadillas. Travis had chicken with no cheese, and I had bistec with cheese. Then, we went back into the mall for ice creams and the restroom. 
 
@@ -80,13 +63,10 @@ Next, we headed to the Cablebus for a scenic ride over the park that we visited 
 
 After the long wait and with Metro card credit now, we got on. Since this station was very busy, the cars were full. When they are not full, you have to sit on opposite sides to balance the weight. I think that I had to sit backwards each time, which made me a little sick feeling. It was a beautiful ride. We got off at the Panteón de Dolores station to visit the Panteón Civil de Dolores (cemetery). It had tombs above ground, like New Orleans has. We visited the Rotonda de las Personas Ilustres -- the rotunda of famous people. We saw Diego Riviera's grave (pictured below). 
 
-{% image "images/IMG_1941.webp" %}
-
-{% image "images/IMG_1942.webp" %}
-
-{% image "images/IMG_1944.webp" %}
-
-{% image "images/IMG_1945.webp" %}
+{% image "legacy/IMG_1941.webp", "2048x1536" %}
+{% image "legacy/IMG_1942.webp", "2048x1536" %}
+{% image "legacy/IMG_1944.webp", "1536x2048" %}
+{% image "legacy/IMG_1945.webp", "1536x2048" %}
 
 As we were leaving, two pickup beds full of police officers were arriving. I also saw a hurst, so we guessed a funeral. But how important was the person that their funeral needed two pickup beds full of police officers to watch over it, or maybe that is normal? Walking over the pedestrian bridge over the road, we saw two of the buses that we needed to catch come in quick succession and that we missed. This was bus was part of the Metro but called RTP and was a green coach sized bus. It took forever to arrive since we missed the previous two. It was crowded, and we had a long ride back. 
 

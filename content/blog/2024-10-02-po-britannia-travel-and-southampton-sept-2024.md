@@ -20,39 +20,32 @@ Coaches routes were assigned a number; however, we did not find them unique enou
 
 The walk was interesting. The sidewalks have quick history notes. We passed Bargate. 
 
-{% image "images/IMG_8709.webp" %} {% image "images/IMG_8711.webp" %}
+{% image "legacy/IMG_8709.webp", "2048x1536" %} {% image "legacy/IMG_8711.webp", "1307x2048" %}
 
 Remainder of a church; Southampton was bombed during WWII. Its bells with two little men to ring them. 
 
-{% image "images/IMG_8707.webp" %}
-
-{% image "images/IMG_8708.webp" %}
+{% image "legacy/IMG_8707.webp", "2048x1891" %}
+{% image "legacy/IMG_8708.webp", "2048x1536" %}
 
 The city had an interesting old walls. 
 
-{% image "images/IMG_8724.webp" %}
-
-{% image "images/IMG_8714.webp" %}{% image "images/IMG_8715.webp" %}
-
-{% image "images/IMG_8723.webp" %}
+{% image "legacy/IMG_8724.webp", "2048x1536" %}
+{% image "legacy/IMG_8714.webp", "2048x1536" %}{% image "legacy/IMG_8715.webp", "1536x2048" %}
+{% image "legacy/IMG_8723.webp", "2048x1536" %}
 
 We then arrived at our AirBNB. It was hard to tell where it was. Since we had a UK number/SIM card, I tried to call but did not get an answer. I sent an update through AirBNB with an ETA after we got on the National Express coach. We finally went into a gate that looked to match Google maps and buzzed the number of the apartment. He answered immediately. He came downstairs, asked us to wait because they were finishing some work in our bathroom, that the worker took longer than estimated. We did not have to wait long when he called us up. Though I did not understand the floor # and England does ground floor, 1st floor, etc. We took the elevator up to 3 when he was asked where we were. So, we went down with luggage to the 1st. He was making up our bed, giving us info and keys, and offered a complimentary meal at his Lebanese restaurant due to the issue. We had had an airplane breakfast and a sandwich from an airport store, but we were hungry for lunch-dinner. 
 
 We went immediately, after a restroom break. We shared an appetizer: fried Halloumi cheese -- very good with a garlic sauce and a chili sauce, and a main: pitas, lamb shawarma, fries, and rice. All good and filling. The waitress was very nice and gave us some grocery store recommendations. I found some interesting ones that I pinned on Google maps before leaving; we did not make it to all of them. Next, we walked around more and did some cruise shopping. We went to Lidl, Poundland, and the recommended new Asian grocery store. For the cruise, we got lotion, bar soap, two cans of soda for me (more allowed to take onboard, but to be able to reasonably transport them), and candy. We got breakfast for the morning -- I got a chocolate twist, and Travis found some very affordable (compared to home) bran flake cereal. We also walked to the port area to scope it out. This building was in the Southampton port webcam that we saw online, so I got a picture. Another interesting building, and a WWII mural. 
 
-{% image "images/IMG_8713.webp" %}{% image "images/IMG_8725.webp" %}
-
-{% image "images/IMG_8726.webp" %}
-
-{% image "images/IMG_8727.webp" %}
+{% image "legacy/IMG_8713.webp", "1536x2048" %}{% image "legacy/IMG_8725.webp", "1536x2048" %}
+{% image "legacy/IMG_8726.webp", "2048x1536" %}
+{% image "legacy/IMG_8727.webp", "2048x1536" %}
 
 Our AirBNB room and a view from the window of the walls. Our host was having very bad luck when we were there, or it is normal... We had a private bathroom but not an ensuite, so we had to leave the room to get to the bathroom. I could not tell that our bathroom had really been under construction; it looked in his room instead. Our room locked but the handle was a little lose so hard to unlock, luckily no problems in the middle of the night. We had access to the kitchen where we stored a few things in the fridge. Someone tried to walk in on me in the bathroom, eek, luckily locked. Also, the shower went to freezing and would not warm again halfway through my shower, which was very unpleasant. Travis only had a freezing shower. We could not get the room heater to work, so I messaged. He could not fix it either and noted that some one knocked it off level with a suitcase (it is in the picture under the TV). As we were going to bed early (no sleep the night before), he ran to his restaurant and got a portable one for us. We used it all night; it was supposed to be 39F, very cold for us leaving 80F at night -- outside, that is. We also talked to him about storing luggage tomorrow when we arrived; he said that he would see what time the next people were coming to see if we could keep the key or needed to give it back and just store with him.
 
-{% image "images/IMG_8719.webp" %}
-
-{% image "images/IMG_8720.webp" %}
-
-{% image "images/IMG_8721.webp" %}
+{% image "legacy/IMG_8719.webp", "2048x1536" %}
+{% image "legacy/IMG_8720.webp", "2048x1536" %}
+{% image "legacy/IMG_8721.webp", "2048x1536" %}
 
 Next up...[Embarkation Day](https://ww-wanderers.blogspot.com/2024/10/p-britannia-norwegian-fjords.html)
 

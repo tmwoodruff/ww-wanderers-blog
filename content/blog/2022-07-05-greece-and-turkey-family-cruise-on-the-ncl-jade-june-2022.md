@@ -10,7 +10,7 @@ description: ""
 
 **
 
-{% image "images/IMG_4531.webp" %}
+{% image "legacy/IMG_4531.webp", "2048x1536" %}
 
 **
 

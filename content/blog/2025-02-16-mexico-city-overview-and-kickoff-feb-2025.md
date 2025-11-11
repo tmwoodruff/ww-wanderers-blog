@@ -10,7 +10,7 @@ description: ""
 
 **Hola, Mexico City - February 4, 2025**
 
-{% image "images/IMG_1623.webp" %}
+{% image "legacy/IMG_1623.webp", "2048x1536" %}
 
 **Overview**
 
@@ -46,7 +46,7 @@ The drive was crazy (but less crazy than in Rome). At the hotel, we were too ear
 
 We got off near Biblioteca Vasconcelos (library) and Walmart. We went to the library first; this was a very cool looking library that we found pictures of online. It was very cool to see; we did not go into the book section since we had our snacks and water bottles in our backpacks. There was security at each book entrance. We found that security guard was a very common job in Mexico City. See; isn't it awesome?! As part of the library, but outside, they had tables that we planned to have a snack realizing that we had not had lunch yet. All the tables were taken, so we went out of the library. They had bag check when you exited to be sure that you had not taken any books. Outside there was not really any good places to sit for a snack. The potential seating space was really fountains that were not on. We had a quick snack and headed to Walmart. 
 
-{% image "images/IMG_20250204_133119666_HDR.webp" %}
+{% image "legacy/IMG_20250204_133119666_HDR.webp", "2048x1536" %}
 
 We had a quick snack and headed to Walmart. We got snacks for the room and to take out walking the town and for breakfast. We used our backpacks for our the sacks; like some US states, there were no bags available at the register. I did not even see the option to buy any. 
 
@@ -54,25 +54,18 @@ Near the Monument to the Revolution, we found a vendor area and got two $13 Peso
 
 Walking back to the hotel, this was cool with stained glass and another cool circular building. 
 
-{% image "images/IMG_20250204_165648618_HDR~2.webp" %}
-
-{% image "images/IMG_20250204_165733041_HDR.webp" %}
-
-{% image "images/IMG_20250204_165612139_HDR.webp" %}
+{% image "legacy/IMG_20250204_165648618_HDR~2.webp", "701x878" %}
+{% image "legacy/IMG_20250204_165733041_HDR.webp", "2048x1151" %}
+{% image "legacy/IMG_20250204_165612139_HDR.webp", "2048x1151" %}
 
 Back at the hotel, we collected our luggage and finished our check-in. They did not accommodate an extra towel or extra keycard request. There were elevators, and sign pointing to a gym. I did not see that there was a gym before, so had Travis not bring gym clothes. We never checked out what it had in it, but we did plenty of walking around the city exercise. No breakfast included. The room was very nice. There was a safe, three pillows, two bath towels, one hand towel, rug, no washcloths (like Europe), lotion, bar soap, bodywash, and shampoo. They also included daily coffee to make in the room and a daily bottle of water each, which was very nice. We had two balconies. It was a good location. It was noisy, but I guess anywhere in Mexico City would be loud. We through that a couple of times a night until at least 9:30 pm that a tour bus making announcements over a loud speaker came by until Travis looked out and saw that it was actually a guy on a bicycle making announcements to sell something.
 
-{% image "images/IMG_1510.webp" %}
-
-{% image "images/IMG_1511.webp" %}
-
-{% image "images/IMG_1512.webp" %}
-
-{% image "images/IMG_1513.webp" %}{% image "images/IMG_1514.webp" %}
-
-{% image "images/IMG_1515.webp" %}{% image "images/IMG_1516.webp" %}
-
-{% image "images/IMG_1517.webp" %}
+{% image "legacy/IMG_1510.webp", "2048x1536" %}
+{% image "legacy/IMG_1511.webp", "2048x1536" %}
+{% image "legacy/IMG_1512.webp", "2048x1536" %}
+{% image "legacy/IMG_1513.webp", "1536x2048" %}{% image "legacy/IMG_1514.webp", "1536x2048" %}
+{% image "legacy/IMG_1515.webp", "1536x2048" %}{% image "legacy/IMG_1516.webp", "1536x2048" %}
+{% image "legacy/IMG_1517.webp", "2048x1536" %}
 
 We went to a sit down restaurant with wait service for dinner. Dr. Pizza was very close to our hotel. We shared a pizza of salami, hot honey sauce, and multiple cheeses. It was good and the crust was very good. The hot honey sauce was too hot for me. I also got a pink lemonade that came with raspberry. I didn't like it, so Travis drank it. There was an OXXO convenient store at the corner near our hotel where we stopped to get some water. Travis read not to drink the water in Mexico City due to the pipes. Depending on country, but I normally follow this rule after getting sick in Italy in 1999. After the early rise for the flight, we went to bed early. 
 

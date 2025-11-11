@@ -10,11 +10,9 @@ description: ""
 
 **P &O; Britannia Review -- September 13-20, 2024**
 
-{% image "images/IMG_20240913_093117517.webp" %}
-
-{% image "images/IMG_20240913_105659816_HDR.webp" %}
-
-{% image "images/IMG_20240913_170217014_HDR.webp" %}
+{% image "legacy/IMG_20240913_093117517.webp", "2048x1536" %}
+{% image "legacy/IMG_20240913_105659816_HDR.webp", "2048x1536" %}
+{% image "legacy/IMG_20240913_170217014_HDR.webp", "2048x1536" %}
 
 This was our first cruise on P&O; UK cruise line. It was great value and included the daily service charges included in the fare. It was a British experience where everyone was lovely and the vibe was more relaxed. As an American, you can only book P&O; UK through VacationsToGo; we booked through Emma Cruise's US travel agent, who went through VacationsToGo. 
 

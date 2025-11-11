@@ -12,9 +12,8 @@ description: ""
 
 We found a bald eagle in the tree with the mountain. 
 
-{% image "images/IMG_2535.webp" %}
-
-{% image "images/IMG_2535.webp" %}
+{% image "legacy/IMG_2535.webp", "2048x984" %}
+{% image "legacy/IMG_2535.webp", "2048x984" %}
 
 Today, we had a booking Wet Planet whitewater rafting for the White Salmon half day trip, meeting at 9am. We booked on Viator because it has a more flexible cancellation and later payment. Wet Planet called before for my email address, so that we could do the waiver signing beforehand since Viator did not collect this for them. We all completed this, so everyone received the detailed email before the trip. I was reading Owen's email; we were supposed to arrive 15 minutes before. 
 
@@ -28,15 +27,13 @@ We carefully boarded the raft. Getting in and out is the hardest for me. Our gui
 
 After leaving, we drove south back to WA-14, and this time headed west on the Washington side. On the drive, I was unsuccessfully looking for lunch. Not finding any options, we had snacks in the car and planned a stop at Popeyes in Vancouver, WA, the first city that we were coming to. I wanted us to stop at the Bonneville Dam on the WA side; you cannot get to this visitor center from the OR side. Another truck check, and we were in. The door said not backpacks, so Travis ran his back to the car. We were told on the OR side that more fish run through the WA side. We indeed found this to be true and without a school field trip in progress. The ladder where we could see fish: 
 
-{% image "images/IMG_2539.webp" %}
-
-{% image "images/IMG_2541.webp" %}
-
-{% image "images/IMG_2545.webp" %}
+{% image "legacy/IMG_2539.webp", "2048x1536" %}
+{% image "legacy/IMG_2541.webp", "2048x1536" %}
+{% image "legacy/IMG_2545.webp", "2048x1536" %}
 
 The viewing area; we saw a lamprey eel here too that Owen got a good picture of. Then Travis and I as eel mouths. 
 
-{% image "images/Lamprey Eel.webp" %}{% image "images/IMG_2544.webp" %}
+{% image "legacy/Lamprey Eel.webp", "1536x2048" %}{% image "legacy/IMG_2544.webp", "1333x2048" %}
 
 We did not scope Vancouver out as a future retirement area very much. We were on the east side only; however, it was a very nice area -- I could live there based on what I saw. Popeyes hit the spot; we got a family meal deal that they had advertised on the window. 
 

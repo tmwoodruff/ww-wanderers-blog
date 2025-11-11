@@ -16,7 +16,7 @@ We booked this cruise very early (Nov 9, 2023) based on a very exciting cruise i
 
 We had been on the ship before, 15 years ago, taking our oldest at age 4, on his first cruise. I like the NCL Jewel class ships. We booked an Inside on deck 9 -- 3 decks (for stair climbing) to the buffet, 2 decks to the promenade, and 3 decks to the MDRs.
 
-{% image "images/image31.webp" %}
+{% image "legacy/image31.webp", "698x769" %}
 
 **Flight:**
 

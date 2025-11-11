@@ -20,17 +20,14 @@ Upon arrival, we found (through lots of traffic and walkers) the luggage drop of
 
 New York views from the ship. Anthem of the Seas was on the New Jersey side. 
 
-{% image "images/IMG_7585.webp" %}
-
-{% image "images/IMG_7587.webp" %}{% image "images/IMG_7621.webp" %}
-
-{% image "images/IMG_7589.webp" %}
-
-{% image "images/IMG_7591.webp" %}
+{% image "legacy/IMG_7585.webp", "2048x1536" %}
+{% image "legacy/IMG_7587.webp", "1536x2048" %}{% image "legacy/IMG_7621.webp", "1536x2048" %}
+{% image "legacy/IMG_7589.webp", "2048x1536" %}
+{% image "legacy/IMG_7591.webp", "2048x1536" %}
 
 Joel boarding   
 
-{% image "images/IMG_7583.webp" %}
+{% image "legacy/IMG_7583.webp", "2048x1536" %}
 
 They announced pushing that you go up to your cabin to get your key cards right after boarding. Three of our four suitcases were already at our door. A little strange since they were all together, but the last one did arrived later. I was asking the family if we need to take them in or just take the key now. The room steward came out, and I tried to ask him but was not well understood. We left them out, and they would have been in his way in the small cabins. Carnival gives you the keycards at the cabin but only when cabins are ready. NCL gives them at check-in in the terminal. Cabins ETA was 1:30 pm. We were on very early; the earliest that I had ever been on. I believe a little before 11am. Our sail away was 3pm. 
 
@@ -40,51 +37,40 @@ With lunch eaten and shows booked, we had to start focusing on the muster drill.
 
 Sail away...and we are off. Views from our front facing window (deep window) of the Verrazzano-Narrows Bridge. It looked like we were going to hit a container ship (below) -- constant bearing, constant speed. The official nautical term looks like Constant bearing, decreasing range (CBDR). But, not an issue. There is also the Anthem of the Seas heading out in front of us. 
 
-{% image "images/IMG_7637.webp" %}
-
-{% image "images/IMG_7626.webp" %}
-
-{% image "images/IMG_7627.webp" %}
-
-{% image "images/IMG_7632.webp" %}
-
-{% image "images/IMG_7633.webp" %}
+{% image "legacy/IMG_7637.webp", "2048x1536" %}
+{% image "legacy/IMG_7626.webp", "2048x1536" %}
+{% image "legacy/IMG_7627.webp", "2048x1536" %}
+{% image "legacy/IMG_7632.webp", "2048x1536" %}
+{% image "legacy/IMG_7633.webp", "2048x1536" %}
 
 Two decks of traffic. The guys went to the gym while I finished unpacking and took these pictures. I also did a quick tour of decks 6 and 7. They said that they saw the bridge from the gym. The gym had a much better view than our last ship, the NCL Star. It looked out to the walking trail and could see to the pool deck, but you could also see water off both sides. It was on deck 16. 
 
 Close passage under the bridge. 
 
-{% image "images/IMG_7636.webp" %}
+{% image "legacy/IMG_7636.webp", "2048x1536" %}
 
 We dressed for dinner. Your assigned dining room, time, and table number is on your keycard. The first night they were taking people to their table. We passed a close number, but our escort kept going. When he was having trouble finding it, I noted that I saw a close number back in a section over there. We all went back, looked, and found it. Our waiters were Ramon and Carlos. They were awesome. Ramon said something that made me ask if we don't wait to be seated on the future nights and just come and sit down here. Fixed time dining, at the same table was brand new for us. He confirmed that we just sit down. We were not sharing with any other families and had a rectangular table for 4. We had line of site to windows, but were not very close to a window. Behind Owen and me, there is a TV showing their specialty dining food preparation. They were scattered about. TVs in the main dining room seemed odd; not making for a very formal experience. 
 
-{% image "images/IMG_7641.webp" %}
-
-{% image "images/IMG_7643.webp" %}
+{% image "legacy/IMG_7641.webp", "2048x1536" %}
+{% image "legacy/IMG_7643.webp", "2048x1536" %}
 
 My chicken croquettes -- they were very good; followed by Travis's bay scallop ceviche. I did not get pictures of all. Joel had the fire roasted creamy tomato soup saying that there was not much fire and that it was very creamy. Owen had the Caesar salad. For mains, we had: me - NY strip steak (ok), Travis - Chef's Indian vegetarian (fine; not spicy and would have been better with more spice), and the kids - lasagna. 
 
-{% image "images/IMG_7644.webp" %}
-
-{% image "images/IMG_7645.webp" %}
+{% image "legacy/IMG_7644.webp", "2048x1536" %}
+{% image "legacy/IMG_7645.webp", "2048x1536" %}
 
 I did get dessert pictures. Both kids got the warm apple crumble and enjoyed it very much. Travis had the Coconut pistachio dacquoise, and I had Grandma's chocolate cake that Ramon asked/recommended a la mode (a good choice). Everyone liked their dessert. 
 
-{% image "images/IMG_7647.webp" %}
-
-{% image "images/IMG_7648.webp" %}
-
-{% image "images/IMG_7649.webp" %}
+{% image "legacy/IMG_7647.webp", "2048x1536" %}
+{% image "legacy/IMG_7648.webp", "2048x1536" %}
+{% image "legacy/IMG_7649.webp", "2048x1536" %}
 
 After dinner, we checked out the chocolate store. They were starting an owl; he was completed and displayed at the end of the cruise. There were several other cool chocolate statues to see. 
 
-{% image "images/IMG_7651.webp" %}
-
-{% image "images/IMG_7940.webp" %}
-
-{% image "images/IMG_7941.webp" %}
-
-{% image "images/IMG_7942.webp" %}{% image "images/IMG_7943.webp" %}
+{% image "legacy/IMG_7651.webp", "2048x1536" %}
+{% image "legacy/IMG_7940.webp", "1536x2048" %}
+{% image "legacy/IMG_7941.webp", "1536x2048" %}
+{% image "legacy/IMG_7942.webp", "1536x2048" %}{% image "legacy/IMG_7943.webp", "1536x2048" %}
 
 Next up...[through the Atlantic Ocean, at sea](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-sea-day-march-2024.html).
 

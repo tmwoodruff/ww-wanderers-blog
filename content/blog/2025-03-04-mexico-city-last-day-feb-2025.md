@@ -12,19 +12,18 @@ description: ""
 
 We went for a quick walk to an area that we had not been before in the morning. We found this monument, but unfortunately, it was very graffitied. 
 
-{% image "images/IMG_20250210_091417714_HDR.webp" %}
-
-{% image "images/IMG_20250210_091426655_HDR.webp" %}
+{% image "legacy/IMG_20250210_091417714_HDR.webp", "2048x1151" %}
+{% image "legacy/IMG_20250210_091426655_HDR.webp", "2048x1151" %}
 
 After the walk, we went back to the hotel in time for the checkout, and they stored our luggage for us. 
 
 Then we went to the Chocolate Museum, which was only about 3 minutes walk from the hotel toward Roma and Condesa. It was interesting. It was not like the one that we visited in Germany that showed the makeup of the different chocolate percentages (milk chocolate vs. different percentages of semi-sweet to dark chocolate), but it was the history of chocolate in the first civilizations. Drinking chocolate cold or hot was done to celebrate weddings and other important life events. People would use chocolate to pay their taxes. Chocolate would be traded between different civilizations. They had a harder time getting the Europeans to adopt it, but eventually, they did. We saw vessels that they served chocolate from. The people working there were very helpful. They did a tour for the Spanish speakers. Since we were not, we went back and forth to the rooms that they were not current in. There was a display of guess the smell of things that were added to chocolate like mint or orange, which was fun. Here is a room covered in chocolate circles. This must be the mascot of the chocolate museum. The person selling tickets seemed to watch me very carefully to be sure that I did not touch it. 
 
-{% image "images/IMG_20250210_120226803_HDR.webp" %}{% image "images/IMG_20250210_120953572_HDR.webp" %}
+{% image "legacy/IMG_20250210_120226803_HDR.webp", "2048x1151" %}{% image "legacy/IMG_20250210_120953572_HDR.webp", "2048x1151" %}
 
 After the museum, we found a food stand with Chilaquiles. This is fried tortillas in spicy sauce with sour cream, cheese, onions, and we had bistec for the meat. It was very good; though there was a lot of red sauce, which was spicy. 
 
-{% image "images/IMG_20250210_122920375_HDR.webp" %}
+{% image "legacy/IMG_20250210_122920375_HDR.webp", "2048x1151" %}
 
 We went back to the hotel to pick up our suitcases. She asked where we were from; we said Texas. She said that she normally could not understand Texans -- an accent and in English, but that we were understandable. We caught an Uber to the airport. It was a long and traffick-y ride but was only about $12 USD. We gave a tip, not on the app, but with some Pesos that we had left. 
 
@@ -32,11 +31,9 @@ Our flight was pretty delayed -- about an hour and half. From my memory, they st
 
 Since we were late, some cool moon and sunset pictures. 
 
-{% image "images/IMG_20250210_181926562.webp" %}
-
-{% image "images/IMG_20250210_181932403.webp" %}
-
-{% image "images/IMG_20250210_193120849.webp" %}{% image "images/IMG_20250210_193127733.webp" %}
+{% image "legacy/IMG_20250210_181926562.webp", "2048x1536" %}
+{% image "legacy/IMG_20250210_181932403.webp", "2048x1536" %}
+{% image "legacy/IMG_20250210_193120849.webp", "2048x1536" %}{% image "legacy/IMG_20250210_193127733.webp", "2048x1536" %}
 
 Next up...[Portland, Oregon to Columbia River Gorge](https://ww-wanderers.blogspot.com/2025/06/portland-and-columbia-river-gorge.html)
 

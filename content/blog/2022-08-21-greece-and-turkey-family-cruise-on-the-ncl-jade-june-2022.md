@@ -72,55 +72,45 @@ We were booked on what seems like an early flight by the cruise line -- 10:30 am
 
 **Food pictures:**
 
-{% image "images/IMG_4562.webp" %}
+{% image "legacy/IMG_4562.webp", "2048x1536" %}
 
 Jasmine -- Asian restaurant
 
-{% image "images/IMG_4688.webp" %}
-
-{% image "images/IMG_4689.webp" %}
+{% image "legacy/IMG_4688.webp", "2048x1536" %}
+{% image "legacy/IMG_4689.webp", "2048x1536" %}
 
 Le Bistro, French restaurant, desserts
 
-{% image "images/IMG_4867.webp" %}
-
-{% image "images/IMG_4870.webp" %}
-
-{% image "images/IMG_4975.webp" %}
-
-{% image "images/IMG_4977.webp" %}
-
-{% image "images/IMG_4978.webp" %}
+{% image "legacy/IMG_4867.webp", "1536x2048" %}
+{% image "legacy/IMG_4870.webp", "2048x1536" %}
+{% image "legacy/IMG_4975.webp", "1536x2048" %}
+{% image "legacy/IMG_4977.webp", "2048x1536" %}
+{% image "legacy/IMG_4978.webp", "1536x2048" %}
 
 Breakfast at O'Sheehan's 
 
-{% image "images/IMG_20220609_083724899_HDR.webp" %}
+{% image "legacy/IMG_20220609_083724899_HDR.webp", "1536x2048" %}
 
 Moderno, Brazilian steakhouse, desserts
 
-{% image "images/IMG_20220609_191027788.webp" %}
-
-{% image "images/IMG_20220609_191039727.webp" %}
-
-{% image "images/IMG_20220611_175115024.webp" %}
+{% image "legacy/IMG_20220609_191027788.webp", "1536x2048" %}
+{% image "legacy/IMG_20220609_191039727.webp", "1536x2048" %}
+{% image "legacy/IMG_20220611_175115024.webp", "1536x2048" %}
 
 Goat cheese and onion flatbread 
 
-{% image "images/IMG_20220611_175119367_HDR.webp" %}
-
-{% image "images/IMG_20220611_180645038.webp" %}
+{% image "legacy/IMG_20220611_175119367_HDR.webp", "1536x2048" %}
+{% image "legacy/IMG_20220611_180645038.webp", "1536x2048" %}
 
 Prime rib
 
-{% image "images/IMG_20220611_180657772.webp" %}
+{% image "legacy/IMG_20220611_180657772.webp", "1536x2048" %}
 
 Some menu shots; sorry that they are not better
 
-{% image "images/IMG_20220610_145724253.webp" %}
-
-{% image "images/IMG_20220611_172229118.webp" %}
-
-{% image "images/Menu.webp" %}
+{% image "legacy/IMG_20220610_145724253.webp", "1536x2048" %}
+{% image "legacy/IMG_20220611_172229118.webp", "1536x2048" %}
+{% image "legacy/Menu.webp", "1200x1600" %}
 
 Next up [Yellowstone and Glacier National Parks.](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks.html)..
 

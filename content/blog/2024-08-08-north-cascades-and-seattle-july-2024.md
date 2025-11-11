@@ -14,79 +14,56 @@ Being our last camping night, we did not have luggage space to take the purchase
 
 We did not take down the tent yet and went east to Ross Dam Trail at MP/Milepost 134 for the 1.5 miles, 500 foot elevation gain hike. This hike was downhill first and then up. We quickly found a waterfall. 
 
-{% image "images/IMG_8617.webp" %}
-
-{% image "images//P1140557.webp" %}
-
-{% image "images/P1140560.webp" %}
-
-{% image "images/P1140563.webp" %}
-
-{% image "images/P1140565.webp" %}
+{% image "legacy/IMG_8617.webp", "1536x2048" %}
+{% image "legacy/P1140557.webp", "2048x1538" %}
+{% image "legacy/P1140560.webp", "2048x1538" %}
+{% image "legacy/P1140563.webp", "2048x1538" %}
+{% image "legacy/P1140565.webp", "2048x1538" %}
 
 Arrived at Ross Dam. 
 
-{% image "images/IMG_8628.webp" %}
-
-{% image "images/IMG_8629.webp" %}
-
-{% image "images/P1140567.webp" %}
-
-{% image "images/P1140577.webp" %}
-
-{% image "images/P1140580.webp" %}
-
-{% image "images/P1140586.webp" %}
-
-{% image "images/IMG_8629.webp" %}
-
-{% image "images/P1140587.webp" %}
-
-{% image "images/P1140589.webp" %}
+{% image "legacy/IMG_8628.webp", "2048x1536" %}
+{% image "legacy/IMG_8629.webp", "2048x1536" %}
+{% image "legacy/P1140567.webp", "2048x1538" %}
+{% image "legacy/P1140577.webp", "2048x1538" %}
+{% image "legacy/P1140580.webp", "2048x1538" %}
+{% image "legacy/P1140586.webp", "2048x1538" %}
+{% image "legacy/IMG_8629.webp", "2048x1536" %}
+{% image "legacy/P1140587.webp", "2048x1538" %}
+{% image "legacy/P1140589.webp", "2048x1538" %}
 
 There was also a waterfall into the lake by the dam. Washington had many beautiful waterfalls, just everywhere. 
 
-{% image "images/P1140594.webp" %}
-
-{% image "images/P1140595.webp" %}
-
-{% image "images/P1140598.webp" %}
+{% image "legacy/P1140594.webp", "2048x1538" %}
+{% image "legacy/P1140595.webp", "2048x1538" %}
+{% image "legacy/P1140598.webp", "2048x1538" %}
 
 The power house and electric lines up and across the mountains.
 
-{% image "images/P1140600.webp" %}
-
-{% image "images/P1140597.webp" %}
-
-{% image "images/P1140602.webp" %}
+{% image "legacy/P1140600.webp", "2048x1538" %}
+{% image "legacy/P1140597.webp", "2048x1538" %}
+{% image "legacy/P1140602.webp", "2048x1538" %}
 
 They used the log barriers here too. The lake was very pretty and with the sunrise. A winch; we guessed to place the logs. Across the water is the lodge. 
 
-{% image "images/P1140606.webp" %}
-
-{% image "images/P1140611.webp" %}
-
-{% image "images/IMG_8647.webp" %}
-
-{% image "images/IMG_8650.webp" %}
-
-{% image "images/IMG_8653.webp" %}
-
-{% image "images/IMG_8655.webp" %}
+{% image "legacy/P1140606.webp", "2048x1538" %}
+{% image "legacy/P1140611.webp", "2048x1538" %}
+{% image "legacy/IMG_8647.webp", "1536x2048" %}
+{% image "legacy/IMG_8650.webp", "2048x1536" %}
+{% image "legacy/IMG_8653.webp", "2048x1536" %}
+{% image "legacy/IMG_8655.webp", "2048x1536" %}
 
 After the hike, we went back to the campsite to pack up and then headed toward Seattle. We missed the sign on the way in, and it is pretty far west of the visitor center. We pinned it on Google maps to not miss it again. It is a very pretty National Park sign. 
 
-{% image "images/IMG_8660.webp" %}
+{% image "legacy/IMG_8660.webp", "2048x1536" %}
 
 In Seattle, we stopped at Pagliacci Pizza for lunch. There was very limited parking. On the second loop around, Travis did find a two hour, parallel spot. After we finished eating, there were more spots available. We walked to the park instead of moving the car. However, note that there was plenty of parking at the park, so this would have been the better place to park and walk from. I did not realize at the time, but this was the University of Washington Botanical Gardens. We did not want to get to the hotel too late with an early flight tomorrow, so we picked a few sections of the gardens to focus on. 
 
 We found some turtles in a pond and lots of hydrangeas. 
 
-{% image "images/IMG_8664.webp" %}
-
-{% image "images/IMG_8665.webp" %}
-
-{% image "images/P1140624.webp" %}
+{% image "legacy/IMG_8664.webp", "2048x1536" %}
+{% image "legacy/IMG_8665.webp", "2048x1536" %}
+{% image "legacy/P1140624.webp", "2048x1538" %}
 
 Then we did a drive (scary because of city driving) by the Space Needle and then past Pike's Place fish market, but with limited parking options, did not get out. Then on to the hotel -- Motel 6. There we someone in front of us asking about staying for eight weeks. There was a three week limit, I think, and they wrote a quote on paper for him for that time frame, and then he left. Maybe I should have spent more to stay somewhere else. We did not have any crime issues and the stay was fine. Also, it was very close to the car rental return for our early flight. There were also a few walkable, interesting looking restaurants nearby, though we stayed at the hotel and worked to eat up some of our leftover food. 
 

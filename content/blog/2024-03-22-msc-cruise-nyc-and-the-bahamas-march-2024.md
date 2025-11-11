@@ -10,13 +10,13 @@ description: ""
 
 **Planning and Flight -- March 8, 2024**
 
-{% image "images/IMG_7621.webp" %}
+{% image "legacy/IMG_7621.webp", "1536x2048" %}
 
 We planned this cruise for our oldest son's, Joel, high school gradation in two months from now. We booked this cruise in May 2023.We wanted to try MSC, Italian cruise line getting into the US market, and let the kids see NYC since they had not been. We picked the cabin so had MSC's Fantastica tier experience. This allowed us to pick between early and late dining. I picked early because I heard they had seen a 9:30 pm dining time, and we definitely would not want to eat that late. I saw a 5pm, 5:30 pm on some signs; we were assigned the 6pm in the Panorama MDR. The time worked well. Travis and I also got a status match from our NCL Platinum status. This gave us MSC Gold and a 10% discount at the shops that we used. We did not use any other Fantastica or Gold benefits. Gold gave priority tendering, which is very nice, but we did not have any tendering required. We got the invite to the cocktail party with free photo, but it was 11am and required dressing up. It was a bad time of day to need to dress up. Gold also gave an hour free at the thermal spa, but I worried about other spa upsells, so we did not try it. Too much side track -- sorry, but if you are sailing MSC, do the status match with your status on other cruise line, some hotels, and some Vegas casinos too, I believe. Then use the match to get a repeat passenger cruise discount when booking that I missed. 
 
 Our cabin was 10001 at the very front of the ship on deck 10 with a front facing window. The room had bunkbeds for the kids, which were set off to the side and not taking up space in the footprint of the room. Our last cruise with the kids, we got the bidded upgrade to a balcony since the ship was not full, which was exciting. However, their beds were a pull out sofa and dropdown bunkbed over it, so one had to climb through beds to get to the balcony at night or morning. With this room, I was excited to have their beds out of the walking paths. If I did not describe it well, here it is from MSC's deck plan pdf. 10001 and 10005 have bunkbeds where their wall touch (though it looks too narrow here), and there is a room, 10003, as an inside between them. All three have connected doors that we did not use. It looked like 10005 and 10003 did on our cruise, just seeing them talking to the person in 10003. Maybe the Mother/Grandma. The general recommendation is not to get the connecting rooms if you are not buying both for noise (and saving them for those that need them). We did not have any noise issues with the door or wall with the bunks. It also looked like there was a two story cabin next to us too, which may have also reduced noise on that side. It was a quiet room until the last two nights when we heard some people running around and probably getting luggage set out for disembarkation, but not too bad. I was worried about the location for sea sickness since it was high and all the way forward. Spoiler alert -- I took a couple of ginger candies and sea sick meds day 2/sea day and day 6/sea day, through the Atlantic Ocean. They worked well and did not make me as drowsy as they normally do; I was happy with that. So, location was not a problem, and we could have gone to another place on the ship, if needed. 
 
-{% image "images/image4.webp" %}
+{% image "legacy/image4.webp", "366x236" %}
 
 We were 4 decks down to the MDR and theater and 5 decks up to the buffet. There was decks 4-19, without 17 since bad luck in Italy.
 
@@ -30,14 +30,14 @@ With the delayed departure, we arrived late. We found the bus #62 from the termi
 
 We first checked into our hotel to leave luggage and then went back out for a dinner. We picked up and shared two Greek plates with lamb and pork, rice, pitas, and a salad with a dill cream sauce and hot sauce on the side back at our hotel from Blazin Chicken & Gyro. It was really good. Travis and Joel tried to go to the hotel gym, but they did not have any weights that Joel wanted and the bike was occupied that Travis wanted. They settled for a walk through the Bronx instead and found a raccoon. 
 
-{% image "images/IMG_20240308_212237413.webp" %}{% image "images/IMG_20240308_212450683.webp" %}  
+{% image "legacy/IMG_20240308_212237413.webp", "1152x2048" %}{% image "legacy/IMG_20240308_212450683.webp", "2048x1536" %}  
 
 We cleaned up and went to bed, planning the American Museum of National History and Central Park for Saturday.
 
 So, back to the cruise...our itinerary:   
 **MSC Meraviglia -- Embarking: March 10, 2024 and Disembarking: March 17, 2024**
 
-{% image "images/image5.webp" %}
+{% image "legacy/image5.webp", "780x434" %}
 
 Next up...[Natural History Museum and Central Park](https://ww-wanderers.blogspot.com/2024/03/nyc-natural-history-museum-and-central.html)
 

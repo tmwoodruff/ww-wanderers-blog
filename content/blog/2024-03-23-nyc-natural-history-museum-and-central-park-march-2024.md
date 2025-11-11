@@ -14,35 +14,31 @@ Our hotel included breakfast; it was very good. There were four different hot th
 
 We then took the Metro to the natural history museum, properly called the American Museum of Natural History, and Central Park, across the street. We arrived a little early to have some time to walk around Central Park. There were a lot of runners, so I thought it was a race. Travis thought just runners. Joel is the photographer here, so in cell phone orientation. Across a pond in the park and pretty trees. 
 
-{% image "images/IMG_20240309_093718314_HDR.webp" %}{% image "images/IMG_20240309_093822655_HDR.webp" %}
+{% image "legacy/IMG_20240309_093718314_HDR.webp", "1152x2048" %}{% image "legacy/IMG_20240309_093822655_HDR.webp", "1152x2048" %}
 
 You can pre-purchase tickets to the museum and **have to pre-book a timed entry ticket/reservation for a particular day and time**. We had 10am on Saturday, so the line was long with some rain and cold. It did move quickly though. I overhead a security guard noting to someone that since it was rainy and Saturday, it is busy. Joel is planning to major in Chemistry and has always enjoyed Science so wanted this stop. Inside we got tickets and picked our extra activities: Great Blue Whale (45 min show, be there about 10 mins early), Elephants (special walk through exhibit), and Butterflies (area with live butterflies to walk through). 
 
-{% image "images/IMG_20240309_101948090.webp" %}{% image "images/IMG_20240309_154126080.webp" %}
+{% image "legacy/IMG_20240309_101948090.webp", "1152x2048" %}{% image "legacy/IMG_20240309_154126080.webp", "1152x2048" %}
 
 This atrium area was not here when Travis and I came in 2016. It reminds me of Park Güell in Barcelona that I liked so much. 
 
-{% image "images/IMG_7543.webp" %}{% image "images/IMG_7544.webp" %}
-
-{% image "images/IMG_7545.webp" %}
+{% image "legacy/IMG_7543.webp", "2048x1536" %}{% image "legacy/IMG_7544.webp", "1536x2048" %}
+{% image "legacy/IMG_7545.webp", "2048x1536" %}
 
 The butterfly area was very cool; though I still don't like butterflies because they are like moths with stuff that comes off their wings. An employee asked us if we had any questions. So, we asked some, and he shared good info. 
 
-{% image "images/IMG_7551.webp" %}
-
-{% image "images/IMG_7555.webp" %}
+{% image "legacy/IMG_7551.webp", "2048x1536" %}
+{% image "legacy/IMG_7555.webp", "2048x1536" %}
 
 The Pupae Incubator; one here made it out. How did it fit in there? 
 
-{% image "images/IMG_7560.webp" %}
-
-{% image "images/IMG_7563.webp" %}
-
-{% image "images/IMG_7574.webp" %}
+{% image "legacy/IMG_7560.webp", "1536x2048" %}
+{% image "legacy/IMG_7563.webp", "2048x1536" %}
+{% image "legacy/IMG_7574.webp", "2048x1536" %}
 
 The meteor
 
-{% image "images/IMG_7582.webp" %}
+{% image "legacy/IMG_7582.webp", "2048x1536" %}
 
 We were able to leave for lunch and use the same tickets to come back. We left after our 1:30 pm butterfly time, so a late lunch. We picked Uno -- Chicago pizza -- hehe. It was not NY pizza, but I liked the deep dish with the tomato sauce on top in Chicago. It was good and hit the spot for a late lunch. 
 

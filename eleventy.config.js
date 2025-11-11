@@ -4,6 +4,7 @@ import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin, Util } from "@11ty/eleventy-img";
 import Image from "@11ty/eleventy-img";
+import pluginPostImages from "./modules/post-images/post-images.js"
 
 import pluginFilters from "./_config/filters.js";
 
@@ -79,7 +80,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "Blog Title",
 			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			base: "https://ww-wanderers.cc/",
 			author: {
 				name: "Your Name"
 			}
@@ -90,9 +91,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// Output formats for each image.
 		formats: ["avif", "webp", "auto"],
-
-		// widths: ["auto"],
-
+		widths: ["auto"],
 		failOnError: true,
 		htmlOptions: {
 			imgAttributes: {
@@ -108,31 +107,8 @@ export default async function(eleventyConfig) {
 		},
 	});
 
-	eleventyConfig.addShortcode("image", function image(src, alt = "", widths = ["auto"], sizes = "") {
-		// const normalizedSource = Util.normalizeImageSource(
-		// 	{
-		// 		input: this.eleventy.directories.input,
-		// 		inputPath: this.page.inputPath,
-		// 	},
-		// 	src,
-		// );
-		return `<a href="${src}"><img width="320" src="${src}"/></a>`
-
-		// 		return await Image(src, {
-		// 	widths,
-		// 	formats: ["auto"],
-		// 	failOnError: true,
-		// 	returnType: "html",    // new in v6.0
-		// 	htmlOptions: {         // new in v6.0
-		// 		imgAttributes: {
-		// 			alt,
-		// 			sizes,             // required with more than one width, optional if single width output
-		// 			loading: "lazy",   // optional
-		// 			decoding: "async", // optional
-		// 		}
-		// 	}
-		// });
-	});
+	// Post image gallery
+	eleventyConfig.addPlugin(pluginPostImages);
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
