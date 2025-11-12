@@ -1,7 +1,7 @@
 /* Defaults */
 :root {
 	--font-family: Zalando Sans, -apple-system, system-ui, sans-serif;
-	--font-family-title: Playpen Sans, -apple-system, system-ui, sans-serif;
+	--font-family-title: Amatic SC, -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -102,6 +102,10 @@ iframe {
 }
 iframe {
 	aspect-ratio: 16/9;
+}
+
+h1 {
+	font-size: 1.5em;
 }
 
 p:last-child {
@@ -215,7 +219,7 @@ header {
 }
 .home-link {
 	flex-grow: 1;
-	font-size: 2em;
+	font-size: 2.5em;
 	font-weight: 700;
 	font-family: var(--font-family-title);
 }
@@ -243,39 +247,23 @@ header {
 
 /* Posts list */
 .postlist {
-	counter-reset: start-from var(--postlist-index);
-	list-style: none;
 	padding: 0;
-	padding-left: 1.5rem;
 }
 .postlist-item {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: baseline;
-	counter-increment: start-from -1;
 	margin-bottom: 1em;
 }
-.postlist-item:before {
-	display: inline-block;
-	pointer-events: none;
-	content: "" counter(start-from, decimal-leading-zero) ". ";
-	line-height: 100%;
-	text-align: right;
-	margin-left: -1.5rem;
-}
-.postlist-date,
-.postlist-item:before {
+.postlist-date {
 	font-size: 0.8125em; /* 13px /16 */
 	color: var(--color-gray-90);
-}
-.postlist-date {
 	word-spacing: -0.5px;
 }
 .postlist-link {
-	font-size: 1.1875em; /* 19px /16 */
+	font-size: 1em;
 	font-weight: 700;
 	flex-basis: calc(100% - 1.5rem);
-	padding-left: .25em;
 	padding-right: .5em;
 	text-underline-position: from-font;
 	text-underline-offset: 0;

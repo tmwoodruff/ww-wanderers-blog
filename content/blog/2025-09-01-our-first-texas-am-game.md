@@ -1,6 +1,6 @@
 ---
 title: "Our first Texas A&M game"
-date: 2025-09-01
+date: 2025-08-30
 img: images/IMG_20250830_121754691_HDR.webp
 tags: [Texas A&M, Football Game, Kyle Field]
 category: Texas A&M
@@ -8,7 +8,7 @@ author: Tammy
 description: ""
 ---
 
-**August 30, 2025 -** This was our first A&M; game, and they noted that it was the 6th most attended game in history with 107K people, eek, that's a crowd when I would not have guessed it as a super popular opponent team to go see. Maybe because it was the first game of the year. 
+This was our first A&M game, and they noted that it was the 6th most attended game in history with 107K people, eek, that's a crowd when I would not have guessed it as a super popular opponent team to go see. Maybe because it was the first game of the year. 
 
 Joel at Squad 3 Thunderbirds BBQ with fajitas in his new Thunderbirds cap. 
 
