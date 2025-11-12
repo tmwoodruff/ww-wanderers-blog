@@ -1,6 +1,7 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: Zalando Sans, -apple-system, system-ui, sans-serif;
+	--font-family-title: Playpen Sans, -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -11,10 +12,12 @@
 	--color-gray-90: #333;
 
 	--background-color: #fff;
+	--page-background-color: #eaf0eb;
+	--header-background: #99b79c;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
+	--text-color-link-active: #5c435b;
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
@@ -27,11 +30,12 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: #99b79c;
+		--text-color-link-active: #927690;
+		--text-color-link-visited: #c0a3be;
 
 		--background-color: #15202b;
+		--page-background-color: #15202b;
 	}
 }
 
@@ -48,16 +52,24 @@
 html,
 body {
 	padding: 0;
-	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
-	background-color: var(--background-color);
 }
 html {
+	margin: 0 auto;
 	overflow-y: scroll;
+	background-color: var(--page-background-color);
 }
 body {
 	max-width: 50em;
+	margin: 10px auto;
+	background-color: var(--background-color);
+}
+
+@media (max-width: 50em) {
+  body {
+	margin: 0 auto;
+  }
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -124,6 +136,7 @@ main :first-child {
 
 header {
 	border-bottom: 1px dashed var(--color-gray-20);
+	background: var(--header-background);
 }
 
 #skip-link {
@@ -202,8 +215,9 @@ header {
 }
 .home-link {
 	flex-grow: 1;
-	font-size: 1em; /* 16px /16 */
+	font-size: 2em;
 	font-weight: 700;
+	font-family: var(--font-family-title);
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -291,6 +305,7 @@ header {
 	list-style: none;
 	padding: 0;
 	margin: 0;
+	margin-bottom: 1em;
 }
 .post-metadata time {
 	margin-right: 1em;
