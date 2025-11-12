@@ -67,7 +67,7 @@ Also, for Latitudes status, NCL, without telling us, cut the laundry perk from a
 
 **Entertainment**
 
-This was a port intensive cruise with a port everyday, so we did not participate in as much entertainment as normal. We did not get off on the last port, Livorno, so did more trivia this day, where the cruise director staff was aweseome. We went to only one show, the acrobats. They were entertaining; however, light on the acrobatics. They did the cool acrobatics only in the final scene. I watched the Not so Newlywed show on the TV since we did not stay out late enough to see it live. We went to Battle of the Sexes, which was fun. 
+This was a port intensive cruise with a port everyday, so we did not participate in as much entertainment as normal. We did not get off on the last port, Livorno, so did more trivia this day, where the cruise director staff was awesome. We went to only one show, the acrobats. They were entertaining; however, light on the acrobatics. They did the cool acrobatics only in the final scene. I watched the Not so Newlywed show on the TV since we did not stay out late enough to see it live. We went to Battle of the Sexes, which was fun. 
 
 Latitudes status perk: Wines Around the World wine tasting was nice. They gave us a booklet this time to take notes about the wines and what meat they noted each was good with. 
 
