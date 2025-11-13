@@ -38,7 +38,7 @@ Security lines were a little long, but we were not in a hurry. After security, t
 
 After boarding, there were further delays; the Captain noted that they had to reboot the computer to try to get it to work. He said it was a 3rd backup system and that we could go without it working, but that they had to try. His reboot did not work, but maintenance's did. However, we did not take off until a little after 9:30 am for a 7:30 am flight...no guarantee on on-time take off, like they have on bags. The Captain also noted that turbulence was expected, so they would not service snacks and drinks until 1-2 hours into the flight. He also kept noting that they had an award winning crew; that does not matter if they cannot work. The service was standard. I did not think it felt very turbulent; though the family agreed that it was turbulent. I guess that I have just had some very bad turbulence in the past. We were quite hungry by the time we got our snack and drink. We had some snacks in our bags, though I should have remembered more, I normally do have more. We were assigned seats 25A-D for both flights earlier than check-in. They were all together, not all the way to the back, with a window and two aisles, so very nice for basic fare. Hello, Mount Hood and snowy mountains. 
 
-{% image "legacy/IMG_20250528_124636511_HDR.webp", "2048x1536" %}{% image "legacy/IMG_20250528_104453219.webp", "2048x1536" %}
+{% image "legacy/IMG_20250528_124636511_HDR.webp", "1536x2048" %}{% image "legacy/IMG_20250528_104453219.webp", "1536x2048" %}
 
 After the late arrival, we found the Lyft pickup location and requested a Lyft. The Lyft driver was very friendly, and he gave us advice on what to do in Portland. Lately, Uber/Lyft drivers have not been very friendly or talkative. Both of ours to and from the airport were awesome. The Avis employee was a little rude about insurance. He assigned a Santa Fe/SUV when we booked a Toyota Camry or similar. They never seem to have the car that we booked. In hindsight, the Santa Fe would probably have been fine, but I do not know how the 5 pieces of luggage would have fit or if the luggage would have been visible for the back window. He happily changed our car to a Chevy Malibu that I would be more comfortable driving. I don't know why they just pick and don't just ask. I also did not know the gas mileage expected on a Santa Fe with Pacific Northwest higher gas prices than we are used to. 
 
@@ -56,7 +56,7 @@ The guys with the gorge and river. Vista House.
 Then we went to Latourell Falls in the Guy W. Talbot State Park. After, we went to Bridal Veil Falls. Both are free to park and no admission fee. Both were pretty close to the parking; no long hike required. Latourell had vault toilets, so we waited for Bridal Veil with flush toilets and handwashing available. I saw this on a youtube video before arrival. 
 
 {% image "legacy/IMG_2045.webp", "2048x1536" %}
-{% image "legacy/IMG_20250528_142821425_HDR.webp", "2048x1151" %}{% image "legacy/IMG_2050.webp", "1536x2048" %}
+{% image "legacy/IMG_20250528_142821425_HDR.webp", "1151x2048" %}{% image "legacy/IMG_2050.webp", "1536x2048" %}
 
 Owen found a big rock to climb. We were able to go down to the waterfall pool. All the water that I touched was very cold; too early to swim in waterfall pools.
 

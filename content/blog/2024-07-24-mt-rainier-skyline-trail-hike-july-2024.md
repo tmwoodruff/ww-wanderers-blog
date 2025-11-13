@@ -64,7 +64,7 @@ Then we headed out of the Paradise area, where we could see that people had park
 
 Lastly, we visited Narada Falls, which was a short and popular hike to the viewing point. 
 
-{% image "legacy/P1140289.webp", "2048x1538" %}
+{% image "legacy/P1140289.webp", "1538x2048" %}
 
 This was a cold night camping; I was not cold the night before. I slept in a hoodie, pants, and tall wool socks but still cold. 
 

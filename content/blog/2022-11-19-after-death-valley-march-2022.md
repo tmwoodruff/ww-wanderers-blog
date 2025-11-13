@@ -15,7 +15,7 @@ Beatty, NV has resident donkeys. Someone had put out some food for them. When we
 
 On the way out, we headed south past Amargosa Opera House; the tall part on the right was the opera house and to the left is now the motel. Though it did not look open as a motel now either. 
 
-{% image "legacy/IMG_4327.webp", "2048x1536" %}
+{% image "legacy/IMG_4327.webp", "1536x2048" %}
 {% image "legacy/IMG_4330.webp", "2048x1536" %}
 
 Then we went on to Mt. Charleston. A co-worker recommended this park. It was very pretty, though we were completely unprepared for the cold after visiting Death Valley. We climbed higher in elevation, and it got colder and colder. A light snow began to fall. We've got snow. 
@@ -48,7 +48,7 @@ The next day, we went to Red Rock Canyon. Someone that we talked to mentioned th
 This hike required a lot of rock scrambling, which we were warned on the sign. Although I did not really know what rock scrambling was. We did hit a very small section in the Death Valley Ranger lead hike too but nothing like this. 
 
 {% image "legacy/P1100486.webp", "2048x1538" %}
-{% image "legacy/P1100489.webp", "2048x1538" %}
+{% image "legacy/P1100489.webp", "1538x2048" %}
 {% image "legacy/P1100491.webp", "2048x1538" %}
 {% image "legacy/P1100514.webp", "2048x1538" %}
 {% image "legacy/P1100515.webp", "2048x1538" %}
@@ -60,6 +60,6 @@ This hike required a lot of rock scrambling, which we were warned on the sign. A
 
 In the evening, we had a reservation for Din Tai Fung in Aria. We parked free at Tropicana and walked to Aria. The strip was hopping! The restaurant had a viewing window to watch them make dumplings. You filled out on the menu what you wanted to order, and they brought it by courses. Dumplings and the chocolate dumpling for dessert. 
 
-{% image "legacy/IMG-20220321-WA0004.webp", "2048x1152" %} {% image "legacy/IMG-20220321-WA0006.webp", "2048x1152" %}
+{% image "legacy/IMG-20220321-WA0004.webp", "1152x2048" %} {% image "legacy/IMG-20220321-WA0006.webp", "1152x2048" %}
 
 [Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

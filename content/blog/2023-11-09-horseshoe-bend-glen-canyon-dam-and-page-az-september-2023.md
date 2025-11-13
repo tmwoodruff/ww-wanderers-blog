@@ -25,7 +25,7 @@ After a short hike, we arrived at Horseshoe Bend. There was a good crowd but pla
 {% image "legacy/P1130474.webp", "2048x1538" %}
 {% image "legacy/IMG_7271.webp", "2048x1536" %}
 {% image "legacy/IMG_7276.webp", "2048x1536" %}
-{% image "legacy/P1130492.webp", "2048x1538" %}
+{% image "legacy/P1130492.webp", "1538x2048" %}
 {% image "legacy/P1130496.webp", "2048x1538" %}
 
 We picked Paco Tacos in Page for lunch. It was really good. I had steak quesadillas, and Travis had a fish taco and a pork taco. After, we went to the Glen Canyon Dam Visitor Center. The rain began. We got a National Parks passport stamp, looked at the displays, were not there at the right time for the interesting sounding park film, and asked about the dam tours. I had read that they were not offered but asked anyway. She noted that the contract ended with the last vendor and that they were looking for a new vendor, so soon would be offered again. However, that did not help us since it is a long drive from home :). We stepped out into the rain for a few pictures of the bridge and the dam. Then we walked partially across the bridge to get a better dam view and river flowing out of the dam, south.

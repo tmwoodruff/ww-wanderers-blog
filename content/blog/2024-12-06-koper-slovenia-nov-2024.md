@@ -71,7 +71,7 @@ Different views of the cave in the castle or cave and castle together.
 This is the water collection system. From the audio tour, it sounded like this was also a way to protect the residents; by collecting their own water, they knew it was not poisoned. Sample cannonballs or catapults shot at the castle. 
 
 {% image "legacy/IMG_0090.webp", "2048x1536" %}
-{% image "legacy/IMG_0082.webp", "2048x1536" %}
+{% image "legacy/IMG_0082.webp", "1536x2048" %}
 
 Travis found a local beer to try. Outside, we walked down by the goats and got some views of the castle from below. 
 

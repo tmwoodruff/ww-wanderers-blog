@@ -83,12 +83,12 @@ In the morning, we started at Zabriskie Point Badlands and then hiked to Gower G
 {% image "legacy/IMG_4204.webp", "2048x1536" %}
 {% image "legacy/277528069_10220240759318993_8223921832003308045.webp", "1722x1293" %}
 {% image "legacy/P1100317.webp", "2048x1538" %}
-{% image "legacy/P1100320.webp", "2048x1538" %}
+{% image "legacy/P1100320.webp", "1538x2048" %}
 {% image "legacy/P1100323.webp", "2048x1538" %}
 
 A Star Wars backdrop
 
-{% image "legacy/P1100336.webp", "2048x1538" %}
+{% image "legacy/P1100336.webp", "1538x2048" %}
 
 Harmony Borax Works display -- a profitable resource mined in the park with the 20-mule team. 
 
@@ -104,13 +104,13 @@ Mesquite Flat Sand Dunes
 
 Lizard trails
 
-{% image "legacy/IMG_4217.webp", "2048x1536" %}
+{% image "legacy/IMG_4217.webp", "1536x2048" %}
 
 Keane Wonder Mine hike
 
 {% image "legacy/277004100_10220240739078487_46099396897777897_n.webp", "1944x1458" %}
-{% image "legacy/IMG_4235.webp", "2048x1536" %}
-{% image "legacy/IMG_4244.webp", "2048x1536" %}
+{% image "legacy/IMG_4235.webp", "1536x2048" %}
+{% image "legacy/IMG_4244.webp", "1536x2048" %}
 {% image "legacy/IMG_4247.webp", "2048x1536" %}
 
 Dante's view and Dante's Ridge hike. We went left first; it was a great view out onto a hill that overlooked below but was very windy. Then we started the long hike right, not planning to hike the full trail. You could see the trail ahead over the tops of the hills. This was my favorite hike. 

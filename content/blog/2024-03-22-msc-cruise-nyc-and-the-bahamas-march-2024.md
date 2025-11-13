@@ -30,7 +30,7 @@ With the delayed departure, we arrived late. We found the bus #62 from the termi
 
 We first checked into our hotel to leave luggage and then went back out for a dinner. We picked up and shared two Greek plates with lamb and pork, rice, pitas, and a salad with a dill cream sauce and hot sauce on the side back at our hotel from Blazin Chicken & Gyro. It was really good. Travis and Joel tried to go to the hotel gym, but they did not have any weights that Joel wanted and the bike was occupied that Travis wanted. They settled for a walk through the Bronx instead and found a raccoon. 
 
-{% image "legacy/IMG_20240308_212237413.webp", "1152x2048" %}{% image "legacy/IMG_20240308_212450683.webp", "2048x1536" %}  
+{% image "legacy/IMG_20240308_212237413.webp", "1152x2048" %}{% image "legacy/IMG_20240308_212450683.webp", "1536x2048" %}  
 
 We cleaned up and went to bed, planning the American Museum of National History and Central Park for Saturday.
 

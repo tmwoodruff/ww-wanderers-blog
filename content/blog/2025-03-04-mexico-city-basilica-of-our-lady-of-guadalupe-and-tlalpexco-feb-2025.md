@@ -12,7 +12,7 @@ description: ""
 
 We took another weekend morning calm bus to the Basilica of Our Lady of Guadalupe, which is northeast of Centro. Here is the Basilica of Our Lady of Guadalupe. Mass was in progress, and there were many people there. 
 
-{% image "legacy/IMG_1979.webp", "2048x1536" %}{% image "legacy/IMG_20250209_095302518_HDR.webp", "2048x1151" %}
+{% image "legacy/IMG_1979.webp", "2048x1536" %}{% image "legacy/IMG_20250209_095302518_HDR.webp", "1151x2048" %}
 {% image "legacy/IMG_20250209_094908116_HDR.webp", "2048x1151" %}
 
 The Pocito Chapel or The Chapel of the Little Well that protects the natural/miraculous spring where Our Lady of Guadalupe appeared. People came to the spring to repent and to seek cures. 
@@ -81,7 +81,7 @@ Missing persons on the roundabout; though it seems hard to see them in detail wh
 
 Tonight was Superbowl Sunday. I was not sure if we would be able to watch it in our hotel. It is picky in the US about who had the rights to broadcast it. Travis had determined that Tubi (who owned the rights this year) was not setup; the TVs seemed to be smartTVs but without an internet connection. It did work in our hotel. First, we had dinner near our hotel at El Turuleto. The owner, a buddy, and the waiter were laid back and fun to talk to (they spoke English, which helped with the conversations, as well). They had the Superbowl on. I think that they were trying to switch it to English but had no luck. It does not lose much being in Spanish; we could still follow. We picked this place because we had not yet had any fish tacos and wanted some. 
 
-{% image "legacy/IMG_20250209_182831267.webp", "2048x1536" %}
+{% image "legacy/IMG_20250209_182831267.webp", "1536x2048" %}
 
 Travis had the shrimp soup and an octopus taco. I had two battered fish tacos with a spicy mayo sauce, pico, and a smoky hot sauce. It was all delicious! We talked back to the hotel to finish the Superbowl. We almost made it to the end before bedtime; though we could tell who was going to win. 
 

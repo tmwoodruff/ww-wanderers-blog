@@ -58,7 +58,7 @@ Back at the campsite for our last night, I had to get a picture of the bear box.
 
 Instead of the normal National Park map, they gave us this.
 
-{% image "legacy/IMG_20220913_184927122.webp", "2048x1536" %}
+{% image "legacy/IMG_20220913_184927122.webp", "1536x2048" %}
 
 With the flood, they also gave us this.
 

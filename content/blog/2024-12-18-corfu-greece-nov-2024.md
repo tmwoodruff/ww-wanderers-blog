@@ -87,7 +87,7 @@ This grass had some crazy stickers that we had to pull off our shoes. Lesson lea
 
 After the fortress, we had gyros, and I had gelato and Travis a beer from a grocery store. Our gyros were from [Pitta pappou](https://www.google.com/maps/place/Pitta+pappou/@39.6239678,19.9227144,17z/data=!4m14!1m7!3m6!1s0x135b5eddaa2d0a7f:0x19414e6a72b21d0!2sCorfu!8m2!3d39.6242621!4d19.9216777!16zL20vMGNjM2Q!3m5!1s0x135b5ddce0318959:0x212c18b24dbc93a6!8m2!3d39.6239196!4d19.9227042!16s%2Fg%2F11c1pft7vj!5m1!1e1?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D); they were very good. Here is a picture of mine with the restaurant name in Greek. Travis got lettuce, tomato, and the sauce too; mine was plain. I got gelato from Papagiorgis Patiserie-Gelateria. I tried dark chocolate again; it was very good. The one in Florence was only slightly better. 
 
-{% image "legacy/IMG_20241106_133138211.webp", "2048x1536" %}
+{% image "legacy/IMG_20241106_133138211.webp", "1536x2048" %}
 {% image "legacy/IMG_0716.webp", "2048x1536" %}
 
 Travis noticed a money museum; it was free. When we arrived, the gentleman working there gave us an introduction in the first room. The displays were numbered in history chronicle order, so he said to watch the numbers. This covered the history of money in Greece to the Euro today. In the second picture, you see the crazy inflation that they experienced in 1944. They also had government policies of cutting the money in half and just half was valid. It was very interesting. 

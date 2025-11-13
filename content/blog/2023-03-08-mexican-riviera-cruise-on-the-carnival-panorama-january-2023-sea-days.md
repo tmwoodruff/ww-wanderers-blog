@@ -29,8 +29,8 @@ Found a cruise duck; I made Travis pose with it. We also found a tiny plastic cr
 For dinner, it was the next second/last formal night. I had the Caesar salad, prime rib, baked potato, and creme brulee. The Caesar salad is not as good as it used to be (to me), but the rest was good. Travis had fried oysters, striped bass, and the cheese plate for dessert. I shared some creme brulee with him too. Dressed up, my prime rib, and Travis's oysters and bass. 
 
 [![Formal night]{% image "legacy/IMG_20230126_173804924.webp", "1152x2048" %}]{% image "legacy/IMG_20230126_173804924.webp", "1152x2048" %} [![Formal night]{% image "legacy/IMG_20230126_173812218.webp", "1152x2048" %}]{% image "legacy/IMG_20230126_173812218.webp", "1152x2048" %}
-{% image "legacy/IMG_20230126_175921589.webp", "2048x1152" %}
-{% image "legacy/IMG_20230126_175918127.webp", "2048x1152" %}{% image "legacy/IMG_20230126_174534043_BURST001.webp", "2048x1152" %}
+{% image "legacy/IMG_20230126_175921589.webp", "1152x2048" %}
+{% image "legacy/IMG_20230126_175918127.webp", "1152x2048" %}{% image "legacy/IMG_20230126_174534043_BURST001.webp", "1152x2048" %}
 {% image "legacy/IMG_6343.webp", "1536x2048" %}
 
 On both the Sea Days, we did trivias, watched karaoke, and read -- Travis got a book at the library on the first day. I was reading the sign. It looked like the library had very limited hours, but it was actually art gallery sales there. There was no formal checkout process, but there was someone there. He asked and just got it. There were not many books, but he found something by an author that he had read before. He finish on the sea days; we liked to sit on the promenade. There was also seating on the high decks above and on either side of the aft pool that I commented that we should try out, but we never remembered to actual try them. Karaoke was fun to watch. 

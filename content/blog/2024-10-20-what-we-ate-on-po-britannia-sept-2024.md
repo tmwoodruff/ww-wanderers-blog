@@ -86,11 +86,11 @@ Beet Risotto
 
 Peach something
 
-{% image "legacy/IMG_20240914_124404467.webp", "2048x1536" %}
+{% image "legacy/IMG_20240914_124404467.webp", "1536x2048" %}
 
 Chinese Five Spice Cake - GOOD
 
-{% image "legacy/IMG_20240914_124356143.webp", "2048x1536" %}
+{% image "legacy/IMG_20240914_124356143.webp", "1536x2048" %}
 
 **September 15, 2024**
 
@@ -102,19 +102,19 @@ What we ate:
 
 Caesar Salad - The Caesar salad is normally my favorite on other lines, but this one was not very good -- OKAY
 
-{% image "legacy/IMG_20240915_183933198.webp", "2048x1536" %}
+{% image "legacy/IMG_20240915_183933198.webp", "1536x2048" %}
 
 Sage-Crusted Veal Loin
 
-{% image "legacy/IMG_20240915_190507660.webp", "2048x1536" %}
+{% image "legacy/IMG_20240915_190507660.webp", "1536x2048" %}
 
 Globe Artichokes with Quinoa
 
-{% image "legacy/IMG_20240915_183944028.webp", "2048x1536" %}
+{% image "legacy/IMG_20240915_183944028.webp", "1536x2048" %}
 
 Lemon Posset 
 
-{% image "legacy/IMG_20240915_192425339.webp", "2048x1536" %}
+{% image "legacy/IMG_20240915_192425339.webp", "1536x2048" %}
 
 **September 16, 2024**
 
@@ -126,11 +126,11 @@ What we ate:
 
 Calamari Fritti - GOOD 
 
-{% image "legacy/IMG_20240916_185213650.webp", "2048x1536" %}
+{% image "legacy/IMG_20240916_185213650.webp", "1536x2048" %}
 
 Goat's Cheese, Sun-Blushed Tomato, Basil, and Spinach Roulade
 
-{% image "legacy/IMG_20240916_185221901.webp", "2048x1536" %}
+{% image "legacy/IMG_20240916_185221901.webp", "1536x2048" %}
 
 Beer-Battered Haddock Fillet - VERY GOOD
 
@@ -142,7 +142,7 @@ Prime Roast Leg of Lamb
 
 Honey Panna Cotta
 
-{% image "legacy/IMG_20240916_192423144.webp", "2048x1536" %}
+{% image "legacy/IMG_20240916_192423144.webp", "1536x2048" %}
 
 Cheese Plate 
 

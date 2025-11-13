@@ -51,7 +51,7 @@ We had some pretty foxglove at our campsite. Ours was site 24. It looked close t
 There were different big families with many kids by us each night. The second night the kids started getting ready for bed at a reasonable time; though took about an hour to get ready. I heard a Dad yelling about teeth brushing time. I said to Travis, "The earplugs do nothing" -- a Simpson's goggle quote, I believe. I also don't put earplugs in very deep. We had a nice spot; though I would recommend picking one a little further around the road, maybe site 27 or 28, to be closer to the bathroom, closer to a working spigot, and the Colonial Creek runs behind them and you can hear it. There was a bear box at our site, and food and toiletries were allowed in a vehicle. This was the only National Park on this trip which had site specific bear boxes. All allowed vehicles to be used instead. 
 
 {% image "legacy/IMG_8426.webp", "2048x1536" %}
-{% image "legacy/IMG_20240717_083154799_HDR.webp", "2048x1536" %}
+{% image "legacy/IMG_20240717_083154799_HDR.webp", "1536x2048" %}
 
 We then drove further east on Hwy 20 to check out the Ross Lake and Diablo Lake Overlooks. So pretty! And lots of waterfalls in WA that you just come upon.
 

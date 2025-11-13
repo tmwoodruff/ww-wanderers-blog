@@ -67,7 +67,7 @@ Travis had read to me about the building and noted a store inside that you had t
 Next, we found and looked at a church inside this gate. In the tent right up to the church, they were selling a tequila tasting or something like that. It seemed strange. 
 
 {% image "legacy/IMG_1587.webp", "1536x2048" %}
-{% image "legacy/IMG_20250205_110849708_HDR.webp", "2048x1151" %}{% image "legacy/IMG_20250205_111005559_HDR.webp", "2048x1151" %}
+{% image "legacy/IMG_20250205_110849708_HDR.webp", "1151x2048" %}{% image "legacy/IMG_20250205_111005559_HDR.webp", "1151x2048" %}
 
 Then we came to the The Palace of Iturbide, which Count of San Mateo Valparaíso built for his daughter as a wedding present. It, itself, was impressive, but it had a sign outside for a free display. On a whim, we wondered in. They just asked that backpacks were wore backwards to avoid knocking into something with them. They also had taped lines on the floor to not cross. The display was tons of different Naiveties, available December to February. They were amazing, so many different interpretations and materials used. And the detail! No lack of pictures to share. We were very impressed with this stop. 
 

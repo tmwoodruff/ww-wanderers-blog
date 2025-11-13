@@ -66,7 +66,7 @@ Some pictures of the room: 1) the tub, 2) sink and more tub, 3) desk and window,
 
 {% image "legacy/IMG_7608.webp", "2048x1536" %}
 {% image "legacy/IMG_7609.webp", "2048x1536" %}
-{% image "legacy/IMG_7611.webp", "2048x1536" %}
+{% image "legacy/IMG_7611.webp", "1536x2048" %}
 {% image "legacy/IMG_7612.webp", "2048x1536" %}
 {% image "legacy/IMG_7613.webp", "2048x1536" %}
 

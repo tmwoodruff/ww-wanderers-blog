@@ -45,7 +45,7 @@ We had fog from this afternoon to the next morning. It did clear for the iceberg
 For dinner, we went to the MDR again. There were crazy line for both the MDR and Ginza at the opening time of 5:30pm. Though they did start seating people before 5:30pm. Carnival's app let you request a table and be assigned one before heading to the dining room; this was really efficient but not offered on NCL. In the Mediterranean June 2022, we found that others did not like to eat early like us, so it was never busy early. Some is also probably due to the ship not being as full then. 
 
 {% image "legacy/Screenshot 2023-09-23 151350.webp", "310x888" %} {% image "legacy/Screenshot 2023-09-23 151610.webp", "316x891" %}
-{% image "legacy/IMG_20230717_132230724.webp", "2048x1152" %}{% image "legacy/IMG_20230717_132243167.webp", "2048x1152" %}
+{% image "legacy/IMG_20230717_132230724.webp", "1152x2048" %}{% image "legacy/IMG_20230717_132243167.webp", "1152x2048" %}
 
 Our waiter was awesome and got us through dessert quickly to get to the show early enough to get a seat. Then it turned out that we did not need to be there that early -- just under 30 minutes. It looked like 10 minutes early would have worked fine. Today was the White Magic and Contortionist show. The magician and contortionist are married. His last name was White, so a play on black magic. They were both very impressive. 
 

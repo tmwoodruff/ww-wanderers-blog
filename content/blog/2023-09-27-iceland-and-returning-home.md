@@ -94,7 +94,7 @@ When it was time for boarding, they were trying to call extra assistance and pri
 Since I now had the window seat, I got to see some more beautiful Greenland. The pilot even mentioned it on the loud speaker. I captured more of the ice fields and then some nice mountains. 
 
 {% image "legacy/IMG_20230723_120056133_HDR.webp", "2048x1152" %}
-{% image "legacy/IMG_20230723_104130791.webp", "2048x1152" %}{% image "legacy/IMG_20230723_104726548_HDR.webp", "2048x1152" %}
+{% image "legacy/IMG_20230723_104130791.webp", "1152x2048" %}{% image "legacy/IMG_20230723_104726548_HDR.webp", "1152x2048" %}
 
 Next up...[Summarized review](https://ww-wanderers.blogspot.com/2023/10/ncl-star-iceland-and-greenland-review.html)
 

@@ -33,7 +33,7 @@ At 3:30 pm, we went the room and have a few pictures without our stuff everywher
 {% image "legacy/IMG_6462.webp", "2048x1536" %}
 {% image "legacy/IMG_6463.webp", "2048x1536" %}
 {% image "legacy/IMG_6464.webp", "2048x1536" %}
-{% image "legacy/IMG_6494.webp", "2048x1536" %}
+{% image "legacy/IMG_6494.webp", "1536x2048" %}
 
 Some luggage was here but not ours. Luggage was randomly in the hall. Travis went to look for any of ours, so we could start unpacking. He found one. After we unpacked it, I decided that I would go. I attracted attention; a room steward took me to where it was being brought in. I was not sure if he wanted me to look or just believe him. I believed him that they would come. I quietly went back to our room; I was trying to make less, not more, work. Later, our room steward came by to meet us and brought it. He asked if we needed anything; we asked for ice, an extra bath towel (hair towel), and bar soap (they did not have this). We had ice most days, and I always had my extra towel. Since NCL does not do towel animals any more (sad), that cannot be an emergency back up. Overall, he was awesome and friendly each time we saw him. 
 

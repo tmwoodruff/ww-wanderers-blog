@@ -67,7 +67,7 @@ Travis did a martini tasting; the grasshopper (green one) was really good! It is
 
 I also got a Bushwhacker; it was pretty but too coconut-y tasting. I have had them before with no issue. Maybe just not made well; I should have went for the Mudslide instead. 
 
-{% image "legacy/IMG_20230720_193814267.webp", "2048x1152" %}
+{% image "legacy/IMG_20230720_193814267.webp", "1152x2048" %}
 {% image "legacy/IMG_20230718_075302074.webp", "2048x1152" %}
 
 All that I have from dinner pictures was my slider app, which was good. 
@@ -102,7 +102,7 @@ For dinner, I got the cheese ravioli with a lobster sauce. It too had must of a 
 
 The last night, we ate at the Brazilian restaurant for my birthday, but we got a picture of the MDR menu at the Aqua. We never ate in the Aqua; we like the more formal and not such close tables in the aft MDR. Also, it opens earlier. 
 
-{% image "legacy/IMG_20230713_160654424.webp", "2048x1152" %}{% image "legacy/IMG_20230713_160749471.webp", "2048x1152" %}
+{% image "legacy/IMG_20230713_160654424.webp", "1152x2048" %}{% image "legacy/IMG_20230713_160749471.webp", "1152x2048" %}
 
 With the missed ports, here was our final itinerary, onboard credit given. We also got a future cruise credit as a percentage. I'm not sure how that will work, but I have picked a cruise to find out. Though NCL kept our port fees. I heard that you have to request them back at guest services. They shot me down saying that if corporate decided to return them that everyone would receive them. I guess corporate decided it is better for the bottom line to keep them. I guess they did have to pay at Dj to try to tender. I don't know if they had to pay for the Dutch pilots. We did not get close to Paamiut or Nuuk, which saved fuel cost. 
 

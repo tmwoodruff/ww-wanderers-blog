@@ -64,7 +64,7 @@ Ponytail Falls - you could walk behind the waterfall.
 
 {% image "legacy/IMG_2177.webp", "2048x1536" %}
 {% image "legacy/IMG_2179.webp", "2048x1536" %}
-{% image "legacy/IMG_2181.webp", "1536x2048" %} {% image "legacy/IMG_20250529_111930727_HDR.webp", "2048x1151" %}
+{% image "legacy/IMG_2181.webp", "1536x2048" %} {% image "legacy/IMG_20250529_111930727_HDR.webp", "1151x2048" %}
 {% image "legacy/IMG_2187.webp", "2048x1536" %}
 {% image "legacy/IMG_2189.webp", "2048x1536" %}
 

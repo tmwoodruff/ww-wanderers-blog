@@ -99,7 +99,7 @@ After the walk around, we did not have a lot of time before we needed to meet ba
 
 Back in Mexico City, we made a stop again at Tony's Pasties and Empanadas for a late lunch. I got the potato pastie and Travis the Hawaiian -- ham and pineapple. After eating at our hotel and repacking as needed, we headed out to explore Juarez, Condesa, and Roma. We found David -- why did we go all the way to Florence! :) We also found the Witch house, see at the top? Apparently, a witch lived here, and she performed "scary" operations on the rich clients that came to see her. 
 
-{% image "legacy/IMG_1801.webp", "1536x2048" %}{% image "legacy/IMG_20250206_152742524_HDR.webp", "2048x1151" %}  
+{% image "legacy/IMG_1801.webp", "1536x2048" %}{% image "legacy/IMG_20250206_152742524_HDR.webp", "1151x2048" %}  
 
 This was cool; it went with a store and was on the walkway/park between the street of Avenue Amsterdam, which was the old Hippodrome. 
 

@@ -67,7 +67,7 @@ I was impressed with the bamboo, and we found the Jade mask.
 
 We were going to eat at the museum cafe, but it was expensive and the line was not moving at all. We finally gave up on the line and decided to visit one more gallery and go out of the museum to eat. Here is the cafe menu; they also had a sit down restaurant, which also looked busy. I guess we picked lunchtime. 
 
-{% image "legacy/IMG_20250207_120022730_HDR.webp", "2048x1536" %}
+{% image "legacy/IMG_20250207_120022730_HDR.webp", "1536x2048" %}
 {% image "legacy/IMG_1855.webp", "2048x1536" %}
 {% image "legacy/IMG_1856.webp", "2048x1536" %}
 
@@ -119,10 +119,10 @@ We decided to try a fine dining experience tonight. I heard to do fine dining be
 
 We ordered brisket tacos for two. They made them table side, which was exciting. They also brought us complimentary refried beans with cheese. As a non-refried bean eater, they were delicious. We also had drinks. The meal was very good. The only surprising part was that we only got 4 tortillas for 2 tacos each when we had a lot of brisket. I did eat some brisket on the good chips from the refried beans too with some salsa; this was very good too. I got some food pictures though not very good pictures. It was also served with salts -- the smoky black was good -- and salsas. 
 
-{% image "legacy/IMG_20250207_180211904_HDR.webp", "2048x1536" %}{% image "legacy/IMG_20250207_180214609_HDR.webp", "2048x1536" %}
-{% image "legacy/IMG_20250207_180217088_HDR.webp", "2048x1536" %} {% image "legacy/IMG_20250207_181431998_HDR.webp", "2048x1536" %}
+{% image "legacy/IMG_20250207_180211904_HDR.webp", "1536x2048" %}{% image "legacy/IMG_20250207_180214609_HDR.webp", "1536x2048" %}
+{% image "legacy/IMG_20250207_180217088_HDR.webp", "1536x2048" %} {% image "legacy/IMG_20250207_181431998_HDR.webp", "1536x2048" %}
 {% image "legacy/IMG_20250207_180759901_HDR.webp", "2048x1536" %}
-{% image "legacy/IMG_20250207_181759798_HDR.webp", "2048x1536" %} {% image "legacy/IMG_20250207_181803336.webp", "2048x1536" %}
+{% image "legacy/IMG_20250207_181759798_HDR.webp", "1536x2048" %} {% image "legacy/IMG_20250207_181803336.webp", "1536x2048" %}
 
 After dinner, we walked to the bus stop and loaded the Metro card in the dark, and I determined that being out at night in Mexico City was not as scary as I thought. 
 
