@@ -32,14 +32,17 @@ A look at the outside.
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2688.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2691.2048x1536.webp", "2048x1536" %} 
 
-Now on to the museums to see what we can see today. If you want to read about the displays before coming, they have a [write up](https://www.queenmary.com/exhibits.htm).  
+Now on to the museums to see what we can see today. If you want to read about the displays before coming, they have [information here](https://www.queenmary.com/exhibits.htm). The City of Long Beach has done a wonderful job of, not only restoring the Queen Mary for hotel stays, but also a wonderful job with the displays. They also offer tours and even a ghost tour.  
+
+We first went to the engine room. It was massive -- over multiple rooms and decks. It is a steam engine; today cruise ships commonly use diesel-electric propulsion. I have not toured a modern cruise engine room to know, but I imagine that this steam engine is larger. I did not get very good because it was dark, but there were many parts to the engine on display.  
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2695.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2696.2048x1267.webp", "2048x1267" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2702.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2703.1320x2048.webp", "1320x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2704.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2706.2048x1536.webp", "2048x1536" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2706.2048x1536.webp", "2048x1536" %} 
+
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2708.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2710.1638x2048.webp", "1638x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2711.2048x1676.webp", "2048x1676" %}
