@@ -32,6 +32,7 @@ A look at the outside.
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2688.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2691.2048x1536.webp", "2048x1536" %} 
 
+Now on to the museums to see what we can see today. If you want to read about the displays before coming, they have a [write up](https://www.queenmary.com/exhibits.htm).  
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2695.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2696.2048x1267.webp", "2048x1267" %}
