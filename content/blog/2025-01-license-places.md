@@ -1,8 +1,8 @@
 ---
-title: "Panama Canal Cruise -- License Plates"
-date: 2025-10-21
+title: "License Plate Collections"
+date: 2025-01-01
 tags: []
-category: Panama Canal Cruise
+category: Other
 author: Tammy
 description: ""
 ---
