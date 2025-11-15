@@ -1,8 +1,16 @@
 import { escapeAttribute } from "entities";
 
 function imageShortcode(src, size = "", psize = "", psrc = "", alt="") {
+	src = src.replace(/^https:\/\/[^/]+\//, "");
 	src = src.replace(/^images\//, "");
 	src = `https://assets.ww-wanderers.cc/images/${src}`;
+
+	if (size === "") {
+		const m = /(.*\/)?.*\.(\d+x\d+)\.[^.]+$/.exec(src);
+		if (m) {
+			size = m[1];
+		}
+	}
 
 	let sizeAttrs = "";
 	if (size !== "") {
@@ -20,7 +28,7 @@ function imageShortcode(src, size = "", psize = "", psrc = "", alt="") {
 		psizeAttrs = `width="${width}" height="${height}"`
 	}
 	if (psrc == "") {
-		psrc = src.replace(/\.([^.]+)$/, "-240.$1");
+		psrc = src.replace(/(?:\.\d+x\d+\.)?([^.]+)$/, "-240.$1");
 	}
 	alt = escapeAttribute(alt);
 	return `

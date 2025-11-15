@@ -1,7 +1,7 @@
 ---
 title: "Panama Canal Cruise -- Island Princess Review"
 date: 2025-10-22
-tags: [Cruise Review]
+tags: [cruise review]
 category: Panama Canal Cruise
 author: Tammy
 description: ""
