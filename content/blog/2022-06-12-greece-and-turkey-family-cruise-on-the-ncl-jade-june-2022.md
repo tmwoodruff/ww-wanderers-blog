@@ -1,7 +1,7 @@
 ---
 category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
 title: "Cruise Review"
-date: 2022-08-21
+date: 2022-06-12
 img: images/IMG_4562.webp
 tags: [NCL Jade, cruise review]
 author: Tammy
@@ -12,7 +12,7 @@ description: ""
 
 New muster drill is SO much better -- watch video at check in and again before going to the port, go to your assigned muster station for scanning/learn where it is as soon as boarding. Then when onboard, they demonstrated the warning horns and played a long/detailed safety announcement over the speaker and into rooms.
 
-I covered embarkation fully in this [post](2022-07-31-greece-and-turkey-family-cruise-on-the-ncl-jade-june-2022.md). 
+I covered embarkation fully in this [post](2022-06-05-greece-and-turkey-family-cruise-on-the-ncl-jade-june-2022.md). 
 
 **Food:**
 

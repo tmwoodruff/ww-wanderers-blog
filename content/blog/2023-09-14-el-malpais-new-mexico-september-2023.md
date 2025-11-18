@@ -1,7 +1,7 @@
 ---
 category: "Canyons Adventure - September 2023"
 title: "El Malpais, NM -- September 14, 2023"
-date: 2023-11-21
+date: 2023-09-14
 img: images/IMG_7477.webp
 tags: [New Mexico, El Malpais]
 country: us

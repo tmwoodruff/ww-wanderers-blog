@@ -230,4 +230,4 @@ Pudding and Custard - GOOD
 
 {% image "legacy/IMG_9208.webp", "2048x1536" %}
 
-[P&O; Britannia Cruise](2024-09-26-first-po-uk-cruise-prep-sept-2024.md)  
+[P&O; Britannia Cruise](2024-09-01-first-po-uk-cruise-prep-sept-2024.md)  

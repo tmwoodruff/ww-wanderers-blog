@@ -1,7 +1,7 @@
 ---
 category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
 title: "MSC Meraviglia Summarized Review -- March 10-17, 2024"
-date: 2024-03-01
+date: 2024-03-20
 img: images/IMG_7817.webp
 tags: [MSC Meraviglia, Review]
 author: Tammy

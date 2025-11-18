@@ -1,15 +1,13 @@
 ---
 category: "Mexico City - Feburary 2025"
 title: "Mexico City - Centro District - Feb 2025"
-date: 2025-02-21
+date: 2025-02-05
 img: images/IMG_1532.webp
 tags: [Mexico City]
 country: mx
 author: Tammy
 description: ""
 ---
-
-Centro - February 5, 2025
 
 To warn you, I kept picking every picture, so there are lots of pictures of Centro! For our Centro exploration, we first walked from our hotel in Juarez to the Alameda Central park. There were vendors setup from our approach on the west end. We went through the park and saw the fountains. In the last one, a bird came to hang out for the picture. 
 
