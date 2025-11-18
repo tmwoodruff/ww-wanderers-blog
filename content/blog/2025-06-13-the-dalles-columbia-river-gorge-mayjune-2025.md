@@ -1,9 +1,11 @@
 ---
-title: "The Dalles - Columbia River Gorge -- May/June 2025"
-date: 2025-06-13
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "The Dalles - May 31, 2025"
+date: 2025-05-31
 img: images/IMG_2325.webp
 tags: [Columbia River Gorge, Oregon]
-category: Columbia River Gorge
+country: us
+state: or
 author: Tammy
 description: ""
 ---

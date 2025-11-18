@@ -1,14 +1,14 @@
 ---
-title: "MSC Meraviglia Embarkation Day -- March 2024"
-date: 2024-03-24
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Embarkation Day - March 10, 2024"
+date: 2024-03-10
 img: images/IMG_7585.webp
 tags: [MSC Meraviglia, embarkation]
-category: MSC Meraviglia
+country: us
+state: ny
 author: Tammy
 description: ""
 ---
-
-**Embarkation Day -- March 10, 2024**
 
 Embarkation day is the most exciting! But to go back in time first. We checked in online when it opened 30 days before. I put Travis first on the reservation, so only he could pick the check-in time. When we booked, we were assigned a 10am checked, but it defaulted to 10:30 am when we did the online check-in. Only he was able to change it back to 10am. I heard it got busier at 10:30 am, but 30 minutes probably did not make that much difference and people do not follow their assigned time well, I suspect. 
 

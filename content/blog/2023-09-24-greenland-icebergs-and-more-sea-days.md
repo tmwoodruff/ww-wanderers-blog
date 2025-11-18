@@ -1,14 +1,13 @@
 ---
-title: "Greenland: Icebergs and more sea days"
-date: 2023-09-24
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Icebergs and more sea days - July 19-21, 2023"
+date: 2023-07-21
 img: images/IMG_6778 (2023_09_17 23_04_38 UTC).webp
 tags: [icebergs, sea day, Greenland]
-category: icebergs
+country: gl
 author: Tammy
 description: ""
 ---
-
-**Icebergs and more sea days -- July 19-21, 2023**
 
 In the morning, we learned that the Greenland current had blocked the opening to the fjord with icebergs and that we were blocked in. Though the fog was improved. So, I got more icebergs, but more than I needed. So, plan C was waiting for a container ship coming by about noon and following it out of the ice field that we were now in, as well as, no more Greenland stops and heading back to Iceland for an additional day in Reykjavik. The Captain said that they looked at ice maps for the last 10 years and have never seen this much ice in late July. 
 

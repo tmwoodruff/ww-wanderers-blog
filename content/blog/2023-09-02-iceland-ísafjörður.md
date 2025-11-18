@@ -1,14 +1,13 @@
 ---
-title: "Iceland: Ísafjörður"
-date: 2023-09-02
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Ísafjörður - July 16, 2023"
+date: 2023-07-16
 img: images/IMG_6594.webp
 tags: [ncl star, Dynjandi, Isafjordur]
-category: ncl star
+country: is
 author: Tammy
 description: ""
 ---
-
-**Ísafjörður****\-- July 16, 2023**
 
 Isafjordur is also on a fjord and was a very early stop. We pre-booked Dynjandi Waterfall & the Westfjords tour from Wild Westfjords, now ArticEx. We were scheduled to arrive with a tender port at 7 am, and the tour published to start at7:30 am. Crazy! We got up super early and had O'Sheehan's breakfast. Then grabbed our pre-packed stuff and headed to the tender; with platinum, we can join the tender line without getting a ticket. We got on and off pretty quickly...maybe the first tender with the photographers on with us. I don't think we have ever scored the first tender before. Then to figure out which way to go; there was straight ahead and to the left. I finally decided on left, and they were there waiting for us. We picked our seats and settled in. When everyone was on board, our tour guide introduced herself. I don't remember her name...of course...but she had what sounded like a very interesting life. 
 

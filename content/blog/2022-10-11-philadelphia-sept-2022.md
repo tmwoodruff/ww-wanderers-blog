@@ -1,14 +1,16 @@
 ---
-title: "Philadelphia - Sept 2022"
-date: 2022-10-11
+category: "Philadelphia - Sept 2022"
+title: "Independence Hall and Seaport Museum - Sept 22, 2022"
+date: 2022-09-22
 img: images/IMG_5580.webp
 tags: [philadelphia, independence hall, independence seaport museum, liberty bell]
-category: philadelphia
+country: us
+state: pa
 author: Tammy
 description: ""
 ---
 
-Independence Hall and Seaport Museum - Sept 22, 2022 
+Independence Hall and Seaport Museum - Sept 22, 2022
 
 Not related at all, except both start with "Independence" and are what we did the first day. We did grocery shopping for our apartment this morning. Here I got some donuts for this morning's breakfast, bagels and cream cheese for other mornings, and Travis bread and peanut butter for sandwiches and breakfast toast. We went to Giant, which had a card, which we did not have because we don't have Giants near us. Travis sign up in the store, and it did not work because it was not in the system yet. The cashier asked if she wanted to use the guest card. Yes, with groceries so expensive now and Travis signing up in the store, of course we wanted the sales. 
 

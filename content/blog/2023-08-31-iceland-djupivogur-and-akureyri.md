@@ -1,14 +1,14 @@
 ---
-title: "Iceland: Djupivogur and Akureyri"
-date: 2023-08-31
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Djupivogur and Akureyri -- July 14-15, 2023"
+date: 2023-07-15
 img: images/IMG_6479.webp
 tags: [ncl star, Akureyri, iceland]
-category: ncl star
+country: is
 author: Tammy
 description: ""
 ---
 
-**Djupivogur and Akureyri -- July 14-15, 2023**
 
 We arrived at Djupivogur, a tender port. The captain and team tried and declared tendering not possible or safe enough. We saw Djupivogur from afar but did not get to go ashore. I called it DJ since I could not pronounce it. The crew did a good job pronouncing it; more practice, I guess. 
 

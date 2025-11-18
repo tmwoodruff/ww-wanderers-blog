@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-09-28
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Going-to-the-Sun Road -- July 24, 2022"
+date: 2022-07-24
 img: images/IMG_5316.webp
 tags: [going-to-the-sun road, glacier]
-category: going-to-the-sun road
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Going-to-the-Sun Road -- July 24, 2022**
 
 We hoped to get to Logan Pass by 6am to get a parking spot, so tried to get up at 5:30 am. We were a little late, not too bad, and had no trouble getting a spot. There was parking lot circling and asking if people were leaving later. They had the lot full sign up when we first arrived; I guess they don't take it down. The drive to Logan Pass was also very pretty, but we were planning to focus on it more later.
 

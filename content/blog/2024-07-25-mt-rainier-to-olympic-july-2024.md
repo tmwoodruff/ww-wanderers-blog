@@ -1,14 +1,14 @@
 ---
-title: "Mt. Rainier to Olympic - July 2024"
-date: 2024-07-25
+category: "Washington National Parks - July 2024"
+title: "Mt. Rainier one more hike and on to Olympic - July 12, 2024"
+date: 2024-07-12
 img: images/IMG_8268.webp
 tags: [National Park, Mount Rainier, Olympic]
-category: National Park
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Mt. Rainier one more hike and on to Olympic - July 12, 2024**
 
 For our last day in Mt. Rainier, we hiked Carter Falls trail. Trail of Shadows trail was connected to our campground; we planned to hike it but never made. For the last day, Carter Falls sounded more exciting. Here we also got to hike beside both the clear Paradise River and the cloudy (glacial flour) Nisqually River. 
 

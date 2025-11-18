@@ -1,15 +1,15 @@
 ---
-title: "Panama Canal Cruise -- Arriving in Los Angeles, staying on the Queen Mary"
+category: "Panama Canal Cruise - October 2025"
+title: "Arriving in Los Angeles, staying on the Queen Mary"
 date: 2025-10-21
 tags: [Queen Mary]
-category: Panama Canal Cruise
 author: Tammy
 description: ""
 ---
 
 We were finally going on a Panama Canal cruise. We chose the full transit on a PanaMax ship to experience the old locks. Based on good scheduling for us, we did west to east, though this meant losing time to get from Pacific Time to Eastern Time. Though we lost one less hour because the US ended daylight savings time during our trip. I chose the Island Princess because it had the most promenade, though they did remove the back of the promenade at the aft to add balconies during a dry dock. Sister, Coral Princess, did not suffer this same fate, so I recommend it instead if you have the choice.
 
-The itinerary from the Princess Platter since it changed a couple of times after we booked, for formal night detail, and time change detail. Though they moved the 1-Hr Back at the end to the last night -- get people awake and off the ship quickly. 
+The itinerary from the Princess Patter since it changed a couple of times after we booked, for formal night detail, and time change detail. Though they moved the 1-Hr Back at the end to the last night -- get people awake and off the ship quickly. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/Queen%20Mary%20page%20-%20Itinerary.661x418.webp", "661x418" %}
 

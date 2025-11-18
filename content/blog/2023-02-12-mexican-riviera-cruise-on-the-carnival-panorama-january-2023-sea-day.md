@@ -1,14 +1,12 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Sea Day"
-date: 2023-02-12
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Sea Day -- January 22, 2023"
+date: 2023-01-22
 img: images/IMG_5957.webp
 tags: [Carnival Panorama]
-category: Carnival Panorama
 author: Tammy
 description: ""
 ---
-
-**Sea Day -- January 22, 2023**
 
 I do not have many pictures from the first Sea Day. We went to Sea Day brunch. Over the last several years, it has dropped in service and menu options. It was our weakest service this time too; all of the other service was great! I had the steak and eggs, which was good. I requested Travis have the skillet cake (a thick pancake make in a skillet).
 

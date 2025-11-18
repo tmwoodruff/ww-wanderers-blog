@@ -1,14 +1,14 @@
 ---
-title: "Multnomah Falls - Columbia River Gorge -- May/June 2025"
-date: 2025-06-11
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "Multnomah Falls - May 29, 2025"
+date: 2025-05-29
 img: images/IMG_2108.webp
 tags: [Oregon, Columbia River Gorge, Multnomah Falls]
-category: Oregon
+country: us
+state: or
 author: Tammy
 description: ""
 ---
-
-**Multnomah Falls - May 29, 2025**
 
 Today, we set an alarm to get up early. We had a 9am recreation.gov Multnomah parking pass. This is a particular parking lot at exit 31, left exit because the parking lot is in the middle of interstate 84. They had other parking off of Historic Columbia hwy 30. 9am was the early reservation time; reservations were required between 9am and 6pm. It was a $2 recreation.gov fee only for the cost. What I could not find online is if you could come and get into the parking lot before 9am. The ticket did say to come during your 1 hour window (9am to 10am) and that you would have to wait if early. However, we were the first window where tickets were not required outside of the window. We gave it a try and arrived about 7:30am. The lot was open, and we parked. I did not print the reservation ticket because it noted that an electronic version was good. No one was collecting them at that time, so we just parked, did not use the ticket, and did not display it. 
 

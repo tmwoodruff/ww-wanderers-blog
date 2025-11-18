@@ -1,14 +1,14 @@
 ---
-title: "Philadelphia - Sept 2022"
-date: 2022-10-21
+category: "Philadelphia - Sept 2022"
+title: "Valley Forge - Sept 25, 2022"
+date: 2022-09-25
 img: images/IMG_5757.webp
 tags: [philadelphia, valley forge]
-category: philadelphia
+country: us
+state: pa
 author: Tammy
 description: ""
 ---
-
-**Valley Forge - Sept 25, 2022**
 
 I thought the first Jeep with flags and loud and being obnoxious. Then we saw many, and they lined up for a parade, cool. We passed this walking to catch the bus to Valley Forge. Valley Forge was at the end of route; we are alone at the end. 
 

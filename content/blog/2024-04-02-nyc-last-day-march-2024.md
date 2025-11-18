@@ -1,14 +1,14 @@
 ---
-title: "NYC Last Day -- March 2024"
-date: 2024-04-02
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "NYC Last Day - March 18, 2024"
+date: 2024-03-18
 img: images/IMG_7989.webp
 tags: [NYC]
-category: NYC
+country: us
+state: ny
 author: Tammy
 description: ""
 ---
-
-**Last day in NYC -- March 18, 2024**
 
 We walked across the Queensboro Bridge (like in the show King of Queens theme song) and over Roosevelt Island. We saw the Roosevelt Island tram going across. 
 

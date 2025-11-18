@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-12
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Rhodes - June 10, 2022"
+date: 2022-06-10
 img: images/IMG_4919.webp
 tags: [Greece, Rhodes]
-category: Greece
+country: gr
 author: Tammy
 description: ""
 ---
-
-**Rhodes - June 10, 2022**
 
 Rhodes, 7am to 6pm, was a great medieval city. It is very close to Turkey. Fortress and Costa ship from the ship. Fortress walls with Travis and Owen. 
 

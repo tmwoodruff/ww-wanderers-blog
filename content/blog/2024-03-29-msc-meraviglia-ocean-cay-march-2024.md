@@ -1,14 +1,13 @@
 ---
-title: "MSC Meraviglia Ocean Cay -- March 2024"
-date: 2024-03-29
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Ocean Cay -- March 13, 2024"
+date: 2024-03-13
 img: images/IMG_7815.webp
 tags: [Ocean Cay, The Bahamas, MSC Meraviglia]
-category: Ocean Cay
+country: bs
 author: Tammy
 description: ""
 ---
-
-**Ocean Cay -- March 13, 2024**
 
 We had breakfast at the buffet and arrived in port. There is no breakfast buffet on the island. Some pictures from the forward facing window. The Ocean Cay lighthouse with a bar and lighthouse show at night. Nice houses, though I did not determine what they were used for or who lived there. 
 

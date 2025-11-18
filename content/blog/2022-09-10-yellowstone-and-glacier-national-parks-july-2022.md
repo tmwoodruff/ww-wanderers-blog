@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-09-10
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Mammoth Hot Springs Terraces - July 20, 2022"
+date: 2022-07-20 12:00:00
 img: images/IMG_5129.webp
 tags: [mammoth hot springs, yellowstone]
-category: mammoth hot springs
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Mammoth Hot Springs Terraces - July 20, 2022**
 
 In the afternoon, we went up to Mammoth Hot Springs, 35 miles north from Madison. This was first not reopened after the flood; however, it was reopened by our visit, which was very good news. This was one of my favorite areas on my first visit in 2007. It has changed since then (landscape has evolved), and I did not think as impressive. However, still pretty. Travis remembers us taking a Ranger led tour in Mammoth before. 
 

@@ -1,14 +1,13 @@
 ---
-title: "Mexico City - Last day - Feb 2025"
-date: 2025-03-04
+category: "Mexico City - Feburary 2025"
+title: "Chocolate Museum and Flight home - February 10, 2025"
+date: 2025-02-10
 img: images/IMG_20250210_091417714_HDR.webp
 tags: [Mexico City, Chocolate Museum]
-category: Mexico City
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Chocolate Museum and Flight home - February 10, 2025**
 
 We went for a quick walk to an area that we had not been before in the morning. We found this monument, but unfortunately, it was very graffitied. 
 

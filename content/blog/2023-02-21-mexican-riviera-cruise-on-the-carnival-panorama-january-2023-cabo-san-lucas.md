@@ -1,14 +1,13 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Cabo San Lucas "
-date: 2023-02-21
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Cabo San Lucas -- January 23, 2023"
+date: 2023-01-23
 img: images/IMG_5962.webp
 tags: [Carnival Panorama, Cabo San Lucas]
-category: Carnival Panorama
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Cabo San Lucas -- January 23, 2023**
 
 We had breakfast in the MDR, which was normal breakfast, instead of the Sea Day Brunch. Both mornings, they heavily pushed the fresh squeezed juices for $5. We don't drink juice normally, so did not order it. I had the Broken egg sandwich, which I discovered on a previous cruise -- very good. Travis had the yogurt parfait and Norlander bread. I had hot chocolate, Travis the coffee. I liked the hot chocolate machines in the buffet, and I assumed that they had the same in the MDR. Tasted good and convenient. 
 

@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-10-01
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Heading back to Bozeman and flight home -- July 26/27, 2022"
+date: 2022-07-27
 img: images/IMG_5555.webp
 tags: [bozeman, montana]
-category: bozeman
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Heading back to Bozeman and flight home -- July 26/27, 2022**
 
 The kids got these in the Wendy's kids meals, and I made them build them. This was from breakfast before we packed up camp, tossing the tents and pool air mattresses -- and filled the dumpster pretty well :(. I read before about the "sharing shack", which sounded very useful and others recommended it. You can take things like coolers, bear spray, etc. or donate items like tents, etc. This would have been good for our tents, but it was in a town somewhere to the West of the West entrance. So, we were never near it. Google it, if you will be coming in from the West. Travis even looked at Bozeman's Goodwill, but it required an appoint to donate. We had a little more rain overnight, so wet table for the picture. Travis used our $1 knife from the Walmart pick up, used for cheese slicing before, to stab the cooking fuel gas tank after he burnt it off the night before. He read to puncture it to show that it was empty if someone sees it in the dumpster. 
 

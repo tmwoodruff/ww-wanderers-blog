@@ -1,14 +1,14 @@
 ---
-title: "Portland -- May/June 2025"
-date: 2025-06-22
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "Portland - June 3, 2025"
+date: 2025-06-03
 img: images/IMG_2546.webp
 tags: [Portland, Rose Garden]
-category: Portland
+country: us
+state: or
 author: Tammy
 description: ""
 ---
-
-**Exploring the city of Portland -- June 3, 2025**
 
 It was now time to explore the city. Unfortunately, we started the drive in rush hour, so it was stop and go traffic. Our first stop was parking in Washington Park in the Veterans Parking Lot; it was a pay lot. We did later see pull offs in the park that would have been free to park in. This was near, so we started in the Veterans Memorial, which is the cool circular walkway in the pictures below.
 

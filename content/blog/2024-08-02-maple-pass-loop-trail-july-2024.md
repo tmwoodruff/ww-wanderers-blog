@@ -1,14 +1,14 @@
 ---
-title: "Maple Pass Loop trail - July 2024"
-date: 2024-08-02
+category: "Washington National Parks - July 2024"
+title: "North Cascades Maple Pass Loop hike - July 16, 2024"
+date: 2024-07-16
 img: images/IMG_8458.webp
 tags: [North Cascades, Washington]
-category: North Cascades
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**North Cascades Maple Pass Loop hike - July 16, 2024**
 
 Well, sort of, actually the Maple Pass Loop trail was actually on US Forest Service land instead of in the National Park Service. As mentioned, this requires the Annual Interagency National Park Pass (or other pass that the NPS sells) or a $5 fee. 
 

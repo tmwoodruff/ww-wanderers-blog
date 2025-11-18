@@ -1,14 +1,14 @@
 ---
-title: "North Cascades and Seattle - July 2024"
-date: 2024-08-08
+category: "Washington National Parks - July 2024"
+title: "Last day in North Cascades, Seattle, and home - July 17-18, 2024"
+date: 2024-07-18
 img: images/IMG_8617.webp
 tags: [Seattle, North Cascades, Washington]
-category: Seattle
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Last day in North Cascades, Seattle, and home - July 17-18, 2024**
 
 Being our last camping night, we did not have luggage space to take the purchased air mattress home. I ran into the lady that we talked about the pass hike in the bathroom and asked her if she wanted it. She thought that I was crazy. Someone who went into the stall said she would take it if the first person did not want it. We left if on the picnic table, and I said that she can look at it and if she wanted it to take it from the picnic table at site 24. She did give it a new home, and we were glad to not be just throwing it into the landfill. 
 

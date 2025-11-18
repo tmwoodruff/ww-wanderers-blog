@@ -1,14 +1,12 @@
 ---
-title: "MSC Meraviglia Sea Day -- March 2024"
-date: 2024-03-28
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Sea Day through the Atlantic Ocean -- March 11, 2024"
+date: 2024-03-11
 img: images/IMG_7654.webp
 tags: [sea day, MSC Meraviglia]
-category: sea day
 author: Tammy
 description: ""
 ---
-
-**Sea Day through the Atlantic Ocean -- March 11, 2024**
 
 We got up reasonably early, in time for the MDR breakfast, but not with an alarm. We went to breakfast in the MDR. MSC has very good (included) coffee that Travis and Joel enjoyed, and Owen and I the hot chocolate, which was very good. They did not serve water as default at breakfast, but I requested some. They have small cups for water in MDR; tough on the waiters at dinner after the diners are thirsty after a busy, hot day in port. They have donuts with injections holes at the bottom where the cream, chocolate, or fruit is injected. Owen and I were very excited, as this was our first cruise that served donuts, but we did not like them much. I ordered some and shared, but they were right out of the freezer. I made this joke, and Travis did not believe me until he tried one. These are also available in the buffet. Our other breakfast items were good. 
 

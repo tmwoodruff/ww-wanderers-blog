@@ -1,14 +1,13 @@
 ---
-title: "MSC Meraviglia Disembarkation and back to NYC -- March 2024"
-date: 2024-04-01
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Disembarkation and NYC -- March 17, 2024"
+date: 2024-03-17
 img: images/IMG_7963.webp
 tags: [MSC Meraviglia, NYC]
-category: MSC Meraviglia
-author: Tammy
+country: us
+state: ca
 description: ""
 ---
-
-**Disembarkation and NYC -- March 17, 2024**
 
 We set the alarm for 5:30 am. Travis woke up at 5:15 am and got to see the Verrazzano-Narrows Bridge lit up in the dark. Pictures of the approach from our room. 
 

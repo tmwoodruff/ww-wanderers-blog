@@ -1,14 +1,13 @@
 ---
-title: "Flam, Norway -- Sept 2024"
-date: 2024-10-17
+category: "P&O Britannia - September 2024"
+title: "Flam, Norway - September 16, 2024"
+date: 2024-09-16
 img: images/IMG_20240916_073307536_HDR.webp
 tags: [P&O Britannia, Flam, Norway]
-category: P&O Britannia
+country: no
 author: Tammy
 description: ""
 ---
-
-**Views of the Fjords and Waterfalls in Flam - September 16, 2024**
 
 We had breakfast at the buffet. I liked the divers from the buffet seating area. I discovered the iced buns this morning; they are very good. The hash browns here were better than those yesterday in the MDR; more toasted or fried longer. This day they had a special -- it was a very good sirloin steak. 
 

@@ -1,14 +1,16 @@
 ---
-title: "Antelope Canyon X and more Glen Canyon Dam -- September 2023"
-date: 2023-11-12
+category: "Canyons Adventure - September 2023"
+title: "Antelope Canyon X and more Glen Canyon Dam -- September 13, 2023"
+date: 2023-19-13
 img: images/P1130528.webp
 tags: [Glen Canyon Dam, Antelope Canyon]
-category: Glen Canyon Dam
+country: us
+state: [az, ut]
 author: Tammy
 description: ""
 ---
 
-**Antelope Canyon X and more Glen Canyon Dam -- September 13, 2023**
+****
 
 I pre-booked us the Antelope Canyon X tour. There are also Upper and Lower Antelope Canyons; these are more established and known for being very crowded now. So, we wanted to try Canyon X to hopefully have fewer other people. The different slot canyon areas of Antelope Canyon are owned by different Navajo families. We met at their office by check in time; when it was time to go, they brought around and loaded assigned vans. Then it was a long drive on a dirt road to the canyons. There was either stairs or a trail down to the two slot canyons that we visited. We went in and out of each canyon. Beautiful sandstone slot canyons! The second picture is part of the X that the canyon is named for. People in this area liked to name things for what they look like. Our tour guide, Van, was awesome. He pointed out flood lines (the hurricane that came in at LA brought some flooding) and things that you can see in the rocks. He did a panorama picture on each group on one of their phones, but ours did not look good. 
 

@@ -1,14 +1,13 @@
 ---
-title: "Iceland and returning home"
-date: 2023-09-27
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Back to Reykjavik and returning home -- July 22-23, 2023"
+date: 2023-07-23
 img: images/IMG_6895.webp
 tags: [reykjavik]
-category: reykjavik
+country: is
 author: Tammy
 description: ""
 ---
-
-**Back to Reykjavik and returning home -- July 22-23, 2023**
 
 We docked in Reykjavik a day early. This would make our early flight easiest. The cruise line says not to book a flight before noon, and they book us a 9:30 am! However, that may be the time that most leave. Post office box at the port terminal. The port terminal was much less crowded now. They offered a complimentary shuttle. We walked in the morning, but took it in the afternoon. I wanted a license plate picture. We walked along the coast; it was a cloudy day. We looked at the ferry to the island, Videy, which was supposed to have birds. It was pretty expensive, and I felt that I had seen the island from the ship. I did not see any puffin that we needed to visit. We found the old leprosy hospital. 
 

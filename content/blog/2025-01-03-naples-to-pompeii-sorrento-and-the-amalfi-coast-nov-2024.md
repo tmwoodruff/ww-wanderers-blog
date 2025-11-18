@@ -1,9 +1,10 @@
 ---
-title: "Naples to Pompeii, Sorrento, and the Amalfi Coast - Nov 2024"
-date: 2025-01-03
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Naples to Pompeii, Sorrento, and the Amalfi Coast - November 9, 2024"
+date: 2024-11-09
 img: images/IMG_0863.webp
 tags: [Pompeii, Sorrento, Amalfi Coast, NCL Pearl]
-category: Pompeii
+country: it
 author: Tammy
 description: ""
 ---

@@ -1,9 +1,11 @@
 ---
-title: "Death Valley - March 2022"
-date: 2022-11-15
+category: "Death Valley - March 2022"
+title: "Death Valley"
+date: 2022-03-18
 img: images/277369174_10220240736958434_14320206310629098.webp
 tags: [Death Valley, California]
-category: Death Valley
+country: ca
+state: [ca, nv]
 author: Tammy
 description: ""
 ---

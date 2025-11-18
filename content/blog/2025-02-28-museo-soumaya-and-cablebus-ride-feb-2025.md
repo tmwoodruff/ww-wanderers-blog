@@ -1,14 +1,13 @@
 ---
-title: "Museo Soumaya and Cablebus ride - Feb 2025"
-date: 2025-02-28
+category: "Mexico City - Feburary 2025"
+title: "Museo Soumaya and Cablebus ride - February 8, 2025"
+date: 2025-02-08
 img: images/IMG_1908.webp
 tags: [Cablebus, Mexico City, Museo Soumaya]
-category: Cablebus
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Museo Soumaya and Cablebus ride****\- February 8, 2025**
 
 We took a bus to the Polanco neighborhood. This was even further than our bus yesterday. However, it was now Saturday where we found the buses much less busy and much more pleasant. Saturday and Sunday mornings were less busy than on the weekdays. The weekend afternoons were still busy. The Polanco neighborhood is known as a business person's neighborhood with a Rodeo Dr, Beverly Hills of Mexico City. We talked the park, down the Rodeo Dr., and I had a donut while we waited for the museum to open at 10:30 am. Museo Soumaya was a free museum (also with free restrooms; though with my donut, we had gotten change today); the building was amazing and so was the collection (much more in it than I expected). 
 

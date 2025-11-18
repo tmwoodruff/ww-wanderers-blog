@@ -1,14 +1,12 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Cruise Review"
 date: 2022-08-21
 img: images/IMG_4562.webp
 tags: [NCL Jade, cruise review]
-category: NCL Jade
 author: Tammy
 description: ""
 ---
-
-**NCL Jade: Greece and Turkey Cruise - June 5-12, 2022**
 
 **Embarkation:**
 

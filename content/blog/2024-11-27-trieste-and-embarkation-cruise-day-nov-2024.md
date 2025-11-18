@@ -1,14 +1,13 @@
 ---
-title: "Trieste and Embarkation (Cruise day!) - Nov 2024"
-date: 2024-11-27
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Trieste and Embarkation - November 1, 2024"
+date: 2024-11-01
 img: images/image28.webp
 tags: [Trieste, NCL Pearl]
-category: Trieste
+country: it
 author: Tammy
 description: ""
 ---
-
-**Trieste and Embarkation - November 1, 2024**
 
 We arrived in Trieste at 9pm. I read concerns about walking near the bus station, with a park nearby where people slept at night. I priced Ubers and buses and considered them as a backup if we were uncomfortable, but we planned to walk as plan A. After arriving, some people were being picked up near the station doors, but others were walking. So we felt okay walking too. We were near the water for part of the walk. Once we got to the main square/piazza, we saw Halloween costumes and some partying. Our hotel was Urbanauts Studio Minelli. The front picture was actually from the reservation email. Good idea; then you know what you are looking for. They also had a sign pointing to it off a more main street. This hotel had no desk or person on site. We had to complete the registration a few days before, which was before leaving home. The registration required our passport numbers; this was noted an Italian law that they must collect. This seemed very normal for an international hotel. We had to provide a credit card number for them to charge the city tax. They emailed the door code to use to have our room key dropped and other details for getting in and checking out. We were on the top floor. I liked it; it had a cool personality. They also gave a nice bottle of water (my fear of drinking Italian water from getting sick 25 years ago) and a wine complimentary. It had a kitchenette too, but no tea for Travis. The downfall was that the bed had a wall on 3 sides, so I had to climb over Travis to get in or out of bed. I just got up for the restroom when he did, so he will be moved for one trip and not asleep to wake up in my climb when I returned. Also, a slanting ceiling that I think I hit my head and foot on, but that was part of the cool personality. The shower was a little difficult with one open side, but it was hot water so good. You cannot see the full shower, but part of it and glass on the lefthand side of the picture. 
 

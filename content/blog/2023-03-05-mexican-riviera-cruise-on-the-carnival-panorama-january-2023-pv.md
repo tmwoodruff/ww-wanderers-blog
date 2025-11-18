@@ -1,14 +1,13 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: PV"
-date: 2023-03-05
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Puerto Vallarta -- January 25, 2023"
+date: 2023-01-25
 img: images/IMG_6178.webp
 tags: [Puerto Vallarta, Carnival Panorama]
-category: Puerto Vallarta
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Puerto Vallarta -- January 25, 2023**
 
 For breakfast, I had a bagel and Travis oatmeal.
 

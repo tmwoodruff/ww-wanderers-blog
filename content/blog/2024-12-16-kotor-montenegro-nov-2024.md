@@ -1,14 +1,13 @@
 ---
-title: "Kotor, Montenegro - Nov 2024"
-date: 2024-12-16
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Kotor, Montenegro - November 5, 2024"
+date: 2024-11-05
 img: images/IMG_0523.webp
 tags: [Kotor, Montenegro, NCL Pearl]
-category: Kotor
+country: me
 author: Tammy
 description: ""
 ---
-
-**Kotor - November 5, 2024**
 
 I had not heard good things about Montenegro beforehand. That they did not really like tourists or at least did not like to let them visit the restroom. This was a tender port; our only tender port on the trip. Before today, we received a letter on our door from NCL about where to meet for the priority tender for gold or above status guests whenever you were ready to go on shore. Normally, we just go down to the tender area when we are ready and show our keycard. There were not a large number of us who met at the same time. We were seated in the Aqua MDR and then quickly directed down to the tenders. This was warned as a 25 minute each way tender, so to bring your patience. There was much complaints about this tender process; luckily, we missed most of the pain. After directed down, we waited a long time, so a 20 minute tender would be 25 minutes there and 25 minutes back. They were running ship tenders and local tenders. In the waiting area, there were three lines: a tender ticket line (NCL was on tender ticket 4), the status line, and what seemed to be the ship shore excursion line. Someone who was missing her husband for part of the wait and was tender ticket 11 somehow managed to get in front of the tender ticket 4 line from the shore excursions line. Hearing later, it sounded like one of the NCL tender boats caught fire -- or at least smelled of/leaking diesel, maybe no flames. They made it to shore, but then had to take that one out of rotation. My understanding too was that this was the first time that NCL had to anchor so far from the shore, so they gave us each a $26 port fee credit on our onboard account. We had dinner with the officers the night before, and they alluded to the challenges of today's tendering. Holland America was also in port; they were dock after half the distance closer. Their tenders were angering the local tenders because they would not follow the no wake area speed limit. I also heard that some people had to wait 2 hours for the tender back -- eek. We had a 1 hour in rain and cold wait in Greenland, so yes, annoying. We went back pretty early today, so got back without an issue and to allow time to get back for the restroom. 
 

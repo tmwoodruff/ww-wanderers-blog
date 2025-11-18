@@ -1,14 +1,14 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Embarkation"
-date: 2023-02-11
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Embarkation -- January 21, 2023"
+date: 2023-01-21
 img: images/IMG_5926.webp
 tags: [Long Beach, embarkation, Carnival Panorama]
-category: Long Beach
+country: us
+state: ca
 author: Tammy
 description: ""
 ---
-
-**Embarkation -- January 21, 2023**
 
 Before embarkation, we walked back to the beach again. This time, it was our ship. 
 

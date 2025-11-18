@@ -1,9 +1,11 @@
 ---
-title: "After Death Valley - March 2022"
-date: 2022-11-19
+category: "Death Valley - March 2022"
+title: "After Death Valley"
+date: 2022-03-19
 img: images/IMG_4222.webp
 tags: [Neveda, Red Rock Canyon, Mt Charleston, Las Vegas]
-category: Neveda
+country: us
+state: [nv]
 author: Tammy
 description: ""
 ---

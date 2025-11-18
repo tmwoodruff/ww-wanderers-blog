@@ -1,14 +1,13 @@
 ---
-title: "Haugesund, Norway - Sept 2024"
-date: 2024-10-26
+category: "P&O Britannia - September 2024"
+title: "Haugesund, Norway - September 18, 2024"
+date: 2024-09-18
 img: images/IMG_9132.webp
 tags: [Haugesund, P&O Britannia]
-category: Haugesund
+country: no
 author: Tammy
 description: ""
 ---
-
-**Last stop: Haugesund, Norway - September 18, 2024**
 
 We had the MDR for breakfast where I got my favorite salmon again. After we stopped by the buffet because I wanted an iced bun too for the day's picnic, well, the guy in front of me took the last two on the ship. I asked and went to each bread station...no more :( . Getting off the ship, you walk through the port area and then across a bridge. After crossing, we stopped at a grocery store, Extra, first and found some good snacks that we had for a picnic later. Here is one. I like the Milka Daim bars, so tried Daim SmaBiter. They was very good too. We also got licorice for Travis, and chocolate chip cookies and chocolate chex. 
 

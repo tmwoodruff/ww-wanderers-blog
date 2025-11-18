@@ -1,14 +1,13 @@
 ---
-title: "MSC Meraviglia Nassau -- March 2024"
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Nassau, The Bahamas -- March 14, 2024"
 date: 2024-03-31
 img: images/IMG_7853.webp
 tags: [Nassau, MSC Meraviglia]
-category: Nassau
+country: bs
 author: Tammy
 description: ""
 ---
-
-**Nassau, The Bahamas -- March 14, 2024**
 
 We did not rush to port on our Nassau day. We had buffet breakfast, and the guys did the rope course. Then they tried the F1 simulator. There is a 50% discount per Gold member; she hinted at this but did not really explain it. So, we missed our discount on the second kid, putting them on the same card--grr. Joel won. Lastly, they did the 4D theater--the Carnival show, and Joel won again. The roller coaster simulator was currently not working. We used some onboard credit since this was Joel's trip. The onboard credit did take about a day to show up (though I could see it, bought by the Travel Agent, on our boarding papers) and then only showed on Travis's account since he put in the credit card info. 
 

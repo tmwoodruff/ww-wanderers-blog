@@ -1,14 +1,14 @@
 ---
-title: "Palo Duro Canyon - September 2023"
+category: "Canyons Adventure - September 2023"
+title: "Palo Duro Canyon and back home -- September 15, 2023"
 date: 2023-12-07
 img: images/IMG_7502.webp
 tags: [Amarillo, Palo Duro Canyon State Park]
-category: Amarillo
+country: us
+state: tx
 author: Tammy
 description: ""
 ---
-
-**Palo Duro Canyon and back home -- September 15, 2023**
 
 We re-entered Texas and then onto Palo Duro Canyon. It was south and a little east of Amarillo. We paid at the entrance gate (they gave us a flier for a festival that they were having tomorrow) and stopped at the visitor center. The visitor center had a gift shop, some displays, and a restroom. It was steep downhill and back up to the visitor center parking. We then hiked the CCC trail -- noted as 1.4 miles one-way, 1.5 hrs, and difficult. The popular trail is the Lighthouse trail that is a lighthouse rock formation, but is 2.8 miles one-way, which we did not think we had the time or energy for. 
 

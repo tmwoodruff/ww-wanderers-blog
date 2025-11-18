@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-01
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Kusadasi and Ephesus, Turkey 🇹🇷 - June 6, 2022"
+date: 2022-06-06
 img: images/IMG_4571.webp
 tags: [Turkey, cruise, Ephesus, Kusadasi]
-category: Turkey
+country: tr
 author: Tammy
 description: ""
 ---
-
-**Kusadasi and Ephesus, Turkey 🇹🇷 - June 6, 2022**
 
 Our time at Kusadasi was published as 6:30 am to 12:30 pm, so we knew that would be 12:00 pm all board, so not much time. This was the only port that we booked a tour, so with all the covid issues, I paranoidly asked the tour guide if we would make it back on board on time. They reassured me. We booked Ephesus Shuttle for the tour. We debated whether to book Terrace Houses too; extra $10 each. I was not sure if we had enough time (we would have) and if others on the tour would want to go or not. $10 for 4 people does add up, and we were not sure how interesting to the kids it would be. This is a section of Ephesus that is covered and being excavated now. It looked cool from the pictures and videos. 
 

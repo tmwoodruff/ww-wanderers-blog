@@ -1,14 +1,15 @@
 ---
-title: "Dubrovnik, Croatia - Nov 2024"
-date: 2024-12-10
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Dubrovnik, Croatia - November 4, 2024"
+date: 2024-11-04
 img: images/IMG_0282.webp
 tags: [Dubrovnik, NCL Pearl, Croatia]
-category: Dubrovnik
+country: hr
 author: Tammy
 description: ""
 ---
 
-**Walking the walls, old town, and fortress - November 4, 2024**
+**Walking the walls, old town, and fortress**
 
 Arriving into port picture. We were docked far away from the old town. Only small ships can anchor near the old town and then tender to a small dock. This means that we had to take a bus ride to the old town. It was a little challenging to determine where to get a bus ticket. There was a larger bus/coach station inside the port area. I believe that these were long distance bus trips, not the local bus. However, here there was a store here that sold the local bus tickets where we brought a ticket from. I read before that bus tickets were cheaper pre-bought and more expensive bought on the bus. Later, we bought it on the bus to go back, and they were about the same. I also read that they only take Croatian Kuna (HRK), but everything was priced in EURs. The bus ride was about 15 minutes, and we arrived in old town. 
 

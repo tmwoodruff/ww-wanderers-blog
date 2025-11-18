@@ -1,14 +1,13 @@
 ---
-title: "Mexico City - Basilica of Our Lady of Guadalupe and Tlalpexco - Feb 2025"
-date: 2025-03-04
+category: "Mexico City - Feburary 2025"
+title: "Basilica of Our Lady of Guadalupe and Tlalpexco - February 9, 2025"
+date: 2025-02-09
 img: images/IMG_1979.webp
 tags: [Cablebus, Tlalpexco, Mexico City]
-category: Cablebus
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Basilica of Our Lady of Guadalupe and Tlalpexco - February 9, 2025**
 
 We took another weekend morning calm bus to the Basilica of Our Lady of Guadalupe, which is northeast of Centro. Here is the Basilica of Our Lady of Guadalupe. Mass was in progress, and there were many people there. 
 

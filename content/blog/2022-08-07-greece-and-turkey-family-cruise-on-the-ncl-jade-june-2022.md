@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-07
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Volos, Greece - June 8, 2022"
+date: 2022-06-08
 img: images/IMG_4812.webp
 tags: [Greece, Volos]
-category: Greece
+country: gr
 author: Tammy
 description: ""
 ---
-
-**Volos, Greece - June 8, 2022**
 
 Back in Greece for the remainder of the cruise, we were in port from 12pm to 9pm, so we tried to consider the morning a sea day and went to breakfast in the MDR. The MDR did not win for best hot chocolate; I'm afraid that I don't like the real milk in it. It sort of cloats or curdles, maybe instead. O'Sheehan's wins for best hot chocolate. We enjoyed several breakfasts in O'Sheehan's -- fairly speedy, not crowded, and good choices. 
 

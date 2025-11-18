@@ -1,14 +1,13 @@
 ---
-title: "Katakolo, Greece - Nov 2024"
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Katakolo, Greece - November 7, 2024"
 date: 2024-12-21
 img: images/IMG_0735.webp
 tags: [Greece, Katakolo, NCL Pearl]
-category: Greece
+country: gr
 author: Tammy
 description: ""
 ---
-
-**Katakolo (Olympia), Greece - November 7, 2024**
 
 Our original plan was to go to Olympia to see Ancient Olympia; however, since Travis was still recovering, we stayed in Katakolo, also spelled Katakolon in some documentation. The options looked like a tour coach purchase at the port, public bus, or public train. 
 

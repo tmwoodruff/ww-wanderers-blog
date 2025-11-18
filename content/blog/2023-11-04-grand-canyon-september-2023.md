@@ -1,14 +1,14 @@
 ---
-title: "Grand Canyon - September 2023"
-date: 2023-11-04
+category: "Canyons Adventure - September 2023"
+title: "Grand Canyon - September 9-12, 2023"
+date: 2023-19-12
 img: images/IMG_7198.webp
 tags: [Grand Canyon, Arizona]
-category: Grand Canyon
+country: us
+state: az
 author: Tammy
 description: ""
 ---
-
-**Grand Canyon - September 9-12, 2023**
 
 Now, heading to Grand Canyon from the south side of Petrified National Park, rejoining I-40 in Holbrook. Travis was hoping to stop in Williams to trade drivers, but the highway bypassed it. We stopped at Wendy's for a Frosty just south of the Grand Canyon entrance. On our road trip, we have been listening to Bill Bryson's: _I'm a Stranger Here Myself: Notes on Returning to America After 20 Years Away_. He talked about going to the Grand Canyon as a child on a family road trip and then again as an adult for the book. We entered with our annual pass and then headed to Mather Campground to check-in and setup the tent before it got dark. The Ranger was very friendly with check-in, going over the normal rules. She noted that they had seen a bear in the campground recently, though not common or expected. They were changing the process, so we were not given a car tag, but someone else before us was given one. Our reserved site was marked reserved; pre-booked on recreation.gov. It turned out big and to offer several places that we could setup the tent. Here is what we picked. Our tent was on sale at Aldi, about $17; Travis had seam sealed it before. It worked well. That extra piece on the left was a shoe/boot storage to keep them dry if it rained (it did) that was accessible from the inside or outside. Since we had not had rain at home since some time in June, I noted that I would be annoyed if it rained the full time we hiked -- there was rain, but not hike interrupting. More on that later. 
 

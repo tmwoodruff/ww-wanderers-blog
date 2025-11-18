@@ -1,9 +1,11 @@
 ---
-title: "Flowers of Oregon -- May/June 2025"
-date: 2025-06-23
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "Flowers of Oregon"
+date: 2025-06-04
 img: images/IMG_2094.webp
 tags: []
-category: 
+country: us
+state: or
 author: Tammy
 description: ""
 ---

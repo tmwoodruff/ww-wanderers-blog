@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-02
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Istanbul - June 7, 2022"
+date: 2022-06-07
 img: images/IMG_4694.webp
 tags: [Turkey, Istanbul]
-category: Turkey
+country: tr
 author: Tammy
 description: ""
 ---
-
-**Istanbul - June 7, 2022**
 
 We finally made it to Istanbul; it has been on Travis's list for a while. This was another early port -- 7:00 am to 6:00 pm. We wanted to see as much as possible but knew the kids would not be able to go all day. This was true -- youngest got an headache, could not get the ibuprofen down (not good at swallowing pills), and is a grumpy traveler at the best of times.
 

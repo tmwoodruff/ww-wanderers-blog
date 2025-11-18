@@ -1,8 +1,8 @@
 ---
-title: "Panama Canal Cruise -- Island Princess Review"
-date: 2025-10-22
+category: "Panama Canal Cruise - October 2025"
+title: "Island Princess Review"
+date: 2025-11-11
 tags: [cruise review]
-category: Panama Canal Cruise
 author: Tammy
 description: ""
 ---

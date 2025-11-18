@@ -1,14 +1,14 @@
 ---
-title: "Mt. Rainier - Skyline trail hike - July 2024"
-date: 2024-07-24
+category: "Washington National Parks - July 2024"
+title: "Hiking Skyline Trail in Mt. Rainier - July 11, 2024"
+date: 2024-07-11
 img: images/IMG_8167.webp
 tags: [Skyline, Mount Rainier, Washington]
-category: Skyline
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Hiking Skyline Trail in Mt. Rainier - July 11, 2024**
 
 We made it to the Paradise Visitor Center parking for the Skyline trail early to get a spot. We parked in the lower lot because the lot by the Visitor Center was signed for a 2 hour limit. To remember everything, we needed to make a few trips back and forth, doh. We stopped by the restroom, not finding the water filler until after the hike, so had to settle for restroom sink water. It was nice and cold. We found the sign that showed the latest snow cover -- green: clear, blue: full snow cover, and green/blue dashed: partially covered. The color coding was different than the NPS.gov site that we were monitoring before our trip. It also recommended taking the Golden Gate Trail instead of east Skyline. This cut off a mile, and I was planning it anyway. So, about 4.5 miles and 2000 feet elevation gain. Paradise was at 5400 ft, and Cougar Rock Campground was at 3100 ft. 
 
