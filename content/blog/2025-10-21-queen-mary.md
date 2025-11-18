@@ -126,5 +126,3 @@ Lastly, fire safety. This was a very fancy system. The Lux system was used to ex
 There was more to see, but we were running low on time since check out was at 11am. We went back to the room to finish packing -- trying again to get everything zipped into our suitcases again. We only brought a backpack and roll-aboard each to not pay for checked luggage with the plan to do laundry on the Island Princess. We checked out and got an Uber to a convenient store, Bon Ton Grocery, which was close to the port. We were at terminal 93 at San Pedro. Princess allows you to bring a 12 pack soda onboard (and a bottle of wine) per adult. I asked on Google Maps before the cruise if the grocery/convenient store carried a 12 pack of soda; I did not get an answer. They do not and had no prices on items; we did not get to enjoy sodas on our eight sea days.
 
 We enjoyed Queen Mary.
-
-Next up...Embarkation and two sea days

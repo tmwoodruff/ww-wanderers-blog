@@ -64,7 +64,7 @@ Main
 - Monte Cristo - this was not fried in batter like Monte Cristos normally are and did not have a good flavor. Going back, it was just described as a grilled ham and cheese sandwich. I should have paid more attention.  
 - Quinoa Salmon Poke Bowl
 
-Dessert - Double Chocolate Tart - good 
+Dessert - Double Chocolate Tart - not pictured - good 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Food/IMG_20251024_122655307_HDR.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Food/IMG_20251024_122702377.1536x2048.webp", "1536x2048" %}
@@ -103,7 +103,7 @@ I discovered the Beef Tapa and rice in the buffet for breakfast yesterday. It se
 
 Appetizer
 - Hot Smoked Salmon with potatoes, sour cream, and dill - not pictured. I was not a big fan of this, but I was trying something new.
-- Pea soup, which was actually blackeye peas - good.  
+- Pea soup, which was actually blackeye peas - not pictured - good.  
 
 Main
 - Smoked pork - it tasted more like ham, but was good, and good with the slice of bacon it was served with, and had mashed potatoes. 
@@ -213,7 +213,7 @@ Dessert
 
 **Buffet Breakfast, Lunch, and Dinner - Day 10**
 
-Halloween breakfast donut and lunch Halloween desserts. 
+Halloween breakfast donut and lunch Halloween dessert. 
 
 We had popcorn (included), pizza, and ice cream while watching a Movie Under the Stars. I liked the pepperoni pizza, but tried the four cheese tonight. It did not have tomato sauce. I liked the tomato sauce, so including it is my preference. Travis had the vegetable pizza. Princess has good included pizza. I heard that their paid pizza was very good, but we did not try it.
 
@@ -245,7 +245,7 @@ Dessert
 
 Appetizer
 - French onion soup
-- Soup 
+- Asian Soup 
 
 Main
 - Tri-tip Beef 
