@@ -63,7 +63,3 @@ Instead of the normal National Park map, they gave us this.
 With the flood, they also gave us this.
 
 {% image "legacy/IMG_20220913_185043995.webp", "1536x2048" %}
-
-Next up [on the road to Glacier](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_17.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

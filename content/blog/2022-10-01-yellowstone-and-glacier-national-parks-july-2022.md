@@ -37,7 +37,3 @@ The motel was a little West of town. We went into town for some pie and ice crea
 The next morning we did not do anything. There looked like some cool stuff to do in Bozeman like planetarium and dinosaur museum and Museum of the Rockies, but with our flight time and museums not opening until 10am, we would not have had much time to spend. So, we watched movies at the hotel and then off to the flight. Car return was easy and a quick walk to the terminal. 
 
 It was a great trip, seeing so much beauty, and some animals. We do not have any more upcoming trips planned with the kids included because I have been told that we have to let our now almost 17 year old get a job next summer, which will be good. Maybe a Univ. of Texas and Texas A&M; college touring for Joel (and Owen) over Spring Break, but that is not really a trip. We have a Mexican Riviera January and an Iceland/Greenland July cruises booked just for the adults in 2023. Then I was thinking maybe the Grand Canyon to the bottom and back in a one day hike (no big packs) in Sept or Oct; Travis wants to try this. 
-
-Next up Philadelphia...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

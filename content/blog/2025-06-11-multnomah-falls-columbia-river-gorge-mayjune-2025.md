@@ -106,7 +106,3 @@ We then went back to campsite. We found multiple big snails that came out after 
 {% image "legacy/IMG_20250529_154854619_HDR.webp", "814x477" %}
 
 I forgot, but we sandwiches at the campsite last night for dinner and had Rico nacho with tortilla chips tonight. It was cold sleeping in the tent tonight. I was surprised that kids said that they were not too cold since they have 50 degree sleeping bags, and I had a 30 degree one. I gave them extra layers that they never wore. Later, I took and wore them on expected cooler nights (43 degrees).
-
-Next up...[Fish Hatchery and Dam](https://ww-wanderers.blogspot.com/2025/06/bonneville-fish-hatchery-and-dam.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

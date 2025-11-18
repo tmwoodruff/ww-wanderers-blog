@@ -46,7 +46,3 @@ Our AirBNB room and a view from the window of the walls. Our host was having ver
 {% image "legacy/IMG_8719.webp", "2048x1536" %}
 {% image "legacy/IMG_8720.webp", "2048x1536" %}
 {% image "legacy/IMG_8721.webp", "2048x1536" %}
-
-Next up...[Embarkation Day](https://ww-wanderers.blogspot.com/2024/10/p-britannia-norwegian-fjords.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

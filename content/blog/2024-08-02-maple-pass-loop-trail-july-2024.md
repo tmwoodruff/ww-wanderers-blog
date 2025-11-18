@@ -66,7 +66,3 @@ Lastly, we went to the Ranger talk in Colonial Creek South Campground that I men
 
 {% image "legacy/IMG_8611.webp", "2048x1536" %}
 {% image "legacy/IMG_8614.webp", "2048x1536" %}
-
-Next Up...[Last day in North Cascades and Seattle](https://ww-wanderers.blogspot.com/2024/08/north-cascades-and-seattle-july-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

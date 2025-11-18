@@ -45,7 +45,3 @@ We were able to leave for lunch and use the same tickets to come back. We left a
 After (in the dizzle), we returned to the museum to see the remaining items on Joel's list. 
 
 Joel and I downloaded their app, and Travis also did in the museum. They provided wifi to use it. It was very good where you can pick where you wanted to go, it determined where you were now, and give detailed instructions and visuals to get there. I did have trouble finding where I wanted to go some; however, I believe that there was a search feature that should have worked. I just had trouble finding it. They allowed backpacks up to 11"x17". This requirement seems to be missing the most important dimension of how far it sticks off ones back, but what do I know :). They also allowed water. 
-
-Next up...[Embarkation day](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-embarkation-day-march.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

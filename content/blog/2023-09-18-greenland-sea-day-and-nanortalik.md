@@ -97,7 +97,3 @@ My sweet and sour pork was good. I have loved the crispy beef before, but last t
 {% image "legacy/IMG_6763 (2023_09_17 23_04_38 UTC).webp", "" %}
 
 Tonight we learned that with the fog rolling in that we were overnighting in Nanortalik and leaving in the morning with hopefully lifting fog. I quickly figured out that an Artic trip is like an Antarctica trip where the Captain has to be flexible with the weather and sea conditions. Part B for tomorrow was Qaqortoq and sailing into a fjord to see a glacier. 
-
-Next up...[Icebergs and more sea days](https://ww-wanderers.blogspot.com/2023/09/greenland-icebergs-and-more-sea-days.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

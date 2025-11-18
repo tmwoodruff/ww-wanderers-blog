@@ -125,7 +125,3 @@ We ordered brisket tacos for two. They made them table side, which was exciting.
 {% image "legacy/IMG_20250207_181759798_HDR.webp", "1536x2048" %} {% image "legacy/IMG_20250207_181803336.webp", "1536x2048" %}
 
 After dinner, we walked to the bus stop and loaded the Metro card in the dark, and I determined that being out at night in Mexico City was not as scary as I thought. 
-
-Next up..[.Museo Soumaya and Cablebus ride](https://ww-wanderers.blogspot.com/2025/02/museo-soumaya-and-cablebus-ride-feb-2025.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

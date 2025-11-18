@@ -27,7 +27,3 @@ Then we drove to the end of the park to hike Lava Falls Trail. It rained a littl
 {% image "legacy/IMG_7489.webp", "2048x1536" %}
 
 After the park, we stayed in Moriarty, NM (the Sherlock Holmes bad guy, so loved the name). We were seeing really bad reviews for motels in Albuquerque, so we booked in Moriarty, past it. I have since seen Albuquerque on the list of one of Americas most dangerous cities. We stayed at another Motel 6, but it was not quite as good as the first one, but fine. 
-
-Next up...[Palo Duro Canyon and home](https://ww-wanderers.blogspot.com/2023/12/palo-duro-canyon-september-2023.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

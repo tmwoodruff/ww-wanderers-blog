@@ -85,7 +85,3 @@ For dessert, Travis had the strawberry shortcake, and I had some kind of chocola
 The moon, the wake, and some Italian city lights. We were surprised at how close Sicily was to mainland Italy. 
 
 {% image "legacy/IMG_0856.webp", "1536x2048" %}
-
-Next up...[Naples to Pompeii, Sorrento, and the Amalfi Coast](https://ww-wanderers.blogspot.com/2025/01/naples-to-pompeii-sorrento-and-amalfi.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

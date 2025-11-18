@@ -58,7 +58,3 @@ Our room got crowded in the evening when the kids' beds were out and down. Our r
 {% image "legacy/IMG_20220612_062557188.webp", "2048x1536" %}
 
 A great first day! 
-
-[Next up Kusadasi/Ephesus... ](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl_47.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

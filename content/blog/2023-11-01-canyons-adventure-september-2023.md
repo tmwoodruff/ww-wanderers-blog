@@ -46,7 +46,3 @@ Lastly, we visited the Rainbow Forest Museum and hiked Giant Logs behind it. On 
 Before leaving, we had our picnic lunch in a picnic area in front of the visitor center. Since this tree was probably getting more than its fair share of water, a raven came for a drink. We were warned that we would see a lot at the Grand Canyon and needed to keep our food from them. Here we were warned of bees, which we also avoided. There was a bottle filling station, so we refilled before hitting the road again. 
 
 {% image "legacy/IMG_7025.webp", "2048x1536" %}
-
-Next up...[Grand Canyon](https://ww-wanderers.blogspot.com/2023/11/grand-canyon-september-2023.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

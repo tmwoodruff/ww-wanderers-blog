@@ -157,7 +157,3 @@ Here is the hard and with less favor NCL cookie that I was complaining about. Th
 {% image "legacy/IMG_0515.webp", "2048x1536" %}
 
 This night we had our dinner with the officers, so I did not take any food pictures with them there. We dined with the Assistant Guest Services Manager and Assistant Shore Excursions Manager. They were both from India. The Shore Excursions Manager started as a cook and then a waiter, so he knew the team in the MDR. We got very good service with them there and lots of attention. Apparently, we could have had a free drink too but did not know that. I had the pork pot stickers; they were very good. Then I had the Chicken Cordon Bleu that was not so good at first, but grew on me. I also tried the cannoli, which was also really good, but a challenge to eat with the hard pastry shell. Travis had Pasta e Fagioli soup, eggplant parmesan, and cannoli too.   
-
-Next up...[Kotor, Montenegro](https://ww-wanderers.blogspot.com/2024/12/kotor-montenegro-nov-2024.html)   
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -68,7 +68,3 @@ Back at the hotel, we collected our luggage and finished our check-in. They did 
 {% image "legacy/IMG_1517.webp", "2048x1536" %}
 
 We went to a sit down restaurant with wait service for dinner. Dr. Pizza was very close to our hotel. We shared a pizza of salami, hot honey sauce, and multiple cheeses. It was good and the crust was very good. The hot honey sauce was too hot for me. I also got a pink lemonade that came with raspberry. I didn't like it, so Travis drank it. There was an OXXO convenient store at the corner near our hotel where we stopped to get some water. Travis read not to drink the water in Mexico City due to the pipes. Depending on country, but I normally follow this rule after getting sick in Italy in 1999. After the early rise for the flight, we went to bed early. 
-
-Next up...[Centro](https://ww-wanderers.blogspot.com/2025/02/mexico-city-centro-district-feb-2025.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

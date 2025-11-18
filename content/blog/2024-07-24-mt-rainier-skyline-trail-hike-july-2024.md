@@ -67,7 +67,3 @@ Lastly, we visited Narada Falls, which was a short and popular hike to the viewi
 {% image "legacy/P1140289.webp", "1538x2048" %}
 
 This was a cold night camping; I was not cold the night before. I slept in a hoodie, pants, and tall wool socks but still cold. 
-
-Next up...[final day in Mt. Rainier and to Olympic](https://ww-wanderers.blogspot.com/2024/07/mt-rainier-to-olympic-july-2024.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

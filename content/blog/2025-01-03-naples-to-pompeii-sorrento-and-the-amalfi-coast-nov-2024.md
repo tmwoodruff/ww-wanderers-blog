@@ -196,7 +196,3 @@ I was not excited with the MDR menu (below), so we went to the buffet for dinner
 
 {% image "legacy/image42.webp", "286x840" %}
 {% image "legacy/image43.webp", "309x848" %}
-
-Next up...[staying on board for Livorno and disembarkation](https://ww-wanderers.blogspot.com/2025/01/staying-on-board-for-livorno-and.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

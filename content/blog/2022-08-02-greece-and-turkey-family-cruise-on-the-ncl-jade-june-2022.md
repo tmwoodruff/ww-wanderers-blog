@@ -86,7 +86,3 @@ The Blue Mosque was under construction, but they had completed the main doom.
 Another at sailaway. 
 
 {% image "legacy/IMG_20220607_163300690.webp", "2048x1536" %}
-
-[Next up Istanbul part 2...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_1.html)
-
-[Table of Content](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

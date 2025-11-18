@@ -14,7 +14,7 @@ description: ""
 
 New muster drill is SO much better -- watch video at check in and again before going to the port, go to your assigned muster station for scanning/learn where it is as soon as boarding. Then when onboard, they demonstrated the warning horns and played a long/detailed safety announcement over the speaker and into rooms.
 
-I covered embarkation fully in [post](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl_31.html). 
+I covered embarkation fully in this [post](2022-07-31-greece-and-turkey-family-cruise-on-the-ncl-jade-june-2022.md). 
 
 **Food:**
 
@@ -111,7 +111,3 @@ Some menu shots; sorry that they are not better
 {% image "legacy/IMG_20220610_145724253.webp", "1536x2048" %}
 {% image "legacy/IMG_20220611_172229118.webp", "1536x2048" %}
 {% image "legacy/Menu.webp", "1200x1600" %}
-
-Next up [Yellowstone and Glacier National Parks.](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks.html)..
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

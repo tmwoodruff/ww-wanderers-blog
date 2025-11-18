@@ -97,7 +97,3 @@ Finally, it was back to the campground where we found the kids' tent especially 
 Memaloose Island across from our campsite with a gravestone for a Congressman. 
 
 {% image "legacy/IMG_2400.webp", "2048x1536" %}
-
-Next up...[Guler Ice Caves](https://ww-wanderers.blogspot.com/2025/06/guler-ice-caves-and-washington-side-of.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
