@@ -28,7 +28,7 @@ function imageShortcode(src, size = "", psize = "", psrc = "", alt="") {
 		psizeAttrs = `width="${width}" height="${height}"`
 	}
 	if (psrc == "") {
-		psrc = src.replace(/(?:\.\d+x\d+\.)?([^.]+)$/, "-240.$1");
+		psrc = src.replace(/\.(?:\d+x\d+\.)?([^.]+)$/, "-240.$1");
 	}
 	alt = escapeAttribute(alt);
 	return `
