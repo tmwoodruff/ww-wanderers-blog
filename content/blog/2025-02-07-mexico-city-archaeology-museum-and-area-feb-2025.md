@@ -1,7 +1,7 @@
 ---
 category: "Mexico City - Feburary 2025"
 title: "Archaeology Museum, Castle, and Zoo - February 7, 2025"
-date: 2025-02-27
+date: 2025-02-07
 img: images/IMG_1810.webp
 tags: [Archaeology Museum, Mexico City]
 country: mx

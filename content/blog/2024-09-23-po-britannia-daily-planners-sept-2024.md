@@ -47,4 +47,4 @@ September 19 - Sea Day
 {% image "legacy/image26.webp", "637x876" %}
 {% image "legacy/image27.webp", "630x883" %}
 
-Also check out [my Cruise Review](2024-10-24-po-britannia-cruise-review-sept-2024.md), [what we ate on P&O; Britannia and Menus](2024-10-20-what-we-ate-on-po-britannia-sept-2024.md), and [the full trip](2024-09-26-first-po-uk-cruise-prep-sept-2024.md). 
+Also check out [my Cruise Review](2024-09-25-po-britannia-cruise-review-sept-2024.md), [what we ate on P&O; Britannia and Menus](2024-09-22-what-we-ate-on-po-britannia-sept-2024.md), and [the full trip](2024-09-01-first-po-uk-cruise-prep-sept-2024.md). 

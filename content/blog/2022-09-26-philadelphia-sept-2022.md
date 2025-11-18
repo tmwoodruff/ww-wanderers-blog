@@ -1,7 +1,7 @@
 ---
 category: "Philadelphia - Sept 2022"
-title: "Benjamin Franklin Bridge, Fed, Mint - Sept 25, 2022"
-date: 2022-09-25
+title: "Benjamin Franklin Bridge, Fed, Mint - Sept 26, 2022"
+date: 2022-09-26
 img: images/IMG_5822.webp
 tags: [Federal reserve, mint, benjamin franklin bridge, money in motion]
 country: us

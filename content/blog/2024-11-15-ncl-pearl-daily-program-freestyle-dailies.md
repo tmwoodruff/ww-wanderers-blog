@@ -76,4 +76,4 @@ We received a paper version of the Freestyle Daily in our room or outside the do
 {% image "legacy/image77.webp", "793x913" %}
 {% image "legacy/image78.webp", "790x903" %}
 
-Also check out my [NCL Pearl review](2024-12-27-ncl-pearl-mediterranean-cruise-review-nov-2024.md) and the [full trip report](2024-12-02-ncl-pearl-mid-mediterranean-cruise-prep-nov-2024.mdl). 
+Also check out my [NCL Pearl review](2024-11-16-ncl-pearl-mediterranean-cruise-review-nov-2024.md) and the [full trip report](2024-10-30-ncl-pearl-mid-mediterranean-cruise-prep-nov-2024.md). 

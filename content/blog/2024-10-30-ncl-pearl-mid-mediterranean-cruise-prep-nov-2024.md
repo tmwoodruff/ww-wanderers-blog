@@ -1,7 +1,7 @@
 ---
 category: "NCL Pearl Mediterranean Cruise - November 2024"
 title: "Cruise Prep"
-date: 2024-10-20
+date: 2024-10-30
 img: images/image31.webp
 tags: [Prep, Med Cruise, NCL Pearl]
 author: Tammy
