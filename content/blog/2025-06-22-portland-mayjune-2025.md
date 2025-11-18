@@ -66,9 +66,3 @@ The next morning we drove to the Avis return and parked in the previously instru
 Our flight was uneventful this time, which was good. It still took them a while to start serving drinks (maybe I'm just used to American's schedule), but immediately served seconds after finishing serving firsts. I watched kid movies on the way home: Paddington in Peru and Moana 2; I watched the new Wicked on the way there. My snowy mountain picture from the plane. 
 
 {% image "legacy/IMG_20250604_124050466.webp", "2048x1536" %}
-
-[Flowers of Oregon](https://ww-wanderers.blogspot.com/2025/06/flowers-of-oregon-mayjune-2025.html)
-
-Next up...Panama Canal cruise on the Island Princess  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -81,7 +81,3 @@ I had the flatbread (it was very good), steak, and melting cake. Travis had the 
 After dinner, we got a drink at Alchemy Bar; Amil was fun and efficient. We enjoyed a conversation with a gentleman at the bar. My favorite is the deal closer. 
 
 {% image "legacy/IMG_6171.webp", "2048x1536" %}
-
-[Next up...Puerto Vallarta](https://ww-wanderers.blogspot.com/2023/03/mexican-riviera-cruise-on-carnival.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

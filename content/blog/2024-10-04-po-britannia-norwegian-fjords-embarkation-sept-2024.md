@@ -47,7 +47,3 @@ Off to bed for our Sea Day tomorrow. Goodnight sun; hello wake.
 
 {% image "legacy/IMG_8750.webp", "2048x1536" %}
 {% image "legacy/IMG_8754.webp", "2048x1536" %}
-
-Next up...[Sea day, formal night, and Stavanger](https://ww-wanderers.blogspot.com/2024/10/p-britannia-sea-day-formal-night-and.html). 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

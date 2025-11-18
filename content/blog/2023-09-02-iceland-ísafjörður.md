@@ -106,7 +106,3 @@ Travis's NY strip and sides: broccoli and barley risotto, and my petite filet wi
 Travis's OMG Caramel Butterscotch Cheesecake and my 7 layer chocolate cake. 
 
 {% image "legacy/IMG_6680.webp", "1536x2048" %} {% image "legacy/IMG_6681.webp", "1536x2048" %}
-
-Up next...[Sea day and Nanortalik](https://ww-wanderers.blogspot.com/2023/09/greenland-sea-day-and-nanortalik.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

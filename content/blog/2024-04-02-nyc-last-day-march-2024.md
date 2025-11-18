@@ -44,7 +44,3 @@ Then we walked to Chinatown where Travis and the kids founds some interesting ca
 The next morning, one more stop at Trader Joes in Queens for plane snacks and Dunkin Donuts for breakfast. Then we headed toward the World Trade Center station to catch the PATH to NJ Penn Station. There we caught the bus; it seemed well signed but still confusing. We had to pick a bus when buying the tickets, 62, but 67 came first, and the driver noted it was the same.
 
 We had an uneventful flight (the best kind) and arrived home on time. We got two seats together, and I got a window to look out. The kids were in middle seats further back. That's a wrap on Joel's graduation cruise and trip to NYC. 
-
-Next up...Washington State National Parks. 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

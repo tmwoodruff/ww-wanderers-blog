@@ -63,5 +63,3 @@ We had a spirited group behind us.
 {% image "legacy/IMG_20250830_205025448.webp", "2048x1536" %}
 
 Highlights and Aggie Band:
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

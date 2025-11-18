@@ -38,7 +38,3 @@ So, back to the cruise...our itinerary:
 **MSC Meraviglia -- Embarking: March 10, 2024 and Disembarking: March 17, 2024**
 
 {% image "legacy/image5.webp", "780x434" %}
-
-Next up...[Natural History Museum and Central Park](https://ww-wanderers.blogspot.com/2024/03/nyc-natural-history-museum-and-central.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

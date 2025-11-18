@@ -34,7 +34,3 @@ Since we were late, some cool moon and sunset pictures.
 {% image "legacy/IMG_20250210_181926562.webp", "2048x1536" %}
 {% image "legacy/IMG_20250210_181932403.webp", "2048x1536" %}
 {% image "legacy/IMG_20250210_193120849.webp", "1536x2048" %}{% image "legacy/IMG_20250210_193127733.webp", "1536x2048" %}
-
-Next up...[Portland, Oregon to Columbia River Gorge](https://ww-wanderers.blogspot.com/2025/06/portland-and-columbia-river-gorge.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

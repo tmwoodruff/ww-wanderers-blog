@@ -70,7 +70,3 @@ Strawberry soup, calamari (ok, I took the picture a little late), mahi mahi, and
 After dinner, we saw both of the comedians in 3 shows: Lenny Schmidt and Tim H. They were both good. A towel animal! 
 
 {% image "legacy/IMG_5955.webp", "2048x1536" %}
-
-[Next up...Sea Day](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_30.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

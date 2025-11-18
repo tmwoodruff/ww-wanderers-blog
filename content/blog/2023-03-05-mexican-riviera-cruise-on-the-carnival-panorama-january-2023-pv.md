@@ -70,7 +70,3 @@ We watched the new comedians that boarded -- Jason Love and Eric Blake. It sound
 {% image "legacy/IMG_6340.webp", "1536x2048" %}
 {% image "legacy/IMG_20230125_075718211.webp", "2048x1152" %}
 {% image "legacy/IMG_20230125_075722062.webp", "2048x1152" %}
-
-Next up...[Sea Days and Disembarkation](https://ww-wanderers.blogspot.com/2023/03/mexican-riviera-cruise-on-carnival_7.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -84,7 +84,3 @@ Tonight was Superbowl Sunday. I was not sure if we would be able to watch it in 
 {% image "legacy/IMG_20250209_182831267.webp", "1536x2048" %}
 
 Travis had the shrimp soup and an octopus taco. I had two battered fish tacos with a spicy mayo sauce, pico, and a smoky hot sauce. It was all delicious! We talked back to the hotel to finish the Superbowl. We almost made it to the end before bedtime; though we could tell who was going to win. 
-
-Next up...last day -- Chocolate Museum and flight home 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

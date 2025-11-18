@@ -46,7 +46,3 @@ At the end of the main audio tour, we were outside to what was later the basebal
 We went around and listened to audio tour segments; we learned about the kitchen and food (though not restored to see it), the underground/dark punishment solitary confinement later used, Al Capone's cell (arrested for an unlicensed gun or guns), death row hall with double bar rows to give the guards one more level of protection, some prison art in cells, the underground tunnel, and this is the medical wing, not restored yet, so they noted that we would have to come back when they are complete. 
 
 {% image "legacy/IMG_5752.webp", "1536x2048" %}
-
-Next up [Valley Forge](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_20.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

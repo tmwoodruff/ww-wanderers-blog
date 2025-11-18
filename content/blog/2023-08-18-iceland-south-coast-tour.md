@@ -120,7 +120,3 @@ This was a view of a waterfall from behind. Okay, now we had to hike back quickl
 {% image "legacy/IMG_6459.webp", "1536x2048" %}
 
 We made the long drive back to Reykjavik. We got back about 8pm, late, but it did not seem like it since it was still light outside. We got off at an earlier drop off to stop at Kronan, another recommended budget grocery store, for dinner. I found an affordable pizza pocket that was better than the previous night's pizza slice. 
-
-Next up...[Embarkation NCL Star](https://ww-wanderers.blogspot.com/2023/08/iceland-ncl-star-embarkation.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

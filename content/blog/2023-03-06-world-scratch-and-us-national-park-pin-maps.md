@@ -26,6 +26,3 @@ World scratch and U.S. National Park pin maps history; both from my sister. We h
 **March 2023**
 
 {% image "legacy/Screen Shot 2023-03-05 at 8.32.04 PM.webp", "2048x1659" %}
-
-[Table of Contents  
-](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

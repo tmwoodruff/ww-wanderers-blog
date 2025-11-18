@@ -45,7 +45,3 @@ We also pre-booked David and the Colosseum. The Colosseum had a timed entry; I p
 **Communication:**
 
 We pre-bought a Three European SIM card. We bought one in September too; you cannot just buy another month from the Three app that I got to watch usage last time. You have to buy a new SIM card each time. We scheduled the activation the day before we were leaving on the trip. The data worked in every country except Montenegro. Travis's new phone now supports eSIM, so we are all set for this option later. We also each had 150 minutes of wifi on the ship with the Free at Sea (now More at Sea). 
-
-Next up...[Florence](https://ww-wanderers.blogspot.com/2024/11/florence-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

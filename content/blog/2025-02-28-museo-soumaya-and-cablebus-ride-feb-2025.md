@@ -71,7 +71,3 @@ After the long wait and with Metro card credit now, we got on. Since this statio
 As we were leaving, two pickup beds full of police officers were arriving. I also saw a hurst, so we guessed a funeral. But how important was the person that their funeral needed two pickup beds full of police officers to watch over it, or maybe that is normal? Walking over the pedestrian bridge over the road, we saw two of the buses that we needed to catch come in quick succession and that we missed. This was bus was part of the Metro but called RTP and was a green coach sized bus. It took forever to arrive since we missed the previous two. It was crowded, and we had a long ride back. 
 
 That night we went to dinner near our hotel at a restaurant called El Huequito. I ordered a sandwich -- al pastor in a baguette, which was interesting, but not my favorite with refried beans spread on the bread. I had some and gave some to Travis. He liked it. He gave me his al pastor taco. He also had an Aztec soup, Sopa Azteca, that he liked, but that I just thought was okay. The restaurant was sit down with waiter service. 
-
-Next up...[Basilica of Our Lady of Guadalupe and Tlalpexco](https://ww-wanderers.blogspot.com/2025/03/mexico-city-basilica-of-our-lady-of.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

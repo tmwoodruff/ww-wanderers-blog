@@ -76,7 +76,3 @@ After dinner, the Nassau sail away from the one view point on the promenade deck
 {% image "legacy/IMG_7918.webp", "2048x1536" %}
 {% image "legacy/IMG_7919.webp", "1536x2048" %}
 {% image "legacy/IMG_7920.webp", "2048x1536" %}
-
-Next up...[two Sea Days](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-two-sea-days-march-2024.html).
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

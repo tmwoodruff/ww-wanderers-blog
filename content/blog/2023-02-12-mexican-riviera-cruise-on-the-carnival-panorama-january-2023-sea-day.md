@@ -26,7 +26,3 @@ Tonight was elegant night, with the fancy food. Travis had pumpkin soup, spinach
 We saw the comedian Tim and checked out the sky -- found Jupiter, hanging out under the small moon, and Venus. Our new visitor. 
 
 {% image "legacy/IMG_5960.webp", "1536x2048" %}
-
-[Next up...Cabo San Lucas](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_20.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

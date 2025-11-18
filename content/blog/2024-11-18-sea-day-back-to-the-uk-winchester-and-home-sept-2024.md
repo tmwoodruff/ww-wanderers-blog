@@ -168,8 +168,4 @@ There were some wrecks, so lots of traffic -- slow -- getting to LHR. We booked 
 
 In the morning, we walked back to terminal 4 and took the Elizabeth Line (free in the airport) to terminal 3 for American. In Heathrow (and the hotel) in this trip, I noticed for the first time that their escalators say no luggage. The hotel noted that the elevator would be faster; we did it there since they asked and the elevator was not busy. Elevator would definitely not be faster at Heathrow and no where in sight. This was nuts, and everyone was taking luggage up the escalator any way. Security was busy, but we had time. We had a direct flight to DFW. 
 
-Concluding here -- also check out [my Cruise Review](https://ww-wanderers.blogspot.com/2024/10/p-britannia-cruise-review.html), [what we ate on P&O; Britannia and Menus](https://ww-wanderers.blogspot.com/2024/10/what-we-ate-on-p-britannia-sept-2024.html), and the Daily Programs. 
-
-Up Next...[The Mediterranean from Trieste to Rome, Italy](https://ww-wanderers.blogspot.com/2024/12/ncl-pearl-mid-mediterranean-cruise-prep.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
+Concluding here -- also check out [my Cruise Review](2024-10-24-po-britannia-cruise-review-sept-2024.md), [what we ate on P&O; Britannia and Menus](2024-10-20-what-we-ate-on-po-britannia-sept-2024.md), and [the full trip](2024-09-26-first-po-uk-cruise-prep-sept-2024.md). 

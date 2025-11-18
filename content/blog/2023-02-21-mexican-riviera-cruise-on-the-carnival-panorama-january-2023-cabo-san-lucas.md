@@ -76,7 +76,3 @@ Tonight we had a time change and lost an hour. I did not get this. Carnival uses
 Complete side note -- Our room toilet did not seem to flush as much water as other cruise ship toilet did, so had to check each time. I wonder if this is a newer ship thing. It did flush every time, so no issues there. 
 
 {% image "legacy/IMG_6070.webp", "1536x2048" %}
-
-[Next up...Mazatlan](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_23.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

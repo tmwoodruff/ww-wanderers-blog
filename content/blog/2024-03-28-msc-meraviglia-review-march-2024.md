@@ -83,7 +83,3 @@ The ropes course and aqua water park required signing a waiver and getting a bra
 Disembarkation was quick. We did the luggage walk off published for 7:30 am, but allowed at 7am or earlier. Our MDR waiter said to target 7am for less crowds. We did not quite make that and went after they called it around 7:30 am. We waited in a line on deck 6, which was really just a line to a line on deck 5. Though it did not take too long. I have seen pictures where the full Meraviglia Gallery is full of lines, and it was not like that. Though maybe it was because we were earlier. In the terminal, we just needed to have our facial recognition picture taken for passport control, and we were out. There were no restrooms on the way out, and Travis wanted to use the port wifi to renew his cell phone plan, but we were hesitantly pushed away from the terminal by the police. They wanted to focus on the new people showing up for the next cruise. 
 
 Great cruise, great to try a new cruise line, and let the kids see NYC. My dread of a big ship over Spring Break being insanely crowded turned out to be unfounded, and the ship, especially the buffet, handled the passengers very well. 
-
-[MSC Cruise day by day](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-embarkation-day-march.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

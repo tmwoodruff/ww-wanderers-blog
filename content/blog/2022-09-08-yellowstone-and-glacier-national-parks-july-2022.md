@@ -66,7 +66,3 @@ We hiked Upper Geyser Hill Trail and Upper Geyser Basin Trail to Morning Glory P
 {% image "legacy/P1110305.webp", "2048x1538" %}
 {% image "legacy/P1110309.webp", "2048x1538" %}
 {% image "legacy/P1110320.webp", "2048x1538" %}
-
-Next up [Mammoth Hot Spring Terraces](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_10.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

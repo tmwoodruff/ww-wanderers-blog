@@ -47,7 +47,3 @@ After this stop, we went to check into our motel, Motel 6. Motels/hotels were ex
 {% image "legacy/IMG_7316.webp", "2048x1536" %}
 
 Then back to the hotel for a comfortable bed sleep and our own bathroom, without moths, after camping. 
-
-Up Next...[Antelope Canyon X and more Glen Canyon Dam](https://ww-wanderers.blogspot.com/2023/11/antelope-canyon-x-and-more-glen-canyon.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

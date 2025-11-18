@@ -23,7 +23,3 @@ Then we went to St. Mary Campground. The Ranger checking us in explained the rul
 We setup the tents, including re-inflating the air mattresses, and Travis cooked dinner. At Yellowstone Madison campground, we were allowed to wash dishes in the sink room that was in the same building as the restroom. Here, we had to wash at the campsite, without spilling any food water and attracting bear. We had ordered a cheap office trash can from Walmart pickup to use for dishwashing. We took turns washing dishes. 
 
 We were close to two restrooms from site B82. They both had lights, unlike our Yellowstone one. Only one, the busier one, had soap. We discovered the less busier one the second day because it was next to the blue potable water spigot. These were not common and hard to find but ended up really close to us. This restroom did not have soap, but I never ran into anyone else there, which was nice -- with hand sanitizer back at the campsite. Neither had the paper towels like the Yellowstone campsite restroom had. Back to the water spigots, the sink water was noted not potable and to use only the blue water spigots; at Yellowstone, we could drink the sink water.
-
-Next up [Going-to-the-Sun Road](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_27.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

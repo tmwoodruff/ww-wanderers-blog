@@ -61,5 +61,3 @@ This hike required a lot of rock scrambling, which we were warned on the sign. A
 In the evening, we had a reservation for Din Tai Fung in Aria. We parked free at Tropicana and walked to Aria. The strip was hopping! The restaurant had a viewing window to watch them make dumplings. You filled out on the menu what you wanted to order, and they brought it by courses. Dumplings and the chocolate dumpling for dessert. 
 
 {% image "legacy/IMG-20220321-WA0004.webp", "1152x2048" %} {% image "legacy/IMG-20220321-WA0006.webp", "1152x2048" %}
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

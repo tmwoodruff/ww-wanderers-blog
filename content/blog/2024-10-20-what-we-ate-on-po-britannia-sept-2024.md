@@ -230,6 +230,4 @@ Pudding and Custard - GOOD
 
 {% image "legacy/IMG_9208.webp", "2048x1536" %}
 
-[P&O; Britannia Cruise](https://ww-wanderers.blogspot.com/2024/09/first-p-uk-cruise-prep.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
+[P&O; Britannia Cruise](2024-09-26-first-po-uk-cruise-prep-sept-2024.md)  

@@ -38,7 +38,3 @@ Before dinner, we went for the covid test. Getting it was efficient -- pay at th
 They essentially had to complete the Greek passenger locator forms (PLFs), that became optional to enter Greece recently, for each of us. Maybe it would have been faster if we had done them, though they never asked if we had them. Finally complete and all negative, then it was funny because they were printed on A4 paper since, instead of letter size that we use in the US, so they did not fit into my travel folder.
 
 Then dinner, unpacked clothes for tomorrow, and before bed Travis pre-bought our Acropolis tickets online for tomorrow/Saturday, June 4th. Then sleep after none the night before on the plane.
-
-[Next up Acropolis and walking Athens...](https://ww-wanderers.blogspot.com/2022/07/greece-and-turkey-family-cruise-on-ncl_88.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

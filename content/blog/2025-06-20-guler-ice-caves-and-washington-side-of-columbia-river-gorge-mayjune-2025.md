@@ -47,7 +47,3 @@ Looking for a stop that I noticed in a "The Most Scenic Drives in America" book 
 We then went back to The Dalles and picked up hamburgers at Big Jim's. The kids got more toppings on theirs, so they enjoyed them more. I'm a mustard only, so I found it just like a normal fast food burger. We took the burgers to a park in town and had a picnic. The park had wi-fi. It had a community pool that employees were cleaning. It looked empty otherwise; then we realized that it was not open yet and then filled up quickly after it did open. After the picnic, we walked to a bridge and creek at the back of the park. It was a pretty area and cooler with lots of shade. Then we walked where we could see a Safeway sign so drove there for ice cream and a few more groceries that we had used up from our first shopping trip. We went back to the park to eat the ice cream; the parking lot was filling fast. We got a spot further from the pool and a picnic table was just being freed up. 
 
 After this, we called it a day and went back to the campground. Luckily, it was less windy today!
-
-Next up...[Whitewater rafting](https://ww-wanderers.blogspot.com/2025/06/whitewater-rafting-white-salmon.html)   
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

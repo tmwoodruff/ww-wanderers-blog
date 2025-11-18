@@ -43,5 +43,3 @@ We enjoyed the comedians and had four different comedians, two at a time. Karaok
 The Captain arrived earlier than the published 9am time, so we were able to get off earlier than scheduled. We did self carry luggage walk off; they called this by muster station. This was slow; I guess people eager to get off and going before they were called. I was a little nervous that our flight was not late enough, so we took a taxi -- it was pricey and more pricey than the window advertised, though the window did not say LAX from where. We made it. 
 
 Good, fun, and relaxing cruise!
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

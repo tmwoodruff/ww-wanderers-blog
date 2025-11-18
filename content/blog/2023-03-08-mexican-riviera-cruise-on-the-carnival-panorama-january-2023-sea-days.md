@@ -73,6 +73,4 @@ Since each of our Mexican Riviera stops were in different Mexican states, I want
 {% image "legacy/Screen Shot 2023-03-08 at 8.23.07 PM.webp", "422x216" %}
 {% image "legacy/Screen Shot 2023-03-08 at 8.23.31 PM.webp", "1036x404" %}
 
-[Summary Review](https://ww-wanderers.blogspot.com/2023/03/mexican-riviera-cruise-on-carnival_22.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
+[Summary Review](2023-03-23-mexican-riviera-cruise-on-the-carnival-panorama-january-2023-summary-review.md)  

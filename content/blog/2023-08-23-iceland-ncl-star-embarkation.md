@@ -50,7 +50,3 @@ I had crab and cream cheese wontons; they were just okay -- too fishy of a taste
 {% image "legacy/IMG_6474.webp", "2048x1536" %}
 
 And that is wrap for our first cruise day. 
-
-Next up...[Djupivogur and Akureyri, Iceland](https://ww-wanderers.blogspot.com/2023/08/iceland-djupivogur-and-akureyri.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

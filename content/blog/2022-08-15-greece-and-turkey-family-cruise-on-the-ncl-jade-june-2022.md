@@ -70,7 +70,3 @@ So close, yet so far.
 {% image "legacy/P1110238.webp", "2048x1538" %}
 
 Back to the ship, we knew it was the saddest time of the whole cruise -- packing, as it was our last day. 
-
-[Next up NCL Jade review... ](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_20.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

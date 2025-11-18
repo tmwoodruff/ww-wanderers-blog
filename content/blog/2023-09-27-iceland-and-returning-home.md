@@ -95,7 +95,3 @@ Since I now had the window seat, I got to see some more beautiful Greenland. The
 
 {% image "legacy/IMG_20230723_120056133_HDR.webp", "2048x1152" %}
 {% image "legacy/IMG_20230723_104130791.webp", "1152x2048" %}{% image "legacy/IMG_20230723_104726548_HDR.webp", "1152x2048" %}
-
-Next up...[Summarized review](https://ww-wanderers.blogspot.com/2023/10/ncl-star-iceland-and-greenland-review.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

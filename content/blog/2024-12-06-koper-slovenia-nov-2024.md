@@ -102,7 +102,3 @@ We had Cagney's Steakhouse and bottle of wine with our Sapphire status booked to
 {% image "legacy/IMG_0134.webp", "2048x1536" %}
 {% image "legacy/IMG_0135.webp", "2048x1536" %}
 {% image "legacy/IMG_0136.webp", "2048x1536" %}
-
-Next up...[Split, Croatia](https://ww-wanderers.blogspot.com/2024/12/split-croatia-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

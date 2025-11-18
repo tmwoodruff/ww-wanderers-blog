@@ -60,7 +60,3 @@ We walked back; our guesthouse was off a main street. We passed by the church ag
 
 {% image "legacy/IMG_6386.webp", "2048x1536" %}
 {% image "legacy/IMG_6387.webp", "2048x1536" %}
-
-Up next...[Iceland South Coast tour](https://ww-wanderers.blogspot.com/2023/08/iceland-south-coast-tour.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

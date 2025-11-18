@@ -44,7 +44,3 @@ On the way back, we stopped and hiked at Artist's Paintpots between Norris and M
 {% image "legacy/IMG_5151.webp", "2048x1536" %}
 
 We had dinner at the campsite. For dinners, we had frito pie, nachos also with canned chili too and canned cheese, and canned chicken and instant rice. Camping was not as cold the next nights, but still cold. We managed to avoid rain with our cheap tents. 
-
-Next up [Lower and Midway Geyser Basins and Yellowstone Lake](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_11.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

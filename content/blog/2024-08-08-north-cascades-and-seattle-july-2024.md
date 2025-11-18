@@ -70,7 +70,3 @@ Then we did a drive (scary because of city driving) by the Space Needle and then
 We first repacked our big/check suitcase with all the camping equipment. With the compression bag, Travis got my sleeping bag even smaller. Then just normal eating our food for dinner, finish packing, and getting ready to get up early. We had checked into our flight with the wifi in Newhalem before leaving North Cascades and had good assigned seats -- a few rows ahead of our previous flight, in the back, next to each other, and on the 2 seat side. 
 
 We got to the car rental return place quickly. They were fast, so we went in to check our bag, which had a long and slow line. Security was a little slow too, but we had plenty of time. Once we got in, we found a nice table and chairs to sit at for breakfast. The rest of the trip was good and uneventful. Our oldest picked us up at the airport terminal, which was chaos, but all survived, and then we were home with our kids. 
-
-Next up...to London for our first P&O; UK cruise and first trip to the Norwegian Fjords!
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

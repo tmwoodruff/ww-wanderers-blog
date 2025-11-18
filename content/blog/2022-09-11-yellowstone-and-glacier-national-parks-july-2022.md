@@ -86,7 +86,3 @@ Harlequin Lake
 {% image "legacy/P1110441.webp", "2048x1538" %}
 
 Back at the campsite, we had dinner and played some Uno. 
-
-Next up [Grand Canyon of Yellowstone and Upper and Lower Falls](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_13.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

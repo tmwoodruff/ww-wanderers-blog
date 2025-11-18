@@ -49,7 +49,3 @@ Back on the ship, we did the water park, while others were still on shore and wh
 Almost sunset. We had dinner at the buffet, in order to go to the 7pm Comedian, Ken Boyd, show. He was funny. After the first day on the ship, the 8:30 pm show was always booked up, but there was space left in the 7pm and and 10pm shows. So, we had no trouble switching from the 8:30pm to 7pm show. Then we went back to our room to watch the 8:15 pm lighthouse show and also saw the 9pm show. The crazy thing was that the pilot boat sat in the water all day next to us, until it was time for him to escort us out. 
 
 {% image "legacy/IMG_7814.webp", "2048x1536" %}
-
-Next up...[Nassau, the Bahamas](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-nassau-march-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

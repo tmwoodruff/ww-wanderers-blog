@@ -95,7 +95,3 @@ We had the complimentary Asian restaurant back on the ship for dinner. It was no
 Relaxing on the balcony in the included balcony robes.
 
 {% image "legacy/IMG_4692.webp", "1536x2048" %}
-
-[Next up Istanbul...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -65,7 +65,3 @@ The desserts were wonderful. We got two of each among us -- the Royal Cake and B
 {% image "legacy/IMG_7679.webp", "2048x1536" %}
 
 We went to the 8:30 show. It was now the magicians, switched with the Broadway-style show, now on the next night, since the seas were a bit rough. There were multiple, different magicians that were good and entertaining. One was pretty funny with audience kids pulled on stage.
-
-Next up...[Port Canaveral](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-port-canaveral-march-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

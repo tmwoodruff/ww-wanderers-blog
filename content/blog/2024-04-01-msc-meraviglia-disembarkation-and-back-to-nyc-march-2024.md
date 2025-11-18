@@ -15,7 +15,7 @@ We set the alarm for 5:30 am. Travis woke up at 5:15 am and got to see the Verra
 {% image "legacy/IMG_7963.webp", "1536x2048" %}
 {% image "legacy/IMG_7965.webp", "2048x1536" %}
 
-We had buffet breakfast (no hot chocolate in the buffet when normally other cruise lines do) and were ready to walk off about 7:30 am. We had to be out of our cabins by 7:30 am too. They called walk off about 7am and had published 7:30 am. Our room steward confirmed that four luggage tags was enough; I said perfect but that were were going to walk off with luggage. The luggage tags were innovative and a little dorky at the same time. They had an extra circle sticker to pull off and put on your shirt or jacket. Then, in the terminal, they could quickly direct people to their luggage area. Disembarkation was pretty fast; more disembarkation details in [my summarized review](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-review-march-2024.html). 
+We had buffet breakfast (no hot chocolate in the buffet when normally other cruise lines do) and were ready to walk off about 7:30 am. We had to be out of our cabins by 7:30 am too. They called walk off about 7am and had published 7:30 am. Our room steward confirmed that four luggage tags was enough; I said perfect but that were were going to walk off with luggage. The luggage tags were innovative and a little dorky at the same time. They had an extra circle sticker to pull off and put on your shirt or jacket. Then, in the terminal, they could quickly direct people to their luggage area. Disembarkation was pretty fast; more disembarkation details in [my summarized review](2024-03-28-msc-meraviglia-review-march-2024.md). 
 
 We did not catch the bus this time, but walked about 25 minutes to a subway station. We rode to our hotel, the Feather Factory in Long Island City in Queens, to store luggage. They let us store our 4 roll-a-boards and three backpacks, just taking Travis's smaller backpack packed for the day. They also let us visit the restroom before setting out, and we got on the wifi to load our path. 
 
@@ -59,7 +59,3 @@ Cool animal statues to the side of the Oculus.
 {% image "legacy/IMG_7988.webp", "2048x1536" %}
 
 Our hotel was nice and was clean. It was near a large train yard that looked like a train yard for parking trains that were not in use, just from seeing it on the Google map, but it was in use. It was a large train hub; we saw Amtrak and NJ trains. They ran at all hours of the night. It was in an industrial area; on the other side of the tracks were stores and restaurants. We also stopped at Trader Joes before returning to get a few snacks for the room, next day, and the plane. Also after flat pillows on the cruise, we were happy to have good pillows and two per person. 
-
-Next up...[Last day in NYC](https://ww-wanderers.blogspot.com/2024/04/nyc-last-day-march-2024.html). 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

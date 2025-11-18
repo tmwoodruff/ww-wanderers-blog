@@ -128,7 +128,3 @@ The semi-circle deposits below are called alluvial fans.
 {% image "legacy/276977487_10220240747158689_3968196563576792157.webp", "1944x1458" %}
 {% image "legacy/276232115_10220240757718953_1005081699549359189.webp", "1716x480" %}
 {% image "legacy/276166310_10220240747758704_4768464649186064777.webp", "1944x1458" %}
-
-Next up [Mt. Charleston and Red Rock Canyon](https://ww-wanderers.blogspot.com/2022/11/after-death-valley-march-2022.html)... 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

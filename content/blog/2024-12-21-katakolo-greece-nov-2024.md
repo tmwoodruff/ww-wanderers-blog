@@ -56,7 +56,3 @@ For mains, Travis got the Mediterranean Sea Bass, and I got my favorite, the bee
 {% image "legacy/IMG_0778.webp", "2048x1536" %}
 
 This night was the only night that we went to the show. It was acrobats, which I really like. However, it was a little light on the acrobatics -- they did all the good, exciting acrobatics only at the end. After that, we went for a walk on the promenade. Travis was still feeling fairly well after the wine tasting and big meal, yay.
-
-Next up...Messina, Sicily
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -136,7 +136,3 @@ A stop because Travis was annoyed being behind someone braking down instead of u
 After Hurricane Ridge, we continued east on Hwy 101 to Fort Townsend state park where we were staying tonight. It too was pricy -- $40 -- and tossed in an out of state visitor fee at the very end of the checkout process. We arrived before 5pm, but there was no one at the booth. There were complicated instructions to sign in and no where to park while completing the paperwork. I had printed the campsite purchase beforehand like it instructed, so first put this on our dashboard. Later (after a hike), after 5pm, there was someone working the booth, so I walked back to the campsite and back to the booth to ask. She said I did not need the print out, and printed a receipt size paper for me to put on the dashboard instead. Before that, we found our spot and setup the tent. We had a good location for the restroom tonight. The restroom had a shower, free, and not even pre-sold to us. Though we did not hassle with a shower the next night. There were a ton of mosquitos here though! We walked an interpretative trail near the campsite and then the cemetery trail. After this is when I found someone at the booth. We did not have enough time to explore more of the state park. 
 
 {% image "legacy/IMG_20240715_060736131_HDR.webp", "2048x1536" %}
-
-Next up...[ferry to Whidbey Island and North Cascades](https://ww-wanderers.blogspot.com/2024/08/ferry-to-whidbey-island-and-north.html).
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

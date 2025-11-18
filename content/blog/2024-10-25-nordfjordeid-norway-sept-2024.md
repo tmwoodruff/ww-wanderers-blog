@@ -49,7 +49,3 @@ We found a glacier.
 {% image "legacy/IMG_9121.webp", "2048x1536" %}
 
 Not too much more to add to the pretty scenery.   
-
-Next up...[Haugesund, Norway](https://ww-wanderers.blogspot.com/2024/10/haugesund-norway-sept-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

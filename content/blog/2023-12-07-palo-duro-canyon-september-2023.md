@@ -28,7 +28,3 @@ On the CCC trail, you are supposed to look for four bridges built by the CCC. We
 After the hike, we stopped by the visitor center one more time and then headed toward our last hotel on the trip: American Inn and Suites in Childress, TX. This was closer to our house than the previous hotel, so we did not have as long of a drive the next day. We stopped by and visited my sister at work since it was on the way home. 
 
 Very pretty canyons, petrified wood, and lava to visit!
-
-Next up...Trying out MSC on a cruise for oldest son's high school graduation from NYC to Florida and the Bahama, and the kids get to see NYC for the first time, in March 2024.
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

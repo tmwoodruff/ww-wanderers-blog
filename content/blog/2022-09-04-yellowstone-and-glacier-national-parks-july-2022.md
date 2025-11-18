@@ -38,7 +38,3 @@ We rented a car from Avis using a good work discount that I had. We also used th
 We had our grocery and camping shopping list created. Travis had camp meals planned. Then, he started and placed a Walmart pick up order for the Bozeman Walmart. 
 
 We also reserved a hotel, okay motel, for our last night to get everyone showered and clean before our flight back. I did not find an affordable hotel in Bozeman but found a Travelodge in Three Folks, about 30 minutes away. I booked it with a work discount but always check Orbitz and direct too to look for the best offer. 
-
-Next up [Flight and Arriving in Bozeman and Yellowstone](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_5.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

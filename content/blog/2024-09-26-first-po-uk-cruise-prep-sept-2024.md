@@ -37,7 +37,3 @@ Our flights were Basic Economy, which allowed one roll aboard each. It was Ameri
 **Ports**
 
 We pre-booked a bus to/from Stegastein in Flam and a RIB boat tour from Nordfjordeid. 
-
-Next up...[Southampton, UK](https://ww-wanderers.blogspot.com/2024/10/travel-and-southampton-sept-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

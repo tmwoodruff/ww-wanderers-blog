@@ -117,7 +117,3 @@ Night view from our hotel rooftop hangout.
 {% image "legacy/IMG_5663.webp", "2048x1536" %}
 
 A great first day exploring Philly and was supposed to be our only day with rain predicted. 
-
-Next up [walking around and the Rodin](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_12.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

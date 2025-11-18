@@ -64,7 +64,3 @@ Owen found a friend.
 {% image "legacy/P1110063.webp", "2048x1538" %}
 
 We tried baklava and chocolate cashew cookie from one of the local bakeries. We got the kids a Coke and headed back to the tender port. 
-
-[Next up Rhodes...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_11.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

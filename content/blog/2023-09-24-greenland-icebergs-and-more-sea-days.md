@@ -111,7 +111,3 @@ After the many sea days, I felt really bad for the crew, who were getting no bre
 With our included platinum laundry, we sent two bags on two days. NCL went to only one room service per day, and the laundry said that the room steward had to take by noon to be returned the next day. Though that did not happen, he got the laundry back both times very quickly. 
 
 {% image "legacy/Screenshot 2023-09-18 210950.webp", "727x891" %}
-
-Next up...[Back to Reykjavik](https://ww-wanderers.blogspot.com/2023/09/iceland-and-returning-home.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

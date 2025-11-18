@@ -64,7 +64,3 @@ Travis and Joel had to get the tiramisu on Italian night. Owen got Grandma's cak
 {% image "legacy/IMG_7960.webp", "2048x1536" %}
 
 The next morning, up super early to get off and today was the saddest day of a cruise when we had to pack. 
-
-Next up...[Disembarkation and NYC](https://ww-wanderers.blogspot.com/2024/04/msc-meraviglia-disembarkation-and-back.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

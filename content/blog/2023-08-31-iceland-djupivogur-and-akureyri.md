@@ -97,7 +97,3 @@ During an economic downturn, they put up lights with the red light in the shape 
 For dinner, we had O'Sheehans. I had the nachos again and the hot wings. Travis tried the pork lechon asado that he really like and had again later. Later, I also had to try some of the skirt steak that was the advertised special in the buffet; it was good!
 
 After, we visited the hot tub. It was toward the front of the ship on a high deck 13 or 14 -- they are not really labeled outside that I saw. It was a maze at the front of the ship of levels. An interesting location, and I'm not sure how many people found it. We found it on the first day exploring the ship. We had it to ourselves. It was good but cold getting out! While we were in, the captain did his daily announcement. 
-
-Next up...[Isafjordur](https://ww-wanderers.blogspot.com/2023/09/iceland-isafjorur.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

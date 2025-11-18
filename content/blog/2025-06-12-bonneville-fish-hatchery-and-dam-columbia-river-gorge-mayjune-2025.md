@@ -100,7 +100,3 @@ We found our spot. There was a car in our spot since at this campsite, we got to
 We had our car now and were much closer to the bathroom and showers. However, this campground was sandwiched between I-84 and the train, so much louder than even the previous. There were less trees. So, I tried to see the Milky Way again, but the interstate lights were very bright. 
 
 The bathroom and showers were almost the same as the other campground (good and I covered them earlier), except one stall was out of order in the women's restroom, and there is only a cold water faucet in the restroom. We set up the tents, and I got my first camping shower. It was nice and hot. Walking back to the site, I noticed how nice it was to feel clean; I did not notice feeling dirty before. Though I had used some bug spray and sunscreen, both which get one really dirty. After dinner, our picnic quickly got into the sun; we used a shady one next door for a little bit and then went to bed. For the three nights camping here, we never had anyone directly on either side of us. There was a loud pickup and RV that showed up for a slow back-in at 10pm one night. We went to bed early and tried to stay on our Central time zone. We had a water spigot at our site. 
-
-Next up...[The Dalles](https://ww-wanderers.blogspot.com/2025/06/the-dalles-columbia-river-gorge-mayjune.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

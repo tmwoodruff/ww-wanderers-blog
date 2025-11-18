@@ -152,7 +152,3 @@ Hiking around Saint Mary Lake.
 {% image "legacy/IMG_5447.webp", "2048x1536" %}
 
 A great day and so much beauty in this park. 
-
-Next up [Many Glacier](https://ww-wanderers.blogspot.com/2022/09/yellowstone-and-glacier-national-parks_30.html)... 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
