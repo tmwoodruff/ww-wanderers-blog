@@ -56,7 +56,7 @@ We then found the Lego Queen Mary; that is one big Lego set -- look at the facts
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2710.1638x2048.webp", "1638x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2711.2048x1676.webp", "2048x1676" %}
 
-The print room for printing the list of daily activities. Then the display went outside the ship to see the propellers. Next, we learned about Queen Mary's (and other Queens) help during WWII. She transported many soliders to the battle zone. Here is Winston Churchill's planning and meeting room; he also had a cabin on the ship. The solider's bunks and self-supplied mesh kit. The guns on the bow. 
+The print room for printing the list of daily activities. Then the display went outside the ship to see the propellers. Next, we learned about Queen Mary's (and other Queens) help during WWII. She transported many soldiers to the battle zone. Here is Winston Churchill's planning and meeting room; he also had a cabin on the ship. The soldier's bunks and self-supplied mesh kit. The guns on the bow. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2713.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2715.2048x1536.webp", "2048x1536" %}
@@ -98,7 +98,7 @@ The current gym with displays of how the gym looked and some equipment from when
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2756.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2757.1536x2048.webp", "1536x2048" %}
 
-The ship model display with cross sections of a Queen and the Titantic. These were very detailed with descriptions labeling what each room was and what class it was (first, second, or third). 
+The ship model display with cross sections of a Queen and the Titanic. These were very detailed with descriptions labeling what each room was and what class it was (first, second, or third). 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2759.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Queen_Mary/IMG_2761.2048x1536.webp", "2048x1536" %}
