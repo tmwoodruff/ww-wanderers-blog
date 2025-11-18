@@ -39,5 +39,3 @@ Art that we found on the way back to the hotel.
 {% image "legacy/IMG_5860.webp", "1536x2048" %}
 
 We packed when back at the hotel, and left early the next morning to returned to Suburban Station to catch the train to the airport. 
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

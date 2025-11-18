@@ -105,7 +105,3 @@ Before leaving the Grand Canyon, we visited Desert View. The views from here wer
 {% image "legacy/P1130385.webp", "2048x1538" %}
 {% image "legacy/P1130397.webp", "2048x1538" %}
 {% image "legacy/P1130427.webp", "2048x1538" %}
-
-Up next...[Horseshoe Bend, Glen Canyon Dam, and Page, AZ](https://ww-wanderers.blogspot.com/2023/11/horseshoe-bend-glen-canyon-dam-and-page.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

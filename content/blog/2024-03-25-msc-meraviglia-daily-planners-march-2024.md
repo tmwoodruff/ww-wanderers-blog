@@ -46,7 +46,3 @@ Kid's activities; I only did one day for an example since our kids are too big. 
 
 {% image "legacy/Screenshot 2024-03-25 180513.webp", "651x769" %}
 {% image "legacy/Screenshot 2024-03-25 180053.webp", "648x900" %}
-
-[MSC Meraviglia Embarkation Day](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-embarkation-day-march.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

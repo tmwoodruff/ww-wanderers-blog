@@ -99,7 +99,3 @@ Some shots of the towns near by and a lit up bridge sailing away.
 
 {% image "legacy/IMG_0611.webp", "2048x1536" %}
 {% image "legacy/IMG_0614.webp", "2048x1536" %}
-
-Next up...[Corfu, Greece](https://ww-wanderers.blogspot.com/2024/12/corfu-greece-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

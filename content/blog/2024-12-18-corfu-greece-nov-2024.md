@@ -112,7 +112,3 @@ MDR Menu
 
 {% image "legacy/image32.webp", "457x839" %}
 {% image "legacy/image33.webp", "272x821" %}
-
-Next up...[Katakolo, Greece](https://ww-wanderers.blogspot.com/2024/12/katakolo-greece-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

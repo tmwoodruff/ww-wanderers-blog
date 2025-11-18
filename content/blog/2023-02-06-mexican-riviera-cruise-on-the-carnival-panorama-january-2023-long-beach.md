@@ -63,7 +63,3 @@ Terrace Plaza foundations. They were choreographed and danced to Jump by Van Hal
 {% image "legacy/IMG_5918.webp", "2048x1536" %}
 
 Long Beach was a nice walking tour. We returned to the hotel for our cruise tomorrow!
-
-[Next up...Embarkation](https://ww-wanderers.blogspot.com/2023/02/mexican-riviera-cruise-on-carnival_11.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

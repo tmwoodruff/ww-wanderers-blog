@@ -57,5 +57,3 @@ Another newish thing that they do is have photographers take picture at the spec
 We thought the kids would go for the buffet or O'Sheehan's, but they went for the less formal MDR -- Alizar. I was not sure if they would seat and serve them without an adult, but they did not have any trouble. Joel had the tostados. Owen did not order an appetizer, but they brought him the same. Joel had the potato gnocchi, and Owen the fried chicken. Joel liked his, but Owen did not really. Though his stomach was a little upset from too much good food, so that impacted his verdict. 
 
 {% image "legacy/Menu.webp", "1200x1600" %}
-
-[Next up Mykonos...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_7.html) 

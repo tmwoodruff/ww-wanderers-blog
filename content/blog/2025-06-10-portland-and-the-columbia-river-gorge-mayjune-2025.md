@@ -92,7 +92,3 @@ Hike-in was not too long of a walk, but having to hike up and not being near our
 Though our campsite was not ideal/the best choice. Our tents were on two different levels. Our tent was on the top level with a drop off pretty close to the tent. The rainfly stake was a tripping hazard by the picnic table. The kids' tent was on the lower level, going more downhill where their air mattress was pushing on the side of the tent and bending it badly. It is pretty though. The Milky Way was supposed to be very visible on our nights in Oregon, but there quite a few trees blocking the sky view. Travis did see it though. I just saw many stars. 
 
 {% image "legacy/IMG_2105.webp", "2048x1536" %}
-
-Next up...[Multnomah Falls](https://ww-wanderers.blogspot.com/2025/06/multnomah-falls-columbia-river-gorge.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

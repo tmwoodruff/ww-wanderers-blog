@@ -71,7 +71,3 @@ After dinner, we checked out the chocolate store. They were starting an owl; he 
 {% image "legacy/IMG_7940.webp", "1536x2048" %}
 {% image "legacy/IMG_7941.webp", "1536x2048" %}
 {% image "legacy/IMG_7942.webp", "1536x2048" %}{% image "legacy/IMG_7943.webp", "1536x2048" %}
-
-Next up...[through the Atlantic Ocean, at sea](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-sea-day-march-2024.html).
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

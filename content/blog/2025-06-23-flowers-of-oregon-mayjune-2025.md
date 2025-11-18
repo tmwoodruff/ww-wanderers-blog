@@ -30,7 +30,3 @@ We visited Oregon during wildflower season; we also found some rose gardens. Som
 {% image "legacy/IMG_2548.webp", "2046x2048" %}{% image "legacy/IMG_2550.webp", "2047x2048" %}
 {% image "legacy/IMG_2558.webp", "2047x2048" %}{% image "legacy/IMG_2566.webp", "1485x1486" %}
 {% image "legacy/IMG_2583.webp", "2046x2048" %}{% image "legacy/IMG_2584.webp", "2045x2048" %}
-
-Next up...Panama Canal cruise on the Island Princess  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

@@ -57,7 +57,3 @@ We enjoy walking on the promenade deck in the evening to burn off some of those 
 
 {% image "legacy/IMG_4980.webp", "2048x1536" %}
 {% image "legacy/IMG_4984.webp", "2048x1536" %}
-
-[Next up very beautiful Santorini...](https://ww-wanderers.blogspot.com/2022/08/greece-and-turkey-family-cruise-on-ncl_14.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

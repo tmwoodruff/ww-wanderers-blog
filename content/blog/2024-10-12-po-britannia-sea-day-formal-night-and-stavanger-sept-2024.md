@@ -93,7 +93,3 @@ Then past another Church looking very impressive. We stopped at park, Badedammen
 {% image "legacy/IMG_8827.webp", "2048x1536" %}
 
 We only had one other couple at dinner with us in the MDR, and then we went to bed. 
-
-Next up...[Flam, Norway](https://ww-wanderers.blogspot.com/2024/10/flam-norway-sept-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

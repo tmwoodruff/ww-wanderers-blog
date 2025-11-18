@@ -105,7 +105,3 @@ The buffet still had some Halloween decorations from the day before, so I got pi
 
 {% image "legacy/IMG_9591.webp", "2048x1536" %}
 {% image "legacy/IMG_9592.webp", "1536x2048" %}
-
-Next up...[Koper, Slovenia Cave and Castle](https://ww-wanderers.blogspot.com/2024/12/koper-slovenia-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

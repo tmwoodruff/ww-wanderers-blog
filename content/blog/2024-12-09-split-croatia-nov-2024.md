@@ -101,7 +101,3 @@ First night for MDR tonight; we only went to the Summer Palace MDR in the apt. W
 {% image "legacy/IMG_0277.webp", "2048x1536" %}
 {% image "legacy/IMG_0278.webp", "2048x1536" %}
 {% image "legacy/IMG_0279.webp", "2048x1536" %}
-
-Next up...[Dubrovnik, Croatia](https://ww-wanderers.blogspot.com/2024/12/dubrovnik-croatia-nov-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

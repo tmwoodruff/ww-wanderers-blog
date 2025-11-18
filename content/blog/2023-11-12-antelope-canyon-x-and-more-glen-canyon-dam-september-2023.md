@@ -89,7 +89,3 @@ Travis way down there, and the dam at our level. However, on the way back up, Tr
 {% image "legacy/IMG_7474.webp", "2048x1536" %}
 
 We had one more night at the Motel 6, and heading back toward home tomorrow, eastbound. 
-
-Next up...[El Malpais in New Mexico](https://ww-wanderers.blogspot.com/2023/11/el-malpais-new-mexico-september-2023.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

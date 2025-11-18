@@ -92,7 +92,3 @@ Spring water
 {% image "legacy/IMG_8148.webp", "2048x1536" %}
 
 Then we went back to the campsite for dinner, got ready for bed, and went to bed early. We stayed on Central time and went to bed by 8:30 pm and got up 5:30 or 5am, which is good for hiking. The bathrooms were pretty nice, but we were far away the first night and the farthest away the second night. They could use more than one restroom per loop. 
-
-Next up...[Mt. Rainier - Paradise - Skyline trail](https://ww-wanderers.blogspot.com/2024/07/mt-rainier-skyline-trail-hike.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

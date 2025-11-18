@@ -45,7 +45,3 @@ We then drove back toward the ocean to 3 Rivers Resort. This campground was more
 Our location was nice, backing up to a forest. However, this was the loudest campground with air horns at night, loud groups, and somewhere in the distance gunshots.
 
 {% image "legacy/IMG_20240714_065306714_HDR.webp", "2048x1536" %}
-
-Next up...[North side of Olympic National Park](https://ww-wanderers.blogspot.com/2024/07/north-olympic-np-exploration-july-2024.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

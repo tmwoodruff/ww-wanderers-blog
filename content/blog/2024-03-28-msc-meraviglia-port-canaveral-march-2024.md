@@ -87,7 +87,3 @@ The sunsetting in Florida.
 {% image "legacy/IMG_7809.webp", "2048x1536" %}
 
 Travis, Owen, and I went to Encore, the Broadway show that included songs and sections from many Broadway musicals. It was very good. Joel went to the gym instead. 
-
-Next up...[Ocean Cay private island](https://ww-wanderers.blogspot.com/2024/03/msc-meraviglia-ocean-cay-march-2024.html).
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

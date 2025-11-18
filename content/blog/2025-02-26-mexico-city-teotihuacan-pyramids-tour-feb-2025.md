@@ -108,7 +108,3 @@ This was cool; it went with a store and was on the walkway/park between the stre
 We then went to Churrería El Moro for churros and coffee for Travis. We did not mean for it to be, but since we had a lot (I ordered too much), it was our dinner. I accidently ordered hot chocolate; I was trying to order the warmed chocolate sauce for the churros. We had hot chocolate, coffee, four churros with chocolate sauce. It was pricy, but good, with waiter service. After churros, we walked the park that was across the street. 
 
 {% image "legacy/IMG_1804.webp", "1536x2048" %}{% image "legacy/IMG_1805.webp", "1536x2048" %}
-
-Next up...[Archaeology Museum, Castle, and Zoo](https://ww-wanderers.blogspot.com/2025/02/mexico-city-archaeology-museum-and-area.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

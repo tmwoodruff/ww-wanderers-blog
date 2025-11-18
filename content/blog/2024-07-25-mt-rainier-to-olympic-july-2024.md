@@ -53,7 +53,3 @@ The bridge to cross to the other side of the river to keep the hike to 2 miles.
 {% image "legacy/P1140343.webp", "2048x1538" %}
 
 Back at the campsite, we hung out a little by the river and then slept. 
-
-Next up...[Olympic beaches and Beachcombing Museum](https://ww-wanderers.blogspot.com/2024/07/olympic-beaches-and-beachcombing-museum.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

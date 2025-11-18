@@ -68,7 +68,3 @@ We then drove further east on Hwy 20 to check out the Ross Lake and Diablo Lake 
 {% image "legacy/P1140553.webp", "2048x1538" %}
 
 Then we went back for dinner and early bed for an early rise for Maple Loop Pass tomorrow -- about 7 miles and 2000 ft elevation gain. 
-
-Next Up...[Maple Pass Loop hike](https://ww-wanderers.blogspot.com/2024/08/maple-pass-loop-trail-july-2024.html)  
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

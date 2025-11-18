@@ -130,7 +130,3 @@ We were on the second floor out of 7, so not the best view, but we could still s
 
 {% image "legacy/IMG_5664.webp", "2048x1536" %}
 {% image "legacy/IMG_5722.webp", "1536x2048" %}
-
-Next up [Mutter Museum and Eastern State Penitentiary](https://ww-wanderers.blogspot.com/2022/10/philadelphia-sept-2022_16.html)...
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 

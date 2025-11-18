@@ -46,7 +46,3 @@ We then walked back to town. We went into one shop in town. She did a great job 
 We also had to find the Marilyn Monroe statue. I read that her father was born in Norway, so she has a statue. Then we walked back to the ship. One thing noticed about P&O; is that they never had a welcome back party or any water/lemonade/hot beverage and wet towels available before boarding the ship like other cruise lines do.
 
 {% image "legacy/IMG_9172.webp", "1536x2048" %}
-
-Next up...[Sea Day back to the UK, Winchester, and Home](https://ww-wanderers.blogspot.com/2024/11/sea-day-back-to-uk-winchester-and-home.html)
-
-[Table of Contents](https://ww-wanderers.blogspot.com/2022/09/table-of-content.html) 
