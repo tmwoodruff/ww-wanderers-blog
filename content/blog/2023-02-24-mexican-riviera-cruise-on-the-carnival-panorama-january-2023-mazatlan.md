@@ -1,14 +1,13 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Mazatlan"
-date: 2023-02-24
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Mazatlan -- January 24, 2023"
+date: 2023-01-24
 img: images/IMG_6071.webp
 tags: [mazatlan, Carnival Panorama]
-category: mazatlan
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Mazatlan -- January 24, 2023**
 
 For breakfast, I had the Blue Iguana breakfast burrito, which was really in 2 twos flour tacos. They have a jalapeno or wheat tortillas on the menu, but you used to be able to request a flour tortilla, but not now. So, they offered me a flour taco instead. It was good, though not as easy to eat. I also had hot chocolate from the machine. Travis had oatmeal from the buffet...so healthy. 
 

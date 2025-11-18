@@ -1,14 +1,14 @@
 ---
-title: "Whitewater Rafting the White Salmon - Columbia River Gorge -- May/June 2025"
-date: 2025-06-21
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "Wet Planet Whitewater Rafting - June 2, 2025"
+date: 2025-06-02
 img: images/IMG_2535.webp
 tags: [Whitewater Rafting, White Salmon, Bonneville]
-category: Whitewater Rafting
+country: us
+state: or
 author: Tammy
 description: ""
 ---
-
-**Wet Planet Whitewater Rafting - June 2, 2025**
 
 We found a bald eagle in the tree with the mountain. 
 

@@ -1,14 +1,13 @@
 ---
+category: "P&O Britannia - September 2024"
 title: "Sea Day back to the UK, Winchester, and Home - Sept 2024"
-date: 2024-11-18
+date: 2024-09-21
 img: images/IMG_20240916_073307536_HDR.webp
 tags: [P&O Britannia, Winchester]
-category: P&O Britannia
+country: uk
 author: Tammy
 description: ""
 ---
-
-Sea Day and Winchester -- September 19-21, 2024 
 
 The last night's MDR picture. Four others got away, our waiters took pictures with everyone, before we thought to get a picture. I liked the diver sculptures in the buffet. Last sunset and wake at sea. I like seeing the full moon on the ocean and reflecting off the ocean. We had a full moon during this cruise; however, I found that it rose too late (okay, I'm getting old). 
 

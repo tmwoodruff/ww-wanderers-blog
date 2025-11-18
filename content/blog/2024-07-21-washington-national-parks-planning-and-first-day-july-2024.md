@@ -1,14 +1,14 @@
 ---
-title: "Washington National Parks - Planning and First Day - July 2024"
-date: 2024-07-21
+category: "Washington National Parks - July 2024"
+title: "Planning, First Day - July 10, 2024"
+date: 2024-07-10
 img: images/IMG_20240710_112604382.webp
 tags: [National Park, Mount Rainier, Washington]
-category: National Park
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Washington state National Parks - Planning, First Day - July 10, 2024**
 
 {% image "legacy/IMG_20240710_112604382.webp", "2048x1536" %}
 

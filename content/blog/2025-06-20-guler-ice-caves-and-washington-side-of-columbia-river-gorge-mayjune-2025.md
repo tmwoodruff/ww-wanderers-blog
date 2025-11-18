@@ -1,14 +1,14 @@
 ---
-title: "Guler Ice Caves and Washington side of Columbia River Gorge -- May/June 2025"
-date: 2025-06-20
+category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+title: "Guler Ice Caves and Washington side of Columbia River Gorge -- June 1, 2025"
+date: 2025-06-01
 img: images/IMG_2482.webp
 tags: [Washington, Columbia River Gorge, Ice Caves]
-category: Washington
+country: us
+state: [or, wa]
 author: Tammy
 description: ""
 ---
-
-**Washington Exploration - June 1, 2025**
 
 Today was the day before our whitewater rafting, which we were passing by the place on the way to the Guler Ice Caves to know where we were going the next day. We were testing using the toll bridge across the River in Hood River, called Hood River Bridge, west of our campground. The website said that the toll bridge had credit card and cash lanes. It did, but they were blocked off and closed. When I was signing for the car, I asked about toll options, and the person just said that we don't have toll roads here. So, Travis pulled into a gas station, while Joel tried to find an Avis toll price. It was per day of rental, not per day of use. Test failed, and we headed back east to the 197 bridge in The Dalles. Annoying, it was about 30 minutes longer each way, each day. A view across the river and then Mt. Adams in WA pictures. How American (or maybe Andean) is that -- a soccer goal and a snow-covered mountain? 
 

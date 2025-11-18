@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-07-06
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Flight and first night in Athens - June 2-3, 2022"
+date: 2022-06-02
 img: images/image1.webp
 tags: [Athens]
-category: Athens
+country: gr
 author: Tammy
 description: ""
 ---
-
-**Flight and first night in Athens - June 2-3, 2022**
 
 Our flight was at 10 am. There was a high chance of rain predicted for our flight day, and it did rain while we were still in bed but stopped for take off. This is also the only rain that we got in the DFW area in June and so far in July -- okay, unrelated. In fact, I noted the cement at DFW drying as we waited patiently for the plane to take off to Atlanta. We got up early, at 6 am. The kids had been out of school since May 27th, but we get up at 6:30 am normally for work. We got ready, breakfast, and wrapped up the last of the packing and house stuff. The airport is about 20-30 minutes from our house, so we left at about 8 am. Travis pre-booked and bought DFW express north parking, which is covered. They have a shuttle that the person at the front organizes based on what terminal you are going to. Since we were on Delta, we were out of terminal E. We checked in online and had boarding passes for both legs printed, but they printed us new ones when we checked one bigger bag. The new ones showed that they had validated our passports for our international flight already. We had 1 big bag, 2 roll-a-boards, and 4 backpacks. We were wearing our masks, though not all the gate agents were and not required, but we had more covid tests to pass for our cruise. We each took self-tests at home the night before our flight to be sure before taking the long flight. Got through security, filled our empty water bottles, and waited.
 

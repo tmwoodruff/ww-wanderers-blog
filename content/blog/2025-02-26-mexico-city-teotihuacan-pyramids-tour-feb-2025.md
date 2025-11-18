@@ -1,14 +1,13 @@
 ---
-title: "Mexico City - Teotihuacan pyramids tour - Feb 2025"
-date: 2025-02-26
+category: "Mexico City - Feburary 2025"
+title: "Teotihuacan Pyramids - February 6, 2025"
+date: 2025-02-06
 img: images/IMG_1703.webp
 tags: [Teotihuacan pyramids, Condesa, Mexico City]
-category: Teotihuacan pyramids
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Teotihuacan Pyramids - February 6, 2025**
 
 Today, we had a pre-booked excursion to the Teotihuacan pyramids through booking.com. Our hotel was through them, and the site showed excursions' departure points compared to the location of our hotel. The price was the same as other booking sites. It was a half day excursion through tour operator: Paseos Olmedo. There were 5 possible pick up points; we were at the 4th pickup at Fiesta Americana Reforma hotel's Starbucks at 8:05am. This was only a few minutes walk from our hotel. The site entrance, tour guide, bus, and driver were included; the tour was a good deal. 
 

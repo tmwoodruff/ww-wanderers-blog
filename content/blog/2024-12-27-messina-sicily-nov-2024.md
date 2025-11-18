@@ -1,14 +1,15 @@
 ---
-title: "Messina, Sicily - Nov 2024"
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Messina, Sicily - November 8, 2024"
 date: 2024-12-27
 img: images/IMG_0779.webp
 tags: [Sicily, NCL Pearl]
-category: Sicily
+country: it
 author: Tammy
 description: ""
 ---
 
-**A walk around and bell tower performance - November 8, 2024**
+**A walk around and bell tower performance**
 
 We stayed in Messina, walking around, and then watched the noon moving clock tower show at the Messina Cathedral in the Piazza Duomo. I was not too impressed with Messina, but really did want to come to see Sicily. It was very littered. We did not go to Taormina since we do not watch The White Lotus show. We talked to some people that went to Mt. Etna, which sounded cool, though they said that they found a lot of rain on the other side of the mountain. If you have wanted to see Sicily, be sure to well research what city you want to go to and if there is time to go on a cruise stop. 
 

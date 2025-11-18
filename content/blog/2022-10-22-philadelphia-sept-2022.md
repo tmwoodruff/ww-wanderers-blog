@@ -1,14 +1,14 @@
 ---
-title: "Philadelphia - Sept 2022"
-date: 2022-10-22
+category: "Philadelphia - Sept 2022"
+title: "Benjamin Franklin Bridge, Fed, Mint - Sept 25, 2022"
+date: 2022-09-25
 img: images/IMG_5822.webp
 tags: [Federal reserve, mint, benjamin franklin bridge, money in motion]
-category: Federal reserve
+country: us
+state: pa
 author: Tammy
 description: ""
 ---
-
-**Benjamin Franklin Bridge, Fed, Mint - Sept 25, 2022**
 
 Today we walked across the Benjamin Franklin Bridge to New Jersey and found Camden and saw their Rudkins University location. It was a challenge to find the entrance to the pedestrian walkway. From Google maps, we could only tell that it was near the Benjamin Franklin park, which walked through another day. It had a fountain, putt-putt, and a merry-go-round. Trying our best to follow our GPS location and map, we finally found a sign saying where to go. The first entrance was closed, but I saw an under the highway walkway (first thought it may be the entrance to the bridge), which did go to the other side, which was side. 
 

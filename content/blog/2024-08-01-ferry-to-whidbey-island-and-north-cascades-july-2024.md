@@ -1,14 +1,14 @@
 ---
-title: "Ferry to Whidbey Island and North Cascades - July 2024"
-date: 2024-08-01
+category: "Washington National Parks - July 2024"
+title: "Ferry to Whidbey Island and North Cascades - July 15, 2024"
+date: 2024-07-15
 img: images/IMG_20240715_080144043_HDR.webp
 tags: [North Cascades, Washington]
-category: North Cascades
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Ferry to Whidbey Island and North Cascades \- July 15, 2024**
 
 This morning we had an 8am ferry ride reserved from Port Townsend to Coupeville (on Whidbey Island). You reserve on the [Washington State Department of Transportation](https://wsdot.com/ferries/schedule/scheduledetailbyroute.aspx?route=pt-key) website. The reservation holds you a spot on the ferry at that time. The reservation only charges $10 if you do not show. You actually pay depending on vehicle and number of people after you get there. You need to arrive 30-45 minutes before your reserved time. They have a standby for those without a reservation who can get on if they have room. It seemed like some were added at one point while we waited, though I'm not sure. With the reservation, you provide your vehicle length and height and maybe weight too. (I sort of remembering googling the weight of our expected rental car -- that would have been another issue with the minivan or truck up that the rental car company tried to give us. The reservation said that if your vehicle was bigger than you put in when reserving that you would be moved to standby. Though maybe a minivan did not push the vehicle into the next size category.) We paid almost $22 for the ferry for the car and driver and an additional person was $4. Charging for an additional person in the car seemed weird. We walked around, but still it was not very crowded. They had a cafe where the extra person(s) could have purchased more, but it was not open when we were on. 
 

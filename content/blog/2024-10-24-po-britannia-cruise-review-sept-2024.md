@@ -1,14 +1,14 @@
 ---
-title: "P&O Britannia Cruise Review -- Sept 2024"
-date: 2024-10-24
+category: "P&O Britannia - September 2024"
+title: "P&O Britannia Cruise Review"
+date: 2024-09-25
 img: images/IMG_20240913_093117517.webp
 tags: [P&O Britannia, cruise review]
-category: P&O Britannia
 author: Tammy
 description: ""
 ---
 
-**P &O; Britannia Review -- September 13-20, 2024**
+**P&amp;O Britannia Review -- September 13-20, 2024**
 
 {% image "legacy/IMG_20240913_093117517.webp", "2048x1536" %}
 {% image "legacy/IMG_20240913_105659816_HDR.webp", "2048x1536" %}

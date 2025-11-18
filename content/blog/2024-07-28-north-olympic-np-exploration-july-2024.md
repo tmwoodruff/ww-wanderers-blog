@@ -1,14 +1,14 @@
 ---
-title: "North Olympic NP Exploration - July 2024"
-date: 2024-07-28
+category: "Washington National Parks - July 2024"
+title: "Sol Duc, Lake Crescent, and Hurricane Ridge - July 14, 2024"
+date: 2024-07-14
 img: images/IMG_8298.webp
 tags: [Sol Duc, Lake Crescent, Hurricane Ridge, Olympic]
-category: Sol Duc
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Sol Duc, Lake Crescent, and Hurricane Ridge - July 14, 2024**
 
 Olympic National Park is very spread out with multiple areas in the northwest peninsula area of Washington. The interior of the park can only be reached by hiking. Olympic has the only rainforest in the lower 48 states. Hwy 101 almost goes all around the park. Though to get from Staircase to the Beaches (heading west along the south side of the park), we had to take another road, and it went pretty far south of the park. Travis found that Hwy 101 went through California and down to Mexico. 
 

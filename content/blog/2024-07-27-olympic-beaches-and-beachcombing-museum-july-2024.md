@@ -1,14 +1,14 @@
 ---
-title: "Olympic Beaches and Beachcombing Museum - July 2024 "
-date: 2024-07-27
+category: "Washington National Parks - July 2024"
+title: "Olympic Beaches and Beachcombing Museum - July 13, 2024"
+date: 2024-07-13
 img: images/IMG_8288.webp
 tags: [Olympic, Forks WA]
-category: Olympic
+country: us
+state: wa
 author: Tammy
 description: ""
 ---
-
-**Olympic Beaches and Beachcombing Museum - July 13, 2024**
 
 Saturday we were up and packed, before the rest of the campground arose, to head to the west side of Olympic. Pro Tip: even if you have offline maps, connect, if only for a short time, when you can get data or wifi to get the latest route recommendation. Today, Google offline picked a barely shortcut onto highway 108, but it was closed for a detour. There was a lot of construction in WA. The detour signs were horrible/non-existent. We definitely went far out of the way for the shortcut. In other places, we hit 5 or 6 one-lane roads where one lane stopped and waited. Luckily, shorter than those in Colorado. 
 

@@ -1,14 +1,13 @@
 ---
-title: "Staying on board for Livorno and Disembarkation - Nov 2024"
-date: 2025-01-06
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Staying on board for Livorno and Disembarkation - November 10-11, 2024"
+date: 2024-11-11
 img: images/IMG_1133.webp
 tags: [NCL Pearl]
-category: NCL Pearl
+country: it
 author: Tammy
 description: ""
 ---
-
-**Livorno from the ship and end of the cruise :( - November 10-11, 2024**
 
 We had planned to walk around Livorno and had some sites bookmarked in google maps. I had been to Pisa before, and Travis was not super-excited to go. We did Florence pre-cruise so did not plan it during Livorno. However, when the Freestyle Daily/daily activity document arrived, which we got each day in paper format, saying that we had to pay 7 EUR each for a _mandatory_ bus out of the port, we lost interest. We also just had 9 port days, so a good rest would be nice. We ended up eating too much on the ship. We also played several trivia games, walked the promenade, and Travis went to the gym. Also, for the worst time of the whole cruise, we had to pack...
 

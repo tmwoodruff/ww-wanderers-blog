@@ -1,14 +1,12 @@
 ---
-title: "MSC Meraviglia two Sea Days -- March 2024"
-date: 2024-04-01
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Two more Sea Days on the way back to NYC -- March 15-16, 2024"
+date: 2024-03-16
 img: images/IMG_7924.webp
 tags: [sea day, MSC Meraviglia]
-category: sea day
 author: Tammy
 description: ""
 ---
-
-**Two more Sea Days on the way back to NYC -- March 15-16, 2024**
 
 We followed along the coast, and it was still rough on the way south. This time we were going north further from the shoreline, and it was smoother. This was a warm day still since not toofar north yet. Owen and I went back to the waterpark, and Travis and Joel went to the outside and inside pools. Both the outside and inside pool was heated. Now to start getting the swimming suits dried. This was a challenge in the cabin trying to dry 4 sets of swimming suits, gym clothes, and laundry. Someone left one magnetic hook in our cabin, and it was awesome (of course, we left it for the next family). I have heard this tip before, to get these, but thought that we did not need them. I now have ours ordered. 
 

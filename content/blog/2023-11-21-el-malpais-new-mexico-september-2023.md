@@ -1,14 +1,14 @@
 ---
-title: "El Malpais, New Mexico -- September 2023"
+category: "Canyons Adventure - September 2023"
+title: "El Malpais, NM -- September 14, 2023"
 date: 2023-11-21
 img: images/IMG_7477.webp
 tags: [New Mexico, El Malpais]
-category: New Mexico
+country: us
+state: nm
 author: Tammy
 description: ""
 ---
-
-**El Malpais, NM -- September 14, 2023**
 
 We left Page early. I drove first and the Navajo roads had crazy, slow speed limits. All the locals seemed to be going a normal speed, and I was going a speed limit. Local plates, no tickets; non-local plates, tickets? I was passed by a cop on a one lane, each way, road. I was happy when we made it to a road with a normal speed limit. We had a 5 hour drive and lost an hour due to a time change. 
 

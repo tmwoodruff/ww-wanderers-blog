@@ -1,14 +1,13 @@
 ---
-title: "Mexico City - Archaeology museum and area - Feb 2025"
+category: "Mexico City - Feburary 2025"
+title: "Archaeology Museum, Castle, and Zoo - February 7, 2025"
 date: 2025-02-27
 img: images/IMG_1810.webp
 tags: [Archaeology Museum, Mexico City]
-category: Archaeology Museum
+country: mx
 author: Tammy
 description: ""
 ---
-
-**Archaeology Museum, Castle, and Zoo - February 7, 2025**
 
 We took the long bus ride, about 40 minutes, to the Archaeology Museum, which was to the west of us. It opened at 9am, so we planned to get there early to get in line. Travis read reviews of no water allowed. They also had a free bag check, so we left the backpack again, getting one last drink this time. We arrived and a line was started, but not too long yet, maybe 6 groups in front of us. Here is the nice bird of paradise flower outside the museum and the museum emblem. The eagle with a snake in its beak and talon is in the Mexican flag and commonly used and goes back to an Aztec legend. 
 

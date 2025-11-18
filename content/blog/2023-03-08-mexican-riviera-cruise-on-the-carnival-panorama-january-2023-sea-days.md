@@ -1,14 +1,14 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Sea Days"
-date: 2023-03-08
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Sea Days and Disembarkation -- January 26-28, 2023"
+date: 2023-01-08
 img: images/Screenshot_20230126-220551.webp
 tags: [Carnival Panorama]
-category: Carnival Panorama
+country: us
+state: ca
 author: Tammy
 description: ""
 ---
-
-**Sea Days and Disembarkation -- January 26-28, 2023**
 
 Or, as Carnival calls it, Fun Day at Sea. Both days were too windy for the SkyDrive to be open. I was looking forward to it again. I also wanted to do the waterpark, but I did not brave the cooler and wind. Others did, and the kids did not mind.
 

@@ -1,14 +1,13 @@
 ---
-title: "P&O Britannia - Travel and Southampton - Sept 2024"
-date: 2024-10-02
+category: "P&O Britannia - September 2024"
+title: "Travel and Southampton - September 11-12, 2024"
+date: 2024-09-11
 img: images/IMG_8709.webp
 tags: [Southampton, National Express coach]
-category: Southampton
+country: uk
 author: Tammy
 description: ""
 ---
-
-**Count down to cruise day!!! - September 11-12, 2024**
 
 It was not lost on me that we were flying on September 11th. Our flight was in the evening, so I went to Aldi for some milk and a few other items in the morning for our youngest and my brother staying with him at our house. Our oldest is now in college. I drove past the flags up in our neighborhood on the way. At first, I thought it is way past Labor Day, and Travis argues that it is an anti-government holiday. Then I remembered oh, for September 11th and almost broke down crying. 
 

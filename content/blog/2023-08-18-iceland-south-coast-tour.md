@@ -1,14 +1,13 @@
 ---
-title: "Iceland: South Coast Tour"
-date: 2023-08-18
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "South Coast Tour -- July 12, 2023"
+date: 2023-07-12
 img: images/P1120361.webp
 tags: [Glacier Hiking, South Coast, Vik, iceland]
-category: Glacier Hiking
+country: is
 author: Tammy
 description: ""
 ---
-
-**South Coast Tour -- July 12, 2023**
 
 We had a Troll Expeditions 12 hour South Coast and Glacier hike tour booked. I booked it in ISK (Iceland is Islands in Icelandic; Islands Krona), with a credit card without a foreign exchange fee, when the exchange rate was better. I also saw the price in ISK higher closer to the tour.
 

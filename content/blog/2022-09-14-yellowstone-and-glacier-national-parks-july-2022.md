@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-09-14
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Grand Canyon of Yellowstone and Upper and Lower Falls - July 22, 2022"
+date: 2022-07-22
 img: images/IMG_5242.webp
 tags: [grand canyon of yellowstone]
-category: grand canyon of yellowstone
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Grand Canyon of Yellowstone and Upper and Lower Falls - July 22, 2022**
 
 We drove to the Grand Canyon of Yellowstone, the right way, which was 14 miles North to Norris and then 12 miles East to Canyon Village. We parked at Uncle Tom's Cabin lot. It was early in the morning, so there was plenty of parking left. We first stopped at Upper Falls Viewpoint with also a view of the bridge in the background. 
 

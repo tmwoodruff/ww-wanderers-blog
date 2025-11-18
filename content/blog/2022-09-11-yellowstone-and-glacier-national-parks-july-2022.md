@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-09-11
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Lower and Midway Geyser Basin and Yellowstone Lake - July 21, 2022"
+date: 2022-07-21
 img: images/IMG_5167.webp
 tags: [geysers, yellowstone]
-category: geysers
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Lower and Midway Geyser Basin and Yellowstone Lake****\-- July 21, 2022**
 
 We got up early for our second day of exploring and ate breakfast in the car. We wanted to visit Lower and Midway Geyser Basin's Grand Prismatic Spring before the crowds arrived. 
 

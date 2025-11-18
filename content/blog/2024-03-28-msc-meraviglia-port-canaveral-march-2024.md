@@ -1,14 +1,14 @@
 ---
-title: "MSC Meraviglia Port Canaveral -- March 2024"
-date: 2024-03-28
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Port Canaveral - March 12, 2024"
+date: 2024-03-12
 img: images/IMG_7681.webp
 tags: [Port Canaveral, MSC Meraviglia, Airboat]
-category: Port Canaveral
+country: us
+state: fl
 author: Tammy
 description: ""
 ---
-
-**Port Canaveral -- March 12, 2024**
 
 We were set to arrive in Port Canaveral at 1pm, so I booked an Avis car rental, that offered a port shuttle for cruise passengers only, for 1:30pm. As it got closer, the cruise director began announcing to not gather in the public areas and that they needed 45-60 more minutes to get docked and cleared (1:30 to 1:45 pm). The shuttle will go back and forth, so I did not worry about the rental. We planned to drive to Twister Airboat rides about 25 minutes away. Then, if time, stop at the Manatee Sanctuary that was really close to Avis. 
 

@@ -1,14 +1,13 @@
 ---
-title: "P&O Britannia Norwegian Fjords Embarkation - Sept 2024"
-date: 2024-10-04
+category: "P&O Britannia - September 2024"
+title: "Embarkation - September 13, 2024"
+date: 2024-09-13
 img: images/IMG_8730.webp
 tags: [P&O Britannia, Norwegian Fjords, Titanic Museum]
-category: P&O Britannia
+country: uk
 author: Tammy
 description: ""
 ---
-
-**Embarkation day on Friday the 13th - September 13, 2024**
 
 More challenges in the morning. I could not get a reply from our Airbnb host on storing the luggage on Airbnb, text, or whatsapp, so we tried to drop our luggage off at the ship. Since our assigned embarkation time was not until 2:45pm, after rooms should be ready, we originally planned to just carry it on. I just printed and prepped the luggage tags just incase. Arriving at the port, there were not much going on. Others arrived, quick talk with them that they were going to ask, so I ease dropped on the response. No checked bag check-in until 11 am; it was 10:30 am then. I also learned that the number on our luggage tag is the correct luggage drop to use. Before leaving, we found ours. We headed back. Travis hated putting more miles on the luggage wheels, so I sat with them in a green space just outside the port while he walked the key back to the Airbnb. I then posted that we dropped the key when he returned. We had a snack, and then went back to drop the luggage. This was quick without a big queue. 
 

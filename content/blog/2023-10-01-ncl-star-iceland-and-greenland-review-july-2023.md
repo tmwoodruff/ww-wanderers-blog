@@ -1,14 +1,13 @@
 ---
-title: "NCL Star Iceland and Greenland Review - July 2023"
-date: 2023-10-01
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "NCL Star - Review"
+date: 2023-07-25
 img: images/P1130037.webp
 tags: [ncl star, iceland, Greenland]
-category: ncl star
+country: [is, gl]
 author: Tammy
 description: ""
 ---
-
-**NCL Star - Review**
 
 {% image "legacy/P1130037.webp", "1538x2048" %}
 {% image "legacy/IMG_6441.webp", "2048x1228" %}

@@ -1,14 +1,15 @@
 ---
-title: "Greenland: Sea day and Nanortalik"
-date: 2023-09-18
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Sea day and Greenland - July 17-18, 2023"
+date: 2023-07-18
 img: images/P1120853.webp
 tags: [icebergs, nanortalik, Greenland]
-category: icebergs
+country: gl
 author: Tammy
 description: ""
 ---
 
-**Sea day and Greenland: July 17-18, 2023**
+****
 
 Today was our first scheduled sea day to get to Greenland, so it was our Cruise Critic meet and greet! Our organizer had put together an icebreaker of a grid finding others who had done this or that on the list, which was fun. There was a quick intro of the officers. Then he had prizes of Viking cruise ducks and magnets with a game of guess the answer to the Viking or Norse jokes, awarding one prize per family. NCL provided the first cookies that I had found on the cruise, so I knew this was the time to score them. Later, I did find them in the afternoon on the smaller side of the buffet. The chocolate chip are the best. Oh, yes, and coffee, juice, water, and sweet breads (not that kind; dessert breads -- I can't remember what they are normally called now). We did a group picture that was going to be posted to CC role call, but I don't see it there to share. We also met Steve and Linda who we were sharing a taxi to the airport after the cruise, pre-arranged on the role call and Steve did all the organizing. 
 

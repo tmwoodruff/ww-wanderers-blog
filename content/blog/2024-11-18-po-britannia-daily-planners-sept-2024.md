@@ -1,9 +1,9 @@
 ---
-title: "P&O Britannia Daily Planners - Sept 2024"
-date: 2024-11-18
+category: "P&O Britannia - September 2024"
+title: "P&O Britannia Daily Planners"
+date: 2024-09-23
 img: images/image11.webp
 tags: [P&O Britannia]
-category: P&O Britannia
 author: Tammy
 description: ""
 ---

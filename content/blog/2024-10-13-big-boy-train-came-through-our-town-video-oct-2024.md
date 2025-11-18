@@ -8,6 +8,4 @@ author: Tammy
 description: ""
 ---
 
-**October 13, 2024**
-
 {% image "legacy/IMG_20241013_094038630_HDR~2.webp", "2048x939" %}

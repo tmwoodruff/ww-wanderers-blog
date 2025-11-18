@@ -1,9 +1,9 @@
 ---
+category: "NCL Pearl Mediterranean Cruise - November 2024"
 title: "NCL Pearl - Daily program: Freestyle Dailies"
-date: 2025-01-14
+date: 2024-11-15
 img: images/image45.webp
 tags: [Daily Planners, NCL Pearl]
-category: Daily Planners
 author: Tammy
 description: ""
 ---

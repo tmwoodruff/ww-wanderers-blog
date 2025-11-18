@@ -1,14 +1,14 @@
 ---
-title: "Canyons Adventure - September 2023"
-date: 2023-11-01
+category: "Canyons Adventure - September 2023"
+title: "Drive and Petrified Forest - September 8-9, 2023"
+date: 2023-09-09
 img: images/IMG_6979.webp
 tags: [New Mexico, Petrified Forest, Arizona]
-category: New Mexico
+country: us
+state: nm
 author: Tammy
 description: ""
 ---
-
-**Drive and Petrified Forest - September 8-9, 2023**
 
 We headed out Friday morning for a long drive after getting the kids off to school and finishing up house chores. We packed sandwiches for the car, so we could make better time. This was our longest one day of driving on this road trip -- 11 hours. We drove from DFW, Texas to Gallup, NM the first day, going through Amarillo and Albuquerque. Gallup was almost to the end of New Mexico, the far west, so almost to Arizona. We stopped at Dairy Queen for a blizzard, me, and ice cream cone, Travis. Yum!
 

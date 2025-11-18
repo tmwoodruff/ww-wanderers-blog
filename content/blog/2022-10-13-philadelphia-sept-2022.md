@@ -1,14 +1,14 @@
 ---
-title: "Philadelphia - Sept 2022"
-date: 2022-10-13
+category: "Philadelphia - Sept 2022"
+title: "Walking around and the Rodin Museum -- Sept 23, 2022"
+date: 2022-09-23
 img: images/IMG_5667.webp
 tags: [philadelphia, rodin]
-category: philadelphia
+country: us
+state: pa
 author: Tammy
 description: ""
 ---
-
-**Walking around and the Rodin Museum -- Sept 23, 2022**
 
 My grocery store bagel toasted with cream cheese was very good. We explored more of the Independence Hall area.
 

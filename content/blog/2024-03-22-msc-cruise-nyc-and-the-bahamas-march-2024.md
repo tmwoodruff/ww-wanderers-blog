@@ -1,14 +1,14 @@
 ---
-title: "MSC Cruise, NYC, and the Bahamas -- March 2024"
-date: 2024-03-22
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Planning and Flight - March 8, 2024"
+date: 2024-03-08
 img: images/IMG_7621.webp
 tags: [MSC Meraviglia, NYC]
-category: MSC Meraviglia
+country: us
+state: ny
 author: Tammy
 description: ""
 ---
-
-**Planning and Flight -- March 8, 2024**
 
 {% image "legacy/IMG_7621.webp", "1536x2048" %}
 
@@ -34,7 +34,6 @@ We first checked into our hotel to leave luggage and then went back out for a di
 
 We cleaned up and went to bed, planning the American Museum of National History and Central Park for Saturday.
 
-So, back to the cruise...our itinerary:   
-**MSC Meraviglia -- Embarking: March 10, 2024 and Disembarking: March 17, 2024**
+So, back to the cruise...our itinerary: MSC Meraviglia -- Embarking March 10, 2024 and Disembarking March 17, 2024.
 
 {% image "legacy/image5.webp", "780x434" %}

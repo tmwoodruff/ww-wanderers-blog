@@ -1,14 +1,13 @@
 ---
-title: "Koper, Slovenia - Nov 2024"
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Koper, Slovenia - November 2, 2024"
 date: 2024-12-06
 img: images/IMG_9596.webp
 tags: [Predjama Castle, Postojna Cave, Slovenia, NCL Pearl]
-category: Predjama Castle
+country: si
 author: Tammy
 description: ""
 ---
-
-**Cave and Castle Tour - November 2, 2024**
 
 We pre-booked the Postojna Cave and Predjama Castle Tour with Koper Tours with our Cruise Critic role call group. Koper Tours asked that we make a deposit payment. We arrived early for the 8:30 am meeting time, paid the balance, and met our guide and group. It took a little bit to leave. I think they were waiting on a group, but then moved a lady from a different tour to ours. Our tour guide was energetic and fun. She had a green Dragon on a stick for us to find her. Slovenians are very proud of their country; she noted it had "love" in the name (though Travis first guessed "oven"). She had a story about the Slovenian ruler telling God that he will take what God choses to give this country vs. other countries saying that they want volcanos or waterfalls. So, they were blessed with so much beauty. It was a very beautiful country, and everything was so green (compared to hot and dry Texas...). We got to see mountains, some fall foliage, and rocks walls on the drive to the cave -- though hard to get good pictures from the bus, so just sharing a few. Someone noted later no litter. He was right; the country was so clean. I was later disappointed in all the litter in Sicily and Rome later. I have since heard a podcast about other places to visit in Slovenia; I'm SO ready to go back!
 

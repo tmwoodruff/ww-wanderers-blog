@@ -1,14 +1,14 @@
 ---
-title: "Yellowstone and Glacier National Parks -- July 2022"
-date: 2022-09-08
+category: "Yellowstone and Glacier National Parks - July 2022"
+title: "Old Faithful and Upper Geyser Basin - July 20, 2022"
+date: 2022-07-20
 img: images/IMG_5066.webp
 tags: [National Park, yellowstone]
-category: National Park
+country: us
+state: wy
 author: Tammy
 description: ""
 ---
-
-**Old Faithful and Upper Geyser Basin - July 20, 2022**
 
 This is Travis and my second visit to Yellowstone; it is new for the kids. I love Yellowstone for its diversity; you can see geysers, mudpots, hot spring pools, fumaroles (though I cannot tell you want that is), mineral terraces, the Grand Canyon of Yellowstone with Upper and Lower Yellowstone Falls, bears, elk, bison, marmots, and I'm sure much more. 
 

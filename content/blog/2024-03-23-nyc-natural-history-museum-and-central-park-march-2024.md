@@ -1,14 +1,14 @@
 ---
-title: "NYC Natural History Museum and Central Park -- March 2024"
-date: 2024-03-23
+category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+title: "Natural History Museum and Central Park -- March 9, 2024"
+date: 2024-03-09
 img: images/IMG_20240309_093718314_HDR.webp
 tags: [American Museum of Natural History, NYC]
-category: American Museum of Natural History
+country: us
+state: ny
 author: Tammy
 description: ""
 ---
-
-**Natural History Museum and Central Park -- March 9, 2024**
 
 Our hotel included breakfast; it was very good. There were four different hot things each morning, which included: bacon, hashbrowns, pancakes, Belgium waffles, and scrambled eggs. I got a bagel, which said that it was a New York bagel and was in a package, so I got it because we were there. Though I do normally like bagels, but I did not expect it to be great coming pre-packaged. However, it was very good. Travis got another for a snack before we went into the museum, except he got raisin, which repulsed Owen. I also don't like raisins but did not intend to eat it. The hotel had a toaster and cream cheese for the bagel like I like. The hashbrown was very good; it was only available our first day. They also had cereals, yogurts, bread to toast, and tea and coffee. No hot chocolate, and I did not find the water until leaving, so did not have anything to drink during breakfast. 
 

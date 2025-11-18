@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-15
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Santorini - June 10, 2022"
+date: 2022-06-10
 img: images/IMG_4988.webp
 tags: [Greece, Santorini]
-category: Greece
+country: gr
 author: Tammy
 description: ""
 ---
-
-> > > > > > > **Santorini - June 10, 2022**
 
 Santorini, 8 am - 9:30 pm, so a lot time in port. This was also a tender port, and doh, we were about to head down right as they announced open tender. Bad timing; luckily, it was not too busy. On the tender boat -- Joel, Travis, and Owen.
 

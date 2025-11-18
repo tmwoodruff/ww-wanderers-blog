@@ -1,14 +1,13 @@
 ---
-title: "Iceland and Greenland on the NCL Star - July 2023 "
-date: 2023-08-13
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "Flight and Reykjavik: July 10-11, 2023"
+date: 2023-07-11
 img: images/IMG_20230711_014618755_HDR.webp
 tags: [reykjavik, ncl star, iceland]
-category: reykjavik
+country: is
 author: Tammy
 description: ""
 ---
-
-**Flight and Reykjavik: July 10-11, 2023**
 
 We had a NCL booked Delta flight from DFW to Detroit, a 1:30 hour layover, before an overnight flight to Reykjavik, or rather Keflavik (KEF). This overnight flight was about 5 hours, so not much time to (try to) sleep. I think of Delta as being good, but I only had Sun Chips for breakfast. They did not promise breakfast, and I like Sun Chips, but for breakfast time? The dinner meal service was weak too; a cheese, fruit, and almond tray (Travis got) or chicken salad sandwich on a croissant (I got; though I don't like chicken salad). Travis's was missing the cheese, the main course. They happily got him another tray of the full meal. We traded some, and Travis let me eat some cheese on the croissant top. It was pretty good. We had loud kicking kids behind us, and a Mom and good kids, with her husband, to the right. My fault, I picked the back of the plane where there are more kids. Oddly, there was not a restroom in the back. Delta now provides free wi-fi during the domestic portion of the flight with a Delta SkyMiles account, which was very nice. On the international portion, WhatsApp and Facebook Messager were included, but other internet was purchasable. Travis let me have the window seat (vs. his aisle) to lay on and try to sleep and get the first glimpse of the Iceland. 
 

@@ -1,14 +1,13 @@
 ---
-title: "Iceland: NCL Star Embarkation"
-date: 2023-08-23
+category: "Iceland and Greenland on the NCL Star - July 2023"
+title: "NCL Star Embarkation - July 13, 2023"
+date: 2023-07-13
 img: images/IMG_6461.webp
 tags: [reykjavik, ncl star, embarkation]
-category: reykjavik
+country: is
 author: Tammy
 description: ""
 ---
-
-**NCL Star Embarkation - July 13, 2023**
 
 Cruise day! Because it is crazy, this cruise is exactly, to the day, 20 years after our very first cruise on the NCL Sun in Alaska. 
 

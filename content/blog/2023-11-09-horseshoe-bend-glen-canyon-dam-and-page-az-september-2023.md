@@ -1,14 +1,14 @@
 ---
-title: "Horseshoe Bend, Glen Canyon Dam, and Page, AZ -- September 2023"
-date: 2023-11-09
+category: "Canyons Adventure - September 2023"
+title: "Horseshoe Bend, Glen Canyon Dam, and Page, AZ -- September 12, 2023"
+date: 2023-09-12
 img: images/IMG_7265.webp
 tags: [Glen Canyon Dam, Horseshoe Bend, Page, Arizona, Utah]
-category: Glen Canyon Dam
+country: us
+state: [az, ut]
 author: Tammy
 description: ""
 ---
-
-**Page, Arizona -- September 12, 2023**
 
 After leaving the Grand Canyon, we had about a 2 hour drive to Page, AZ. We stopped at Horseshoe Bend, one of the top stops on my list. It is a little before arriving at Page. It is operated by the City of Page, and they charge $10 parking -- cash or credit card. They also provided some very stinky vault toilets, where all did not lock, that we visited before starting the hike to Horseshoe Bend. Trying to pick an entrance, a nice person directed us to the shortest. The dark clouds are coming again, which made a cool picture below, but we kept an eye on them. 
 

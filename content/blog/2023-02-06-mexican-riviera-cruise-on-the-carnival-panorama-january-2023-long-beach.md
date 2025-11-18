@@ -1,14 +1,14 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Long Beach"
-date: 2023-02-06
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Arriving in Long Beach - January 20, 2023"
+date: 2023-01-20
 img: images/IMG_5876.webp
 tags: [Long Beach, Carnival Panorama]
-category: Long Beach
+country: us
+state: ca
 author: Tammy
 description: ""
 ---
-
-**Arriving in Long Beach - January 20, 2023**
 
 This was a very good deal cruise that we found and booked in the cheapest room, bottom deck, inside room -- deck 1, room 1442. We had never been on a Mexican Riviera cruise, and it was on the list. 
 

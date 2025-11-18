@@ -1,9 +1,10 @@
 ---
+category: "Mexico City - Feburary 2025"
 title: "Mexico City - Centro District - Feb 2025"
 date: 2025-02-21
 img: images/IMG_1532.webp
 tags: [Mexico City]
-category: Mexico City
+country: mx
 author: Tammy
 description: ""
 ---

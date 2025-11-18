@@ -1,14 +1,15 @@
 ---
-title: "Split, Croatia - Nov 2024"
-date: 2024-12-09
+category: "NCL Pearl Mediterranean Cruise - November 2024"
+title: "Split, Croatia - November 3, 2024"
+date: 2024-11-03
 img: images/IMG_0137.webp
 tags: [Split, NCL Pearl, Croatia]
-category: Split
+country: h2
 author: Tammy
 description: ""
 ---
 
-**Exploring town and hiking in Forest Park Marjan - November 3, 2024**
+**Exploring town and hiking in Forest Park Marjan**
 
 We had a late arrival to today's port, so some nice sail in pictures with the Mediterranean Sea. 
 

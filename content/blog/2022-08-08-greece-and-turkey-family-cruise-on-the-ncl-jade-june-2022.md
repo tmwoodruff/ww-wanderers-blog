@@ -1,14 +1,13 @@
 ---
-title: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-date: 2022-08-08
+category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+title: "Mykonos - June 9, 2022"
+date: 2022-06-09
 img: images/IMG_4879.webp
 tags: [Mykonos, Greece]
-category: Mykonos
+counrtry: gr
 author: Tammy
 description: ""
 ---
-
-**Mykonos - June 9, 2022**
 
 Mykonos, 8am to 7pm, was our first tender port where all the ships tendered/no docks. A view from the tender of the ship from below.
 

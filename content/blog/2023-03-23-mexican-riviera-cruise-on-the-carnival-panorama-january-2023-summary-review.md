@@ -1,9 +1,9 @@
 ---
-title: "Mexican Riviera Cruise on the Carnival Panorama – January 2023: Summary Review"
-date: 2023-03-23
+category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
+title: "Summary Review"
+date: 2023-01-29
 img: 
 tags: [Review, Carnival Panorama]
-category: Review
 author: Tammy
 description: ""
 ---
