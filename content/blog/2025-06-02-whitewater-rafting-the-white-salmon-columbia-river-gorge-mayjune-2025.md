@@ -13,7 +13,7 @@ description: ""
 We found a bald eagle in the tree with the mountain. 
 
 {% image "legacy/IMG_2535.webp", "2048x984" %}
-{% image "legacy/IMG_2535.webp", "2048x984" %}
+{% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_2535.1439x1076.webp", "1439x1076" %}
 
 Today, we had a booking Wet Planet whitewater rafting for the White Salmon half day trip, meeting at 9am. We booked on Viator because it has a more flexible cancellation and later payment. Wet Planet called before for my email address, so that we could do the waiver signing beforehand since Viator did not collect this for them. We all completed this, so everyone received the detailed email before the trip. I was reading Owen's email; we were supposed to arrive 15 minutes before. 
 
