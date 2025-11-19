@@ -1,6 +1,6 @@
 ---
 category: "Panama Canal Cruise - October/November 2025"
-title: "Panama Canal Cruise -- Island Princess Review"
+title: "Embarkation and Sea Days"
 date: 2025-10-22
 tags: [Trip Report]
 author: Tammy
