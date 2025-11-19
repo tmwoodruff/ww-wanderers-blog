@@ -48,6 +48,7 @@
 	},
 	"dependencies": {
 		"@zachleat/heading-anchors": "^1.0.5",
+		"memoize": "^10.2.0",
 		"photoswipe": "^5.4.4"
 	}
 }

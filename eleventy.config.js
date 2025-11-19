@@ -3,12 +3,12 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin, Util } from "@11ty/eleventy-img";
-import Image from "@11ty/eleventy-img";
-import pluginPostImages from "./modules/post-images/post-images.js"
+import pluginPostImages from "./modules/post-images/post-images.js";
+import pluginTrips from "./modules/trips.js";
 
 import pluginFilters from "./_config/filters.js";
 
-/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
+/** @param {import("@11ty/eleventy/UserConfig")} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
@@ -109,6 +109,7 @@ export default async function(eleventyConfig) {
 
 	// Post image gallery
 	eleventyConfig.addPlugin(pluginPostImages);
+	eleventyConfig.addPlugin(pluginTrips);
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
@@ -121,6 +122,10 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
+	});
+
+	eleventyConfig.addCollection("test", function (collectionApi) {
+		collectionApi.getAll();
 	});
 
 	// Features to make your build faster (when you need them)
