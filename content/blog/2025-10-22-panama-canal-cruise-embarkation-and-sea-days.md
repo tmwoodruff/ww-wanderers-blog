@@ -17,18 +17,18 @@ Still on the promenade, right after boarding, someone was there, so I remembered
 
 Then we went to lunch in the MDR. While dining, the rooms were announced ready. 
 
-Checking out the balcony and what we can see. The bridge and bunkering. 
+Checking out the balcony and what we can see. The green bridge and bunkering. 
 
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_20251022_155048194_HDR.2048x1151.webp", "2048x1151" %}
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_2790.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_2793.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_2791.1536x2048.webp", "1536x2048" %}
 
-We found the Island Princess sign, the map of our cruise, and finally found the wake. We knew before boarding that there was no promenade aft/wake view because in a dry dock, they removed it to add aft balconies. Look how far away the wake is. Later in the cruise, Travis noticed on the outside of the ship that deck 8 (one above the promenade) looked like it had a viewing/seating area. It did, so that was much better for wake viewing than looking over the private Serenity deck. Though not as convenient as on the promenade where we could normally see the wake while walking anyway.  
+We found the Island Princess sign, the map of our cruise, and finally found the wake. We knew before boarding that there was no promenade aft/wake view because in a dry dock, they removed it to add aft balconies. Look how far away the wake is. Later in the cruise, Travis noticed from the outside of the ship that deck 8 (one above the promenade) looked like it had a viewing/seating area. It did, so that was much better for wake viewing than looking over the private Serenity deck. Though not as convenient as on the promenade where we could normally see the wake while walking anyway.  
 
 On the first night, we went to the comedian and impressionist show. We went early (30 mins) after hearing needing to go early to get a seat on Princess. Though the 30 minute or earlier rule is more required for the production shows than for an individual performer -- comedian/singer. He was funny, and we went to another of his shows before we left the ship and new comedian came on. Nice of them to change the acts since this was a longer cruise. 
 
-After the show, we went to the buffet snack for a snack. Like at lunch, the desserts were weak. Though later, there was a strong availability of cookie, of which I ate too many. 
+After the show, we went to the buffet snack for a snack. Like at lunch, the desserts were weak. Though later, there was a strong availability of cookies, of which I ate too many. 
 
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_20251022_144203682.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2022-10-22-Embarkation/IMG_20251024_091440295.2048x1536.webp", "2048x1536" %}
