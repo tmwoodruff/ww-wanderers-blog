@@ -299,3 +299,7 @@ header {
 	margin-right: 1em;
 }
 
+.post-category {
+	font-style: italic;
+	/* font-weight: bold; */
+}
