@@ -1,5 +1,5 @@
 ---
-category: "Panama Canal Cruise - October 2025"
+category: "Panama Canal Cruise - October/November 2025"
 title: "Island Princess - What we ate"
 date: 2025-11-10
 tags: [Island Princess]
