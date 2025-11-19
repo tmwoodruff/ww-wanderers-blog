@@ -1,0 +1,10 @@
+<h1>Trips</h1>
+
+<ol reversed class="postlist" style="--postlist-index: {{ (postslistCounter or postslist.length) + 1 }}">
+{%- for trip in allTrips | reverse %}
+	<li class="postlist-item{% if trip.url == url %} postlist-item-active{% endif %}">
+		<a href="{{ trip.url }}" class="postlist-link">{{ trip.title }}</a>
+		<time class="postlist-date" datetime="{{ trip.minDate | htmlDateString }}">{{ trip | tripDates }}</time>
+	</li>
+{%- endfor %}
+</ol>
