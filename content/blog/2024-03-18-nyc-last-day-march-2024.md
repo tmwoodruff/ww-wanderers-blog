@@ -1,5 +1,5 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
 title: "NYC Last Day - March 18, 2024"
 date: 2024-03-18
 img: images/IMG_7989.webp

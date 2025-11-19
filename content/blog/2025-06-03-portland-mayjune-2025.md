@@ -1,5 +1,5 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge -- May/June 2025"
+category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
 title: "Portland - June 3, 2025"
 date: 2025-06-03
 img: images/IMG_2546.webp

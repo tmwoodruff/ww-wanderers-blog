@@ -3,7 +3,6 @@ title: "World Scratch and U.S. National Park Pin Maps"
 date: 2023-03-06
 img: images/Screen Shot 2023-03-05 at 6.37.47 PM.webp
 tags: [scratch map]
-category: scratch map
 author: Tammy
 description: ""
 ---

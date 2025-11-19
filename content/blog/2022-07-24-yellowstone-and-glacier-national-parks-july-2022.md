@@ -1,6 +1,6 @@
 ---
 category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Going-to-the-Sun Road -- July 24, 2022"
+title: "Going-to-the-Sun Road - July 24, 2022"
 date: 2022-07-24
 img: images/IMG_5316.webp
 tags: [going-to-the-sun road, glacier]

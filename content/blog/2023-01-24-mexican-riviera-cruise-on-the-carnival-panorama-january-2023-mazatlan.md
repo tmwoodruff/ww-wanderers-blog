@@ -1,6 +1,6 @@
 ---
 category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Mazatlan -- January 24, 2023"
+title: "Mazatlan - January 24, 2023"
 date: 2023-01-24
 img: images/IMG_6071.webp
 tags: [mazatlan, Carnival Panorama]

@@ -1,6 +1,6 @@
 ---
 category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Sea Day -- January 22, 2023"
+title: "Sea Day - January 22, 2023"
 date: 2023-01-22
 img: images/IMG_5957.webp
 tags: [Carnival Panorama]

@@ -1,6 +1,6 @@
 ---
 category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Puerto Vallarta -- January 25, 2023"
+title: "Puerto Vallarta - January 25, 2023"
 date: 2023-01-25
 img: images/IMG_6178.webp
 tags: [Puerto Vallarta, Carnival Panorama]

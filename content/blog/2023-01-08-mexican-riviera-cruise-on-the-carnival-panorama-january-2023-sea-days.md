@@ -1,6 +1,6 @@
 ---
 category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Sea Days and Disembarkation -- January 26-28, 2023"
+title: "Sea Days and Disembarkation - January 26-28, 2023"
 date: 2023-01-08
 img: images/Screenshot_20230126-220551.webp
 tags: [Carnival Panorama]

@@ -1,5 +1,5 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
 title: "Port Canaveral - March 12, 2024"
 date: 2024-03-12
 img: images/IMG_7681.webp

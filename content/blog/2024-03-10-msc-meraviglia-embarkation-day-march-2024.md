@@ -1,5 +1,5 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
 title: "Embarkation Day - March 10, 2024"
 date: 2024-03-10
 img: images/IMG_7585.webp

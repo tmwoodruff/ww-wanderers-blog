@@ -1,6 +1,6 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
-title: "Nassau, The Bahamas -- March 14, 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+title: "Nassau, The Bahamas - March 14, 2024"
 date: 2024-03-14
 img: images/IMG_7853.webp
 tags: [Nassau, MSC Meraviglia]

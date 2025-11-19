@@ -1,6 +1,6 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
-title: "Disembarkation and NYC -- March 17, 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+title: "Disembarkation and NYC - March 17, 2024"
 date: 2024-03-17
 img: images/IMG_7963.webp
 tags: [MSC Meraviglia, NYC]
