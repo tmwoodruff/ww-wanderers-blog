@@ -170,6 +170,7 @@ header {
 	padding: 1em 0;
 }
 .links-nextprev > * {
+	flex-basis: 50%;
 	flex-grow: 1;
 }
 .links-nextprev-next {
