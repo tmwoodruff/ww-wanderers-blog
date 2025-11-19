@@ -1,6 +1,6 @@
 ---
 category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Cabo San Lucas -- January 23, 2023"
+title: "Cabo San Lucas - January 23, 2023"
 date: 2023-01-23
 img: images/IMG_5962.webp
 tags: [Carnival Panorama, Cabo San Lucas]

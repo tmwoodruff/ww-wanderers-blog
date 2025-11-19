@@ -1,6 +1,6 @@
 ---
 category: "Canyons Adventure - September 2023"
-title: "Palo Duro Canyon and back home -- September 15, 2023"
+title: "Palo Duro Canyon and back home - September 15, 2023"
 date: 2023-09-15
 img: images/IMG_7502.webp
 tags: [Amarillo, Palo Duro Canyon State Park]

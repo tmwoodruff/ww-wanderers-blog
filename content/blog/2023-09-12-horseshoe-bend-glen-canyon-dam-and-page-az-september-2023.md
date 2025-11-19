@@ -1,6 +1,6 @@
 ---
 category: "Canyons Adventure - September 2023"
-title: "Horseshoe Bend, Glen Canyon Dam, and Page, AZ -- September 12, 2023"
+title: "Horseshoe Bend, Glen Canyon Dam, and Page, AZ - September 12, 2023"
 date: 2023-09-12
 img: images/IMG_7265.webp
 tags: [Glen Canyon Dam, Horseshoe Bend, Page, Arizona, Utah]

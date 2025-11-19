@@ -1,6 +1,6 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
-title: "Ocean Cay -- March 13, 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+title: "Ocean Cay - March 13, 2024"
 date: 2024-03-13
 img: images/IMG_7815.webp
 tags: [Ocean Cay, The Bahamas, MSC Meraviglia]

@@ -1,5 +1,5 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
 title: "Planning and Flight - March 8, 2024"
 date: 2024-03-08
 img: images/IMG_7621.webp

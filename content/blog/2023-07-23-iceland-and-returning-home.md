@@ -1,6 +1,6 @@
 ---
 category: "Iceland and Greenland on the NCL Star - July 2023"
-title: "Back to Reykjavik and returning home -- July 22-23, 2023"
+title: "Back to Reykjavik and returning home - July 22-23, 2023"
 date: 2023-07-23
 img: images/IMG_6895.webp
 tags: [reykjavik]

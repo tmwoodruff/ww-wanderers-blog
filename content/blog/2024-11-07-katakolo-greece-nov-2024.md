@@ -1,7 +1,7 @@
 ---
 category: "NCL Pearl Mediterranean Cruise - November 2024"
 title: "Katakolo, Greece - November 7, 2024"
-date: 2024-12-21
+date: 2024-11-07
 img: images/IMG_0735.webp
 tags: [Greece, Katakolo, NCL Pearl]
 country: gr

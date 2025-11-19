@@ -1,6 +1,6 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas -- March 2024"
-title: "Sea Day through the Atlantic Ocean -- March 11, 2024"
+category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+title: "Sea Day through the Atlantic Ocean - March 11, 2024"
 date: 2024-03-11
 img: images/IMG_7654.webp
 tags: [sea day, MSC Meraviglia]
