@@ -1,5 +1,5 @@
 ---
-title: "License Plate Collections"
+title: "License Plate Collection"
 date: 2025-10-24
 tags: []
 img: 2025-10_LicensePlates/License%20Plats%20for%20blog.1800x1200.webp
