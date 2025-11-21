@@ -2,6 +2,7 @@
 title: "License Plate Collections"
 date: 2025-10-24
 tags: []
+img: 2025-10_LicensePlates/License%20Plats%20for%20blog.1800x1200.webp
 category: Other
 author: Tammy
 description: ""
