@@ -11,17 +11,18 @@ For fun --
 
 World scratch and U.S. National Park pin maps history; both from my sister. We have a lot more traveling to do. 
 
-**August 2015**
+**November 2025**
 
-{% image "legacy/Screen Shot 2023-03-05 at 6.37.47 PM.webp", "1716x1288" %}
+{% image "https://assets.ww-wanderers.cc/images/legacy/2025-11-21%2015-38.2011x1472.webp", "2011x1472" %}
+
+{% image "https://assets.ww-wanderers.cc/images/legacy/IMG_20251121_153758431.2048x1629.webp", "2048x1629" %}
 
 **March 2023**
-
-**  
-**
 
 {% image "legacy/Screen Shot 2023-03-05 at 8.32.42 PM.webp", "2048x1600" %}
 
-**March 2023**
-
 {% image "legacy/Screen Shot 2023-03-05 at 8.32.04 PM.webp", "2048x1659" %}
+
+**August 2015**
+
+{% image "legacy/Screen Shot 2023-03-05 at 6.37.47 PM.webp", "1716x1288" %}
