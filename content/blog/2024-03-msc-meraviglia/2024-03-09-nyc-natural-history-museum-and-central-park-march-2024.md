@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
-title: "Natural History Museum and Central Park - March 9, 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
+title: "Natural History Museum and Central Park"
 date: 2024-03-09
-img: images/IMG_20240309_093718314_HDR.webp
+img: legacy/IMG_20240309_093718314_HDR.webp
 tags: [American Museum of Natural History, NYC]
 country: us
 state: ny

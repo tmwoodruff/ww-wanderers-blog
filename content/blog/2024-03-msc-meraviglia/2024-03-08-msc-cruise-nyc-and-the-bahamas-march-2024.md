@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
-title: "Planning and Flight - March 8, 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
+title: "Planning and Flight"
 date: 2024-03-08
-img: images/IMG_7621.webp
+img: legacy/IMG_7621.webp
 tags: [MSC Meraviglia, NYC]
 country: us
 state: ny

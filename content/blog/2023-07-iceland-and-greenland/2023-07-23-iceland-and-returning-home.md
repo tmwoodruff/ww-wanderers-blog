@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Back to Reykjavik and returning home - July 22-23, 2023"
 date: 2023-07-23
-img: images/IMG_6895.webp
+img: legacy/IMG_6895.webp
 tags: [reykjavik]
 country: is
 author: Tammy

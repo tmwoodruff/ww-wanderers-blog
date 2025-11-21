@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Old Faithful and Upper Geyser Basin - July 20, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Old Faithful and Upper Geyser Basin"
 date: 2022-07-20
-img: images/IMG_5066.webp
+img: legacy/IMG_5066.webp
 tags: [National Park, yellowstone]
 country: us
 state: wy

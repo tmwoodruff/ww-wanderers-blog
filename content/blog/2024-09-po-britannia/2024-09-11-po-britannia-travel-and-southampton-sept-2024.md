@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
+trip: { title: "P&O Britannia" }
 title: "Travel and Southampton - September 11-12, 2024"
 date: 2024-09-11
-img: images/IMG_8709.webp
+img: legacy/IMG_8709.webp
 tags: [Southampton, National Express coach]
 country: uk
 author: Tammy

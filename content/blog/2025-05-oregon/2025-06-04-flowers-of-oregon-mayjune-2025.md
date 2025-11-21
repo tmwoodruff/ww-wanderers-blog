@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Flowers of Oregon"
 date: 2025-06-04
-img: images/IMG_2094.webp
+img: legacy/IMG_2094.webp
 tags: []
 country: us
 state: or

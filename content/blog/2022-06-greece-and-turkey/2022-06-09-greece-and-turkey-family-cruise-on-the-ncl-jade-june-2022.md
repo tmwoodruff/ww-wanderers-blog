@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Mykonos - June 9, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Mykonos"
 date: 2022-06-09
-img: images/IMG_4879.webp
+img: legacy/IMG_4879.webp
 tags: [Mykonos, Greece]
 counrtry: gr
 author: Tammy

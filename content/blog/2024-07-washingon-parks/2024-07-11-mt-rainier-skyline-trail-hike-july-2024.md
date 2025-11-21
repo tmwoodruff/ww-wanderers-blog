@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "Hiking Skyline Trail in Mt. Rainier - July 11, 2024"
+trip: { title: "Washington National Parks" }
+title: "Hiking Skyline Trail in Mt. Rainier"
 date: 2024-07-11
-img: images/IMG_8167.webp
+img: legacy/IMG_8167.webp
 tags: [Skyline, Mount Rainier, Washington]
 country: us
 state: wa

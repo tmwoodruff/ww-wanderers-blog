@@ -1,8 +1,8 @@
 ---
-category: "Philadelphia - Sept 2022"
-title: "Independence Hall and Seaport Museum - Sept 22, 2022"
+trip: { title: "Philadelphia" }
+title: "Independence Hall and Seaport Museum"
 date: 2022-09-22
-img: images/IMG_5580.webp
+img: legacy/IMG_5580.webp
 tags: [philadelphia, independence hall, independence seaport museum, liberty bell]
 country: us
 state: pa

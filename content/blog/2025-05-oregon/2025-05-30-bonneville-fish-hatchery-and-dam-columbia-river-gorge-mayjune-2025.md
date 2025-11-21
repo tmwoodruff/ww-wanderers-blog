@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Bonneville Fish Hatchery and Dam - May 30, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Bonneville Fish Hatchery and Dam"
 date: 2025-05-30
-img: images/Google map triangle.webp
+img: legacy/Google map triangle.webp
 tags: [Columbia River Gorge, Oregon, Bonneville]
 country: us
 state: or

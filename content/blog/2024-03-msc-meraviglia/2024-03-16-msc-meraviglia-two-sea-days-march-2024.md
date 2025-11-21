@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Two more Sea Days on the way back to NYC - March 15-16, 2024"
 date: 2024-03-16
-img: images/IMG_7924.webp
+img: legacy/IMG_7924.webp
 tags: [sea day, MSC Meraviglia]
 author: Tammy
 description: ""

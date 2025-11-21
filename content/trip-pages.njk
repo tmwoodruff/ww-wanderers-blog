@@ -1,15 +1,17 @@
 ---js
-// <script>
 const pagination = {
-	data: "allTrips",
+	data: "collections.posts",
 	size: 1,
 	alias: "trip",
+	before: function (paginationData, fullData) {
+		return this.trips(paginationData);
+	}
 };
 
 const eleventyExcludeFromCollections = true;
 
 const eleventyComputed = {
-	title: "{{ trip.title }}",
+	title: "{{ trip.title | safe }}",
 	permalink: "{{ trip.url }}"
 };
 ---
@@ -18,11 +20,11 @@ const eleventyComputed = {
 {% set postslist = trip | tripPosts | reverse %}
 {% include "postslist.njk" %}
 
-{%- set previousTrip = trip | previousTrip %}
-{%- set nextTrip = trip | nextTrip %}
-{%- if nextTrip or previousTrip %}
+{%- set previousItem = collections.posts | previousPostOrTrip %}
+{%- set nextItem = collections.posts | nextPostOrTrip %}
+{%- if nextItem or previousItem %}
 <ul class="links-nextprev">
-	{%- if previousTrip %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousTrip.url }}">{{ previousTrip.title }}</a></li>{% endif %}
-	{%- if nextTrip %}<li class="links-nextprev-next">Next →<br><a href="{{ nextTrip.url }}">{{ nextTrip.title }}</a></li>{% endif %}
+	{%- if previousItem %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousItem.url }}">{{ previousItem.title }}</a></li>{% endif %}
+	{%- if nextItem %}<li class="links-nextprev-next">Next →<br><a href="{{ nextItem.url }}">{{ nextItem.title }}</a></li>{% endif %}
 </ul>
 {%- endif %}

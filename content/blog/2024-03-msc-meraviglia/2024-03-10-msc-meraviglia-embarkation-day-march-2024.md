@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
-title: "Embarkation Day - March 10, 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
+title: "Embarkation Day"
 date: 2024-03-10
-img: images/IMG_7585.webp
+img: legacy/IMG_7585.webp
 tags: [MSC Meraviglia, embarkation]
 country: us
 state: ny

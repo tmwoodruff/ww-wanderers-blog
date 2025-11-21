@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Istanbul - June 7, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Istanbul"
 date: 2022-06-07
-img: images/IMG_4694.webp
+img: legacy/IMG_4694.webp
 tags: [Turkey, Istanbul]
 country: tr
 author: Tammy

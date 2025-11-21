@@ -1,8 +1,8 @@
 ---
-category: "Death Valley - March 2022"
+trip: { title: "Death Valley" }
 title: "Death Valley"
 date: 2022-03-18
-img: images/277369174_10220240736958434_14320206310629098.webp
+img: legacy/277369174_10220240736958434_14320206310629098.webp
 tags: [Death Valley, California]
 country: ca
 state: [ca, nv]

@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Portland - June 3, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Portland"
 date: 2025-06-03
-img: images/IMG_2546.webp
+img: legacy/IMG_2546.webp
 tags: [Portland, Rose Garden]
 country: us
 state: or

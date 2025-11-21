@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Drive to and arriving at Glacier - July 23, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Drive to and arriving at Glacier"
 date: 2022-07-23
-img: images/IMG_5306.webp
+img: legacy/IMG_5306.webp
 tags: [glacier national park]
 country: us
 state: wy

@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Embarkation Day - June 5, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Embarkation Day"
 date: 2022-06-05
-img: images/IMG_4529.webp
+img: legacy/IMG_4529.webp
 tags: [NCL Jade, embarkation]
 country: gr
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
-title: "Flam, Norway - September 16, 2024"
+trip: { title: "P&O Britannia" }
+title: "Flam, Norway"
 date: 2024-09-16
-img: images/IMG_20240916_073307536_HDR.webp
+img: legacy/IMG_20240916_073307536_HDR.webp
 tags: [P&O Britannia, Flam, Norway]
 country: no
 author: Tammy

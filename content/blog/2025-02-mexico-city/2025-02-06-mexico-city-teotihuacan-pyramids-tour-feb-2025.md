@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Teotihuacan Pyramids - February 6, 2025"
+trip: { title: "Mexico City" }
+title: "Teotihuacan Pyramids"
 date: 2025-02-06
-img: images/IMG_1703.webp
+img: legacy/IMG_1703.webp
 tags: [Teotihuacan pyramids, Condesa, Mexico City]
 country: mx
 author: Tammy

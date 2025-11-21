@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Wet Planet Whitewater Rafting - June 2, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Wet Planet Whitewater Rafting"
 date: 2025-06-02
-img: images/IMG_2535.webp
+img: legacy/IMG_2535.webp
 tags: [Whitewater Rafting, White Salmon, Bonneville]
 country: us
 state: or

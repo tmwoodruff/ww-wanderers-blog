@@ -1,8 +1,8 @@
 ---
-category: "Death Valley - March 2022"
+trip: { title: "Death Valley" }
 title: "After Death Valley"
 date: 2022-03-19
-img: images/IMG_4222.webp
+img: legacy/IMG_4222.webp
 tags: [Neveda, Red Rock Canyon, Mt Charleston, Las Vegas]
 country: us
 state: [nv]

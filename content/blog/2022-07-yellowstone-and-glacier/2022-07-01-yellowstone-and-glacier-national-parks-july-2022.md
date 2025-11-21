@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Planning"
 date: 2022-07-01
-img: images/P1110245.webp
+img: legacy/P1110245.webp
 tags: [camping, National Parks, glacier, yellowstone]
 country: us
 author: Tammy

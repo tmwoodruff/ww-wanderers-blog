@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Messina, Sicily - November 8, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Messina, Sicily"
 date: 2024-11-08
-img: images/IMG_0779.webp
+img: legacy/IMG_0779.webp
 tags: [Sicily, NCL Pearl]
 country: it
 author: Tammy

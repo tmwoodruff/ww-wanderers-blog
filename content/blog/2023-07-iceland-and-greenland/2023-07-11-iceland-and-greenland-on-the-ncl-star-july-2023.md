@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Flight and Reykjavik: July 10-11, 2023"
 date: 2023-07-11
-img: images/IMG_20230711_014618755_HDR.webp
+img: legacy/IMG_20230711_014618755_HDR.webp
 tags: [reykjavik, ncl star, iceland]
 country: is
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Kusadasi and Ephesus, Turkey 🇹🇷 - June 6, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Kusadasi and Ephesus, Turkey 🇹🇷"
 date: 2022-06-06
-img: images/IMG_4571.webp
+img: legacy/IMG_4571.webp
 tags: [Turkey, cruise, Ephesus, Kusadasi]
 country: tr
 author: Tammy

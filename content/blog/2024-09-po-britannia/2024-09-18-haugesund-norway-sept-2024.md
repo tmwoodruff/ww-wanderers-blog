@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
-title: "Haugesund, Norway - September 18, 2024"
+trip: { title: "P&O Britannia" }
+title: "Haugesund, Norway"
 date: 2024-09-18
-img: images/IMG_9132.webp
+img: legacy/IMG_9132.webp
 tags: [Haugesund, P&O Britannia]
 country: no
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "NCL Pearl Mediterranean Cruise Review - Nov 2024 "
 date: 2024-11-16
-img: images/IMG_0620.webp
+img: legacy/IMG_0620.webp
 tags: [cruise review, NCL Pearl]
 author: Tammy
 description: ""

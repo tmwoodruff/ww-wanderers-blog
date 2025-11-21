@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "Mt. Rainier one more hike and on to Olympic - July 12, 2024"
+trip: { title: "Washington National Parks" }
+title: "Mt. Rainier one more hike and on to Olympic"
 date: 2024-07-12
-img: images/IMG_8268.webp
+img: legacy/IMG_8268.webp
 tags: [National Park, Mount Rainier, Olympic]
 country: us
 state: wa

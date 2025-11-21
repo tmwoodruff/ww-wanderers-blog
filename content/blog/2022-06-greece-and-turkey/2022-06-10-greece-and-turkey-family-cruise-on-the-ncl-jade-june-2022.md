@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Rhodes - June 10, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Rhodes"
 date: 2022-06-10
-img: images/IMG_4919.webp
+img: legacy/IMG_4919.webp
 tags: [Greece, Rhodes]
 country: gr
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
-title: "Nordfjordeid, Norway - September 17, 2024"
+trip: { title: "P&O Britannia" }
+title: "Nordfjordeid, Norway"
 date: 2024-09-17
-img: images/IMG_9073.webp
+img: legacy/IMG_9073.webp
 tags: [P&O Britannia, Norwegian Fjords]
 country: no
 author: Tammy

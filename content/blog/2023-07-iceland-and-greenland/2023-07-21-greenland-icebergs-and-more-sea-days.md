@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Icebergs and more sea days - July 19-21, 2023"
 date: 2023-07-21
-img: images/IMG_6778 (2023_09_17 23_04_38 UTC).webp
+img: legacy/IMG_6778 (2023_09_17 23_04_38 UTC).webp
 tags: [icebergs, sea day, Greenland]
 country: gl
 author: Tammy

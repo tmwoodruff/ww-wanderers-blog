@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
+trip: { title: "P&O Britannia" }
 title: "First P&O UK Cruise - Preparation"
 date: 2024-09-01
-img: images/IMG_20240913_093117517.webp
+img: legacy/IMG_20240913_093117517.webp
 tags: [P&O Britannia, Norwegian Fjords, UK]
 author: Tammy
 description: ""

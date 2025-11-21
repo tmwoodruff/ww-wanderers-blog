@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Volos, Greece - June 8, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Volos, Greece"
 date: 2022-06-08
-img: images/IMG_4812.webp
+img: legacy/IMG_4812.webp
 tags: [Greece, Volos]
 country: gr
 author: Tammy

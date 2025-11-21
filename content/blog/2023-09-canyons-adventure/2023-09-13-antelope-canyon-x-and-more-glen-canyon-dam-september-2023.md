@@ -1,8 +1,8 @@
 ---
-category: "Canyons Adventure - September 2023"
-title: "Antelope Canyon X and more Glen Canyon Dam - September 13, 2023"
+trip: { title: "Canyons Adventure" }
+title: "Antelope Canyon X and more Glen Canyon Dam"
 date: 2023-09-13
-img: images/P1130528.webp
+img: legacy/P1130528.webp
 tags: [Glen Canyon Dam, Antelope Canyon]
 country: us
 state: [az, ut]

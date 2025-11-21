@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
-title: "NCL Star Embarkation - July 13, 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
+title: "NCL Star Embarkation"
 date: 2023-07-13
-img: images/IMG_6461.webp
+img: legacy/IMG_6461.webp
 tags: [reykjavik, ncl star, embarkation]
 country: is
 author: Tammy

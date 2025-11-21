@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "Ferry to Whidbey Island and North Cascades - July 15, 2024"
+trip: { title: "Washington National Parks" }
+title: "Ferry to Whidbey Island and North Cascades"
 date: 2024-07-15
-img: images/IMG_20240715_080144043_HDR.webp
+img: legacy/IMG_20240715_080144043_HDR.webp
 tags: [North Cascades, Washington]
 country: us
 state: wa

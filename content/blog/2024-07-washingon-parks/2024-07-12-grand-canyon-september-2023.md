@@ -1,8 +1,8 @@
 ---
-category: "Canyons Adventure - September 2023"
+trip: { title: "Canyons Adventure" }
 title: "Grand Canyon - September 9-12, 2023"
 date: 2023-19-12
-img: images/IMG_7198.webp
+img: legacy/IMG_7198.webp
 tags: [Grand Canyon, Arizona]
 country: us
 state: az

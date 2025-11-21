@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Grand Canyon of Yellowstone and Upper and Lower Falls - July 22, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Grand Canyon of Yellowstone and Upper and Lower Falls"
 date: 2022-07-22
-img: images/IMG_5242.webp
+img: legacy/IMG_5242.webp
 tags: [grand canyon of yellowstone]
 country: us
 state: wy
