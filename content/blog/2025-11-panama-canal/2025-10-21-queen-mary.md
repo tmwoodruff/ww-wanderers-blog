@@ -3,6 +3,7 @@ trip: { title: "Panama Canal Cruise" }
 title: "Arriving in Los Angeles, staying on the Queen Mary"
 date: 2025-10-21
 tags: [Queen Mary]
+img: 2025-10_Queen_Mary/IMG_3504.2048x1536.webp
 author: Tammy
 description: ""
 ---
