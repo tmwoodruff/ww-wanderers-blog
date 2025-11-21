@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
-title: "Santorini - June 11, 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
+title: "Santorini"
 date: 2022-06-11
-img: images/IMG_4988.webp
+img: legacy/IMG_4988.webp
 tags: [Greece, Santorini]
 country: gr
 author: Tammy

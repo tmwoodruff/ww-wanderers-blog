@@ -1,5 +1,5 @@
 ---
-category: "Panama Canal Cruise - October/November 2025"
+trip: { title: "Panama Canal Cruise" }
 title: "Arriving in Los Angeles, staying on the Queen Mary"
 date: 2025-10-21
 tags: [Queen Mary]

@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "The Dalles - May 31, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "The Dalles"
 date: 2025-05-31
-img: images/IMG_2325.webp
+img: legacy/IMG_2325.webp
 tags: [Columbia River Gorge, Oregon]
 country: us
 state: or

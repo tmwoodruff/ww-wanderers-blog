@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
-title: "Embarkation - September 13, 2024"
+trip: { title: "P&O Britannia" }
+title: "Embarkation"
 date: 2024-09-13
-img: images/IMG_8730.webp
+img: legacy/IMG_8730.webp
 tags: [P&O Britannia, Norwegian Fjords, Titanic Museum]
 country: uk
 author: Tammy

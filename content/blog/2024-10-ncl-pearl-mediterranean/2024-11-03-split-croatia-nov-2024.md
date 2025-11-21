@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Split, Croatia - November 3, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Split, Croatia"
 date: 2024-11-03
-img: images/IMG_0137.webp
+img: legacy/IMG_0137.webp
 tags: [Split, NCL Pearl, Croatia]
 country: h2
 author: Tammy

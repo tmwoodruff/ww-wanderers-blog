@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Heading back to Bozeman and flight home - July 26/27, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Heading back to Bozeman and flight home"
 date: 2022-07-27
-img: images/IMG_5555.webp
+img: legacy/IMG_5555.webp
 tags: [bozeman, montana]
 country: us
 state: wy

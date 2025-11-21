@@ -39,6 +39,14 @@ function imageShortcode(src, size = "", psize = "", psrc = "", alt="") {
 	`.replace(/(\\r\n|\n|\r)/gm, "");
 }
 
+function imagePreviewUrlShortcode(src) {
+	src = src.replace(/^https:\/\/[^/]+\//, "");
+	src = src.replace(/^images\//, "");
+	src = `https://assets.ww-wanderers.cc/images/${src}`;
+	const psrc = src.replace(/\.(?:\d+x\d+\.)?([^.]+)$/, "-240.$1");
+	return psrc;
+}
+
 function addPhotoswipe(content) {
 	const url = this.url || "";
 	const outputPath = this.page.outputPath || "";
@@ -95,6 +103,7 @@ export default (eleventyConfig) => {
 		  "/css/photoswipe/photoswipe.css",
 	});
 	eleventyConfig.addShortcode("image", imageShortcode);
+	eleventyConfig.addShortcode("imagePreviewUrl", imagePreviewUrlShortcode);
 	eleventyConfig.addTransform("photoswipejs", addPhotoswipe);
 	eleventyConfig.htmlTransformer.addPosthtmlPlugin("html", layoutImagesPlugin, {"name": "layout-images"});
 };

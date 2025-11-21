@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Flight and arriving in Bozeman and Yellowstone - July 19, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Flight and arriving in Bozeman and Yellowstone"
 date: 2022-07-19
-img: images/P1110583.webp
+img: legacy/P1110583.webp
 tags: [bozeman, yellowstone]
 country: us
 state: [mt, wy]

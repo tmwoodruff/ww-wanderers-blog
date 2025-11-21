@@ -1,8 +1,8 @@
 ---
-category: "Greece and Turkey – Family Cruise on the NCL Jade – June 2022"
+trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
 title: "Flight and first night in Athens - June 2-3, 2022"
 date: 2022-06-02
-img: images/image1.webp
+img: legacy/image1.webp
 tags: [Athens]
 country: gr
 author: Tammy

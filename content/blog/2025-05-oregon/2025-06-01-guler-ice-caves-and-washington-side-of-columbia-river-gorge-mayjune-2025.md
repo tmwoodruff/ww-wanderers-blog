@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Guler Ice Caves and Washington side of Columbia River Gorge - June 1, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Guler Ice Caves and Washington side of Columbia River Gorge"
 date: 2025-06-01
-img: images/IMG_2482.webp
+img: legacy/IMG_2482.webp
 tags: [Washington, Columbia River Gorge, Ice Caves]
 country: us
 state: [or, wa]

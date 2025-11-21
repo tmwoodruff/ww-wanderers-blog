@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Museo Soumaya and Cablebus ride - February 8, 2025"
+trip: { title: "Mexico City" }
+title: "Museo Soumaya and Cablebus ride"
 date: 2025-02-08
-img: images/IMG_1908.webp
+img: legacy/IMG_1908.webp
 tags: [Cablebus, Mexico City, Museo Soumaya]
 country: mx
 author: Tammy

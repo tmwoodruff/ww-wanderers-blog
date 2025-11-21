@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Mexico City - Overview and kickoff - Feb 2025"
+trip: { title: "Mexico City" }
+title: "Mexico City - Overview and kickoff"
 date: 2025-02-04
-img: images/IMG_1623.webp
+img: legacy/IMG_1623.webp
 tags: [Mexico City]
 country: mx
 author: Tammy

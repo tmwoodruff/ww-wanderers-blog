@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
+trip: { title: "P&O Britannia" }
 title: "Sea Day, Formal Night, and Stavanger"
 date: 2024-09-15
-img: images/IMG_8761.webp
+img: legacy/IMG_8761.webp
 tags: [P&O Britannia, Stavanger]
 author: Tammy
 description: ""

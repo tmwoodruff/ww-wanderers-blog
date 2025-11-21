@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Daily Planners"
 date: 2024-03-02
-img: images/image7.webp
+img: legacy/image7.webp
 tags: [MSC Meraviglia, Daily Planners]
 author: Tammy
 description: ""

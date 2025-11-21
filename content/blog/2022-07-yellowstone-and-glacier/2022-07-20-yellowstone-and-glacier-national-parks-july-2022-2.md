@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Mammoth Hot Springs Terraces - July 20, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Mammoth Hot Springs Terraces"
 date: 2022-07-20 12:00:00
-img: images/IMG_5129.webp
+img: legacy/IMG_5129.webp
 tags: [mammoth hot springs, yellowstone]
 country: us
 state: wy

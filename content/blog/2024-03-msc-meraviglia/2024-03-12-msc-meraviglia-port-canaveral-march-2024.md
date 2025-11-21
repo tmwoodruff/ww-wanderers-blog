@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
-title: "Port Canaveral - March 12, 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
+title: "Port Canaveral"
 date: 2024-03-12
-img: images/IMG_7681.webp
+img: legacy/IMG_7681.webp
 tags: [Port Canaveral, MSC Meraviglia, Airboat]
 country: us
 state: fl

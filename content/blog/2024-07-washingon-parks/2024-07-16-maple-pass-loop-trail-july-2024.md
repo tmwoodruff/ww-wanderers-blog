@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "North Cascades Maple Pass Loop hike - July 16, 2024"
+trip: { title: "Washington National Parks" }
+title: "North Cascades Maple Pass Loop hike"
 date: 2024-07-16
-img: images/IMG_8458.webp
+img: legacy/IMG_8458.webp
 tags: [North Cascades, Washington]
 country: us
 state: wa

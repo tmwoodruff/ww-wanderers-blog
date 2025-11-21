@@ -1,8 +1,8 @@
 ---
-category: "Philadelphia - Sept 2022"
-title: "Walking around and the Rodin Museum - Sept 23, 2022"
+trip: { title: "Philadelphia" }
+title: "Walking around and the Rodin Museum"
 date: 2022-09-23
-img: images/IMG_5667.webp
+img: legacy/IMG_5667.webp
 tags: [philadelphia, rodin]
 country: us
 state: pa

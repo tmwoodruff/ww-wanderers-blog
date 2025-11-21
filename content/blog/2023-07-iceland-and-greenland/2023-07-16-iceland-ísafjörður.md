@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
-title: "Ísafjörður - July 16, 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
+title: "Ísafjörður"
 date: 2023-07-16
-img: images/IMG_6594.webp
+img: legacy/IMG_6594.webp
 tags: [ncl star, Dynjandi, Isafjordur]
 country: is
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
+trip: { title: "P&O Britannia" }
 title: "P&O Britannia Daily Planners"
 date: 2024-09-23
-img: images/image11.webp
+img: legacy/image11.webp
 tags: [P&O Britannia]
 author: Tammy
 description: ""

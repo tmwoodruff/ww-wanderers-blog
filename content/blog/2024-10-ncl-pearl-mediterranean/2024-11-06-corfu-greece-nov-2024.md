@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Corfu, Greece - November 6, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Corfu, Greece"
 date: 2024-11-06
-img: images/IMG_0616.webp
+img: legacy/IMG_0616.webp
 tags: [Greece, Corfu, Fortress, NCL Pearl]
 country: gr
 author: Tammy

@@ -1,8 +1,8 @@
 ---
-category: "MSC Cruise, NYC, and the Bahamas - March 2024"
-title: "NYC Last Day - March 18, 2024"
+trip: { title: "MSC Cruise, NYC, and the Bahamas" }
+title: "NYC Last Day"
 date: 2024-03-18
-img: images/IMG_7989.webp
+img: legacy/IMG_7989.webp
 tags: [NYC]
 country: us
 state: ny

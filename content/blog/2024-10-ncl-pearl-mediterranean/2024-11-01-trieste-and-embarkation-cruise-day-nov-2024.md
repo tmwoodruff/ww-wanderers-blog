@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Trieste and Embarkation - November 1, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Trieste and Embarkation"
 date: 2024-11-01
-img: images/image28.webp
+img: legacy/image28.webp
 tags: [Trieste, NCL Pearl]
 country: it
 author: Tammy

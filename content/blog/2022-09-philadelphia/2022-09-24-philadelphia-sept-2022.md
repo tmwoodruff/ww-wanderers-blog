@@ -1,8 +1,8 @@
 ---
-category: "Philadelphia - Sept 2022"
-title: "Mutter Museum and Eastern State Penitentiary - Sept 24, 2022"
+trip: { title: "Philadelphia" }
+title: "Mutter Museum and Eastern State Penitentiary"
 date: 2022-09-24
-img: images/IMG_5723.webp
+img: legacy/IMG_5723.webp
 tags: [mutter, philadelphia, eastern state penitentiary]
 country: us
 state: pa

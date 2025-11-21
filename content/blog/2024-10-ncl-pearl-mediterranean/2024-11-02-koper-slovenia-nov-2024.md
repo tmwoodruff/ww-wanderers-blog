@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Koper, Slovenia - November 2, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Koper, Slovenia"
 date: 2024-11-02
-img: images/IMG_9596.webp
+img: legacy/IMG_9596.webp
 tags: [Predjama Castle, Postojna Cave, Slovenia, NCL Pearl]
 country: si
 author: Tammy

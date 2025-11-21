@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Planning and First Day - May 28, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Planning and First Day"
 date: 2025-05-28
-img: images/image80.webp
+img: legacy/image80.webp
 tags: [Columbia River Gorge, Portland, Oregon]
 country: us
 state: or

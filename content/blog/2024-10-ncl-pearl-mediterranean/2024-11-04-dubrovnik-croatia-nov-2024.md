@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Dubrovnik, Croatia - November 4, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Dubrovnik, Croatia"
 date: 2024-11-04
-img: images/IMG_0282.webp
+img: legacy/IMG_0282.webp
 tags: [Dubrovnik, NCL Pearl, Croatia]
 country: hr
 author: Tammy

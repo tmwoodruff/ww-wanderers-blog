@@ -1,8 +1,8 @@
 ---
-category: "Mexican Riviera Cruise on the Carnival Panorama – January 2023"
-title: "Arriving in Long Beach - January 20, 2023"
+trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
+title: "Arriving in Long Beach"
 date: 2023-01-20
-img: images/IMG_5876.webp
+img: legacy/IMG_5876.webp
 tags: [Long Beach, Carnival Panorama]
 country: us
 state: ca

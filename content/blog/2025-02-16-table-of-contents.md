@@ -1,7 +1,7 @@
 ---
 title: "Table of Contents"
 date: 2025-02-16
-img: images/Screen Shot 2023-03-05 at 8.32.42 PM.webp
+img: legacy/Screen Shot 2023-03-05 at 8.32.42 PM.webp
 tags: [Table of Contents]
 author: Tammy
 description: ""

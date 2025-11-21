@@ -1,7 +1,7 @@
 ---
-title: "ATLAS Comet - October 15, 2024"
+title: "ATLAS Comet"
 date: 2024-10-19
-img: images/1140679~2.webp
+img: legacy/1140679~2.webp
 tags: []
 author: Tammy
 description: ""

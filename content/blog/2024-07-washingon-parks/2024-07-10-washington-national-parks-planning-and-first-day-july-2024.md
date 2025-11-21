@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "Planning, First Day - July 10, 2024"
+trip: { title: "Washington National Parks" }
+title: "Planning, First Day"
 date: 2024-07-10
-img: images/IMG_20240710_112604382.webp
+img: legacy/IMG_20240710_112604382.webp
 tags: [National Park, Mount Rainier, Washington]
 country: us
 state: wa

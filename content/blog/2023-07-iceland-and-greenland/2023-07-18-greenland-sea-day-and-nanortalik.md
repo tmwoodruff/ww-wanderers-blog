@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Sea day and Greenland - July 17-18, 2023"
 date: 2023-07-18
-img: images/P1120853.webp
+img: legacy/P1120853.webp
 tags: [icebergs, nanortalik, Greenland]
 country: gl
 author: Tammy

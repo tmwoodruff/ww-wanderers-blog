@@ -1,8 +1,8 @@
 ---
-category: "Portland, Oregon and the Columbia River Gorge - May/June 2025"
-title: "Multnomah Falls - May 29, 2025"
+trip: { title: "Portland, Oregon and the Columbia River Gorge" }
+title: "Multnomah Falls"
 date: 2025-05-29
-img: images/IMG_2108.webp
+img: legacy/IMG_2108.webp
 tags: [Oregon, Columbia River Gorge, Multnomah Falls]
 country: us
 state: or

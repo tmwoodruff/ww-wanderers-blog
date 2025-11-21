@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Chocolate Museum and Flight home - February 10, 2025"
+trip: { title: "Mexico City" }
+title: "Chocolate Museum and Flight home"
 date: 2025-02-10
-img: images/IMG_20250210_091417714_HDR.webp
+img: legacy/IMG_20250210_091417714_HDR.webp
 tags: [Mexico City, Chocolate Museum]
 country: mx
 author: Tammy

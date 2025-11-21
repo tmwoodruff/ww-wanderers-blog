@@ -1,8 +1,8 @@
 ---
-category: "NCL Pearl Mediterranean Cruise - November 2024"
-title: "Kotor, Montenegro - November 5, 2024"
+trip: { title: "NCL Pearl Mediterranean Cruise" }
+title: "Kotor, Montenegro"
 date: 2024-11-05
-img: images/IMG_0523.webp
+img: legacy/IMG_0523.webp
 tags: [Kotor, Montenegro, NCL Pearl]
 country: me
 author: Tammy

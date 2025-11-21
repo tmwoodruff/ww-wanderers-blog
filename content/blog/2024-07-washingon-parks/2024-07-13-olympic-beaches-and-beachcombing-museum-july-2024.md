@@ -1,8 +1,8 @@
 ---
-category: "Washington National Parks - July 2024"
-title: "Olympic Beaches and Beachcombing Museum - July 13, 2024"
+trip: { title: "Washington National Parks" }
+title: "Olympic Beaches and Beachcombing Museum"
 date: 2024-07-13
-img: images/IMG_8288.webp
+img: legacy/IMG_8288.webp
 tags: [Olympic, Forks WA]
 country: us
 state: wa

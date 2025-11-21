@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
-title: "Sea Day back to the UK, Winchester, and Home - Sept 2024"
+trip: { title: "P&O Britannia" }
+title: "Sea Day back to the UK, Winchester, and Home"
 date: 2024-09-21
-img: images/IMG_20240916_073307536_HDR.webp
+img: legacy/IMG_20240916_073307536_HDR.webp
 tags: [P&O Britannia, Winchester]
 country: uk
 author: Tammy

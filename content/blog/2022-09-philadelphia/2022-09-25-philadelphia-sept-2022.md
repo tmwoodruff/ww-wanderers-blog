@@ -1,8 +1,8 @@
 ---
-category: "Philadelphia - Sept 2022"
-title: "Valley Forge - Sept 25, 2022"
+trip: { title: "Philadelphia" }
+title: "Valley Forge"
 date: 2022-09-25
-img: images/IMG_5757.webp
+img: legacy/IMG_5757.webp
 tags: [philadelphia, valley forge]
 country: us
 state: pa

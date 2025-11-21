@@ -1,8 +1,8 @@
 ---
-category: "Iceland and Greenland on the NCL Star - July 2023"
-title: "South Coast Tour - July 12, 2023"
+trip: { title: "Iceland and Greenland on the NCL Star" }
+title: "South Coast Tour"
 date: 2023-07-12
-img: images/P1120361.webp
+img: legacy/P1120361.webp
 tags: [Glacier Hiking, South Coast, Vik, iceland]
 country: is
 author: Tammy

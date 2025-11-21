@@ -1,8 +1,8 @@
 ---
-category: "P&O Britannia - September 2024"
+trip: { title: "P&O Britannia" }
 title: "What we ate on P&O Britannia"
 date: 2024-09-22
-img: images/Screenshot 2024-10-19 182538.webp
+img: legacy/Screenshot 2024-10-19 182538.webp
 tags: [P&O Britannia, MDR, Cruise ship food]
 author: Tammy
 description: ""

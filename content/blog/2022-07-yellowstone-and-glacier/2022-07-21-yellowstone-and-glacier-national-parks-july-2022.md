@@ -1,8 +1,8 @@
 ---
-category: "Yellowstone and Glacier National Parks - July 2022"
-title: "Lower and Midway Geyser Basin and Yellowstone Lake - July 21, 2022"
+trip: { title: "Yellowstone and Glacier National Parks" }
+title: "Lower and Midway Geyser Basin and Yellowstone Lake"
 date: 2022-07-21
-img: images/IMG_5167.webp
+img: legacy/IMG_5167.webp
 tags: [geysers, yellowstone]
 country: us
 state: wy

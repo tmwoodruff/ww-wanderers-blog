@@ -1,5 +1,5 @@
 ---
-category: "Panama Canal Cruise - October/November 2025"
+trip: { title: "Panama Canal Cruise" }
 title: "Island Princess Review"
 date: 2025-11-11
 tags: [cruise review]

@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Basilica of Our Lady of Guadalupe and Tlalpexco - February 9, 2025"
+trip: { title: "Mexico City" }
+title: "Basilica of Our Lady of Guadalupe and Tlalpexco"
 date: 2025-02-09
-img: images/IMG_1979.webp
+img: legacy/IMG_1979.webp
 tags: [Cablebus, Tlalpexco, Mexico City]
 country: mx
 author: Tammy

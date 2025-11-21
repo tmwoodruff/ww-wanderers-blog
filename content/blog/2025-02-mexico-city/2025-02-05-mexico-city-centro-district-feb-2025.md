@@ -1,8 +1,8 @@
 ---
-category: "Mexico City - Feburary 2025"
-title: "Mexico City - Centro District - Feb 2025"
+trip: { title: "Mexico City" }
+title: "Mexico City - Centro District"
 date: 2025-02-05
-img: images/IMG_1532.webp
+img: legacy/IMG_1532.webp
 tags: [Mexico City]
 country: mx
 author: Tammy
