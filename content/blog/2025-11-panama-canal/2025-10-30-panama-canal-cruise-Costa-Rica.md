@@ -25,7 +25,7 @@ They used trees for the posts of barbed wire fences. Once a year, they cut the t
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10-30/IMG_2922.2048x1536.webp", "2048x1536" %}
 
-Other nice vistas from the drive. Our driver stopped at a local farmer's market with a restroom. It was a quarter to go; I had brought some US quarters but did not bring them ashore this day. The ladies got some toilet paper for their quarter; guys did not. They also served our group fresh pineapple. Produce from the market was hard to buy and try because we did not have a way to wash it. Someone got a banana, which worked. One stall had cooked food. I regretted not getting a chicken tortilla wrap, which I think was only $1, but we were running low on time. 
+Other nice vistas from the drive.  
 
 {% image "https://assets.ww-wanderers.cc/images/2025-10-30/IMG_2903.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10-30/IMG_2907.2048x1536.webp", "2048x1536" %}
