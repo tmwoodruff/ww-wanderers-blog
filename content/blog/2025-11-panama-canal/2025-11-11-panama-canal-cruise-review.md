@@ -66,7 +66,7 @@ The cabins had very small showers with the dreaded shower curtain. Our shower cy
 
 I used the App chat feature to request a lightbulb be changed (it started continuously blinking). They replied within 10 minutes and had the bulb changed before end of day. 
 
-Our bed was too soft for our taste and visually uneven/lumpy and the comforter had flat spots and lumpy spots. This did not reduce our experience but surprising for a premium cruise line. The provided lotion was nice to not need to buy a full sized bottle after landing. 
+Our bed was too soft for our taste and visually uneven/lumpy and the duvet had flat spots and lumpy spots. This did not reduce our experience but surprising for a premium cruise line. I would still put them as the worst mattress and duvet among our 21 cruises. The provided lotion was nice to not need to buy a full sized bottle after landing. 
 
 The cabin was roomy with good storage -- each night stand had two drawers and a shelf plus one more set like this. There was also a desk and desk chair. Though the only places to sit was in the desk chair or on the bed. I liked the walk-in closet design on both this ship and P&O UK. It is a lot of closet space that is easy to get to with a closed shelf area with safe. The closet wall helps block light from the bathroom at night since the bathroom is opposite it. Though all ships should really put the light switch on the inside of the bathroom, but I have not seen any that have. 
 
