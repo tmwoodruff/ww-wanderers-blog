@@ -122,4 +122,6 @@ A few more pictures from the ship -- The historic hotel; a ship, beautiful fjord
 {% image "legacy/IMG_8870.webp", "2048x1536" %}
 {% image "legacy/IMG_8859.webp", "1536x2048" %}
 
-Back to moored in the water, we went out to watch the de-mooring. They sent a boat out with people to un-moor (which is better de- or un-?) the lines in the fjord. They were communicating with people on the ship who were winding the ropes back in. It looked like one of the lines did not unmoor, so they had to cut it. My first YouTube video showing the unmooring -- no talking yet, just royalty free music: [https://youtu.be/9PMY0OVANiA](https://youtu.be/9PMY0OVANiA).
+Back to moored in the water, we went out to watch the de-mooring. They sent a boat out with people to un-moor (which is better de- or un-?) the lines in the fjord. They were communicating with people on the ship who were winding the ropes back in. It looked like one of the lines did not unmoor, so they had to cut it. My first YouTube video showing the unmooring -- no talking yet, just royalty free music:
+
+https://youtu.be/9PMY0OVANiA

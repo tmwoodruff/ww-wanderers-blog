@@ -157,8 +157,8 @@ function getTrip(trip, offset) {
 }
 
 function getPostOrTrip(allPosts, ctx, offset) {
-    if (ctx.trip) {
-        // This is a trip, so return a post from the same trip if it exists.
+    if (ctx.trip && ctx.page.url !== ctx.trip.url) {
+        // This is a post within a trip, so return a post from the same trip if it exists.
         const tripPosts = getTripPosts(allPosts, ctx.trip);
         const offsetTripPost = getPost(tripPosts, ctx.page, offset);
         if (offsetTripPost) {
@@ -167,11 +167,13 @@ function getPostOrTrip(allPosts, ctx, offset) {
                 url:offsetTripPost.url
             };
         }
-        // Otherwise, return the next trip or standalone post
+        // If we are at the first trip post, include the trip page.
+        // Otherwise, return the next trip or page
+        if (offset < 0) offset++;
         return getTripOrStandalonePost(ctx.trip.id, offset);
     } else {
-        // This is a non-trip (standalone) post, return the next trip or standalone post
-        return getTripOrStandalonePost(_getStandalonePostId(ctx.page), offset);
+        // This is a high-level trip page or a non-trip (standalone) post, return the next trip or standalone post
+        return getTripOrStandalonePost(ctx.trip?.id ?? _getStandalonePostId(ctx.page), offset);
     }
 }
 

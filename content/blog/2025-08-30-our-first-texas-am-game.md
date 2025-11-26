@@ -61,4 +61,6 @@ We had a spirited group behind us.
 {% image "legacy/IMG_20250830_185259766.webp", "2048x1536" %}
 {% image "legacy/IMG_20250830_205025448.webp", "2048x1536" %}
 
-[Highlights and Aggie Band Video](https://youtu.be/K_7mkBVAfzw)
+Highlights and Aggie Band Video:
+
+https://youtu.be/K_7mkBVAfzw
