@@ -1,6 +1,6 @@
 ---
 category: "Panama Canal Cruise - October/November 2025"
-title: "Panama City Exploration, part 2"
+title: "Panama City Monkey Tour, part 2"
 date: 2025-11-01
 tags: [Trip Report]
 author: Tammy
