@@ -3,6 +3,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin, Util } from "@11ty/eleventy-img";
+import embedEverything  from 'eleventy-plugin-embed-everything';
 import pluginPostImages from "./modules/post-images/post-images.js";
 import pluginTrips from "./modules/trips.js";
 
@@ -108,6 +109,9 @@ export default async function(eleventyConfig) {
 			animated: true,
 		},
 	});
+
+	// Embeds  (youtube)
+	eleventyConfig.addPlugin(embedEverything);
 
 	// Post image gallery
 	eleventyConfig.addPlugin(pluginPostImages);

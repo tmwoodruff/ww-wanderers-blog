@@ -9,4 +9,4 @@ description: ""
 
 {% image "legacy/IMG_20241013_094038630_HDR~2.webp", "2048x939" %}
 
-[Link to Video](https://youtu.be/IKNlgzCzECw)
+https://youtu.be/IKNlgzCzECw
