@@ -26,11 +26,13 @@ On with the old town exploration. The Panamanian flag. Church of the Mercy had a
 
 Metropolitan Cathedral Basilica of Santa Maria the Ancient
 
+{% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_20251101_103440478_HDR.2048x1151.webp", "2048x1151" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_3193.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_3195.1536x2048.webp", "1536x2048" %}
 
-Interesting building and the Panama City skyline. We saw this one from the old town and the ship, it was further east than old town. We did not go to the big city part, and I was surprise that Panama City was so big with many skyscrapers. 
+Several people on our FB roll call were going on this Tomi car tour; it is Travis's sister's name. Interesting building and the Panama City skyline. We saw this one from the old town and the ship, it was further east than old town. We did not go to the big city part, and I was surprise that Panama City was so big with many skyscrapers. 
 
+{% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_20251101_102600175_HDR.1318x1932.webp", "1318x1932" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_3196.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_3198.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01/IMG_3199.1536x2048.webp", "1536x2048" %}
