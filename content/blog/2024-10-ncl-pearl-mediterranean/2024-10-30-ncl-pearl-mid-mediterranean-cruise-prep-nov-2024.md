@@ -2,7 +2,7 @@
 trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "Cruise Prep"
 date: 2024-10-30
-img: legacy/image31.webp
+img: legacy/IMG_9380.webp
 tags: [Prep, Med Cruise, NCL Pearl]
 author: Tammy
 description: ""
