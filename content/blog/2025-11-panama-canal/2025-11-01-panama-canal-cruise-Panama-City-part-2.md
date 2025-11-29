@@ -39,7 +39,8 @@ This tug was being tossed around by the water or tossing the water around.
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01-part2/IMG_3259.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01-part2/IMG_3260.2048x1536.webp", "2048x1536" %}
 
-Watch the [Tamarin monkeys eating video](https://youtu.be/3CoO42jobvg) 
+Watch the Tamarin monkeys eating video:
+https://youtu.be/3CoO42jobvg
 
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01-part2/IMG_3265.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-01-part2/IMG_3273.2048x1536.webp", "2048x1536" %}
