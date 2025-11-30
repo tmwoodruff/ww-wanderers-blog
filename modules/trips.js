@@ -58,12 +58,12 @@ function _addTrip(postTrip, data) {
             trip.postCount++;
     } else {
         trip = {
+            img: data.img,
+            minDate: data.date,
+            maxDate: data.date,
             ...postTrip,
             postCount: 1,
             url: `/trips/${slugify(postTrip.id)}/`,
-            img: data.img,
-            minDate: data.date,
-            maxDate: data.date
         };
     }
 
