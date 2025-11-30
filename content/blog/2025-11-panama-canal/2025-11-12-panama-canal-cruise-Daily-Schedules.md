@@ -7,6 +7,8 @@ author: Tammy
 description: ""
 ---
 
+Click on the first image, and then you can scroll through large images.
+
 **Day 1:** 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-11-12/Screenshot%202025-11-29%20173809.504x856.webp", "504x856" %}
@@ -109,6 +111,7 @@ description: ""
 
 {% image "https://assets.ww-wanderers.cc/images/2025-11-12/Screenshot%202025-11-29%20183726.655x847.webp", "655x847" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-12/Screenshot%202025-11-29%20183744.616x803.webp", "616x803" %}
+
 {% image "https://assets.ww-wanderers.cc/images/2025-11-12/Screenshot%202025-11-29%20183757.589x815.webp", "589x815" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-12/Screenshot%202025-11-29%20183810.628x811.webp", "628x811" %}
 
