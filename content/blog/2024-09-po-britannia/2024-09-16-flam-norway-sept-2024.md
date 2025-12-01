@@ -1,5 +1,5 @@
 ---
-trip: { title: "P&O Britannia" }
+trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Flam, Norway"
 date: 2024-09-16
 img: legacy/IMG_20240916_073307536_HDR.webp

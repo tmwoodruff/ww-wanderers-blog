@@ -1,5 +1,5 @@
 ---
-trip: { title: "P&O Britannia" }
+trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Embarkation"
 date: 2024-09-13
 img: legacy/IMG_8730.webp

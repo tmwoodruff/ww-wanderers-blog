@@ -262,6 +262,12 @@ Dessert
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Food/IMG_20251102_185913998.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_Food/IMG_20251102_185935284.1536x2048.webp", "1536x2048" %}
 
+**Buffet Lunch - Day 13**
+
+Australian beef with dough on top - the beef and flavor was really good, grilled pork chops - very good, and calamari on the buffet, but no sauce near it, and I did not find a very good option in the sauces or salad dressing area.
+
+{% image "https://assets.ww-wanderers.cc/images/2025-10_Food/IMG_20251103_114638941.2048x2731.webp", "2048x2731" %}
+
 **MDR Dinner - Day 13**
 
 Appetizer
