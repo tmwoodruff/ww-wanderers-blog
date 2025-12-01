@@ -1,5 +1,5 @@
 ---
-trip: { title: "P&O Britannia" }
+trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Sea Day, Formal Night, and Stavanger"
 date: 2024-09-15
 img: legacy/IMG_8761.webp
