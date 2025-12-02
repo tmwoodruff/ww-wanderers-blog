@@ -30,8 +30,7 @@ More birds.
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_20251105_133404416.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_20251105_133406698.2048x1536.webp", "2048x1536" %}
 
-The culinary team held this event -- a cooking challenge between the Executive Chef and the Director of Restaurant Operations. 
-[See the handout under Culinary Galley Tour Handout](https://ww-wanderers.cc/blog/2025-11-panama-canal/2025-11-12-panama-canal-cruise-Daily-Schedules/). The Chef prepare things correctly and the Director just threw everything on a plate, so it was funny. At the end of the galley tour both preparations were on display (pictures below). This was in the theater. The TVs at the front was supposed to show a view down of what they were doing, but only showed this for a little bit and showed it head on like we were already seeing for most of the time. After show, we were allowed to meet at the MDR for a walk through tour of the galley. They did not talk about anything during the tour, just a single file line through the galley. It was cool that they let everyone see it. 
+The culinary team held this event -- a cooking challenge between the Executive Chef and the Director of Restaurant Operations. [See the handout under Culinary Galley Tour Handout](2025-11-12-panama-canal-cruise-Daily-Schedules.md). The Chef prepared things correctly and the Director just threw everything on a plate, so it was funny. At the end of the galley tour both preparations were on display (pictures below). This was in the theater. The TVs at the front was supposed to show a view down of what they were doing, but only showed this for a little bit and showed it head on like we were already seeing for most of the time. After show, we were allowed to meet at the MDR for a walk through tour of the galley. They did not talk about anything during the tour, just a single file line through the galley. It was cool that they let everyone see it. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3947.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3952.2048x1536.webp", "2048x1536" %}
@@ -63,7 +62,7 @@ The competition food results.
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3983.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3984.2048x1536.webp", "2048x1536" %}
 
-They advertised this event the night before on the last formal night. The last formal night food was so good, by far the best. [Check out the food that we ate.](https://ww-wanderers.cc/blog/2025-11-panama-canal/2025-11-10-panama-canal-cruise-food/) The event and tour were both fun; though, during it, they asked for good survey reviews, so I guess that they determined that food most influenced after cruise survey scores and had the culinary team create a fun event to help with scores. 
+They advertised this event the night before on the last formal night. The last formal night food was so good, by far the best. [Check out the food that we ate.](2025-11-10-panama-canal-cruise-food.md) The event and tour were both fun; though, during it, they asked for good survey reviews, so I guess that they determined that food most influenced after cruise survey scores and had the culinary team create a fun event to help with scores. 
 
 The Captains Farewell. A last look at the wake. 
 
