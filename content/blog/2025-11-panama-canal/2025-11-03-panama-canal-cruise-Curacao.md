@@ -65,7 +65,7 @@ Then we began exploring the colorful street art that Curacao is known for.
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3864.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3874.1536x2048.webp", "1536x2048" %}
 
-We stopped and sat here, while our guide went through information about Curacao. It was a hotel and restaurant. Our guide introduced us to the owner.  
+We stopped and sat here where this art was, while our guide went through information about Curacao. It was a hotel and restaurant. Our guide introduced us to the owner.  
 
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3850.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-11-03/IMG_3851.1536x2048.webp", "1536x2048" %}
