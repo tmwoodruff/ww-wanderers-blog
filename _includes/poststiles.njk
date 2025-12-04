@@ -1,11 +1,17 @@
 <ol reversed class="posttiles">
 {%- for post in postslist | reverse %}
 	<li class="posttiles-item">
-		{% if post.img %}
-		<a href="{{ post.url }}" class="posttiles-image"><img eleventy:ignore loading="lazy" decoding="async" src="{% imagePreviewUrl post.img %}"/></a>
-		{% endif %}
-		<a href="{{ post.url }}" class="posttiles-link">{% if post.title %}{{ post.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="posttiles-date" datetime="{{ post.startDate | htmlDateString }}">{{ post | tripDates }}</time>
+		<div class="posttiles-image">
+			{% if post.img %}
+			<a href="{{ post.url }}"><img eleventy:ignore loading="lazy" decoding="async" src="{% imagePreviewUrl post.img %}"/></a>
+			{% endif %}
+		</div>
+		<div  class="posttiles-link">
+			<a href="{{ post.url }}">{% if post.title %}{{ post.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+		</div>
+		<div class="posttiles-date">
+			<time datetime="{{ post.startDate | htmlDateString }}">{{ post | tripDates }}</time>
+		</div>
 	</li>
 {%- endfor %}
 </ol>

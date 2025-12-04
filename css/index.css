@@ -61,7 +61,7 @@ html {
 	background-color: var(--page-background-color);
 }
 body {
-	max-width: 50em;
+	max-width: 52em;
 	margin: 10px auto;
 	background-color: var(--background-color);
 }
@@ -300,15 +300,13 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1em;
-	align-items: baseline;
+	align-items: normal;
 }
 .posttiles-item {
-	flex-basis: 1;
 	display: flex;
 	flex-direction: column;
 	align-items: baseline;
-	width: 15.2em;
-	background-color: var(--color-gray-20);
+	width: 16em;
 	padding-bottom: 0.5em;
 }
 .posttiles-item > * {
@@ -316,7 +314,14 @@ header {
 }
 .posttiles-image {
 	width: 100%;
+	height: 12em;
 	padding: 0
+}
+.posttiles-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
 }
 .posttiles-date {
 	font-size: 0.8125em; /* 13px /16 */
