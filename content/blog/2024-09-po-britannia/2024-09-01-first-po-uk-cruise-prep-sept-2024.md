@@ -2,7 +2,7 @@
 trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "First P&O UK Cruise - Preparation"
 date: 2024-09-01
-img: legacy/IMG_20240913_093117517.webp
+img: legacy/IMG_8954.webp
 tags: [P&O Britannia, Norwegian Fjords, UK]
 author: Tammy
 description: ""
