@@ -1,7 +1,7 @@
 ---
 title: "Solar Eclipse Totality"
 date: 2024-04-08
-img: legacy/P1140035.webp
+img: legacy/P1140071.webp
 tags: [DFW, Totality, Solar Eclipse]
 author: Tammy
 description: ""
