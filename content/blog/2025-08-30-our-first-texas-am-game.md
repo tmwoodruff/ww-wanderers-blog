@@ -1,7 +1,7 @@
 ---
 title: "Our first Texas A&M game"
 date: 2025-08-30
-img: legacy/IMG_20250830_121754691_HDR.webp
+img: legacy/IMG_20250830_205025448.webp
 tags: [Texas A&M, Football Game, Kyle Field]
 author: Tammy
 description: ""
