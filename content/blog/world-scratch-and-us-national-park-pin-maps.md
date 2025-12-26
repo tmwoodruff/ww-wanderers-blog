@@ -9,6 +9,12 @@ description: ""
 
 For fun -- 
 
+**December 2025**
+
+[The Cruise Global Passport](https://thecruiseglobe.com/home)
+
+{% image "https://assets.ww-wanderers.cc/images/legacy/The-Cruise-Globe-Passport-2025-12-25.763x989.webp", "763x989" %}
+
 World scratch and U.S. National Park pin maps history; both from my sister. We have a lot more traveling to do. 
 
 **November 2025**
