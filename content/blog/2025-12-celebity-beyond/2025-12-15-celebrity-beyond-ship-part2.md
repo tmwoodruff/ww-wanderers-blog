@@ -68,7 +68,7 @@ Shrimp tower on the last lunch buffet. The buffet was very large. There six of t
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_114017248_HDR.2048x765.webp", "2048x765" %}
 
-Outside day shots.  
+Outside day shots. Someone asked about the elephant standing on a man piece. The Captain explained that the ship was built during the covid pandemic, so it was communicating overcoming adversity. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4008.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4009.1536x2048.webp", "1536x2048" %}
