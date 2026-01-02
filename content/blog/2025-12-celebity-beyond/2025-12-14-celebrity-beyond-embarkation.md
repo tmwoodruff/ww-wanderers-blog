@@ -29,7 +29,7 @@ Next, we checked in with boarding pass and passport. This was quick, but annoyin
 
 Onboard, our muster station was right there -- the steakhouse -- so, we completed that. We had watched the safety video on the train with train wi-fi.
 
-Then, we went to restaurant to try to change from late dining to early dining, but learned that we had anytime, which is good, but not expected since I only saw early full and no anytime option. They advised not eating between 6-7pm since we are early eaters this is fine and never had a wait. There was later confusion about anytime dining where a hostess (I believe was the same hostess) came back with a tablet asking about our reservation and disappointed that we did not have on. Since the app had the reservation button grayed out, I asked at another restaurant during the day, the next day, and he said that it was crazy that she expected us to have a reservation for anytime dining. I should back up an explain that this ship had four MDR rooms with a set of the same common dishes and a set of exclusive to that restaurant dishes. The four were Cosmopolitan (American), Tuscan (Italian), Normandy (French), and Cyrus (Mediterranean). Cyrus and Normandy were our favorites. Anytime dining let us pick from any of the four, and we tried all. You could supposedly get an exclusive from another restaurant to which ever you were in since they shared the same galley.   
+Then, we went to restaurant to try to change from late dining to early dining, but learned that we had anytime, which is good, but not expected since I only saw early full and no anytime option. They advised not eating between 6-7pm since we are early eaters this is fine and never had a wait. There was later confusion about anytime dining where a hostess (I believe was the same hostess) came back with a tablet asking about our reservation and disappointed that we did not have on. Since the app had the reservation button grayed out, I asked at another restaurant during the day, the next day, and he said that it was crazy that she expected us to have a reservation for anytime dining. I should back up an explain that this ship had four MDR rooms with a set of the same common dishes and a set of exclusive to that restaurant dishes. The four were Cosmopolitan (American), Tuscan (Italian), Normandie (French), and Cyrus (Mediterranean). Cyrus and Normandie were our favorites. Anytime dining let us pick from any of the four, and we tried all. You could supposedly get an exclusive from another restaurant to which ever you were in since they shared the same galley.   
 
 This was at Cyrus, a rock "painting". 
 
@@ -71,71 +71,34 @@ We were provided four bath towels everyday without me having to ask for an extra
 
 Also, classy or traditional cruise, we received a tasty chocolate each night on the bed with our "Celebrity Today" daily program. They provide twice a day service with a morning cleaning and turn down at night. 
 
-Christmas decorations! The plastic trees outside The Club turned different colors; I did not get the picture on a very exciting color. The martini bar had the big tree and garland. Decoration in the buffet, and a tray of Christmas cakes that just rolled in and left one day.
+Christmas decorations! The plastic trees outside The Club turned different colors; I did not get the picture on a very exciting color. The martini bar had the big tree and garland. Decoration in the buffet, and a tray of Christmas cakes that just rolled in and left out one day.
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4013.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251214_183658651_HDR.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251214_183803364_HDR.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251217_185040777_HDR.1152x2048.webp", "1152x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155105596.1152x2048.webp", "1152x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_3997.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_150728098_HDR.1152x2048.webp", "1152x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_3997.2048x1536.webp", "2048x1536" %}
 
-The fancy show screen. 
+The fancy show screen in the theater. It wrapped around a theater in the round, but I did not feel like it was hard to see ever. Though we only sat in the back on the lower level section; port side was less crowded. For the production shows, lines would form, longer on the starboard side, because they would not open the doors until maybe 15 minutes before showtime, which seemed crazy. 
+
+This picture is the comedians show the first night. He was pretty good. This was the family show; he had an adult show later in the cruise. Someone at dinner said it was really the same jokes with curse words added. Jerry Seinfeld says that cursing is just lazy. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251214_192931837_HDR.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_110902744.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_154318838_HDR.1151x2048.webp", "1151x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_154327123_HDR.1151x2048.webp", "1151x2048" %}
+
+The Stage Door production show with the diamond shaped acrobat frame. Officers showed up before to introduce themselves before the show started. I did not hear them announce to not film or take pictures during the show, but I did not see a lot of people doing it, maybe some. On MSC, a ton did, and I was annoyed because I would catch myself watching people's phones instead of the actual show. The show was good; the Moulin Rouge dress scene very cool.
+
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_191520930_HDR.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_193501888.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_123832550.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_172332443.1536x2048.webp", "1536x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_192005576_HDR.1151x2048.webp", "1151x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_192036911_HDR.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_193826627_HDR.1536x2048.webp", "1536x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251217_083705749_HDR.2048x1087.webp", "2048x1087" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251217_122306885.2048x788.webp", "2048x788" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251217_122558922.1152x2048.webp", "1152x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251217_155956055_HDR.2048x1151.webp", "2048x1151" %}
 
+Officers' Q&A with the Executive Chef, Hotel Director, Captain Costas, and the Chief Engineer. Here the screen was a nice ocean camera. I enjoyed this Q&A; I have seen on some ships where they dodge the questions. The questions were also very good and thoughtful, so they  also got fewer complaints to be asked to respond to like I have seen on other lines.   
 
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251218_090027416_HDR.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251218_173351895_HDR.2048x1152.webp", "2048x1152" %}
-
-a
-
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251218_190954898_HDR.1152x2048.webp", "1152x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251219_091954193.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251219_135636893.1679x2048.webp", "1679x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251219_194247427_HDR.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_101604149.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_114017248_HDR.2048x765.webp", "2048x765" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_123659192.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_145226183.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_150215554.2048x1152.webp", "2048x1152" %}
 
-looked to here for Christmas
+This chair is outside the theater. 
 
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155444051_HDR.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155901719.1152x2048.webp", "1152x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155928321.1152x2048.webp", "1152x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_154318838_HDR.1151x2048.webp", "1151x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_154327123_HDR.1151x2048.webp", "1151x2048" %}
 
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4001.2048x1536.webp", "2048x1536" %}
-
-
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4008.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4009.1536x2048.webp", "1536x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4010.1536x2048.webp", "1536x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4012.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4014.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4015.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4016.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4018.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4020.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4021.2048x1536.webp", "2048x1536" %}
-
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4023.2048x1536.webp", "2048x1536" %}
-
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4194.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4196.2048x1536.webp", "2048x1536" %}
+The trip start and ship post is getting long, so I'm going to continue in a part 2. The ship post includes two sea days after embarkation and one sea day after three port days returning to Miami. See you in the next post. 
