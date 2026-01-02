@@ -56,7 +56,7 @@ I think this is one of the $1 million lifeboat that Captain Kate mentioned; look
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155444051_HDR.2048x1152.webp", "2048x1152" %}
 
-The pool was beautiful at night. The lights changed colors on the pool, Magic Carpet hallway, Champagne hot tubs, and the plastic protruding triangle screen (not pictured). 
+The pool was beautiful at night. The lights changed colors on the pool, Magic Carpet hallway, Champagne hot tubs, and the plastic protruding triangle screen (not pictured). Someone asked about the elephant standing on a man piece. The Captain explained that the ship was built during the covid pandemic, so it was communicating overcoming adversity. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251216_192005576_HDR.1151x2048.webp", "1151x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251218_190954898_HDR.1152x2048.webp", "1152x2048" %}
@@ -68,7 +68,7 @@ Shrimp tower on the last lunch buffet. The buffet was very large. There six of t
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_114017248_HDR.2048x765.webp", "2048x765" %}
 
-Outside day shots. Someone asked about the elephant standing on a man piece. The Captain explained that the ship was built during the covid pandemic, so it was communicating overcoming adversity. 
+Outside day shots.
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4008.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_4009.1536x2048.webp", "1536x2048" %}
