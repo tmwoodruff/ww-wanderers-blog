@@ -1,6 +1,6 @@
 ---
 trip: { title: "Celebrity Beyond - Eastern Caribbean Cruise" }
-title: "Celebrity Beyond - San Juan, Tortola"
+title: "Celebrity Beyond - San Juan, Puerto Rico"
 date: 2025-12-18
 tags: []
 img: 2025-12-14/IMG_20251219_091955927_HDR.800x450.webp
