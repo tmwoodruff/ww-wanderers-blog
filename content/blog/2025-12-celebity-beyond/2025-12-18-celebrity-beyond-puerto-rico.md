@@ -24,24 +24,25 @@ We were unsure if we could find an open entrance, but Travis found it. Some pict
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4112.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4113.2048x1536.webp", "2048x1536" %}
 
-The admission was $10 each for both forts; you just had to show the receipt at the second for admission. A group was trying to enter with a beer and energy drink and told that they could not -- just water. They were finishing them to enter. I had not really thought about what drinks would be allowed. A recommendation on the site was to bring a picnic -- which I forgot -- but I would not have though about that. 
+The admission was $10 each for both forts; you just had to show the receipt at the second for admission. A group was trying to enter with a beer and energy drink and told that they could not -- just water. They were finishing the drinks to enter. I had not really thought about what drinks would be allowed. A recommendation on the site was to bring a picnic -- which I forgot -- but I would not have though about that. 
 
 With the entrance fee, we got a map; sorry that it did not scan well. I got the National Park passport book stamps in the bookstore. They also had restrooms. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/Forts-page-1.1151x796.webp", "1151x796" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/Forts-page-2.1158x801.webp", "1158x801" %}
 
-Soon after getting in, we noticed and joined an in-progress Ranger-led tour, which always provides lots of good info. We learned about the indigenous people, the Taíno. Our guide, the Ranger, was part the Taíno. I also learned on google AI that words from their language that we use today include "hammock," "tobacco," and "hurricane". Interesting. 
+Soon after getting in, we noticed and joined an in-progress Ranger-led tour, which always provides lots of good info. We learned about the indigenous people, the Taíno. Our guide, the Ranger, was part Taíno. I also learned on google AI that words from their language that we use today include "hammock," "tobacco," and "hurricane". Interesting. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4116.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4119.2048x1536.webp", "2048x1536" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4136.1536x2048.webp", "1536x2048" %}
 
 This section had pictures drawn that the Ranger pointed out, but I can't them in the picture. A bunk room. 
 
-{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4120.1536x2048.webp", "1536x2048" %} 
+{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4120.1536x2048.webp", "1536x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4119.2048x1536.webp", "2048x1536" %} 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4124.2048x1536.webp", "2048x1536" %}
 
-The kitchen. I thought the stalactites in the man-made caves in the kitchen were cool. The ovens. 
+The kitchen. I thought the stalactites in the man-made cave kitchen were cool. The ovens. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4123.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4127.1536x2048.webp", "1536x2048" %}
@@ -50,13 +51,12 @@ The kitchen. I thought the stalactites in the man-made caves in the kitchen were
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4132.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4130.2048x1536.webp", "2048x1536" %}
 
-We were at the first fort, El Morro, with a large senior high school field trip. Wall at the top. They did not go to the second; though maybe they were there first. 
+We were at the first fort, El Morro, with a large senior high school field trip. They did not go to the second; though maybe they were there first. 
 
-The circular staircase. A great view down. We learned on the tour that that these semi-circles held the cannons. 
+Wall at the top. The circular staircase. A great view down. We learned on the tour that that these semi-circles held the cannons. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4134.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4135.1536x2048.webp", "1536x2048" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4136.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4138.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4145.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4140.1536x2048.webp", "1536x2048" %}
@@ -84,7 +84,6 @@ Back to El Morro, the latrine. The prison.
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4168.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4169.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4172.2048x1536.webp", "2048x1536" %}
-{% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4175.1536x2048.webp", "1536x2048" %}
 
 We found the fancy cemetery, which is right by the ocean. 
 
@@ -99,7 +98,7 @@ Then we walked to the second fort.
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_20251218_121035975_HDR.2048x1151.webp", "2048x1151" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4189.2048x1536.webp", "2048x1536" %}
 
-Capitol building and other views from the fort. This fort had an interesting. 
+Capitol building and other views from the fort. This fort had an interesting display about the different European countries' control of the Caribbean. In the beginning, Spain controlled almost all of the Caribbean.  
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4198.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4200.2048x1536.webp", "2048x1536" %}
@@ -118,3 +117,5 @@ Games the soldiers played. A well.
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4215.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-18/IMG_4216.1536x2048.webp", "1536x2048" %}
+
+After the second fort, the walk back to the ship was a pretty straight shot; we went back. 
