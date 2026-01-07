@@ -91,6 +91,8 @@ This picture is the comedians show the first night. He was pretty good. This was
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251214_192931837_HDR.2048x1536.webp", "2048x1536" %}
 
+After the show, we went to the True and False game show. It was fun. Everyone stood on the dance floor, they showed a question, and we had to split down the middle based on if we thought the statement was True or False. The losing side sat down and the winning side played the next round. This was held in The Club; this is also where we played trivia many days at 4pm before dinner and on sea days at 10am too. 
+
 The Stage Door production show on the second night with the diamond shaped acrobat frame. Officers showed up before to introduce themselves before the show started. I did not hear them announce to not film or take pictures during the show, but I did not see a lot of people doing it, maybe some. On MSC, a ton did, and I was annoyed because I would catch myself watching people's phones instead of the actual show. The show was good; the Moulin Rouge dress scene very cool.
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251215_191520930_HDR.2048x1536.webp", "2048x1536" %}
