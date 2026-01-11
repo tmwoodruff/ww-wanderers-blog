@@ -8,21 +8,49 @@ author: Tammy
 description: ""
 ---
 
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251219_091954193.2048x1152.webp", "2048x1152" %}
+
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155105596.1152x2048.webp", "1152x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155928321.1152x2048.webp", "1152x2048" %}
+
+
 This was our first Celebrity cruise. I wanted to try an Edge class ship. I found a good deal for a cruise during Christmas to see the Christmas decorations. Or, what I thought was a good deal; someone else on the cruise that we were talking to mentioned the better deal that they got for an oceanview or veranda room when we had an inside. Maybe it was a last minute deal; I did not ask. I was not quick enough to get to sail with Captain Kate but did get to experience the beautiful ship. 
 
 Celebrity was overall a more elevated experience. The crew was wonderful. I enjoyed cruising with the other passengers. We meshed well (we are in our late-40s). Everyone was pleasant. I did not see any overt entitled people that I have heard one mention of before about Celebrity cruisers. It was not stuffy, just elevated.   
 
 **Embarkation**
 
-Transportation into the Port of Miami is rough, too busy; there were seven ships in on our day. I heard that this was not the most that have been in at a time. When we could not get on the Coral Way trolley, it was too full to take anyone, including the large group with tons of luggage ahead of us, we decided to walk -- after imagining the traffic and considering Uber surge charges. Before the cruise, we had been moved from terminal E to terminal C, so it was a longer walk and hot and uphill. However, we were catching up to and passing some cars. 
+Transportation into the Port of Miami is rough, too busy; there were seven ships in on our day. I heard that this was not the most that have been in at a time. When we could not get on the Coral Way trolley, it was too full to take anyone additional from our stop, including the large group with tons of luggage ahead of us, we decided to walk -- after imagining the traffic and considering Uber surge charges. Before the cruise, we had been moved from terminal E to terminal C, so it was a longer walk and hot and uphill. However, we were catching up to and passing some cars. 
 
-At the terminal, check-in was quick. We carried out luggage on since our check-in time was 12:30-1pm (that we arrived right on time for), close to normal room available time, and it was communicated that we could drop the bags in the room upon boarding. We first went through security, including easy security for the soda that we were allowed to bring on. Then we checked in with our boarding passes and passports. Though this upset me, they retook our pictures. I had done multiple pictures on the app at home trying to get a decent picture with hair fixed and makeup. They took one of my sweaty after the hot walk to the port, flattering. We were allowed to board right after. We needed the boarding pass again because they keycards were at our room. 
+At the terminal, check-in was quick. We carried our luggage on since our check-in time was 12:30-1pm (that we arrived right on time for), close to normal room available time, and it was communicated that we could drop the bags in the room upon boarding. We first went through security, including easy security for the soda that we were allowed to bring on. Then we checked in with our boarding passes and passports. Though this upset me, they retook our pictures. I had done multiple pictures on the app at home trying to get a decent picture with hair fixed and makeup. They took one of me sweaty after the hot walk to the port, flattering. We were allowed to board right after. We needed the boarding pass again because the keycards were at our room. I did miss the Princess Medallion unlocking the door right before we walked up.   
 
 Our muster station was very close to the entrance, so we did this first. 
 
 We also enjoyed sailaway in the gym with great front and side views. We sailed right by the new NCL Aqua. 
 
 Embarkation was quick and painless (except for the new security photo). 
+
+**Cabin**
+
+We went to the cabin quickly after boarding to drop off our luggage; we were surprised that it was already ready. We had 11175, an inside on deck 11 just a little ahead of mid-ship. The cabin was beautiful. On more elevated, it came with an umbrella, port beach towels, a beach bag, four bath towel (so I did not have to request an extra/third hair towel), and lotion (this is very helpful; with airport liquid limits, it is hard to bring enough). We had twice a day service and got a chocolates at turn down. No towel animals, but these two normally bygone cruise specialness are still on Celebrity. Our room steward was great...until the last day, see below. 
+
+The room and bathroom had tons of storage. I loved the shower -- hot, roomy, hooks inside, and products: bodywash, shampoo, and separate condition. I did not use too many of the products, but I tested out and liked the smell of the bodywash. However, a downfall of this good shower was that there was no good place in the bathroom or bedroom to dry clothes. With wet swimsuits and Travis's gym clothes this was a challenge. I also brought our suction cup clothesline, but it did not stay up well in the bathroom either. One strange thing is that we had bar soap at the sink and liquid soap in the shower. I like bar soap in the shower (since we do not pack our poofs to make the body wash effective) and liquid soap at the sink. Bar soap get soggy at the sink and is harder to get it on your hands. We brought some bar soap from home, and I also took the sink bar soap in the shower some. But, I did not reach into the closed shower for body wash for hand soap, so the bar soap had to make a back and worth trip and be remembered. 
+
+The fridge had minibar items. We did not request them moved, but just put our sodas in a few at a time. The slide in desk and sofa was nice. My nightstand was a little tough because it was oriented short side to the wall. I have a lot of bedtime stuff and kept push stuff off. Travis's was long side to the wall, which looked easier to use. 
+
+Once we learned it, the thermostat with a button to turn off and on all lights at once was nice. We did not need to go around the room turning off light to leave. Someone also showed us that you could turn the lights on/off and adjust the thermostat from the app elsewhere on the ship. We did not find much use for that, but it was cool. 
+
+Though someone did wake us up at 12:30 am saying that we called to have the TV fixed. I had earplugs in. Travis said that he was going to ignore the knocking at first, but when it did not stopped, he went to the door in underwear. He said that they were preparing their argument that we did indeed call to have our TV fixed but then decided against it. I woke up to the light of the hallway coming in. 
+
+**Ship**
+
+The ship is beautiful, with art everywhere, and we had Christmas decorations out. It also had cool hangout spots around the ship. The layout is good; we liked our location on deck 11 to get to the buffet. The ship, though it holds a good number of passengers, did not feel too big. 
+
+There seemed to be a lot of smoking areas on the ship, but maybe because it was a big ship. Some of the cool hangout spots were smoking areas though. There was a limited promenade walking area and limited doors to get back in sometimes. They also seemed to close off the cooler, shady side of promenade more than the sunny side (the sides did not connect outside the ship, so you had to go through). When open, one side had table seating, including seating outside of Eden, and the other had a nice lounge chair area. So, it was nice area to get a close up view of the water. You had to go to Eden for the closest view of the wake. We walked the top deck walking/jogging path the most. It was nice at night when it was dark and with all the cool pool and deck changing color lighting. In the day, it was warmer. It was further from the water. The Rooftop area was very nice with the live plants. We did not find a seat but stopped mid-walks around the path to watch the Texas A&M game. They should add extra chairs in the middle when they are showing games. I also wondered why they did not use the area for a movies under the stars event. Maybe because the paid restaurant was right next to it and that would be distracting to the diners. 
+
+I loved the Eden venue for sitting and reading. I did not like the Eden shows were all late 10:30 or 10:45 pm with early ports the next day or lose an hour for a time change nights. There is not much seating for the show, so they were trying to keep attendance down. But, they are awesome acrobatic shows that I'm really disappointed that we could not go see. I did get a small preview at the Welcome event. 
+
+Two of three ports changed before the cruise. The ship needed to travel slower for an azipod break in -- and it is only 3 years old. Our itinerary was Nassau, Tortola, and Antigua and became Tortola, Puerto Rico, and Dominican Republic. I was fine losing Nassau, but Antigua would have been a new country for us. 
 
 **Buffet**
 
@@ -47,28 +75,6 @@ The first night and one other night, we were approach by a crew member with a ta
 Food was sometimes too fancy for me and my picky eating. I did not always find an exciting appetizer option for me. The three spread served each night with the bread far exceeded my experience on any other cruise line. Though overall, everything was delicious, served at a good temperature, and the meal pace was good -- not too fast or too slow. The option to eat in any of four MDRs with different themes and vibes was very nice.  
 
 For design notes, it is sad that none of the restaurants had any aft windows. 
-
-**Ship**
-
-The ship is beautiful, with art everywhere, and we had Christmas decorations out. It also had cool hangout spots around the ship. The layout is good; we liked our location on deck 11 to get to the buffet. The ship, though it holds a good number of passengers, did not feel too big. 
-
-There seemed to be a lot of smoking areas on the ship, but maybe because it was a big ship. Some of the cool hangout spots were smoking areas though. There was a limited promenade walking area and limited doors to get back in sometimes. They also seemed to close off the cooler, shady side of promenade more than the sunny side (the sides did not connect outside the ship, so you had to go through). When open, one side had table seating, including seating outside of Eden, and the other had a nice lounge chair area. So, it was nice area to get a close up view of the water. You had to go to Eden for the closest view of the wake. We walked the top deck walking/jogging path the most. It was nice at night when it was dark and with all the cool pool and deck changing color lighting. In the day, it was warmer. It was further from the water. The Rooftop area was very nice with the live plants. We did not find a seat but stopped mid-walks around the path to watch the Texas A&M game. They should add extra chairs in the middle when they are showing games. I also wondered why they did not use the area for a movies under the stars event. Maybe because the paid restaurant was right next to it and that would be distracting to the diners. 
-
-I loved the Eden venue for sitting and reading. I did not like the Eden shows were all late 10:30 or 10:45 pm with early ports the next day or lose an hour for a time change nights. There is not much seating for the show, so they were trying to keep attendance down. But, they are awesome acrobatic shows that I'm really disappointed that we could not go see. I did get a small preview at the Welcome event. 
-
-Two of three ports changed before the cruise. The ship needed to travel slower for an azipod break in -- and it is only 3 years old. Our itinerary was Nassau, Tortola, and Antigua and became Tortola, Puerto Rico, and Dominican Republic. I was fine losing Nassau, but Antigua would have been a new country for us. 
-
-**Cabin**
-
-We went to the cabin quickly after boarding to drop off our luggage; we were surprised that it was already ready. We had 11175, an inside on deck 11 just a little ahead of mid-ship. The cabin was beautiful. On more elevated, it came with an umbrella, port beach towels, a beach bag, four bath towel (so I did not have to request an extra/third hair towel), and lotion (this is very helpful; with airport liquid limits, it is hard to bring enough). We had twice a day service and got a chocolates at turn down. No towel animals, but these two normally bygone cruise specialness are still on Celebrity. Our room steward was great...until the last day, see below. 
-
-The room and bathroom had tons of storage. I loved the shower -- hot, roomy, hooks inside, and products: bodywash, shampoo, and separate condition. I did not use too many of the products, but I tested out and liked the smell of the bodywash. However, a downfall of this good shower was that there was no good place in the bathroom or bedroom to dry clothes. With wet swimsuits and Travis's gym clothes this was a challenge. I also brought our suction cup clothesline, but it did not stay up well in the bathroom either. One strange thing is that we had bar soap at the sink and liquid soap in the shower. I like bar soap in the shower (since we do not pack our poofs to make the body wash effective) and liquid soap at the sink. Bar soap get soggy at the sink and is harder to get it on your hands. We brought some bar soap from home, and I also took the sink bar soap in the shower some. But, I did not reach into the closed shower for body wash for hand soap, so the bar soap had to make a back and worth trip and be remembered. 
-
-The fridge had minibar items. We did not request them moved, but just put our sodas in a few at a time. The slide in desk and sofa was nice. My nightstand was a little tough because it was oriented short side to the wall. I have a lot of bedtime stuff and kept push stuff off. Travis's was long side to the wall, which looked easier to use. 
-
-Once we learned it, the thermostat with a button to turn off and on all lights at once was nice. We did not need to go around the room turning off light to leave. Someone also showed us that you could turn the lights on/off and adjust the thermostat from the app elsewhere on the ship. We did not find much use for that, but it was cool. 
-
-Though someone did wake us up at 12:30 am saying that we called to have the TV fixed. I had earplugs in. Travis said that he was going to ignore the knocking at first, but when it did not stopped, he went to the door in underwear. He said that they were preparing their argument that we did indeed call to have our TV fixed but then decided against it. I woke up to the light of the hallway coming in. 
 
 **Entertainment**
 
