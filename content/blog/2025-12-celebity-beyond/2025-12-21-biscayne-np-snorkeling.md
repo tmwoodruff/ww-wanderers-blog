@@ -35,7 +35,7 @@ View of the Miami skyline from the boat.
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-21/IMG_20251221_134104965_HDR.2048x625.webp", "2048x625" %}
 
-Island and lighthouse that was part of the Biscayne National Park. One can pay a docking fee to bring their own boat and pay a camping fee to stay overnight on the island. Our tour did not stop at the island. This park is 95% underwater. 
+Island and lighthouse that are part of the Biscayne National Park. One can pay a docking fee to bring their own boat and pay a camping fee to stay overnight on the island. Our tour did not stop at the island. The park is 95% underwater. 
 
 {% image "https://assets.ww-wanderers.cc/images/2025-12-21/IMG_20251221_140339507_HDR.2048x699.webp", "2048x699" %}
 
