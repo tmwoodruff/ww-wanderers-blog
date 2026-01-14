@@ -13,6 +13,7 @@ description: ""
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155105596.1152x2048.webp", "1152x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-12-Ship/IMG_20251220_155928321.1152x2048.webp", "1152x2048" %}
 
+If you have a question or comment (or any travel tips), send an email to [ww.wanderers.tammy@gmail.com](mailto:ww.wanderers.tammy@gmail.com).
 
 This was our first Celebrity cruise. I wanted to try an Edge class ship. I found a good deal for a cruise during Christmas to see the Christmas decorations. Or, what I thought was a good deal; someone else on the cruise that we were talking to mentioned the better deal that they got for an oceanview or veranda room when we had an inside. Maybe it was a last minute deal; I did not ask. I was not quick enough to get to sail with Captain Kate but did get to experience the beautiful ship. 
 
