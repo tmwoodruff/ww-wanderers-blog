@@ -10,12 +10,12 @@ description: ""
 
 We flew into Las Vegas airport, picked up our rental car, and stopped at Walmart for groceries. No camping this time; we stayed north of Bryce Canyon at Bryce UpTop Lodge, outside of Zion in St. George, and in Boulder City, NV for the return flight. 
 
-It was a four hour drive to Bryce, and it got dark on our drive. We arrived after hours at the hotel, so they just had our key out with our name on it, with others that had not arrived yet. At the end of our stay, we left early, so we just had to drop the key and we never saw the owners. It was a cute motel and very convenient to Bryce Canyon; they also liked macrame here, with it hanging in the main building and in our room. This building had my maiden name, so I had to have a picture with it. Our room with a microwave and fridge. 
+It was a four hour drive to Bryce, and it got dark on our drive. We arrived after hours at the hotel, so they just had our key out with our name on it, with others who had not arrived yet. At the end of our stay, we left early, so we just had to drop the key and we never saw the owners. It was a cute motel and very convenient to Bryce Canyon; they also liked macrame here, with it hanging in the main building and in our room. This building had my maiden name, so I had to have a picture with it. Our room with a microwave and fridge. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3836.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3848.2048x1536.webp", "2048x1536" %}
 
-The next morning at Bryce Canyon we bought our Annual National Park Pass upon entering. I do not remember parking being a big problem. We hiked the first day and focused on stopping at each of the viewpoints on the second day with some hiking later in the day. Entrance sign. 
+The next morning at Bryce Canyon we bought our Annual National Park Pass upon entering. I do not remember parking being a big problem here. We hiked the first day and focused on stopping at each of the viewpoints on the second day with some hiking later in the day. Entrance sign. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/P1090290.2048x1538.webp", "2048x1538" %}
 
@@ -33,7 +33,7 @@ A bride was trying to get bridal photos on the other side of the tunnel, but als
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3827.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3833.1536x2048.webp", "1536x2048" %}
 
-Thor's hammer
+Thor's hammer and more downs into the slot canyon hike.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3869.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/P1090617.1538x2048.webp", "1538x2048" %}
@@ -71,7 +71,7 @@ The Peekaboo trail did have pretty views out into the distance.
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3825.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/P1090415.2048x1538.webp", "2048x1538" %}
 
-Queen's Garden and the queen herself on top of the rock with a full dress on. 
+Queen's Garden and the Queen herself on top of the rock with a full dress on. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3805.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/P1090412.2048x1538.webp", "2048x1538" %}
@@ -80,7 +80,7 @@ Near the Lodge at Bryce Canyon.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3835.2048x1536.webp", "2048x1536" %}
 
-Mossy Cave
+Mossy Cave. We found some water in the desert.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3839.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/IMG_3840.2048x1536.webp", "2048x1536" %}
