@@ -14,7 +14,7 @@ Quite a red road. We entered at the east side entry station.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090647.2048x1538.webp", "2048x1538" %}
 
-Moon and contrail in the big blue sky. 
+Day moon and contrail in the big blue sky. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/IMG_3917.2048x1420.webp", "2048x1420" %}
 
@@ -51,7 +51,7 @@ A view of a tunnel window from the trail. A tunnel back on the road.
 
 We then got to the challenge part. We arrived at the main road that runs north and south in the park, and we needed to park. We found a place in town, Springdale. This requires some walking to the bus stop and then taking the bus back into the park. 
 
-In the main area of the park, we started with an easy (flat) trail that left from the Visitor Center where the bus dropped us off and ran parallel to the main park road. This main park road only allows the park operated shuttle buses. 
+In the main area of the park, we started with an easy (flat) trail that left from the Visitor Center, where the bus dropped us off. The trail was called Pa'rus Trail and ran parallel to the main park road and Virgin River. This main park road only allows the park operated shuttle buses. 
 
 On the trail, we found the Virgin River, which cuts through the slot canyons for The Narrows hike -- tomorrow. A squirrel at a campground, and more wide open trail. 
 
