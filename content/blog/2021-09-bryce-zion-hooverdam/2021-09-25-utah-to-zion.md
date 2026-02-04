@@ -41,8 +41,8 @@ We found a hike near the east entrance.
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090673.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090674.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090677.2048x1538.webp", "2048x1538" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090681.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090682.1538x2048.webp", "1538x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090681.2048x1538.webp", "2048x1538" %}
 
 A view of a tunnel window from the trail. A tunnel back on the road. 
 
@@ -55,7 +55,7 @@ In the main area of the park, we started with an easy (flat) trail that left fro
 
 On the trail, we found the Virgin River, which cuts through the slot canyons for The Narrows hike -- tomorrow. A squirrel at a campground, and more wide open trail. 
 
-This was an unfortunate day to be at the park; it was a free park admission day. Though I guess we see no problem from this trail picture. 
+This was an unfortunate day to be at the park; it was a free park admission day. Though I guess we see no problem from these trail pictures. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090698.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090693.2048x1538.webp", "2048x1538" %}
@@ -70,11 +70,11 @@ Bridges over the river on the trail.
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090710.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090713.2048x1538.webp", "2048x1538" %}
 
-After walking back to the Visitor Center, we tried out the shuttle to the end. After getting to the end, we did learn that you can't just stay on, but have to get off and wait in line before you can ride back. It had been a longer day, so doh, but I do not remember the long line being too slow. Sporting my covid time required mask on the shuttles.    
+After walking back to the Visitor Center, we tried out the shuttle to the end of the line. After getting to the end, we did learn that you can't just stay on, but have to get off and wait in line before you can ride back. It had been a longer day, so doh, but I do not remember the long line being too slow. Sporting my covid time required mask on the shuttles.    
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090723.2048x1538.webp", "2048x1538" %}
 
-Back at the Visitor Center, we walked to Zion Outfitter to pick up our gear -- water hiking shoes, neoprene socks, and hiking pole -- for tomorrow's Narrows hike. We were allowed to pick up the rental gear the evening before, so we could get an early start the next day. They did warn us that there was an x% chance of rain at 3pm the next day. The Narrows can only be hiked when there is not rain. Upriver all rain runoff comes downriver and through the slot canyon to create a very dangerous situation. I also should have explained that The Narrows is a hike through the water of the Virgin River where the river goes through a slot canyon. One can hike it top down or bottom up. We did bottom up since this was easiest from the park shuttle. Once we were happy with our gear fit, we walked back to our parking spot, outside the park, with the gear in hand. Then headed to check into our hotel in St. George. A lot of people stay in Hurricane, which is closer, but this was more affordable. 
+Back at the Visitor Center, we walked to Zion Outfitter to pick up our gear -- water hiking shoes, neoprene socks, and hiking pole -- for tomorrow's Narrows hike. We were allowed to pick up the rental gear up the evening before, so we could get an early start the next day. They did warn us that there was an x% chance of rain at 3pm the next day. The Narrows can only be hiked when there is not rain. Upriver all rain runoff comes downriver and through the slot canyon to create a very dangerous situation. I also should have explained that The Narrows is a hike through the water of the Virgin River where the river goes through a slot canyon. One can hike it top down or bottom up. We did bottom up since this was easiest from the park shuttle. Once we were happy with our gear fit, we walked back to our parking spot, outside the park, with the gear in hand. Then headed to check into our hotel in St. George. A lot of people stay in Hurricane, which is closer, but this was more affordable. 
 
 I loved the hotel art, made of actual license plates from each state (well, I guess Alaska and Hawaii did not get any love). 
 
