@@ -40,7 +40,7 @@ Another top of the waterfall; smaller.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090795.2048x1538.webp", "2048x1538" %}
 
-We then went on a hike that went up a hill. I could not find what it was called. I had some good views since it went up. We could see the horse stable from above and found a tarantula and lizard.  
+We then went on a hike that went up a hill. I could not find what it was called. It had some good views since it went up. We could see the horse stable from above and found a tarantula and lizard.  
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090807.1538x2048.webp", "1538x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090809.2048x1538.webp", "2048x1538" %}
@@ -51,13 +51,13 @@ We then went on a hike that went up a hill. I could not find what it was called.
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090830.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090832.2048x1538.webp", "2048x1538" %}
 
-We visited the Court of the Patriarchs
+We visited the Court of the Patriarchs.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090838.2048x481.webp", "2048x481" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090846.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090847.2048x1538.webp", "2048x1538" %}
 
-Found some small rapids on the Virgin Rivers. 
+Found some small rapids on the Virgin River. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090839.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090843.2048x1538.webp", "2048x1538" %}
