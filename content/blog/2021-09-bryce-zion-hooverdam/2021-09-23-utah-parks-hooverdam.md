@@ -3,7 +3,7 @@ trip: { title: "Utah parks - Bryce Canyon, Zion, and Hoover Dam" }
 title: "Bryce Canyon"
 date: 2021-09-23
 img: 2021-09-Bryce/IMG_3869.2048x1536.webp
-tags: []
+tags: [us-ut,us]
 author: Tammy
 description: ""
 ---
