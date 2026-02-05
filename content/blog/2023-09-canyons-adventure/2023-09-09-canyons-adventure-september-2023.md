@@ -3,7 +3,7 @@ trip: { title: "Canyons Adventure" }
 title: "Drive and Petrified Forest - September 8-9, 2023"
 date: 2023-09-09
 img: legacy/IMG_6979.webp
-tags: [New Mexico, Petrified Forest, Arizona]
+tags: [New Mexico, Petrified Forest, Arizona, United States]
 country: us
 state: nm
 author: Tammy

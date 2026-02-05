@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Port Canaveral"
 date: 2024-03-12
 img: legacy/IMG_7681.webp
-tags: [Port Canaveral, MSC Meraviglia, Airboat]
+tags: [Port Canaveral, MSC Meraviglia, Florida, United States]
 country: us
 state: fl
 author: Tammy

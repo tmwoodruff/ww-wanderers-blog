@@ -3,7 +3,7 @@ trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
 title: "Arriving in Long Beach"
 date: 2023-01-20
 img: legacy/IMG_5876.webp
-tags: [Long Beach, Carnival Panorama]
+tags: [Long Beach, Carnival Panorama, California, United States]
 country: us
 state: ca
 author: Tammy

@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Puerto Vallarta and a Sea Day"
 date: 2025-10-25
-tags: [Trip Report]
+tags: [Island Princess, Puerto Vallarta, Mexico]
 author: Tammy
 description: ""
 ---

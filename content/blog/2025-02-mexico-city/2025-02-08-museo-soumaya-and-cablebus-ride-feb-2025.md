@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Museo Soumaya and Cablebus ride"
 date: 2025-02-08
 img: legacy/IMG_1908.webp
-tags: [Cablebus, Mexico City, Museo Soumaya]
+tags: [Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

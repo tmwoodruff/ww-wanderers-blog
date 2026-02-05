@@ -2,7 +2,7 @@
 trip: { title: "Celebrity Beyond - Eastern Caribbean Cruise" }
 title: "Celebrity Beyond - Review"
 date: 2025-12-22
-tags: []
+tags: [Celebrity Beyond, cruise review]
 img: 2025-12-14/IMG_20251219_091955927_HDR.800x450.webp
 author: Tammy
 description: ""

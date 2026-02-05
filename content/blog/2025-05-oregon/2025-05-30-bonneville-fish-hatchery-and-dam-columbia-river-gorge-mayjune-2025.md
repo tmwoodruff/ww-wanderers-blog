@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Bonneville Fish Hatchery and Dam"
 date: 2025-05-30
 img: legacy/Google map triangle.webp
-tags: [Columbia River Gorge, Oregon, Bonneville]
+tags: [Columbia River Gorge, Oregon, United States]
 country: us
 state: or
 author: Tammy

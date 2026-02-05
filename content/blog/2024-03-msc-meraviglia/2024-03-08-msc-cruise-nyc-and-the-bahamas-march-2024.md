@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Planning and Flight"
 date: 2024-03-08
 img: legacy/IMG_7591.webp
-tags: [MSC Meraviglia, NYC]
+tags: [MSC Meraviglia, NYC, New York, United States]
 country: us
 state: ny
 author: Tammy

@@ -2,7 +2,7 @@
 title: "ATLAS Comet"
 date: 2024-10-19
 img: legacy/1140679~2.webp
-tags: []
+tags: [Texas, United States]
 author: Tammy
 description: ""
 ---

@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Embarkation Day"
 date: 2024-03-10
 img: legacy/IMG_7585.webp
-tags: [MSC Meraviglia, embarkation]
+tags: [MSC Meraviglia, embarkation, NYC, New York, United States]
 country: us
 state: ny
 author: Tammy

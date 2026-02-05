@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Mexico City - Centro District"
 date: 2025-02-05
 img: legacy/IMG_1532.webp
-tags: [Mexico City]
+tags: [Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

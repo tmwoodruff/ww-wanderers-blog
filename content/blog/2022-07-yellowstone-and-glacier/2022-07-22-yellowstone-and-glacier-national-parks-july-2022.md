@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Grand Canyon of Yellowstone and Upper and Lower Falls"
 date: 2022-07-22
 img: legacy/IMG_5242.webp
-tags: [grand canyon of yellowstone]
+tags: [yellowstone, Wyoming, United States]
 country: us
 state: wy
 author: Tammy

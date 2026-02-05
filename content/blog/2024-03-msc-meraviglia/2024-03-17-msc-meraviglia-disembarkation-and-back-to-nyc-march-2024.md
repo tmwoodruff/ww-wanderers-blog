@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Disembarkation and NYC"
 date: 2024-03-17
 img: legacy/IMG_7963.webp
-tags: [MSC Meraviglia, NYC]
+tags: [MSC Meraviglia, NYC, New York, United States]
 country: us
 state: ca
 description: ""

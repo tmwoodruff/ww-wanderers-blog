@@ -3,7 +3,7 @@ trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Travel and Southampton - September 11-12, 2024"
 date: 2024-09-11
 img: legacy/IMG_8709.webp
-tags: [Southampton, National Express coach]
+tags: [Southampton, United Kingdom]
 country: uk
 author: Tammy
 description: ""

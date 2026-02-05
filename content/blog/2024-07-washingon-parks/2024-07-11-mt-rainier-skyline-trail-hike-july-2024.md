@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Hiking Skyline Trail in Mt. Rainier"
 date: 2024-07-11
 img: legacy/IMG_8167.webp
-tags: [Skyline, Mount Rainier, Washington]
+tags: [Mount Rainier, Washington, United States]
 country: us
 state: wa
 author: Tammy

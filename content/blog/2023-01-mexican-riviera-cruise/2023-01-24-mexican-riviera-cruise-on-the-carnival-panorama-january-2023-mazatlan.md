@@ -3,7 +3,7 @@ trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
 title: "Mazatlan"
 date: 2023-01-24
 img: legacy/IMG_6071.webp
-tags: [mazatlan, Carnival Panorama]
+tags: [mazatlan, Carnival Panorama, Mexico]
 country: mx
 author: Tammy
 description: ""

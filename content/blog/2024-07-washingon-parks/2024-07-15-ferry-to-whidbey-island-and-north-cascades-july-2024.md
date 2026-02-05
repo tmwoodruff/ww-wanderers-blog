@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Ferry to Whidbey Island and North Cascades"
 date: 2024-07-15
 img: legacy/IMG_20240715_080144043_HDR.webp
-tags: [North Cascades, Washington]
+tags: [North Cascades, Washington, United States]
 country: us
 state: wa
 author: Tammy

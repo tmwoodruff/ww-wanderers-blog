@@ -2,7 +2,7 @@
 trip: { title: "Celebrity Beyond - Eastern Caribbean Cruise" }
 title: "Biscayne National Park - Snorkeling Trip"
 date: 2025-12-21
-tags: []
+tags: [Celebrity Beyond, Florida, United States]
 img: 2025-12-14/IMG_20251219_091955927_HDR.800x450.webp
 author: Tammy
 description: ""

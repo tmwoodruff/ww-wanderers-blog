@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Valley Forge"
 date: 2022-09-25
 img: legacy/IMG_5757.webp
-tags: [philadelphia, valley forge]
+tags: [philadelphia, valley forge, Pennsylvania, United States]
 country: us
 state: pa
 author: Tammy

@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "North Cascades Maple Pass Loop hike"
 date: 2024-07-16
 img: legacy/IMG_8458.webp
-tags: [North Cascades, Washington]
+tags: [North Cascades, Washington, United States]
 country: us
 state: wa
 author: Tammy

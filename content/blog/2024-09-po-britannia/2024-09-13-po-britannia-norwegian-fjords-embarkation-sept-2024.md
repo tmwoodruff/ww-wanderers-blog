@@ -3,7 +3,7 @@ trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Embarkation"
 date: 2024-09-13
 img: legacy/IMG_8730.webp
-tags: [P&O Britannia, Norwegian Fjords, Titanic Museum]
+tags: [P&O Britannia, Norwegian Fjords, United Kingdom]
 country: uk
 author: Tammy
 description: ""

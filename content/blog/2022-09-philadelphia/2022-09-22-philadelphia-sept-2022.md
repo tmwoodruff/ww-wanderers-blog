@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Independence Hall and Seaport Museum"
 date: 2022-09-22
 img: legacy/IMG_5580.webp
-tags: [philadelphia, independence hall, independence seaport museum, liberty bell]
+tags: [philadelphia, independence hall, independence seaport museum, liberty bell, Pennsylvania, United States]
 country: us
 state: pa
 author: Tammy

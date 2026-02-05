@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Panama Canal Full Transit"
 date: 2025-11-02
-tags: [Trip Report]
+tags: [Island Princess, Panama]
 author: Tammy
 description: ""
 ---

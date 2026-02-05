@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Mexico City - Overview and kickoff"
 date: 2025-02-04
 img: legacy/IMG_1623.webp
-tags: [Mexico City]
+tags: [Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

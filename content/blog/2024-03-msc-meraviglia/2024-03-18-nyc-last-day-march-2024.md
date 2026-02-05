@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "NYC Last Day"
 date: 2024-03-18
 img: legacy/IMG_7989.webp
-tags: [NYC]
+tags: [NYC, New York, United States]
 country: us
 state: ny
 author: Tammy

@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Flowers of Oregon"
 date: 2025-06-04
 img: legacy/IMG_2094.webp
-tags: []
+tags: [Portland, Oregon, United States]
 country: us
 state: or
 author: Tammy

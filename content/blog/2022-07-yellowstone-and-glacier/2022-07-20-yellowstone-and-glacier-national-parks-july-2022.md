@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Old Faithful and Upper Geyser Basin"
 date: 2022-07-20
 img: legacy/IMG_5066.webp
-tags: [National Park, yellowstone]
+tags: [National Park, yellowstone, Wyoming, United States]
 country: us
 state: wy
 author: Tammy

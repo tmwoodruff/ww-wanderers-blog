@@ -3,7 +3,7 @@ trip: { title: "Canyons Adventure" }
 title: "Antelope Canyon X and more Glen Canyon Dam"
 date: 2023-09-13
 img: legacy/P1130528.webp
-tags: [Glen Canyon Dam, Antelope Canyon]
+tags: [Arizona, United States]
 country: us
 state: [az, ut]
 author: Tammy

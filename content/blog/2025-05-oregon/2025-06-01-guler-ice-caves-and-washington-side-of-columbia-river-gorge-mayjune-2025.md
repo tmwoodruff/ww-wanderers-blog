@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Guler Ice Caves and Washington side of Columbia River Gorge"
 date: 2025-06-01
 img: legacy/IMG_2482.webp
-tags: [Washington, Columbia River Gorge, Ice Caves]
+tags: [Washington, Columbia River Gorge, United States]
 country: us
 state: [or, wa]
 author: Tammy

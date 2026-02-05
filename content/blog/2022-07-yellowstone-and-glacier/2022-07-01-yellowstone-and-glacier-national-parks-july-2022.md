@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Planning"
 date: 2022-07-01
 img: legacy/P1110245.webp
-tags: [camping, National Parks, glacier, yellowstone]
+tags: [camping, National Parks, glacier, yellowstone, United States]
 country: us
 author: Tammy
 description: ""

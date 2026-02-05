@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Heading back to Bozeman and flight home"
 date: 2022-07-27
 img: legacy/IMG_5555.webp
-tags: [bozeman, montana]
+tags: [Bozeman, Montana, United States]
 country: us
 state: wy
 author: Tammy

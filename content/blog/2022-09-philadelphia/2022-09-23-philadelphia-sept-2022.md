@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Walking around and the Rodin Museum"
 date: 2022-09-23
 img: legacy/IMG_5667.webp
-tags: [philadelphia, rodin]
+tags: [philadelphia, rodin, Pennsylvania, United States]
 country: us
 state: pa
 author: Tammy

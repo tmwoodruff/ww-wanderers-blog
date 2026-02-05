@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Huatulco, Guatemala, and a Sea Day"
 date: 2025-10-27
-tags: [Trip Report]
+tags: [Island Princess, Guatemala]
 author: Tammy
 description: ""
 ---

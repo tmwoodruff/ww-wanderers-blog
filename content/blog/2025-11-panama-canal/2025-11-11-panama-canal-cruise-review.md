@@ -2,7 +2,7 @@
 trip: { title: "Panama Canal Cruise" }
 title: "Island Princess Review"
 date: 2025-11-11
-tags: [cruise review]
+tags: [cruise review, Island Princess]
 author: Tammy
 description: ""
 ---

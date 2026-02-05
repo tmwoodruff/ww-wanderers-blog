@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Sea Day and Curacao"
 date: 2025-11-03
-tags: [Trip Report]
+tags: [Island Princess, Curaçao]
 author: Tammy
 description: ""
 ---

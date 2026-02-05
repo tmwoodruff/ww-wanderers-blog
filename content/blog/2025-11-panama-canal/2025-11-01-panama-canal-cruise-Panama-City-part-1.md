@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Panama City Exploration, part 1"
 date: 2025-11-01
-tags: [Trip Report]
+tags: [Island Princess, Panama]
 author: Tammy
 description: ""
 ---

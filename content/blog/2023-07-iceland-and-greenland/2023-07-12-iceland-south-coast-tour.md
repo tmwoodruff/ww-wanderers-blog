@@ -3,7 +3,7 @@ trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "South Coast Tour"
 date: 2023-07-12
 img: legacy/P1120361.webp
-tags: [Glacier Hiking, South Coast, Vik, iceland]
+tags: [Glacier Hiking, South Coast, Vik, Iceland]
 country: is
 author: Tammy
 description: ""

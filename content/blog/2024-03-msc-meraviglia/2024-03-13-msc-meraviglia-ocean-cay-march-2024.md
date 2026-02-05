@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Ocean Cay"
 date: 2024-03-13
 img: legacy/IMG_7815.webp
-tags: [Ocean Cay, The Bahamas, MSC Meraviglia]
+tags: [Ocean Cay, Bahamas, MSC Meraviglia]
 country: bs
 author: Tammy
 description: ""

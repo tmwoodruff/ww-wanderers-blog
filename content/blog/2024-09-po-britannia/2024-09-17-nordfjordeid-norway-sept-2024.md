@@ -3,7 +3,7 @@ trip: { title: "P&O Britannia Norwegian Fjord Cruise" }
 title: "Nordfjordeid, Norway"
 date: 2024-09-17
 img: legacy/IMG_9073.webp
-tags: [P&O Britannia, Norwegian Fjords]
+tags: [P&O Britannia, Norwegian Fjords, Norway]
 country: no
 author: Tammy
 description: ""
