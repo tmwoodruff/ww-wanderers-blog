@@ -14,6 +14,13 @@ Quite a red road. We entered at the east side entry station.
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/P1090647.2048x1538.webp", "2048x1538" %}
 
+**Our park map - 2021**
+
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211003.1239x920.webp", "1239x920" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211024.1239x469.webp", "1239x469" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211103.1240x835.webp", "1240x835" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211132.1236x834.webp", "1236x834" %}
+
 Day moon and contrail in the big blue sky. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/IMG_3917.2048x1420.webp", "2048x1420" %}

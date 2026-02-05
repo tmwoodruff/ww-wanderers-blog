@@ -19,6 +19,13 @@ The next morning at Bryce Canyon we bought our Annual National Park Pass upon en
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/P1090290.2048x1538.webp", "2048x1538" %}
 
+**Our park map - 2021**
+
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210222.1238x874.webp", "1238x874" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210255.1230x866.webp", "1230x866" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210324.1230x869.webp", "1230x869" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210342.1241x905.webp", "1241x905" %}
+
 Our first hike was combining three trail for the figure eight that was recommended: Navajo Loop Trail (half of the loop), Peekaboo Loop Trail (half of the loop), and Queen's Garden. We loved the Navajo Loop Trail and did the full loop the next day. I did not like the Peekaboo trail as much; it was a lot of ups and downs. It was also a horse trail so had messes on the trail. 
 
 Navajo trail, going down and look at all those hoodoos. Navajo trail is known for Wall Street with many hoodoos and Thor's hammer. 
