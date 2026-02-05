@@ -6,6 +6,7 @@ import { eleventyImageTransformPlugin, Util } from "@11ty/eleventy-img";
 import embedEverything  from 'eleventy-plugin-embed-everything';
 import pluginPostImages from "./modules/post-images/post-images.js";
 import pluginTrips from "./modules/trips.js";
+import pluginMaps from "./modules/maps.js";
 
 import pluginFilters from "./_config/filters.js";
 
@@ -115,7 +116,10 @@ export default async function(eleventyConfig) {
 
 	// Post image gallery
 	eleventyConfig.addPlugin(pluginPostImages);
+	// Trips
 	eleventyConfig.addPlugin(pluginTrips);
+	// Maps
+	eleventyConfig.addPlugin(pluginMaps);
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);

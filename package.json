@@ -50,6 +50,7 @@
 		"@zachleat/heading-anchors": "^1.0.5",
 		"eleventy-plugin-embed-everything": "^1.21.0",
 		"memoize": "^10.2.0",
-		"photoswipe": "^5.4.4"
+		"photoswipe": "^5.4.4",
+		"svg-pan-zoom": "^3.6.2"
 	}
 }
