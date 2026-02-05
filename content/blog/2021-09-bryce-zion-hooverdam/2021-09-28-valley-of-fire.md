@@ -18,7 +18,7 @@ Next, we stopped at the Valley of Fire State Park in Nevada. After arriving, we 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090860.1538x2048.webp", "1538x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090856.2048x1538.webp", "2048x1538" %}
 
-More slot canyons.
+More slot canyons. 
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090861.1538x2048.webp", "1538x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090864.1538x2048.webp", "1538x2048" %}
