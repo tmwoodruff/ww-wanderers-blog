@@ -1,0 +1,32 @@
+---js
+const eleventyNavigation = {
+	key: "Map",
+	order: 3
+};
+---
+<h1>Countries We've Visited</h1>
+
+<script src="/js/svg-pan-zoom/svg-pan-zoom.min.js"></script>
+
+<style type="text/css" eleventy:ignore>
+    svg { fill: #d3d3d3; }
+    svg .visited { fill: #bbbbbb; }
+    svg .has-posts { fill: #99b79c; }
+    :target { background-color: #ffa; }
+</style>
+
+{# From https://github.com/flekschas/simple-world-map #}
+{% map "simple_world_map" %}
+
+<hr>
+
+<ul>
+{%- for country in collections.posts | visitedCountries %}
+    <li id="{{country.id}}-link">
+        {{country.name}}: {{country.visited}}
+        {%- if country.linkable %}
+            [<a href="/tags/{{country.tag}}">Posts</a>]
+        {%- endif%}
+    </li>
+{%- endfor %}
+</ul>
