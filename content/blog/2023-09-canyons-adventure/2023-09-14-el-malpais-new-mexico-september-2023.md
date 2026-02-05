@@ -3,7 +3,7 @@ trip: { title: "Canyons Adventure" }
 title: "El Malpais, NM"
 date: 2023-09-14
 img: legacy/IMG_7477.webp
-tags: [New Mexico, El Malpais]
+tags: [New Mexico, El Malpais, United States]
 country: us
 state: nm
 author: Tammy

@@ -2,7 +2,7 @@
 trip: { title: "Celebrity Beyond - Eastern Caribbean Cruise" }
 title: "Celebrity Beyond - Tortola"
 date: 2025-12-17
-tags: []
+tags: [Celebrity Beyond, Virgin Islands (British)]
 img: 2025-12-14/IMG_20251219_091955927_HDR.800x450.webp
 author: Tammy
 description: ""

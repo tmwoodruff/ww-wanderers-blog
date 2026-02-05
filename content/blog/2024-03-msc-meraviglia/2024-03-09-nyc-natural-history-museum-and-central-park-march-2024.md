@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Natural History Museum and Central Park"
 date: 2024-03-09
 img: legacy/IMG_20240309_093718314_HDR.webp
-tags: [American Museum of Natural History, NYC]
+tags: [NYC, New York, United States]
 country: us
 state: ny
 author: Tammy

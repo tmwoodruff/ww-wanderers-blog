@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Portland"
 date: 2025-06-03
 img: legacy/IMG_2546.webp
-tags: [Portland, Rose Garden]
+tags: [Portland, Oregon, United States]
 country: us
 state: or
 author: Tammy

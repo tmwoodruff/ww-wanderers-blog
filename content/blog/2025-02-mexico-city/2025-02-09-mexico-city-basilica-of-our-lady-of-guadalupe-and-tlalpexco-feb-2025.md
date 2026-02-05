@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Basilica of Our Lady of Guadalupe and Tlalpexco"
 date: 2025-02-09
 img: legacy/IMG_1979.webp
-tags: [Cablebus, Tlalpexco, Mexico City]
+tags: [Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

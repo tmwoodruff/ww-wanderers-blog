@@ -3,7 +3,7 @@ trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
 title: "Cabo San Lucas"
 date: 2023-01-23
 img: legacy/IMG_5962.webp
-tags: [Carnival Panorama, Cabo San Lucas]
+tags: [Carnival Panorama, Cabo San Lucas, Mexico]
 country: mx
 author: Tammy
 description: ""

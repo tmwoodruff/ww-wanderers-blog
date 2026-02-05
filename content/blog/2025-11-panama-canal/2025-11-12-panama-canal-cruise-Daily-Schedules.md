@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Daily Schedules - Princess Patters"
 date: 2025-11-12
-tags: [Trip Report]
+tags: [Island Princess]
 author: Tammy
 description: ""
 ---

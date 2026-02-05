@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Flight and arriving in Bozeman and Yellowstone"
 date: 2022-07-19
 img: legacy/P1110583.webp
-tags: [bozeman, yellowstone]
+tags: [yellowstone, Bozeman, Montana, Wyoming, United States]
 country: us
 state: [mt, wy]
 author: Tammy

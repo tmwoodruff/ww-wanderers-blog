@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Teotihuacan Pyramids"
 date: 2025-02-06
 img: legacy/IMG_1703.webp
-tags: [Teotihuacan pyramids, Condesa, Mexico City]
+tags: [Teotihuacan, Condesa, Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

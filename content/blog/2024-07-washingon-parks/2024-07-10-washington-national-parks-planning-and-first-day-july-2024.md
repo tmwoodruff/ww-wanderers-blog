@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Planning, First Day"
 date: 2024-07-10
 img: legacy/IMG_20240710_112604382.webp
-tags: [National Park, Mount Rainier, Washington]
+tags: [National Park, Mount Rainier, Washington, United States]
 country: us
 state: wa
 author: Tammy

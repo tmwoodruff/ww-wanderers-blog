@@ -3,7 +3,7 @@ trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
 title: "Sea Days and Disembarkation - January 26-28, 2023"
 date: 2023-01-08
 img: legacy/Screenshot_20230126-220551.webp
-tags: [Carnival Panorama]
+tags: [Carnival Panorama, California, United States]
 country: us
 state: ca
 author: Tammy

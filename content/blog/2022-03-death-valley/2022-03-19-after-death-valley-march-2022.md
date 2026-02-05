@@ -3,7 +3,7 @@ trip: { title: "Death Valley" }
 title: "After Death Valley"
 date: 2022-03-19
 img: legacy/IMG_4222.webp
-tags: [Neveda, Red Rock Canyon, Mt Charleston, Las Vegas]
+tags: [Red Rock Canyon, Mt Charleston, Las Vegas, Nevada, United States]
 country: us
 state: [nv]
 author: Tammy

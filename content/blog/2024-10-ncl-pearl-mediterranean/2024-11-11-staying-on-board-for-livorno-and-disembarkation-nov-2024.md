@@ -3,7 +3,7 @@ trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "Staying on board for Livorno and Disembarkation - November 10-11, 2024"
 date: 2024-11-11
 img: legacy/IMG_1133.webp
-tags: [NCL Pearl]
+tags: [NCL Pearl, Italy]
 country: it
 author: Tammy
 description: ""

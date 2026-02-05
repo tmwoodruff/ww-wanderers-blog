@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Planning and First Day"
 date: 2025-05-28
 img: legacy/image80.webp
-tags: [Columbia River Gorge, Portland, Oregon]
+tags: [Columbia River Gorge, Portland, Oregon, United States]
 country: us
 state: or
 author: Tammy

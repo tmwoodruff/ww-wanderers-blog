@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "The Dalles"
 date: 2025-05-31
 img: legacy/IMG_2325.webp
-tags: [Columbia River Gorge, Oregon]
+tags: [Columbia River Gorge, Oregon, United States]
 country: us
 state: or
 author: Tammy

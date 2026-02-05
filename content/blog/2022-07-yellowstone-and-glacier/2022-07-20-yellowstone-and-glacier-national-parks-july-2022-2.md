@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Mammoth Hot Springs Terraces"
 date: 2022-07-20 12:00:00
 img: legacy/IMG_5129.webp
-tags: [mammoth hot springs, yellowstone]
+tags: [mammoth hot springs, Wyoming,yellowstone]
 country: us
 state: wy
 author: Tammy

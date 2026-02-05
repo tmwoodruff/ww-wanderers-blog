@@ -3,7 +3,7 @@ trip: { title: "MSC Cruise, NYC, and the Bahamas" }
 title: "Nassau, The Bahamas"
 date: 2024-03-14
 img: legacy/IMG_7853.webp
-tags: [Nassau, MSC Meraviglia]
+tags: [Nassau, MSC Meraviglia, Bahamas]
 country: bs
 author: Tammy
 description: ""

@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Last day in North Cascades, Seattle, and home - July 17-18, 2024"
 date: 2024-07-18
 img: legacy/IMG_8617.webp
-tags: [Seattle, North Cascades, Washington]
+tags: [Seattle, North Cascades, Washington, United States]
 country: us
 state: wa
 author: Tammy

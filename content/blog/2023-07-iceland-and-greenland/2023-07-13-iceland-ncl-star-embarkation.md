@@ -3,7 +3,7 @@ trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "NCL Star Embarkation"
 date: 2023-07-13
 img: legacy/IMG_6461.webp
-tags: [reykjavik, ncl star, embarkation]
+tags: [Reykjavik, NCL Star, embarkation, Iceland]
 country: is
 author: Tammy
 description: ""

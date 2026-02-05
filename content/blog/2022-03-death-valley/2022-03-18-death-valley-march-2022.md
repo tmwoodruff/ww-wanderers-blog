@@ -3,8 +3,8 @@ trip: { title: "Death Valley" }
 title: "Death Valley"
 date: 2022-03-18
 img: legacy/277369174_10220240736958434_14320206310629098.webp
-tags: [Death Valley, California]
-country: ca
+tags: [Death Valley, California, Nevada, United States]
+country: us
 state: [ca, nv]
 author: Tammy
 description: ""

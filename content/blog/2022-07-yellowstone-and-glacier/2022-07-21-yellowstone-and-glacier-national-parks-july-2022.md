@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Lower and Midway Geyser Basin and Yellowstone Lake"
 date: 2022-07-21
 img: legacy/IMG_5167.webp
-tags: [geysers, yellowstone]
+tags: [geysers, yellowstone, Wyoming, United States]
 country: us
 state: wy
 author: Tammy

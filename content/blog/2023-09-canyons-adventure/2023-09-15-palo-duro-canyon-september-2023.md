@@ -3,7 +3,7 @@ trip: { title: "Canyons Adventure" }
 title: "Palo Duro Canyon and back home"
 date: 2023-09-15
 img: legacy/IMG_7502.webp
-tags: [Amarillo, Palo Duro Canyon State Park]
+tags: [Amarillo, Palo Duro Canyon State Park, Texas, United States]
 country: us
 state: tx
 author: Tammy

@@ -3,7 +3,7 @@ trip: { title: "Portland, Oregon and the Columbia River Gorge" }
 title: "Wet Planet Whitewater Rafting"
 date: 2025-06-02
 img: legacy/IMG_2535.webp
-tags: [Whitewater Rafting, White Salmon, Bonneville]
+tags: [Washington, Columbia River Gorge, United States]
 country: us
 state: or
 author: Tammy

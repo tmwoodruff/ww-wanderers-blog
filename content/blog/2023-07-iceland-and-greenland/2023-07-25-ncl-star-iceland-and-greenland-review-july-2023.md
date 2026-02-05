@@ -3,7 +3,7 @@ trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "NCL Star - Review"
 date: 2023-07-25
 img: legacy/P1130037.webp
-tags: [ncl star, iceland, Greenland]
+tags: [NCL Star, Iceland, Greenland]
 country: [is, gl]
 author: Tammy
 description: ""

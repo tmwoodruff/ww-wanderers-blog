@@ -3,7 +3,7 @@ trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "Naples to Pompeii, Sorrento, and the Amalfi Coast"
 date: 2024-11-09
 img: legacy/IMG_0863.webp
-tags: [Pompeii, Sorrento, Amalfi Coast, NCL Pearl]
+tags: [Pompeii, Sorrento, Amalfi Coast, NCL Pearl, Italy]
 country: it
 author: Tammy
 description: ""

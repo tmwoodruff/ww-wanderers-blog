@@ -3,7 +3,7 @@ trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "Messina, Sicily"
 date: 2024-11-08
 img: legacy/IMG_0779.webp
-tags: [Sicily, NCL Pearl]
+tags: [Sicily, NCL Pearl, Italy]
 country: it
 author: Tammy
 description: ""

@@ -1,9 +1,9 @@
 ---
 trip: { title: "Canyons Adventure" }
 title: "Grand Canyon - September 9-12, 2023"
-date: 2023-19-12
+date: 2023-09-12
 img: legacy/IMG_7198.webp
-tags: [Grand Canyon, Arizona]
+tags: [Grand Canyon, Arizona, United States]
 country: us
 state: az
 author: Tammy

@@ -3,7 +3,7 @@ trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Djupivogur and Akureyri - July 14-15, 2023"
 date: 2023-07-15
 img: legacy/IMG_6479.webp
-tags: [ncl star, Akureyri, iceland]
+tags: [NCL Star, Akureyri, Iceland]
 country: is
 author: Tammy
 description: ""

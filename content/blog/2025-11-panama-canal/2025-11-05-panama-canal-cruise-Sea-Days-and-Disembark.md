@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Sea Days and Disembark in Florida"
 date: 2025-11-05
-tags: [Trip Report]
+tags: [Island Princess, Florida, United States]
 author: Tammy
 description: ""
 ---

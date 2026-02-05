@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Mt. Rainier one more hike and on to Olympic"
 date: 2024-07-12
 img: legacy/IMG_8268.webp
-tags: [National Park, Mount Rainier, Olympic]
+tags: [National Park, Mount Rainier, Olympic, United States]
 country: us
 state: wa
 author: Tammy

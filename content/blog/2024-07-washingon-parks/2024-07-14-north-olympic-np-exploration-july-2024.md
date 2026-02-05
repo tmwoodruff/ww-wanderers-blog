@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Sol Duc, Lake Crescent, and Hurricane Ridge"
 date: 2024-07-14
 img: legacy/IMG_8298.webp
-tags: [Sol Duc, Lake Crescent, Hurricane Ridge, Olympic]
+tags: [Olympic, Washington, United States]
 country: us
 state: wa
 author: Tammy

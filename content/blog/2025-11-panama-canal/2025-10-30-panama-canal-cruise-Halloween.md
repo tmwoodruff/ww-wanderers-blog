@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Halloween on the Island Princess"
 date: 2025-10-31
-tags: [Halloween]
+tags: [Island Princess]
 author: Tammy
 description: ""
 ---

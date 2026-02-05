@@ -3,7 +3,7 @@ trip: { title: "Washington National Parks" }
 title: "Olympic Beaches and Beachcombing Museum"
 date: 2024-07-13
 img: legacy/IMG_8288.webp
-tags: [Olympic, Forks WA]
+tags: [Olympic, Washington, United States]
 country: us
 state: wa
 author: Tammy

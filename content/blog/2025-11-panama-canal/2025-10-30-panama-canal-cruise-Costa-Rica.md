@@ -2,7 +2,7 @@
 category: "Panama Canal Cruise - October/November 2025"
 title: "Costa Rica"
 date: 2025-10-30
-tags: [Trip Report]
+tags: [Island Princess, Costa Rica]
 author: Tammy
 description: ""
 ---

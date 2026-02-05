@@ -3,7 +3,7 @@ trip: { title: "Iceland and Greenland on the NCL Star" }
 title: "Ísafjörður"
 date: 2023-07-16
 img: legacy/IMG_6594.webp
-tags: [ncl star, Dynjandi, Isafjordur]
+tags: [NCL Star, Dynjandi, Isafjordur, Iceland]
 country: is
 author: Tammy
 description: ""

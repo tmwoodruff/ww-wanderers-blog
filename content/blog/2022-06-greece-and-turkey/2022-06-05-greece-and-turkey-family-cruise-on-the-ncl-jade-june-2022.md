@@ -3,7 +3,7 @@ trip: { title: "Greece and Turkey – Family Cruise on the NCL Jade" }
 title: "Embarkation Day"
 date: 2022-06-05
 img: legacy/IMG_4529.webp
-tags: [NCL Jade, embarkation]
+tags: [NCL Jade, embarkation, Athens, Greece]
 country: gr
 author: Tammy
 description: ""

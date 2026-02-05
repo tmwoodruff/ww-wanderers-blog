@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Chocolate Museum and Flight home"
 date: 2025-02-10
 img: legacy/IMG_20250210_091417714_HDR.webp
-tags: [Mexico City, Chocolate Museum]
+tags: [Mexico City, Chocolate Museum, Mexico]
 country: mx
 author: Tammy
 description: ""

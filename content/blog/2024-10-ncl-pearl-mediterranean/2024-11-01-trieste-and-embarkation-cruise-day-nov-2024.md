@@ -3,7 +3,7 @@ trip: { title: "NCL Pearl Mediterranean Cruise" }
 title: "Trieste and Embarkation"
 date: 2024-11-01
 img: legacy/image28.webp
-tags: [Trieste, NCL Pearl]
+tags: [Trieste, NCL Pearl, Italy]
 country: it
 author: Tammy
 description: ""

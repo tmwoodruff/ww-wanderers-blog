@@ -3,7 +3,7 @@ trip: { title: "Mexico City" }
 title: "Archaeology Museum, Castle, and Zoo"
 date: 2025-02-07
 img: legacy/IMG_1810.webp
-tags: [Archaeology Museum, Mexico City]
+tags: [Mexico City, Mexico]
 country: mx
 author: Tammy
 description: ""

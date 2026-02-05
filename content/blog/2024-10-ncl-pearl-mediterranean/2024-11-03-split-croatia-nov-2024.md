@@ -4,7 +4,7 @@ title: "Split, Croatia"
 date: 2024-11-03
 img: legacy/IMG_0137.webp
 tags: [Split, NCL Pearl, Croatia]
-country: h2
+country: hr
 author: Tammy
 description: ""
 ---

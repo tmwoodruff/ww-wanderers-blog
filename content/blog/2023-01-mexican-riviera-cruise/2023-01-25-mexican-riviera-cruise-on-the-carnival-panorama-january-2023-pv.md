@@ -3,7 +3,7 @@ trip: { title: "Mexican Riviera Cruise on the Carnival Panorama" }
 title: "Puerto Vallarta"
 date: 2023-01-25
 img: legacy/IMG_6178.webp
-tags: [Puerto Vallarta, Carnival Panorama]
+tags: [Puerto Vallarta, Carnival Panorama, Mexico]
 country: mx
 author: Tammy
 description: ""

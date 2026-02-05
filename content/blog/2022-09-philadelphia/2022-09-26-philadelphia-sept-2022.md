@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Benjamin Franklin Bridge, Fed, Mint"
 date: 2022-09-26
 img: legacy/IMG_5822.webp
-tags: [Federal reserve, mint, benjamin franklin bridge, money in motion]
+tags: [philadelphia, Pennsylvania, United States]
 country: us
 state: pa
 author: Tammy

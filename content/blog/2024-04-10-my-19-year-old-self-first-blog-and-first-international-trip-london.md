@@ -2,7 +2,7 @@
 title: "My 19 year old self, first blog, and first international trip: London"
 date: 1996-03-14 
 img: legacy/1996-03_4.webp
-tags: [London]
+tags: [London, United Kingdom]
 author: Tammy
 description: ""
 ---

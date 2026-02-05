@@ -2,7 +2,7 @@
 trip: { title: "Panama Canal Cruise" }
 title: "Embarkation and Sea Days"
 date: 2025-10-22
-tags: [Trip Report]
+tags: [Island Princess, Los Angeles, California, United States]
 author: Tammy
 description: ""
 ---

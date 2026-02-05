@@ -3,7 +3,7 @@ trip: { title: "Yellowstone and Glacier National Parks" }
 title: "Going-to-the-Sun Road"
 date: 2022-07-24
 img: legacy/IMG_5316.webp
-tags: [going-to-the-sun road, glacier]
+tags: [going-to-the-sun road, glacier, Montana, United States]
 country: us
 state: wy
 author: Tammy

@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Mutter Museum and Eastern State Penitentiary"
 date: 2022-09-24
 img: legacy/IMG_5723.webp
-tags: [mutter, philadelphia, eastern state penitentiary]
+tags: [mutter, philadelphia, eastern state penitentiary, Pennsylvania, United States]
 country: us
 state: pa
 author: Tammy
