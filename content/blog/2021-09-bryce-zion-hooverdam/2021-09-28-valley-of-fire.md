@@ -8,15 +8,15 @@ author: Tammy
 description: ""
 ---
 
-Next, we stopped at the Valley of Fire State Park in Nevada. After arriving, we learned that a couple of areas were closed since it was too hot. The coolest looking hike, The Wave, was closed. That was disappointing. Here is the pretty that we got to see. But, one more complaint -- sand is hard to hike in.  
+Next, we stopped at the Valley of Fire State Park in Nevada. After arriving, we learned that a couple of areas were closed since it was too hot. The coolest looking hike, The Wave, was closed. That was disappointing. Here is the pretty that we got to see. But, one more complaint -- sand is hard to hike through.  
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090925.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090848.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090850.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090852.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090853.2048x1538.webp", "2048x1538" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090856.2048x1538.webp", "2048x1538" %}
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090860.1538x2048.webp", "1538x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/P1090856.2048x1538.webp", "2048x1538" %}
 
 More slot canyons.
 
