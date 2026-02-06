@@ -14,22 +14,32 @@ export default (eleventyConfig) => {
     eleventyConfig.addShortcode("map", updateSvgMap);
 
     eleventyConfig.addFilter("visitedCountries", getVisitedCountries);
+    eleventyConfig.addFilter("visitedUSStates", getVisitedUSStates);
 };
 
 
 function getVisitedCountries(allPosts) {
-    const allTags = getAllTags.apply(this, [allPosts]);
+    return getVisited(getAllTags.apply(this, [allPosts]), this.ctx.mapData.countries);
+}
+
+function getVisitedUSStates(allPosts) {
+    return getVisited(getAllTags.apply(this, [allPosts]), this.ctx.mapData.usStates);
+}
+
+function getVisited(allTags, entities) {
     const visited = [];
-    for (const country of this.ctx.mapData.countries) {
-        if (allTags.has(country.tag)) {
-            country.linkable = true;
+    for (const v of entities) {
+        if (allTags.has(v.tag)) {
+            v.linkable = true;
         }
-        if (country.visited) {
-            visited.push(country);
+        if (v.visited) {
+            visited.push(v);
+            v.detailAnchor = `${v.id}-detail`
         }
     }
     visited.sort((a, b) => Intl.Collator().compare(a.name, b.name));
     return visited;
+
 }
 
 function updateSvgMap(filename) {
@@ -53,7 +63,11 @@ function updateSvgMap(filename) {
 
     data = data.replace(/<svg([ >])/gi, '<svg id="map"$1');
 
-    data = (new MapUpdater(this.ctx.mapData.byId, allTags)).processMap(data);
+    const mapEntities = filename === "united-states"
+        ? this.ctx.mapData.usStatesById
+        : this.ctx.mapData.countriesById;
+
+    data = (new MapUpdater(mapEntities, allTags)).processMap(data);
 
     return data;
 }
@@ -96,7 +110,9 @@ class MapUpdater {
         const newContents = [];
         for (const child of node.content) {
             if (typeof child === "object") {
-                if (child.attrs?.id) {
+                // This logic is ugly, but the work map has country codes in `id`, and the US map has
+                // state abbreviations in `class`, and this allow us to avoid changing the map data.
+                if (child.attrs?.id || (child.attrs?.class && child.attrs.class.match(/\b[a-z]{2}\b/))) {
                     newContents.push(this.processMapEntity(child));
                 } else if (child.content) {
                     newContents.push(this.processMapEntities(child));
@@ -112,18 +128,25 @@ class MapUpdater {
     }
 
     processMapEntity(node) {
-        const id = node.attrs?.id ?? "";
-        const entity = this.allEntities[id] ?? {};
+        // This logic is ugly, but the work map has country codes in `id`, and the US map has
+        // state abbreviations in `class`, and this allow us to avoid changing the map data.
+        let id = node.attrs?.id;
+        if (!id) {
+            const classes = (node.attrs.class ?? "").split(/\s+/);
+            id = classes.filter(c => c in this.allEntities)?.[0];
+        }
+        const entityId = (id ?? "");
+
+        const entity = this.allEntities[entityId] ?? {};
         if (entity.name) {
-            node.title = entity.name;
             node.content = node.content ?? [];
             node.content.push({tag: "title", content: entity.name});
         }
-        if (entity.visited) {
+        if (entity.visited || this.allTags.has(entity.tag)) {
             let classes = " visited";
             if (this.allTags.has(entity.tag)) classes += " has-posts"
             node.attrs.class = (node.attrs?.class ?? "") + classes;
-            const href = this.allTags.has(entity.tag) ? `/tags/${entity.tag}` : `#${entity.id}-link`;
+            const href = `#${entity.id}-detail`;
             return {
                 "tag": "a",
                 "attrs": {"href": href},

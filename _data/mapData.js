@@ -179,7 +179,7 @@ export const countries = [
     { id: "tz", name: "Tanzania" },
     { id: "ua", name: "Ukraine" },
     { id: "ug", name: "Uganda" },
-    { id: "us", name: "United States", visited: "all the time" },
+    { id: "us", name: "United States", map: "united-states", visited: "we live here" },
     { id: "uy", name: "Uruguay", visited: "2017" },
     { id: "uz", name: "Uzbekistan" },
     { id: "ve", name: "Venezuela" },
@@ -191,11 +191,70 @@ export const countries = [
     { id: "zw", name: "Zimbabwe" }
 ];
 
-export const byId = {};
+export const usStates = [
+    { id: "al", name: "Alabama", visited: "2018" },
+    { id: "ak", name: "Alaska", visited: "2003" },
+    { id: "az", name: "Arizona", visited: "2021, 2023" },
+    { id: "ar", name: "Arkansas", visited: "2006, 2018" },
+    { id: "ca", name: "California", visited: "2014, 2016, 2018, 2019, 2020, 2022, 2023, 2025" },
+    { id: "co", name: "Colorado", visited: "2020" },
+    { id: "ct", name: "Connecticut" },
+    { id: "de", name: "Delaware" },
+    { id: "fl", name: "Florida", visited: "2002, 2009, 2013, 2019, 2020, 2024, 2025" },
+    { id: "ga", name: "Georgia", visited: "2018" },
+    { id: "hi", name: "Hawaii", visited: "2005" },
+    { id: "id", name: "Idaho", visited: "2022" },
+    { id: "il", name: "Illinois", visited: "2021" },
+    { id: "in", name: "Indiana" },
+    { id: "ia", name: "Iowa" },
+    { id: "ks", name: "Kansas", visited: "2015" },
+    { id: "ky", name: "Kentucky", visited: "2018" },
+    { id: "la", name: "Louisiana", visited: "2010, 2018" },
+    { id: "me", name: "Maine", visited: "2001" },
+    { id: "md", name: "Maryland", visited: "2016" },
+    { id: "ma", name: "Massachusetts", visited: "2013, 2015, 2018" },
+    { id: "mi", name: "Michigan", visited: "2023" },
+    { id: "mn", name: "Minnesota", visited: "2023" },
+    { id: "ms", name: "Mississippi", visited: "2018" },
+    { id: "mo", name: "Missouri", visited: "2015" },
+    { id: "mt", name: "Montana", visited: "2022" },
+    { id: "ne", name: "Nebraska" },
+    { id: "nv", name: "Nevada", visited: "2010, 2021, 2022" },
+    { id: "nh", name: "New Hampshire", visited: "2001" },
+    { id: "nj", name: "New Jersey", visited: "2022" },
+    { id: "nm", name: "New Mexico", visited: "2014, 2020, 2023" },
+    { id: "ny", name: "New York", visited: "2015, 2016, 2017, 2018, 2024" },
+    { id: "nc", name: "North Carolina", visited: "2018" },
+    { id: "nd", name: "North Dakota" },
+    { id: "oh", name: "Ohio", visited: "2010" },
+    { id: "ok", name: "Oklahoma", visited: "2005" },
+    { id: "or", name: "Oregon", visited: "2025" },
+    { id: "pa", name: "Pennsylvania", visited: "2022" },
+    { id: "ri", name: "Rhode Island", visited: "2018" },
+    { id: "sc", name: "South Carolina", visited: "2018" },
+    { id: "sd", name: "South Dakota" },
+    { id: "tn", name: "Tennessee", visited: "2018" },
+    { id: "tx", name: "Texas", visited: "we live here" },
+    { id: "ut", name: "Utah", visited: "2021, 2023" },
+    { id: "vt", name: "Vermont" },
+    { id: "va", name: "Virginia", visited: "2016" },
+    { id: "wa", name: "Washington", visited: "2024", visited: "2025" },
+    { id: "wv", name: "West Virginia", visited: "2001" },
+    { id: "wi", name: "Wisconsin" },
+    { id: "wy", name: "Wyoming", visited: "2022" },
+    { id: "dc", name: "Washington D.C.", visited: "2016" },
+];
 
+export const countriesById = {};
 for (const v of countries) {
-    if (!v.tag) {
-        v.tag = slugify(v.name, {decamelize: false});
-    }
-    byId[v.id] = v;
+    if (!v.tag)  v.tag = slugify(v.name, {decamelize: false});
+    if (v.id in countriesById) throw Error("Duplicate country id: " + v.id);
+    countriesById[v.id] = v;
+}
+
+export const usStatesById = {};
+for (const v of usStates) {
+    if (!v.tag)  v.tag = slugify(v.name, {decamelize: false});
+    if (v.id in usStatesById) throw Error("Duplicate state id: " + v.id);
+    usStatesById[v.id] = v;
 }

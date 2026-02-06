@@ -366,3 +366,11 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
+
+/* Maps */
+#map { fill: var(--color-gray-20); width: 100% }
+#map .visited { fill: var(--color-gray-50); }
+#map .has-posts { fill: var(--header-background); }
+.map-details :target { background-color: #ffa; }
+.map-detail-name { font-weight: bold; }
+.map-detail-details { font-size: 85%; }
