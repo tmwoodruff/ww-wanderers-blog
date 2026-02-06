@@ -3,7 +3,7 @@ trip: { title: "Utah parks - Bryce Canyon, Zion, and Hoover Dam" }
 title: "Valley of Fire, Nevada"
 date: 2021-09-28
 img: 2021-09-Bryce/IMG_3869.2048x1536.webp
-tags: [us-nv,us]
+tags: [United States, Nevada]
 author: Tammy
 description: ""
 ---

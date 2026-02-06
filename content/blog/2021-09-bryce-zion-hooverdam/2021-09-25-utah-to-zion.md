@@ -3,7 +3,7 @@ trip: { title: "Utah parks - Bryce Canyon, Zion, and Hoover Dam" }
 title: "Zion - Day 1"
 date: 2021-09-25
 img: 2021-09-Bryce/IMG_3869.2048x1536.webp
-tags: [us-ut,us]
+tags: [United States, Utah]
 author: Tammy
 description: ""
 ---
@@ -16,10 +16,11 @@ Quite a red road. We entered at the east side entry station.
 
 **Our park map - 2021**
 
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211003.1239x920.webp", "1239x920" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211024.1239x469.webp", "1239x469" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211103.1240x835.webp", "1240x835" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20211132.1236x834.webp", "1236x834" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/Zion%20Map%200.1346x2048.webp", "1346x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/Zion%20Map%201.2048x1346.webp", "2048x1346" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/Zion%20Map%202.2048x1455.webp", "2048x1455" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/Zion%20Map%203.2048x1500.webp", "2048x1500" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Zion/Zion%20Map%204.2048x1188.webp", "2048x1188" %}
 
 Day moon and contrail in the big blue sky. 
 

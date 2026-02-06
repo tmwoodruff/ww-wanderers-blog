@@ -3,7 +3,7 @@ trip: { title: "Utah parks - Bryce Canyon, Zion, and Hoover Dam" }
 title: "Bryce Canyon"
 date: 2021-09-23
 img: 2021-09-Bryce/IMG_3869.2048x1536.webp
-tags: [us-ut,us]
+tags: [United States, Utah]
 author: Tammy
 description: ""
 ---
@@ -22,9 +22,10 @@ The next morning at Bryce Canyon we bought our Annual National Park Pass upon en
 **Our park map - 2021**
 
 {% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210222.1238x874.webp", "1238x874" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210255.1230x866.webp", "1230x866" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210324.1230x869.webp", "1230x869" %}
-{% image "https://assets.ww-wanderers.cc/images/2021-09-ValleyFire/Screenshot%202026-02-04%20210342.1241x905.webp", "1241x905" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/Bryce%20Map%201.1038x2048.webp", "1038x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/Bryce%20Map%202.1237x2048.webp", "1237x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/Bryce%20Map%204.2048x1466.webp", "2048x1466" %}
+{% image "https://assets.ww-wanderers.cc/images/2021-09-Bryce/Bryce%20Map%203.2048x1493.webp", "2048x1493" %}
 
 Our first hike was combining three trail for the figure eight that was recommended: Navajo Loop Trail (half of the loop), Peekaboo Loop Trail (half of the loop), and Queen's Garden. We loved the Navajo Loop Trail and did the full loop the next day. I did not like the Peekaboo trail as much; it was a lot of ups and downs. It was also a horse trail so had messes on the trail. 
 
