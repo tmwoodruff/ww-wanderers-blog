@@ -1,0 +1,21 @@
+<h1>U. S. States We've Visited</h1>
+
+<script src="/js/svg-pan-zoom/svg-pan-zoom.min.js"></script>
+
+{# From https://commons.wikimedia.org/wiki/File:Blank_US_Map_(states_only).svg #}
+{% map "united-states" %}
+
+<hr>
+
+<ul class="map-details">
+{%- for state in collections.posts | visitedUSStates %}
+    <li id="{{state.detailAnchor}}">
+        <span class="map-detail-name">{{state.name}}:</span>
+        <span class="map-detail-details">{{state.visited}}</span>
+
+        {%- if state.linkable %}
+            [<a href="/tags/{{state.tag}}">Posts</a>]
+        {%- endif%}
+    </li>
+{%- endfor %}
+</ul>
