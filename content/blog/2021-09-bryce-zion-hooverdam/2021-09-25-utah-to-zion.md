@@ -1,6 +1,6 @@
 ---
 trip: { title: "Utah parks - Bryce Canyon, Zion, and Hoover Dam" }
-title: "Zion - Day 1"
+title: "Zion - Day 1 - Arrival, first hikes"
 date: 2021-09-25
 img: 2021-09-Bryce/IMG_3869.2048x1536.webp
 tags: [United States, Utah]
