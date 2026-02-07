@@ -1,7 +1,7 @@
 ---
 trip: { title: "South America - Around Cape Horn" }
 title: "Santiago"
-date: 2017-03-08
+date: 2017-03-09
 img: 2017-03-Santiago/IMG_7552.2048x1536.webp
 tags: [Chile]
 author: Tammy
@@ -46,17 +46,17 @@ There is a stop halfway up to go to the Zoo. At the top of the funicular; you ca
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6727_35223556812_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6731_34580701213_c.600x800.webp", "600x800" %}
 
-Around Chile, you see stray dogs just hanging out. I read, before going, that they do not believe in neutering them because it is a mostly Catholic country. I don't know if that true or not; I did not know that this would extend to dogs. These were on top of the mountain. I guess they walked up; surely, they did not get a funicular ride -- hehe.
+Around Chile, you see stray dogs just hanging out. I read, before going, that they do not believe in neutering them because it is a mostly Catholic country. I don't know if that true or not. These were on top of the mountain. I guess they walked up; surely, they did not get a funicular ride -- hehe. Santiago is also know for many PDA; we saw some, which is more than we have seen at other places.  
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6735_35223557332_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6736_34580702173_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6737_35223557892_c.800x600.webp", "800x600" %}
 
-Gargoyles on the chapel; the chapel. The Virgin Mary. 
+The Virgin Mary. Gargoyles on the chapel; the chapel.  
 
+{% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6740_34580703933_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6738_34580703203_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6739_35223558472_c.800x600.webp", "800x600" %}
-{% image "https://assets.ww-wanderers.cc/images/2017-03-Santiago/img_6740_34580703933_c.600x800.webp", "600x800" %}
 
 More views and return down. 
 
@@ -67,15 +67,15 @@ More views and return down.
 
 I looked up Cerro San Cristobal or San Cristobal Hill in wikipedia. It is in northern Santiago and is the 2nd highest point in Santiago. It is 300 m above the city.
 
-After returning to Santiago normal elevation, we returned to the Bellavista neighborhood for lunch. We had Charly Dogs -- hot dogs. The hot dog was not great quality. While eating, we determined (in Spanish) that we probably could have gotten a sausage instead that would have been better. The cool thing about the restaurant was there was tons of interesting toppings that you could include to top your dog. It also included a soda, sold by the mL, and with no ice (ice would eat into the mLs). While we ate, we watched a street performer spinning mixing bowl on wooden spoons. He had found a light with a really long stop and short green; he knew how long to perform and how much time to allow to collect money before it turned green.
+After returning to Santiago normal elevation, we returned to the Bellavista neighborhood for lunch. We had Charly Dogs -- hot dogs. The hot dog was not great quality. While eating, we determined (in Spanish) that we probably could have gotten a sausage instead that would have been better. The cool thing about the restaurant was there was tons of interesting toppings that you could use to top your dog. It also included a soda, sold by the mL, and with no ice (ice would eat into the mLs). Caffeine was good after the overnight flight. While we ate, we watched a street performer spinning mixing bowl on wooden spoons. He had found a light with a really long stop and short green; he knew how long to perform and how much time to allow to collect money before it turned green.
 
 After lunch, we headed back on the Metro to pick up our luggage. Tickets were sold in booths by people. You get a ticket and immediately feed it to the machine in the direction you are heading. They are sold by different prices by time of day. More transportation notes later. Super crowded again.
 
-Walk (next building) from the Metro station to the Tur-Bus terminal. Picked up luggage and went outside to buy tickets to Valparaiso where our cruise was departing from. I think we got the last two tickets for that bus. We checked luggage before the bus, boarded, and picked random seats. Lesson learned -- there are assigned seats. At a stop part way through, some one wanted the seats. In Spanish, tried to ask where the seat numbers were labeled in the bus and on the ticket. Had trouble finding tickets. Just sat in the back because it was open and was able to later confirm they were our seats. The drive was very pretty and about 1 hour and 45 minutes. When we arrived, my husband only could find 2 out of 3 luggage claims. They wanted it. He thought to show the the luggage tag on the suitcase matched one that we could rightfully claimed. Most people had gotten their luggage by then, so they accepted this. Rough time keeping up with things -- no sleep was setting in. Normally, we do well at keeping up with paperwork. 
+Walk (next building) from the Metro station to the Tur-Bus terminal. Picked up luggage and went outside to buy tickets to Valparaiso where our cruise was departing from. I think we got the last two tickets for that bus. We checked luggage at the bus, boarded, and picked random seats. Lesson learned -- there are assigned seats. At a stop part way through, someone wanted the seats. In Spanish, tried to ask where the seat numbers were labeled in the bus and on the ticket. Had trouble finding tickets. Just sat in the back because it was open and was able to later confirm they were our seats. The drive was very pretty and about 1 hour and 45 minutes. When we arrived, my husband only could find 2 out of 3 luggage claims. They wanted it. He thought to show the the luggage tag on the suitcase matched one that we could rightfully claimed. Most people had gotten their luggage by then, so they accepted this. Rough time keeping up with things -- no sleep was setting in. Normally, we do well at keeping up with paperwork. 
 
 From the bus station, we took a taxi to our hotel. We had reserved the Ibis, which got good feedback with one note that the check-in takes hours. This blew my mind, so I was excited when I found pre-check-in that I could do online a couple of days before our flight and check in. There was a line that was slow, but definitely not an hour. With our key, we went up after a long flight and day, and the door would not open. It turned green, and we could hear it click unlock but would not open. It seemed locked from the inside. I have had this before and watched the maintenance person body slam the door before giving us a different room. Back to the line...expecting a different room, while husband stayed with the luggage. The lady from the desk came up to try herself with no luck. She radioed maintenance. He immediately opened it by pulling up before pulling down after using the key. Hum...I have never seen this technique or "secret" before. I will try it if ever in the situation again.
 
-After a short rest at the hotel, we headed out to Ascensor Concepcion. It was closed for construction, so we walked up stairs instead. We read the Ascensors are an experience not be missed, so bummer. It is a city built in layers. There were more stray dogs and views of the Pacific. We got baked empanadas from a street vendor and ate by the water. We also stopped at the mall and got some groceries, particular bottled water. Our hotel was very close to the mall with grocery store and a metro station. 
+After a short rest at the hotel, we headed out to Ascensor Concepcion (funicular station). It was closed for construction, so we walked up stairs instead. We read the Ascensors are an experience not be missed, so bummer. It is a city built in layers. There were more stray dogs and views of the Pacific. We got baked empanadas from a street vendor and ate by the water. We also stopped at the mall and got some groceries, particular bottled water. Our hotel was very close to the mall with grocery store and a metro station. 
 
 Comandancia en Jefe de la Armada
 
