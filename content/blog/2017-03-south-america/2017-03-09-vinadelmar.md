@@ -43,8 +43,9 @@ Wulff Castle
 Snowy Egret 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-VinadelMar/img_6796_35260853511_c.800x600.webp", "800x600" %}
-{% image "https://assets.ww-wanderers.cc/images/2017-03-VinadelMar/img_6797_35260854021_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-VinadelMar/img_6793_35260852691_c.600x800.webp", "600x800" %}
+{% image "https://assets.ww-wanderers.cc/images/2017-03-VinadelMar/img_6797_35260854021_c.800x600.webp", "800x600" %}
+
 
 Flower Clock
 
