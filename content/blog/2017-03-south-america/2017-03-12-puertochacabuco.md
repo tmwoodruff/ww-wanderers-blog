@@ -10,9 +10,9 @@ description: ""
 
 This was also a tender port; we were in port from 10-6. We arrived on time, so tendering was less crazy. However, I think we decided to get in line just as they paused the tender operation - doh. We can get in line to tender, without a ticket, at any time with platinum status. We planned to take the bus from Chacabuco to Aysen and the on to Coyhaique. The trip was the destination; a ride through the Andres Mountains.
 
-After tendering, there was quick x-ray security. We tried the terminal wi-fi when arriving and leaving and did not have any luck getting on. From the terminal, we loaded a big coach that takes one outside the port gates to the three white dome tent shopping area. We did not go in.
+After tendering, there was quick x-ray security. We tried the terminal wi-fi when arriving and leaving and did not have any luck getting on. From the terminal, we loaded a big coach outside the port gates to the three white dome tent shopping area. We did not go into the shopping area.
 
-We started looking for the bus to Aysen and started asking people. We caught it walking from the tents, back toward the port gates, and toward the water. There is no bus stop sign or any indication and the bus is really a minivan that people pile in and out of -- it was an interesting experience. It was a $1 US each, and on the way back, we paid in CLP, though I don't remember how much, guessing 500 Pesos. We just handed the driver money when we got off, and we had to ask them to stop when we wanted to stop. We read to get off after passing the red bridge (picture below). We went a little further before we ask them to stop. Another interesting detail is that stop signs in Mexico say "ALTO", but in South America, they said "PARE".
+We started looking for the bus to Aysen and started asking people. We caught it walking from the tents, back toward the port gates and toward the water. There is no bus stop sign or any indication, and the bus is really a minivan that people pile in and out of -- it was an interesting experience. It was a $1 US each, and on the way back, we paid in CLP, though I don't remember how much, guessing 500 Pesos. We just handed the driver money when we got off, and we had to ask them to stop when we wanted to stop. We read to get off after passing the red bridge (picture below). We went a little further before we ask them to stop. Another interesting detail is that stop signs in Mexico say "ALTO", but in South America, they say "PARE".
 
 In Aysen, almost everything was closed because it was Sunday. We had read about 2 bus companies that went to Coyhaique; one was open on Sunday. We found the office (from looking at Google maps street view before) of Buses Suray and bought tickets. Also on our bus from Chacabuco was another couple from the cruise ship, so we looked for the office together. I read to be sure to buy return tickets when you buy your to Coyhaique ticket to be sure to get a seat. As far as we can tell, they could not sell the return ticket; though it may have been our lack of Spanish skills. We paid in CLP, which we planned about $6 / person for a round trip.
 
@@ -44,20 +44,20 @@ In Coyhaique
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6920_35260859501_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6921_35260860301_c.800x600.webp", "800x600" %}
 
-More views on the drive. 
+More views from the drive. 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/p_20170312_105715_34748621333_c.800x450.webp", "800x450" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/p_20170312_111440_35170614590_c.800x450.webp", "800x450" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/p_20170312_111803_35389530452_c.450x800.webp", "450x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/p_20170312_111812_34748620883_c.450x800.webp", "450x800" %}
 
-We got the last two seats on the bus back. We were not together; I guess we should have waited for the next bus. However, there was not much open on Sunday. My husband was entertained by his seat mates, who may have been returning from a soccer game, drunk. He was in the very back.
+We got the last two seats on the bus back. We were not together; I guess we should have waited for the next bus. However, there was not much open on Sunday. My husband was entertained by his seat mates, who may have been returning from a soccer game, drunk. He was in the very back. The lady next to me was very unfriendly. 
 
 Here is the red bridge that you need to get off the minivan from Puerto Chacabuco after passing. We took this picture from the bus stop (there was a bus stop here) where we caught the minivan back to Puerto Chacabuco. The first minivan was very full, so we had to wait for the next. The red bridge is very striking with the mountains and clouds behind it. 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6922_35260861071_c.800x600.webp", "800x600" %}
 
-After returning to the three dome tents, we had to catch the port shuttle. The port was not far away, but it was secured so everyone had to enter on the shuttle. Though I do not remember if they looked at our ship key cards before letting us on the shuttle. We stopped to take these pictures, and they seemed to be keeping an eye on us that we did not roam too far. The cruise ship with a beautiful mountain backdrop.
+After returning to the three dome tents, we had to catch the port shuttle. The port was not far away, but it was secured so everyone had to enter on the shuttle. Though I do not remember if they looked at our ship key cards before letting us on the shuttle. We stopped to take these pictures, and they seemed to be keeping an eye on us to be sure that we did not roam too far. The cruise ship with a beautiful mountain backdrop.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6925_35260861421_c.800x534.webp", "800x534" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6926_35389974845_c.600x800.webp", "600x800" %}
