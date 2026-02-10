@@ -12,7 +12,7 @@ We had a shared group tour booked with [www.puertomontt-excursiones.com/en](http
 
 In the Meet & Greet (M&G), we coordinated a time and place to meet with one in each group getting tender tickets. The tour provider provided names and room numbers for those in our group -- if the person agreed to provide that info. For those not in our M&G that we had room numbers for, I called to coordinate or left a vmail.
 
-We got up and met early with an expected 8am arrival. The ship did not make up all the time from the late departure from Valparaíso, so we waited and waited. The crew provided little cups of water and orange juice. Once they began calling tenders, we were all off and met the guide quickly. It was probably 10 or 10:30 am when we met the guide. There was a covered, enclosed area where we did bag checks and tour waiting area. Our guide directed us to the wi-fi details, so we could check on things back home, while we waited for everyone. There were 2 couples from Canada, one from Scotland, and a family from France. 
+We got up and met early with an expected 8am arrival. The ship did not make up all the time from the late departure from Valparaíso, so we waited and waited. The crew provided little cups of water and orange juice. Once they began calling tenders, we were all off and met the guide quickly. It was probably 10 or 10:30 am when we met the guide. There was a covered, enclosed area where we did bag checks and tour waiting area. Our guide directed our attention to the wi-fi details on a sign on the wall, so that we could check on things back home, while we waited for everyone. There were 2 couples from Canada, one from Scotland, and a family from France. 
 
 After we had our group, we had a group of 16, we went out to board the minibus.
 
@@ -37,7 +37,7 @@ One more from the green lagoon with my water-proofed husband.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6828_35223644552_c.600x800.webp", "600x800" %}
 
-Next, we went to the waterfall. It is running through black lava. It was very beautiful with lots of rain.
+Next, we went to the waterfall. It ran through black lava. It was very beautiful with lots of rain.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6831_35390045215_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/img_6834_35223645052_c.800x600.webp", "800x600" %}
