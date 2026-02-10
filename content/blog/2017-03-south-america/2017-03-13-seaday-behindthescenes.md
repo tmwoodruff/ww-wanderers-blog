@@ -60,7 +60,7 @@ The pressing machine
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6966_34704132153_c.800x600.webp", "800x600" %}
 
-This was awesome; it folded! Though probably works best on just table clothes and sheets.
+This was awesome; a machine that folds! Though probably works best on just table clothes and sheets.
 
 Feeding in a tablecloth and machine folding.
 
@@ -71,7 +71,7 @@ Piled and sent out. This ended the Behind the Scene tour.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6976_35127471110_c.800x600.webp", "800x600" %}
 
-After the tour, it was late, and we were hungry. We had lunch in the MDR. There are two MDR lunch menus. I like the one with the fish and chips and calamari the best; this one is rarer. Today, we had the other. We both had the greek salad. My husband had the omelet, and I had the bacon burger (which is good, though not fish and chips :)). I did not note a dessert; we likely skipped to have ice cream and cookies in the buffer later. The cookies can be hard to get on some cruises; some people stock up a little too well. On this cruise, though, they did a good job keeping the chocolate chip available in the Great Outdoors at the 3-5pm snack time.
+After the tour, it was late, and we were hungry. We had lunch in the MDR. There are two MDR lunch menus. I like the one with the fish and chips and calamari the best; this one is rarer. Today, we had the other. We both had the greek salad. My husband had the omelet, and I had the bacon burger (which is good, though not fish and chips :)). I did not note a dessert; we likely skipped to have ice cream and cookies in the buffet later. The cookies can be hard to get on some cruises; some people stock up a little too well. On this cruise, though, they did a good job keeping the chocolate chip available in the Great Outdoors at the 3-5pm snack time.
 
 We moved back into the channel, and the seas calmed by lunch.
 
@@ -91,7 +91,7 @@ See that green wake!
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6997_34704134403_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6999_34704131863_c.800x600.webp", "800x600" %}
 
-I'm not sure what is up with this picture. It looks rainy; maybe it was splashes from the morning rough seas. Or, maybe from another day. This is looking out our port hole. This is the first time that we had a port hole. It was larger than I expected. At one port, at the end -- I think Buenos Aires, they were finally cleaning port holes. Though not on our side... The picture looks pretty cool anyway.
+I'm not sure what is up with this picture. It looks rainy; maybe it was splashes from the morning rough seas. Or, maybe from another day. This is looking out our port hole. This is the first time that we had a port hole, though not well cleaned. It was larger than I expected. At one port, at the end -- I think Buenos Aires, they were finally cleaning port holes. Though not on our side... The picture looks pretty cool anyway.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6981_35127470850_c.800x600.webp", "800x600" %}
 
