@@ -8,13 +8,13 @@ author: Tammy
 description: ""
 ---
 
-The Captain warned us the night before that the seas would be rough again today. That we had to sail outside of the channel into the open waters of the Pacific. Side note on the Pacific, the wake was green on the South Pacific side, and what I think of the wake as the normal blue-turquoise color on the Atlantic side. After we crossed to the Atlantic side it returned to its blue-turquoise color. 
+The Captain warned us the night before that the seas would be rough again today. That we had to sail outside of the channel into the open waters of the Pacific. Side note on the Pacific, the wake was green on the South Pacific side where the wake is the normally a blue-turquoise color on the Atlantic side. After we crossed to the Atlantic side it returned to its blue-turquoise color. 
 
 So, I took my meclizine before going to bed, and a second one when waking up. The ship was rolling. We got ready and went up to the buffet for breakfast. We got food from the Great Outdoors and brought it back inside in the buffet seating area in the back. It was a challenge to walk and hold on to drinks.
 
 Today was our "behind the scenes" tour; I was determined to not be affected by the movement. The tour met at the Four Seasons restaurant around 11am. We were visiting backstage Stardust Theater, the galley, and the laundry. Accompanying us was a member of the cruise director's staff and security. We each got tour labels and were off.
 
-First the Stardust, where we met the stage manager (we think this is his title -- trying to remember), who planned and coordinated all the shows. He explained the process, showed us his clipboard, and let us ask questions. Then we when backstage, entering through the outside (promenade deck), being very careful since the ship was still rolling.
+First the Stardust, where we met the stage manager (we think this is his title -- trying to remember), who planned and coordinated all the shows. He explained the process, showed us his clipboard, and let us ask questions. Then we went backstage, entering through the outside (promenade deck), being careful since the ship was still rolling.
 
 Backstage is very small. They had a place to store microphones; they were labeled: iMic green, iMic blue, etc.
 
@@ -52,7 +52,7 @@ How the food should look and be arranged.
 
 On to the laundry room. It cleans all the laundry from the staterooms and galley, as well as, guest laundry sent in. Higher ranking officers get their laundry done for them daily; other crew members have to do their own laundry.
 
-This is the tagging machine for the guest clothes sent in. The tag is like a stiff material and pulls off without being sticky.
+This is the tagging machine for the guest clothes sent in. The tag is like a stiff material and pulls off without being sticky. We got to try laundry for the first time on this cruise because it is a platinum perk that we can each send one bag complimentary. Me from the future will warn that maybe this is down to one bag per room. That's what they told us and limited us to on our most recent NCL cruise -- NCL Pearl, November 2024. The wording on the perks page is vague enough that you cannot tell for sure. I'm not convinced yet that one per room is right. I guess we will see on our next NCL cruise -- Japan 2027. 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6962_34704136023_c.800x600.webp", "800x600" %}
 
@@ -75,7 +75,7 @@ After the tour, it was late, and we were hungry. We had lunch in the MDR. There 
 
 We moved back into the channel, and the seas calmed by lunch.
 
-Some beautiful channel pictures we got.
+Some beautiful channel pictures we got. Also, in the channel, apparently there were glaciers one morning, but they never announced it. So, we did not know to go see them :(. We only found out when we saw the photographer pictures out that people had done with the glaciers. 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6978_34704135453_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-09-13-SeaDay/img_6983_34704135303_c.800x600.webp", "800x600" %}
