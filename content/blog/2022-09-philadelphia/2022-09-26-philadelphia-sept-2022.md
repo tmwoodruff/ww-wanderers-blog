@@ -3,7 +3,7 @@ trip: { title: "Philadelphia" }
 title: "Benjamin Franklin Bridge, Fed, Mint"
 date: 2022-09-26
 img: legacy/IMG_5822.webp
-tags: [philadelphia, Pennsylvania, United States]
+tags: [philadelphia, Pennsylvania, New Jersey, United States]
 country: us
 state: pa
 author: Tammy
