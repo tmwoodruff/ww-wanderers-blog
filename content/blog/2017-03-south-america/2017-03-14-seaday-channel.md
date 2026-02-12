@@ -8,7 +8,7 @@ author: Tammy
 description: ""
 ---
 
-I noted this day that there were not many activities, so I guess not many activities that we were interested in. I did not make breakfast or lunch notes. So, some general preferences of ours. We had many breakfasts in Moderno where they setup an alternative breakfast venue. They have less selection than the buffet, but it is much less crazy than the buffet. I learned that one had to request hot chocolate packets here; it was not sitting out like at the buffet or Great Outdoors. But, they would give you a packet on request. Later, I saw the packets one day in the Sports Bar. They have small area before entering the Moderno and arcade hallway with some pastries and coffee at breakfast time. I liked the MDR for lunch; my husband liked the India food on the buffet.
+I noted this day that there were not many activities, so I guess not many activities that we were interested in. I did not make breakfast or lunch notes, so some general preferences of ours. We had many breakfasts in Moderno where they setup an alternative breakfast venue. This was nice. Its annoying when the buffet is so busy and there are no other options. They had less selection than the buffet, but it was much less crazy than the buffet. I learned that one had to request hot chocolate packets here; it was not sitting out like at the buffet or Great Outdoors. But, they would give you a packet on request. Later, I saw the packets one day in the Sports Bar. They have small area before entering the Moderno and arcade hallway with some pastries and coffee at breakfast time. I liked the MDR for lunch; my husband liked the India food on the buffet.
 
 Another from our cabin.
 
@@ -19,8 +19,8 @@ We played movie poster trivia with new martini tasting friends. We also spent ti
 From outside the observation lounge.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-14/img_7013_34704309943_c.800x600.webp", "800x600" %}
-{% image "https://assets.ww-wanderers.cc/images/2017-03-14/img_7015_34704309653_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-14/img_7018_34704309423_c.600x800.webp", "600x800" %}
+{% image "https://assets.ww-wanderers.cc/images/2017-03-14/img_7015_34704309653_c.800x600.webp", "800x600" %}
 
 We had dinner in the MDR. I had the Caesar salad, a BBQ mix of chicken, bratwurst, and ribs, and my favorite the volcano cake. Husband had this watermelon, shrimp, and mozzarella appetizer (and that is all I noted). Silly picture with the appetizer.
 
