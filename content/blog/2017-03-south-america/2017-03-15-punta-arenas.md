@@ -48,13 +48,13 @@ These trees had weird "haircuts". I'm not sure if they could not reach any more,
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7082_35127781660_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7084_35127781280_c.800x600.webp", "800x600" %}
 
-I read about Cafe Inmigrante having very big desserts that we were going to share. We found it; however, they did not open to 3pm. We also originally looked at doing a brewery tour. We emailed the tourist information office; they replied that the time of the tour was 3pm and how to contact the brewery to schedule. This would be cutting it close; we were in port from 7am to 5pm. This town opens late.
+I read about Cafe Inmigrante having very big desserts that we were going to share. We found it; however, they did not open until 3pm. We also originally looked at doing a brewery tour. We emailed the tourist information office; they replied that the time of the tour was 3pm and how to contact the brewery to schedule. This would be cutting it close; we were in port from 7am to 5pm. This town opens late.
 
 Other pictures from walking around town.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7087_35127781020_c.800x600.webp", "800x600" %}
-{% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7088_35127780820_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7089_34704452533_c.800x600.webp", "800x600" %}
+{% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7088_35127780820_c.800x600.webp", "800x600" %}
 
 Interesting with water after the sand. Art on the buildings. Cormorants on the old pier and the tender in the background. 
 
@@ -64,7 +64,7 @@ Interesting with water after the sand. Art on the buildings. Cormorants on the o
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7097_35127779740_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7099_34704451573_c.800x600.webp", "800x600" %}
 
-We did some souvenir shopping; I found an adult and baby penguin magnet. We found jelly made from a berry that our tour guide in Puerto Montt pointed out and said we could try. We also stopped at a grocery store, Umarc, and got a coke zero (yum) and candy to share. We enjoyed them at this green clock that is right at the tender dock.
+We did some souvenir shopping; I found an adult and baby penguin magnet. We found jelly made from a berry that our tour guide in Puerto Montt pointed out and said we should try. We also stopped at a grocery store, Umarc, and got a coke zero (yum) and candy to share. We enjoyed them at this green clock that is right at the tender dock.
 
 Next, we went back to the terminal to try the wi-fi. It did not work. Some people were on; one had to wait for a slot to open up to get on. Talking to our kids was not working very well.
 
@@ -74,18 +74,16 @@ So, we tendered back.
 
 We had lunch back on the ship and snack with cookies and ice cream at 4pm. My husband had a big salad and pickles, jalapeños, coleslaw, and fruit. Then we played celebrity trivia.
 
-For dinner, we went to Las Rablas, the Spanish bar with complimentary tapas. Husband's food --
-
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7103_34704450583_c.800x600.webp", "800x600" %}
 
-My plates. I liked the cream cheese topped ones the best; the others were okay.
+For dinner, we went to Las Rablas, the Spanish bar with complimentary tapas. Husband's food on the left. My plates. I liked the cream cheese topped ones the best; the others were okay.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7104_35127779150_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7106_34704451233_c.800x600.webp", "800x600" %}
 
 We went to the early show where the Illusionist, Cripton, was performing. We had seen him and his assistant/wife perform before; that had some new tricks. It was good.
 
-Then we went back to the restaurant for dessert only. We made it there right before the crowd from the show hit. Husband had the Irish creme pie, and I had the nutella creme brulee. Both were really good. The creme brulee would have been better with a more caramelized head. The choc in the Irish cream was really good. The best creme brulee that I have had, also on a ship, had dark chocolate at the bottom -- yum.
+Then we went back to the restaurant for dessert only. We made it there right before the crowd from the show hit. Husband had the Irish creme pie, and I had the nutella creme brulee. Both were really good. The creme brulee would have been better with a more caramelized head. The chocolate in the Irish cream was really good. The best creme brulee that I have had, also on a ship, had dark chocolate at the bottom -- yum.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7108_35514083105_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-15-PA/img_7109_35514082205_c.600x800.webp", "600x800" %}
