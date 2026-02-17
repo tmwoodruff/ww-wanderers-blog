@@ -67,7 +67,7 @@ export const countries = [
     { id: "et", name: "Ethiopia" },
     { id: "fi", name: "Finland", visited: "2012" },
     { id: "fj", name: "Fiji" },
-    { id: "fk", name: "Falkland Islands", visited: "201" },
+    { id: "fk", name: "Falkland Islands", visited: "2017" },
     { id: "fr", name: "France" },
     { id: "ga", name: "Gabon" },
     { id: "gb", name: "United Kingdom", visited: "1996, 2001, 2011, 2012, 2019, 2024" },
