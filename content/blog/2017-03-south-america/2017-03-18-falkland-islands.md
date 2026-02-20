@@ -74,7 +74,7 @@ We waited in line for the shuttle and returned to town. We walked along the coas
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-18-Falkland/img_7346_35597603002_c.800x600.webp", "800x600" %}
 
-The Falkland Islands are disputed between the UK (an overseas territory) and Argentina. Argentina calls the island group: Malvinas Islas. I read they receive mail monthly from the UK, and the school is similar to a one room schoolhouse. These signs were asking Argentina to leave them alone. We later learned on a walking tour in Buenos Aires that Argentina sent a poorly trained army and the British army sent was well prepared. In the picture before, you can see they drive on the left side of the road.
+The Falkland Islands are disputed between the UK (an overseas territory) and Argentina. Argentina calls the island group: Malvinas Islas. I read they receive mail monthly from the UK, and the school is similar to a one room schoolhouse. These signs were asking Argentina to leave them alone. We later learned on a walking tour in Buenos Aires that Argentina sent a poorly trained army and the British army sent was well prepared. They drive on the left side of the road.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-18-Falkland/img_7348_34957311233_c.800x600.webp", "800x600" %}
 
