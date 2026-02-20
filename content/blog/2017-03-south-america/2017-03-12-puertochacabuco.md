@@ -12,9 +12,17 @@ This was also a tender port; we were in port from 10-6. We arrived on time, so t
 
 After tendering, there was quick x-ray security. We tried the terminal wi-fi when arriving and leaving and did not have any luck getting on. From the terminal, we loaded a big coach outside the port gates to the three white dome tent shopping area. We did not go into the shopping area.
 
+Brochures
+
+{% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/2017-03-12-Puerto-Chacabuco-0.1069x2048.webp", "1069x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/2017-03-12-Puerto-Chacabuco-1.2048x1466.webp", "2048x1466" %}
+{% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/2017-03-12-Puerto-Chacabuco-2.2048x1962.webp", "2048x1962" %}
+
 We started looking for the bus to Aysen and started asking people. We caught it walking from the tents, back toward the port gates and toward the water. There is no bus stop sign or any indication, and the bus is really a minivan that people pile in and out of -- it was an interesting experience. It was a $1 US each, and on the way back, we paid in CLP, though I don't remember how much, guessing 500 Pesos. We just handed the driver money when we got off, and we had to ask them to stop when we wanted to stop. We read to get off after passing the red bridge (picture below). We went a little further before we ask them to stop. Another interesting detail is that stop signs in Mexico say "ALTO", but in South America, they say "PARE".
 
 In Aysen, almost everything was closed because it was Sunday. We had read about 2 bus companies that went to Coyhaique; one was open on Sunday. We found the office (from looking at Google maps street view before) of Buses Suray and bought tickets. Also on our bus from Chacabuco was another couple from the cruise ship, so we looked for the office together. I read to be sure to buy return tickets when you buy your to Coyhaique ticket to be sure to get a seat. As far as we can tell, they could not sell the return ticket; though it may have been our lack of Spanish skills. We paid in CLP, which we planned about $6 / person for a round trip.
+
+{% image "https://assets.ww-wanderers.cc/images/2017-09-PuertoMontt/2017-03-12-Aysen-bus.1067x810.webp", "1067x810" %}
 
 This was a big coach with assigned seats, though sparsely labeled, so hard to tell which seat was really which. We had to move once to get to the right set. And, sorry I have pictures from a bus...
 
