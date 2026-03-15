@@ -12,15 +12,15 @@ We were now officially docked for disembarkation but were overnighting here. No 
 
 Today, we planned another walking tour. We enjoy them; you see a lot and get great local information. We planned [http://www.buenosairesfreewalks.com/](http://www.buenosairesfreewalks.com/) starting at 10:30 am at Plaza Estado del Vaticano (Corner of Libertad and Viamonte), next to Teatro Colón.
 
-We got of the ship. Like Valpo, this is in the container shipping area, so we had a path to walk and then got on a coach. They were operating multiple shuttles between the dock and the terminal. It looked like a much nicer terminal to embark from than the one in Valpo.
+We got off the ship. Like Valpo, this is in the container shipping area, so we had a path to walk and then got on a coach. They were operating multiple shuttles between the dock and the terminal. It looked like a much nicer terminal to embark from than the one in Valpo.
 
-Out of the terminal, we read the port area could be dangerous and that the mafia ran the taxis near the port so they were overpriced. It was a little shady; after enough feeling uncomfortable on one street we turned. Our feeling of safety improved after that. We did leave most valuables and jewelry on the ship and watched our backpack carefully.
+Out of the terminal, we read the port area could be dangerous and that the mafia ran the taxis near the port, so they were overpriced. It was a little shady; after enough feeling uncomfortable on one street we turned. Our feeling of safety improved after that. We did leave most valuables and jewelry on the ship and watched our backpack carefully.
 
 Walking to meet the tour.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7663_35886993226_c.800x600.webp", "800x600" %}
 
-This clock tower was a gift from the British. Though probably famous, I did not remember what the statue was. My google goggles says La Rioja, but that does not sound right. Maybe it is the square's name. Though probably famous, I did not remember what the statue was. My google goggles says La Rioja, but that does not sound right. Maybe it is the square's name. I liked the arch.   
+This clock tower was a gift from the British. Though probably famous, I did not remember what the statue was. My google goggles says La Rioja, but that does not sound right. Maybe it is the square's name. I liked the arch.   
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7667_35886992916_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7669_35886992666_c.800x600.webp", "800x600" %}
@@ -37,7 +37,7 @@ View from the waiting spot.
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7676_35886991706_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7677_35886990036_c.600x800.webp", "600x800" %}
 
-Building with Eva. "BA" bushes. 
+Building with Eva Perón. "BA" bushes. 
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7678_35539212330_c.800x533.webp", "800x533" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7679_35539212090_c.600x800.webp", "600x800" %}
@@ -47,7 +47,7 @@ Starting the tour, we moved over and had a good view of Teatro Colón.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7685_35539211470_c.800x600.webp", "800x600" %}
 
-We were a large group in a very trafficked city with very wide streets. This made crossing streets hard, where we had to go over multiple light cycles at times. Av. 9 de Julio was the biggest street.
+We were a large group in a very trafficked city with very wide streets. This made crossing streets hard, where we had to cross in groups over multiple light cycles at times. Avenue 9 de Julio was the biggest street -- the street names were famous dates in Argentinian history.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7688_35539211260_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7690_35539210980_c.800x600.webp", "800x600" %}
@@ -60,12 +60,9 @@ This was a rich BA citizens home. The story was that she did not think her son's
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7698_35539210290_c.800x600.webp", "800x600" %}
 
-Then she was building or commissioning this church. It was a project that she very important to her.
+Then she was building or commissioning this church. It was a project that she very important to her. The girlfriend got the land right beside it and built this building to block the view of the church. Her name is on the side: Corina.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7706_35539209990_c.600x800.webp", "600x800" %}
-
-The girlfriend got the land right beside it and built this building to block the view of the church. Her name is on the side: Corina.
-
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7709_35539209800_c.800x600.webp", "800x600" %}
 
 At one stop, the tour guide went into detail about the economy. They have and have had very high inflation. He told a story of being a child, and he and his mother filling a basket full of groceries at the store, knowing tomorrow with inflation they would not be able to afford them. Currently, they have 41% year over year inflation.
@@ -85,25 +82,22 @@ An Israeli embassy that was mysteriously bombed -- without finding the guilty pa
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7718_35539209030_c.800x600.webp", "800x600" %}
 
-Then we arrived at the famous cemetery. There is also a restroom available here.
+Then we arrived at the famous cemetery. There was also a restroom available here.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7722_35539208810_c.800x600.webp", "800x600" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7726_35539208630_c.600x800.webp", "600x800" %}
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7728_35539208410_c.600x800.webp", "600x800" %}
 
-We learned the full story of Eva Peron. She worked for the working class and was loved by them. She came to BA to be an actress. She married the president. She got cancer and died very young at 33. The long part of the story is moving and hiding of her body after she died. She is now buried here with her family, instead of the Peron family.
+We learned the full story of Eva Peron. She worked for the working class and was loved by them. She came to BA to be an actress. She married the president. She got cancer and died very young at 33. The long part of the story is moving and hiding of her body after she died. She is now buried here with her family, instead of the Peron family. Her family: Duarte.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7733_35539208190_c.800x600.webp", "800x600" %}
-
-Her family: Duarte.
-
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7734_35539207980_c.600x800.webp", "600x800" %}
 
 Entrance / Exit
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-23/img_7735_35539207470_c.800x600.webp", "800x600" %}
 
-The tour ended here. We tipped and thanked our tour guide. It was a longer tour than I expected -- very good and informative, but I was tired! Some got to sit while we were at the cemetery, but there was not enough seats for everyone. I leaned on a tree.
+The tour ended here. We tipped and thanked our tour guide. It was a longer tour than I expected -- very good and informative, but I was tired!
 
 We had written down a recommended steak place, but I was deterred after the day before. We had some recommended ice cream on the walk back instead.
 
