@@ -55,15 +55,15 @@ Here is another church example. That is our tour guide. If you look above his he
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-22/img_7647_35649783642_c.800x600.webp", "800x600" %}
 
-Our tour guide noted that Uruguay had more cows than people, and that we had to do our part and eat some. It was on our list, and conveniently our tour ended at the Estancia del Puerto market. We tipped our guide and went to look for lunch. This place had several meat places. We picked one and sat at the bar. We ordered. Husband got his beer, and we got our bread. Then we waited and waited and waited without them acknowledging us sitting there. The tables were getting better service. Two ladies sat beside us. We had not had luck with the wi-fi. They got her on; I think my husband eventually got on. They ordered. I think they got food first. Then ours came. I was not impressed; maybe we ordered the wrong thing. It was fatter than I liked. We needed to have gotten a better cut of meat, but hard to tell in Spanish. The sauce was good. It was warm by these fires, but cool to watch. We both got our bills; ours had an interesting extra charge...hum. So, I had read about this being meat heaven, so was disappointed.
+Our tour guide noted that Uruguay had more cows than people, and that we had to do our part and eat some. It was on our list, and conveniently our tour ended at the Estancia del Puerto market. We tipped our guide and went to look for lunch. This place had several meat places. We picked one and sat at the bar. We ordered. Husband got his beer, and we got our bread. Then we waited and waited and waited without them acknowledging us sitting there. The tables were getting better service. Two ladies sat beside us. We had not had luck with the wi-fi. They got her on; I think my husband eventually got on. They ordered. I think they got food first. Then ours came. I was not impressed; maybe we ordered the wrong thing. It was fattier than I liked. We needed to have gotten a better cut of meat, but hard to tell in Spanish. The sauce was good. It was warm by these fires, but cool to watch. We both got our bills; ours had an interesting extra charge...hum. So, I had read about this being meat heaven, so was disappointed.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-22/img_7653_35430706630_c.800x600.webp", "800x600" %}
 
-There was an empanada stand here; my husband tried to get a dulce de leche one. They did not have any made. He went for candy at a store instead. It was reasonably priced. We paid in USD and got come Uruguayan coins for my collection in change. This clock was cool. Our tour guide said the building was a train station that the British build. Uruguay did not see the need for a train station, so it became this market.
+There was an empanada stand here; my husband tried to get a dulce de leche one. They did not have any made. He went for candy at a store instead. It was reasonably priced. We paid in USD and got some Uruguayan coins for my collection in change. This clock was cool. Our tour guide said the building was a train station that the British built. Uruguay did not see the need for a train station, so it became this market.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-22/img_7656_35778491766_c.800x600.webp", "800x600" %}
 
-After, we headed back to the ship. One more picture from near the port that had someone else posing in front of it earlier.
+After, we headed back to the ship. One more picture from near the port that had someone else was posing in front of earlier.
 
 {% image "https://assets.ww-wanderers.cc/images/2017-03-22/img_7657_35649778452_c.800x600.webp", "800x600" %}
 
