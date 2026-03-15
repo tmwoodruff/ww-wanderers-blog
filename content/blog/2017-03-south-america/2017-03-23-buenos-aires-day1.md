@@ -10,7 +10,7 @@ description: ""
 
 We were now officially docked for disembarkation but were overnighting here. No more being rocked to sleep by the ship movement tonight. They allowed those that wanted to disembark this morning do so; they had instructions in the disembarkation documents.
 
-Today, we planned another walking tour. We enjoy them; you see a lot and get great local information. We planned http://www.buenosairesfreewalks.com/#morning starting at 10:30 am at Plaza Estado del Vaticano (Corner of Libertad and Viamonte), next to Teatro Colón.
+Today, we planned another walking tour. We enjoy them; you see a lot and get great local information. We planned [http://www.buenosairesfreewalks.com/](http://www.buenosairesfreewalks.com/) starting at 10:30 am at Plaza Estado del Vaticano (Corner of Libertad and Viamonte), next to Teatro Colón.
 
 We got of the ship. Like Valpo, this is in the container shipping area, so we had a path to walk and then got on a coach. They were operating multiple shuttles between the dock and the terminal. It looked like a much nicer terminal to embark from than the one in Valpo.
 
