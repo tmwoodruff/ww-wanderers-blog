@@ -65,3 +65,5 @@ Travis found a fancy McDonald's. A cool building and globe. St. Anne's Church of
 Back to St. Stephen's Park, this time we had food (our leftover Dunnes pizza), so we attracted the locals. 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4316.2048x1536.webp", "2048x1536" %}
+
+We went to Lidl for groceries before going back to our hotel.
