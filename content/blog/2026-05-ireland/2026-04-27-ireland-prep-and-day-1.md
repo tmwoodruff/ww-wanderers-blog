@@ -62,6 +62,6 @@ Travis found a fancy McDonald's. A cool building and globe. St. Anne's Church of
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4308.2048x1534.webp", "2048x1534" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4311.2048x1536.webp", "2048x1536" %}
 
-Back to St. Stephan's Park, this time we had food (our leftover Dunnes pizza), so we attracted the locals. 
+Back to St. Stephen's Park, this time we had food (our leftover Dunnes pizza), so we attracted the locals. 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4316.2048x1536.webp", "2048x1536" %}
