@@ -1,4 +1,5 @@
 ---
+trip: { title: "Ireland" }
 title: "Ireland - Prep and First Day"
 date: 2026-04-27
 img: 2026-05-Ireland/IMG_4496.2048x1536.webp
