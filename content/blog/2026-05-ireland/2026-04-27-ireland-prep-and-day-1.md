@@ -22,7 +22,7 @@ St. Stephen's Park was close to our hotel, so we walked through it multiple time
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4279.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-Ireland/IMG_4282.2048x1536.webp", "2048x1536" %}
 
-We found a Circle K to buy our Leap card for the Ireland public transportation. It was a 5 Euro deposit on each, and we loaded each with 5 Euros. Trips within Dublin, zone 1, were 1.50-2 Euros. Travis had the app and could top the cards off and check the balances from his phone. We then caught the Luas, the tram, to north of the River Liffey. 
+We found a Circle K to buy our Leap card for the Ireland public transportation. It was a 5 Euro deposit on each, and we loaded each with 5 Euros. Trips within Dublin, zone 1, were 1.50-2 Euros. 1.50 for a short ride, and 2 Euros allows for a transfer within a 90 minute period. Travis had the app and could top the cards off and check the balances from his phone. We then caught the Luas, the tram, to north of the River Liffey. The Luas was 2 Euros. 
 
 We visited the General Post Office; we did not go to the paid museum part.  
 
