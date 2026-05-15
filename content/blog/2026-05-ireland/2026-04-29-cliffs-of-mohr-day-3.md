@@ -7,12 +7,12 @@ author: Tammy
 description: ""
 ---
 
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112538873_HDR_AE.2048x1151.webp", "2048x1151" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112557904.2048x1152.webp", "2048x1152" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112613211_HDR_AE.2048x1151.webp", "2048x1151" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_113228461_HDR_AE.2048x1151.webp", "2048x1151" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_113931815_HDR_AE.2048x1151.webp", "2048x1151" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_115614938_HDR_AE.2048x1151.webp", "2048x1151" %}
+Today, we had a tour of the Cliffs of Moher booked through Viator. It was a long, 12 hour, tour, so it started very early. We were to meet at 6:50am. We decided to walk to not be depend on bus schedules, and it was only about a 25 minute walk. We arrived a little unsure if we were in the right place. There was a big coach and a big group, but no signs. We were asking others, and others were asking others if they were going to the Cliffs of Moher. I could not find the company name in Viator; I definitely see the company name when booking. For the next tour, I noted it while online. The first official person and coach left saying that the next coach would be there in a few minutes. Fifteen minutes later the next coach finally arrived, and we were on the list. It was not well organized; we heard them say that there were walk ups and a glitch with the Viator system. They were overbooked. We drove to the cliffs with no seat for our guide, and she offered a full refund for someone to switch tours to one that went to Kilkenny instead of Galway. We would have been willing to, but the people whose reservation got messed up and caused the overbooking volunteered (noting that it was not there fault, but that they would. Weird comment -- I don't think that anyone thought that it was their fault.) 
+
+Boarding, our driver, Billy, was seating people; this confused me at first. Normally, you just sit. Our guide later announced that this was our seat for the day; this was nice to avoid seat stealers like in Flam. 
+
+The drive was beautiful, though I did not get great pictures from the bus window. Grazing areas separated by hedges; we also saw the classic rock fences -- built from rocks found in the field.  
+
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4393.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4399.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4400.2048x861.webp", "2048x861" %}
@@ -32,6 +32,12 @@ description: ""
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4440.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4442.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4443.2048x1536.webp", "2048x1536" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112538873_HDR_AE.2048x1151.webp", "2048x1151" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112557904.2048x1152.webp", "2048x1152" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_112613211_HDR_AE.2048x1151.webp", "2048x1151" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_113228461_HDR_AE.2048x1151.webp", "2048x1151" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_113931815_HDR_AE.2048x1151.webp", "2048x1151" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_20260429_115614938_HDR_AE.2048x1151.webp", "2048x1151" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4446.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4449.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4450.2048x1536.webp", "2048x1536" %}
