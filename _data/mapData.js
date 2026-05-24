@@ -86,7 +86,7 @@ export const countries = [
     { id: "ht", name: "Haiti" },
     { id: "hu", name: "Hungary" },
     { id: "id", name: "Indonesia" },
-    { id: "ie", name: "Ireland" },
+    { id: "ie", name: "Ireland", visited: "2026" },
     { id: "il", name: "Israel" },
     { id: "in", name: "India" },
     { id: "iq", name: "Iraq" },
