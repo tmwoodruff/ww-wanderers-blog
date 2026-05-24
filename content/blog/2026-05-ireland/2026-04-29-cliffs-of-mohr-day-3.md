@@ -38,7 +38,7 @@ Beach on the Wild Atlantic Way drive.
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4433.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4434.2048x1536.webp", "2048x1536" %}
 
-Then we arrived at the cliffs. We had two hours here. She gave us tickets that she noted had a QR code for some audio tours and that no one will probably look at the ticket. A Cliffs of Moher app that I downloaded worked, offline, with audio tour snippets. Look how pretty. Unfortunately, the hiking trail was closed at both ends, so we could not go very far. 
+Then we arrived at the cliffs. We had two hours here. She gave us tickets that she noted had a QR code for some audio tours and that no one will probably look at the ticket. A Cliffs of Moher app that I downloaded before the trip worked, offline, with audio tour snippets. Look how pretty. Unfortunately, the hiking trail was closed at both ends, so we could not go very far. 
  
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4439.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4440.2048x1536.webp", "2048x1536" %}
@@ -98,12 +98,26 @@ After leaving the Cliffs, we continued northward and passed by Burren National P
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4546.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4552.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4558.1168x2048.webp", "1168x2048" %}
+
+We then arrived in Galway where we had an hour and a half. Here our guide noted that we needed to visit a restroom to not have a stop on the way back to time the traffic right. However, she did not advise where some available restrooms were, so I was concerned about this. The logical answer was at the restaurant that you went to, but we also did not have much time here for a sit down meal. We ended up picking a fast food fish and chips place and had hake and chips for 14 Euro and a beer (this was how it was sold -- one choice, not mentioning what it was). We missed it, but you had to buy the tartar sauce separately. Travis took some coins up there for some when there was a break on the line. They did have vinegar at the tables that he liked on the fries and fish. I thought that the fish and chips were just okay; Travis liked them better with the vinegar. We were able to use the restroom here. 
+
+Before lunch, we explored Galway. We found a weir with a cathedral on each side. We found a public water bottle filler, which was nice for a water refill on our long tour day. We did not find a water filler anywhere else in Ireland. 
+
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4560.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4561.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4563.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4565.2048x1258.webp", "2048x1258" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4567.2048x1536.webp", "2048x1536" %}
+
+After lunch, we walked to one of the original gates of the medieval city and found the fun sign with distances to other places. A shipwrecked boat with swans and metal recycling and logging (maybe). 
+
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4568.1536x2048.webp", "1536x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4569.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4570.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4571.2048x1536.webp", "2048x1536" %}
+
+We arrived back on the bus. They warned us to be on time after each stop (despite the Irish not being known for their time keeping), so that we get to all the stops, not miss time at stops, and not get into a bad traffic pattern. Only at this time someone was late -- a group from Germany. The guide was already talking about having to leave them, and when they came at the last possible minute, they did know that they were late. Traffic was bad getting out of Galway; they noted that Galway had worse traffic than Dublin's. 
+
+The guide noted that she got the question of do they accept tips (I wonder if they actually got this question today or just some time before), saying that they did, and put a tip jar on the dashboard. We were prepared. Ireland is not a big tipping culture, and they were definitely lower pressure than guides in the U.S. or the Caribbean. The guide and driver were also sharing the tip since normally it is hard to have the right cash to tip them separately. I always try to ask them to share the tip, hoping that they have a normal split amount, but do not know how well that actually works out for them.
+
+We were dropped off and walked back to the hotel. 
