@@ -56,7 +56,7 @@ We walked on and found the garden.
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4700.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4702.2048x1536.webp", "2048x1536" %}
 
-Bumblebee and caged plants. Tree planted by Jackie Kennedy. Then we found the tower that we climbed up in and took pictures down. I liked the swirly bushes. 
+Bumblebee and caged plants. Tree planted by Jackie Kennedy. Then we found the tower that we climbed up and took pictures down. I liked the swirly bushes. 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4703.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4708.2048x1536.webp", "2048x1536" %}
@@ -83,7 +83,9 @@ We then visited the Japanese gardens. These usually cost extra though we did pay
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_20260501_112810417_HDR_AE.1151x2048.webp", "1151x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_20260501_113036016_HDR.2048x1152.webp", "2048x1152" %}
 
-We then came back around to the back of the pond and found a swan. Travis got a picture of me with it, but he telling me to get closer. I was scared to get closer, so my face has a very scared look. However, a cool reflection off of the pond. The lawn mower is hard at work; we saw a few going. Finally, some additional back pictures. We had a hard time finding our way back in the house. The left side looked like not a customer entrance and the right was blocked off for the cafe. We found a way in on the left after walking back.    
+We then came back around to the back of the pond and found a swan. Travis got a picture of me with it, but he was telling me to get closer. I was scared to get closer, so my face has a very scared look. However, a cool reflection off of the pond. 
+
+The lawn mower is hard at work; we saw a few going. Finally, some additional back pictures. We had a hard time finding our way back in the house. The left side did not look like not a customer entrance and the right was blocked off for the cafe. We found a way in on the left after walking back.    
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_20260501_113131771_HDR.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4747.2048x1536.webp", "2048x1536" %}
@@ -92,12 +94,12 @@ We then came back around to the back of the pond and found a swan. Travis got a 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4752.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_20260501_113846740_HDR_AE.1151x2048.webp", "1151x2048" %}
 
-Inside, we visited the restroom and walked the informational video. This is a model of what the house looked liked, with the entertainment rooms, when it was built. Then back outside to meet our bus for the next stop. 
+Inside, we visited the restroom and watched the informational video. This is a model of what the house looked liked, with the rooms for entertaining, when it was built. Then back outside to meet our bus for the next stop. Powerscourt House was very pretty.  
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_20260501_115744677.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4754.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4755.2048x1536.webp", "2048x1536" %}
 
-Lunch was the next stop where they had picked (so I'm sure sponsored) and employees aware of our short time available at Poppies. Sandwiches were 14 Euro. We went for a cheaper sausage wrapped in bread each. It was okay. They had mustard for it. Then we got a broken cookie brownie that was very good. 
+Lunch was the next stop where they had picked (so I'm sure sponsored) and employees aware of our short time available for lunch, so quick service, at Poppies. Sandwiches were 14 Euro. We went for a cheaper sausage wrapped in bread each. It was okay. They had mustard for it. Then we got a broken cookie brownie that was very good. Horse riders were picked up and dropped off at lunch earlier. We were rejoined with them for the rest of the tour. This was a strange system that the other bus did not do. 
 
 The reminder of the tour continued in the next post. 
