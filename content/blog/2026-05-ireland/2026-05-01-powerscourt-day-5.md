@@ -9,12 +9,12 @@ description: ""
 
 This is part one of our tour to Powerscourt House, Wicklow, and Glendalough - Powerscourt.
 
-Pickup was not as early today but at 9:10am the Molly Malone Statue. We walked again; it was a little closer today -- 20 minutes today. This pickup seemed disorganized today. I was nervous about being in the horse riding bus. We did drop the horse riders off first, but I did not have to ride :). From the drop off, we got our first view of Sugarloaf Mountain, in the back of the first picture. We only had a driver and tour guide combo; he gave good commentary while driving.
+Pickup was not as early today but at 9:10am at the Molly Malone Statue. We walked again; it was a little closer today -- 20 minutes. This pickup seemed disorganized also. I was nervous about being in the horse riding bus. We did drop the horse riders off first, and I did not have to ride :). From the drop off, we got our first view of Sugarloaf Mountain, in the first picture. We only had a driver and tour guide combo; he gave good commentary while driving.
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4661.2048x1781.webp", "2048x1781" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-01-PC/IMG_4662.2048x1536.webp", "2048x1536" %}
 
-We arrived at Powerscourt House and paid the 10 Euro each for the gardens. We paid first; the couple behind us said that they already paid that it was part of their tour. I noted that the Viator tour noted that it was not included. I did not feel the need to keep arguing with them so said okay, and we went in. We did not see how it played out. 
+We arrived at Powerscourt House and paid the 10 Euro each for the gardens. We paid first; the couple behind us said that they already paid, that it was part of their tour. I noted that the Viator tour noted that it was not included. I did not feel the need to keep arguing with them so said hum, and we went in. We did not see how it played out, and since the tour guide headed back to the horse riders, he was not there to help.  
 
 The garden was amazing. The fountain in the distance and the house. 
 
