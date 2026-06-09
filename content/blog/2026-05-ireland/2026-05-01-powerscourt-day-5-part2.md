@@ -86,4 +86,6 @@ Our tour guide did not mention tips, and no one else was giving one. So, we did 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-02-Part2/IMG_20260501_173149087.1152x2048.webp", "1152x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-02-Part2/IMG_20260501_173654353_HDR.2048x1152.webp", "2048x1152" %}
 
+For dinner, I got a slice of Bambino pizza. I don't remember what Travis settled on. It was very good, but a little pricy. 
+
 Tomorrow is our last day in Dublin, so I'll do a hotel review and share our last half day there.
