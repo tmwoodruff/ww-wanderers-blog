@@ -39,7 +39,8 @@ Beach on the Wild Atlantic Way drive.
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4434.2048x1536.webp", "2048x1536" %}
 
 Then we arrived at the cliffs. We had two hours here. She gave us tickets that she noted had a QR code for some audio tours and that no one will probably look at the ticket. A Cliffs of Moher app that I downloaded before the trip worked, offline, with audio tour snippets. Look how pretty. Unfortunately, the hiking trail was closed at both ends, so we could not go very far. 
- 
+
+{% image "https://assets.ww-wanderers.cc/images/2026-05-02/CliffsofMoher.540x743.webp", "540x743" %} 
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4439.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4440.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-04-29-Cliffs/IMG_4442.2048x1536.webp", "2048x1536" %}
