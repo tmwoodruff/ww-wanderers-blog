@@ -101,7 +101,7 @@ We stopped a Tesco on the way back to the hostel for lunch and dinner. I had Bri
 
 When we arrived back in Drogheda, we did noticed a race in progress. It was a 5K and 10K. It was Sunday of a three day weekend with a Monday bank holiday. After lunch, we went back out, planning a walk along the river. Unfortunately, this was where the race was too; we were surprised that it was still in progress. We were able to sneak onto the trail by the river after some waiting (others were too).
 
-They had an albatross statue just like the one on Cape Horn; I did not quite catch it at the correct angle. The River. Travis's snack in the room. 
+They had an albatross statue just like the one on Cape Horn; I did not quite catch it at the correct angle. The River and the bridge. Travis's snack in the room. 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-05-03/IMG_20260503_160624330.1152x2048.webp", "1152x2048" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-03/IMG_20260503_163109622.2048x1152.webp", "2048x1152" %}
