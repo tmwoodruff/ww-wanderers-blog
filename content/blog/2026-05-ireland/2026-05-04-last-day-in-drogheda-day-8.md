@@ -1,6 +1,6 @@
 ---
 title: "Ireland - Last Day in Drogheda"
-date: 2026-05-04
+date: 2026-05-04 09:00:00
 img: 2026-05-Ireland/IMG_4496.2048x1536.webp
 tags: [Ireland]
 author: Tammy
