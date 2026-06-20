@@ -29,6 +29,11 @@ After settling in, we walked to Swords Tower and then to the Castle. The Tower w
 
 We then headed to find the Swords Castle. 
 
+{% image "https://assets.ww-wanderers.cc/images/2026-05-03/2026-05-04-SwordsCastle-p1.1971x2048.webp", "1971x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-05-03/2026-05-04-SwordsCastle-p2.1994x2048.webp", "1994x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-05-03/2026-05-04-SwordsCastle-p3.1937x2048.webp", "1937x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-05-03/2026-05-04-SwordsCastle-p4.1897x2048.webp", "1897x2048" %}
+
 {% image "https://assets.ww-wanderers.cc/images/2026-05-03/IMG_20260504_153307039.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-03/IMG_20260504_153704128_HDR.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-05-03/IMG_20260504_153720018_HDR_AE.2048x1151.webp", "2048x1151" %}
