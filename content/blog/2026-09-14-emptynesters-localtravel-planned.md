@@ -1,7 +1,7 @@
 ---
 title: "Empty Nesters Local Travel (Waco) and Planned"
 date: 2026-09-14
-img: OurChristmasCards/Christmas%202011.2048x1365.webp
+img: 2026-09/IMG_20260905_161452902_HDR.2048x1152.webp
 tags: []
 author: Tammy
 description: ""
