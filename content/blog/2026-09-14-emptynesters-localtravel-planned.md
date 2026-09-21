@@ -98,5 +98,5 @@ Owen with the cavalry horse. Joel's fall-out and step-off. Joel was on TV again;
 {% image "https://assets.ww-wanderers.cc/images/2026-09/IMG_20260919_124255581.2048x3641.webp", "2048x3641" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-09/IMG_20260919_125047851_HDR.2048x1152.webp", "2048x1152" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-09/JoelCircle2.1351x1013.webp", "1351x1013" %}
-{% image "https://assets.ww-wanderers.cc/images/2026-09/JoelOnTV.1920x1440.webp", "1920x1440" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-09/JrGroup.1650x1237.webp", "1650x1237" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09/JoelOnTV.1920x1440.webp", "1920x1440" %}
