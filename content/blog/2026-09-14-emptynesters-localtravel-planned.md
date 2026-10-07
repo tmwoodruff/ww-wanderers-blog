@@ -2,7 +2,7 @@
 title: "Empty Nesters Local Travel (Waco) and Planned"
 date: 2026-09-14
 img: 2026-09/IMG_20260905_161452902_HDR.2048x1152.webp
-tags: []
+tags: [Texas, United States]
 author: Tammy
 description: ""
 ---
