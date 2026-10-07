@@ -39,10 +39,21 @@ They fueled the ship with a tanker semi; I would not expect it to be big enough.
 
 On to dinner, we got in the no reservation line; we did not know that we should make a reservation (hehe, see Celebrity Beyond post on Anytime Dining). They wanted us to share. We don't mind sharing; it was just how appalled they were that we showed up, within the anytime window, without a reservation. We had amazing waiters and table mates/now friends! Our head waiter set us up for the same table every night at the same time and went out of the restaurant to watch for each party's arrival. We did also start with one more group. A father and daughter; they did not come back after the first night. It was okay. Spanish was his first language, so it was hard to understand him. His daughter did some translating. I know that he said "Norway" a lot; I'm not sure what about Norway. 
 
+Welcome Dinner Menus:
+
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131306.Royal.922x2048.webp", "922x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131314.Royal.922x2048.webp", "922x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131330.Royal.922x2048.webp", "922x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131348.Royal.922x2048.webp", "922x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131359.Royal.922x2048.webp", "922x2048" %}
+{% image "https://assets.ww-wanderers.cc/images/2026-09-Menus/Screenshot_20260930-131404.Royal.922x2048.webp", "922x2048" %}
+
+What we ordered: 
+
 - Spinach and artichoke dip with tortilla chips. The dip was okay; I like NCL's from O'Sheehans better. 
 - Crab cake - good 
 - The NY Strip and baked potato with sour cream - good - Spaghetti bolognese - okay
-- Dark chocolate, sugar free - pretty good, even without sugar
+- Dark chocolate, sugar free - good, even without sugar
 - Keylime pie - good 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-09-28/IMG_20260928_194238766.450x800.webp", "450x800" %}
