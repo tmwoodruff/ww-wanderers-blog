@@ -1,5 +1,6 @@
 ---
-title: "First Royal Caribbean cruise from Galveston"
+trip: { title: "First Royal Caribbean cruise from Galveston" }
+title: "Planning and Embarkation"
 date: 2026-09-28
 img: 2026-09-middle/IMG_20260930_135507879_HDR_AE.800x451.webp
 tags: [Texas, United States]
