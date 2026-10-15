@@ -33,6 +33,9 @@ and with Chinese made car:
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_2865.1419x707.webp", "1419x707" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_2885.2048x1026.webp", "2048x1026" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_3180.1973x988.webp", "1973x988" %}
+
+**Caribbean**
+
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_3830.2048x1025.webp", "2048x1025" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_3869.2048x1109.webp", "2048x1109" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_4100.800x405.webp", "800x405" %}
