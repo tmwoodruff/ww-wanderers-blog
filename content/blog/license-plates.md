@@ -25,7 +25,9 @@ description: ""
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_2821.2048x1536.webp", "2048x1536" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_20251027_124747373_HDR.1077x537.webp", "1077x537" %}
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_20261001_102920661.800x426.webp", "800x426" %}
+
 and with Chinese made car:
+
 {% image "https://assets.ww-wanderers.cc/images/2025-10_LicensePlates/IMG_20261001_105523500.594x800.webp", "594x800" %}
 
 **Central America**
