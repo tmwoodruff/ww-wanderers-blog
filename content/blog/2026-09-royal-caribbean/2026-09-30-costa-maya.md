@@ -2,7 +2,8 @@
 title: "Costa Maya"
 date: 2026-09-30
 img: 2026-09-middle/IMG_20260930_135507879_HDR_AE.800x451.webp
-tags: [Texas, United States]
+tags: [Mexico]
+country: mx
 author: Tammy
 description: ""
 ---
@@ -53,6 +54,12 @@ This marooned boat, spotted from the ship, was interesting looking. Travis found
 {% image "https://assets.ww-wanderers.cc/images/2026-09-middle/IMG_20260930_170401620.800x450.webp", "800x450" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-09-middle/IMG_20260930_173434573_HDR_AE.800x450.webp", "800x450" %}
 {% image "https://assets.ww-wanderers.cc/images/2026-09-middle/IMG_20260930_184157746_HDR.800x450.webp", "800x450" %}
+
+After getting back on the ship, we went and did a few slides on the two water slides and then went to the pool. The yellow slide was my favorite; they were fun. The deck though was very hot and hurt our feet. They had some path mats down, but those were just a little less hot. There were no chairs to sit or for stuff by the slide entrance, but they had cubbies for stuff. Right before the slides, we checked out two pool towels at the station by the main pool, which would cost us $25 each, if not returned. After the slides, we went to the main pool. Remembering after getting in that there was an adults only pool. Our spot was in the shade and felt nice and cool, so we stayed. 
+
+Later, we walked by the adults only Solarium, and it was pretty packed with people sitting along the edge. So, we chose well. The Solarium was covered on the sides, but not in the middle over the pool. Other than that it looked nice with some bed loungers included for everyone (who are adults). It had large hot tubs; though they normally looked pretty busy. We did not spend any time here and only walked through. 
+
+When we were done swimming, we dried a little (the pool showers were only dribbling out a little water) while I had a hot dog and Travis had a soft serve ice cream. Both on the pool deck, not in the closed for the afternoon buffet. Finally, we returned the towels, scanning them back in with the same keycard. 
 
 A Taste of Caribbean Dinner Menus: 
 
