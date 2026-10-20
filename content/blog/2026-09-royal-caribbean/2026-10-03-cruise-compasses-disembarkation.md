@@ -9,9 +9,17 @@ author: Tammy
 description: ""
 ---
 
-Everyone was asked to be out of the room by 8am. We got to the buffet early, so it was not crowded.
+Everyone was asked to be out of the room by 8am. We got to the buffet early, so it was not crowded. I was thinking that it was the last morning so they may have chocolate donuts on the buffet, and they did! They are so good; I got one extra to take back to the room. It is hard to pick them up with the tongs; it puts a dent in the icing. So tasty though. 
 
 {% image "https://assets.ww-wanderers.cc/images/2026-10-end/IMG_20261003_065610025.450x800.webp", "450x800" %}
+
+I was too slow getting ready, but we did get out of the room in time. We carried our luggage off so could disembark after they announced cleared by customs. We got off quickly, directed to passport facial scan, and quickly out of the terminal. However, do note that the exit is on a different side of the terminal than the entrance, so we got out and did not recognize where we were to find the parking lot. We needed to go right to get back to the front of the terminal where we came in. I was saying that there was supposed to be a parking garage here.
+
+Exiting parking and leaving the Island was quick, traffic was not bad.
+
+After the cruise, we stopped for A&M pre-game activities -- the BBQ and Step-Off. The BBQ was nice; the Step-Off was a downpour. The rain stopped before game and was nice weather for them.
+
+**The Cruise Compasses**
 
 **Day 1**
 
