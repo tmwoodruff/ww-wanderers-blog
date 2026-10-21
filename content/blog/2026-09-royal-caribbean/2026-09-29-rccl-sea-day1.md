@@ -2,7 +2,8 @@
 title: "Royal Caribbean Sea Day 1"
 date: 2026-09-29
 img: 2026-09-middle/IMG_20260930_135507879_HDR_AE.800x451.webp
-tags: [Texas, United States]
+tags: [Mexico]
+country: mx
 author: Tammy
 description: ""
 ---
