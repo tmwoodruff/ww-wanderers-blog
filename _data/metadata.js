@@ -2,7 +2,7 @@ export default {
 	title: "Worldwide Wanderers ",
 	url: "https://ww-wanderers.cc/",
 	language: "en",
-	description: "Tammy and Travis travel the world",
+	description: "Worldwide Wanderers",
 	author: {
 		name: "Tammy",
 		email: "tammyjw@example.com",
