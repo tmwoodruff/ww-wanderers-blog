@@ -17,7 +17,7 @@ I was too slow getting ready, but we did get out of the room in time. We carried
 
 Exiting parking and leaving the Island was quick, traffic was not bad.
 
-After the cruise, we stopped for A&M pre-game activities -- the BBQ and Step-Off. The BBQ was nice; the Step-Off was a downpour. The rain stopped before game and was nice weather for them.
+After the cruise, we stopped for A&M pre-game activities -- the BBQ and Step-Off. The BBQ was nice; the Step-Off was a downpour. The rain stopped before the game and was nice weather for them.
 
 **The Cruise Compasses**
 
